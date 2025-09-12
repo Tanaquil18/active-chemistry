@@ -12,7 +12,8 @@
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
+    <xi:include href="./ch-faith-compatibility.ptx" />
+    <xi:include href="./ch-math-measurement.ptx" />
 
 
     <!-- Include backmatter -->

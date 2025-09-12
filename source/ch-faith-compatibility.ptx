@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-faith-compatibility" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>The Role of Faith</title>
+
+    <xi:include href="sec-chem-and-faith.ptx" />
+    <xi:include href="sec-science-and-faith.ptx" />
+
+    
+
+</chapter>
