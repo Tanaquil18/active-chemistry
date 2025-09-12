@@ -258,27 +258,69 @@
 	</p>
 
 	<p>
-		In chemistry, we frequently have to make use of very large numbers (e.g. when we’re discussing numbers of atoms) as well as very small numbers (e.g. the weight of an atom). We have a couple of strategies that make this much more palatable for us. One such strategy is to have different units of measurement for discussing large numbers vs. small numbers. The other common approach is to use scientific notation. Ultimately scientific notation is required, even if we use different units, because we still need to use very large (or small) numbers to express the relationship between these different units. For example, if we are talking about the distance across an atom, a common unit of measurement is an Angstrom. A hydrogen atom has a diameter of approximately 1.1 Angstroms. But how many inches is that? In order to convert between units of Angstroms and inches we’d have to know that 1 Angstrom = 0.00000000394 inches. Working with that number is obviously obnoxious, requiring us to count exactly how many zeroes there are. To get around this, we like to use scientific notation.
+		In chemistry, we frequently have to make use of very large numbers (e.g. when we’re discussing numbers 
+        of atoms) as well as very small numbers (e.g. the weight of an atom). We have a couple of strategies that 
+        make this much more palatable for us. One such strategy is to have different units of measurement 
+        for discussing large numbers vs. small numbers. The other common approach is to use scientific notation. 
+        Ultimately scientific notation is required, even if we use different units, because we still need to 
+        use very large (or small) numbers to express the relationship between these different units. For 
+        example, if we are talking about the distance across an atom, a common unit of measurement is an 
+        Angstrom. A hydrogen atom has a diameter of approximately 1.1 Angstroms. But how many inches is that? 
+        In order to convert between units of Angstroms and inches we'd have to know that 1 Angstrom = 0.00000000394 inches. 
+        Working with that number is obviously obnoxious, requiring us to count exactly how many zeroes there are. 
+        To get around this, we like to use scientific notation.
+	</p>
+    
+    <image source="exp-power-base.png">
+        <shortdescription>a number in scientific notation, identifying coefficient, power, and base</shortdescription>
+    </image>
+
+    <p>
+		To write a number in scientific notation, we combine a <term>coefficient</term><fn>The coefficient is the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.
+	</fn> with a <term>base</term><fn>The base follows the coefficient in scientific notation. It is multiplied by the base. It is always 10 raised to some integer power.
+	</fn>. The coefficient is always a number that is greater than or equal to 1 and less than 10, and is written as a decimal. The coefficient is then multiplied by the base which is 10 raised to some power. 
 	</p>
 
-	<p>
-		<image source='media/image1.png'/><image source='media/image2.png'/>To write a number in scientific notation, we combine a <term>coefficient</term><fn>	<p>
-		The coefficient is the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.
-	</p></fn> with a <term>base</term><fn>	<p>
-		The base follows the coefficient in scientific notation. It is multiplied by the base. It is always 10 raised to some integer power.
-	</p></fn>. The coefficient is always a number that is greater than or equal to 1 and less than 10, and is written as a decimal. The coefficient is then multiplied by the base which is 10 raised to some power. 
-	</p>
+    <sidebyside widths="45% 45%">
+        <image source="scientific-notation-1.png">
+            <shortdescription>number in scientific notation and moving the decimal point to get expanded form</shortdescription>
+        </image>
+        <image source="scientific-notation-2.png">
+            <shortdescription>number in scientific notation and moving the decimal point to get expanded form</shortdescription>
+        </image>
+    </sidebyside>
+
+	
+
+    <p>
+        A positive power makes the coefficient larger by moving the decimal in the coefficient to the right by the number of digit places 
+        given by the number in the power.  Conversely, a negative power makes the coefficient smaller by moving 
+        the decimal in the coefficient to the left by the number of digit places given by the number in the power.
+    </p>
+
+	
 
 	<p>
-		<image source='media/image3.png'/>
+		We also have to be able to take a number that is written in standard notation and rewrite it in scientific
+         notation. To do this, we move the decimal point in the direction that will result in a coefficient that has 
+         a value between 1 and 10. We count the number of digit places that we moved the decimal and that becomes the 
+         value in the power.  <em>If we moved the decimal to the left, then the power remains positive.  If the decimal 
+         had to be moved to the right, then the value in the power becomes negative.</em> 
 	</p>
 
-	<p>
-		<image source='media/image4.png'/><image source='media/image5.png'/> We also have to be able to take a number that is written in standard notation and rewrite it in scientific notation. To do this, we move the decimal point in the direction that will result in a coefficient that has a value between 1 and 10.  
-	</p>
+    <sidebyside>
+        <image source="scientific-notation-3.png">
+            <shortdescription>a number in scientific notation, identifying coefficient, power, and base</shortdescription>
+        </image>
+        <image source="scientific-notation-4.png">
+            <shortdescription>number in scientific notation and moving the decimal point to get expanded form</shortdescription>
+        </image>
+    </sidebyside>
 
 	<p>
-		One of the things that often confuses students about scientific notation is remembering when to move the decimal to the right or the left. These rules can be summed up by remembering the simple rule that . Remembering this rule can help you determine for yourself whether you should move the decimal right or left.
+		One of the things that often confuses students about scientific notation is remembering when to move the decimal to the right or the left. 
+        These rules can be summed up by remembering the simple rule that <em>big numbers have positive powers and small numbers have negative powers.</em> 
+        Remembering this rule can help you determine for yourself whether you should move the decimal right or left.
 	</p>
 
 	<p>
@@ -850,7 +892,7 @@
 
 		<li>
 			<p>
-				<m>180</m>.9
+				<m>180.9</m>
 			</p>
 		</li>
 
