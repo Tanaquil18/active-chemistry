@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="sec-matter2" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="sec-matter2" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Basics of Energy</title>
 
 <?xml version="1.0" encoding="UTF-8" ?>
@@ -808,4 +808,4 @@
 </article>
 </pretext>
 
-</chapter>
+</section>
