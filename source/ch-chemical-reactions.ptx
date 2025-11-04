@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chemical-reactions" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Chemical reactions</title>
+
+    <xi:include href="sec-rxns1.ptx" />
+    <xi:include href="sec-rxns2.ptx" />
+    <xi:include href="sec-rxns3.ptx" />
+    <xi:include href="sec-rxns4.ptx" />
+  
+    
+
+</chapter>
