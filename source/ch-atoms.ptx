@@ -3,8 +3,9 @@
 <chapter xml:id="ch-atoms" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Atoms and Atomic Structure</title>
 
-    <xi:include href="sec-chem-and-faith.ptx" />
-    <xi:include href="sec-science-and-faith.ptx" />
+    <xi:include href="sec-atoms1.ptx" />
+    <xi:include href="sec-atoms2.ptx" />
+    <xi:include href="sec-atoms3.ptx" />
 
     
 
