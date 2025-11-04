@@ -17,6 +17,11 @@
     <xi:include href="./ch-matter-energy.ptx" />
     <xi:include href="./ch-atoms.ptx" />
     <xi:include href="./ch-nuclear-chemistry.ptx" />
+    <xi:include href="./ch-compounds.ptx" />
+    <xi:include href="./ch-chemical-reactions.ptx" />
+    <xi:include href="./ch-gasses.ptx" />
+    <xi:include href="./ch-solutions.ptx" />
+    <xi:include href="./ch-acids-bases.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
