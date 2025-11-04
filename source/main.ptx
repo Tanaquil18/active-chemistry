@@ -6,7 +6,7 @@
 
   <book xml:id="my-great-book">
     <title>Chemistry</title>
-    <subtitle>An active approach to ... </subtitle>
+    <subtitle>An active approach to the study of God's creation </subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
