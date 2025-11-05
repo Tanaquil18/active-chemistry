@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="ch-gasses" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Gasses</title>
+<chapter xml:id="ch-gases" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Gases</title>
 
     <xi:include href="sec-gas1.ptx" />
     <xi:include href="sec-gas2.ptx" />
