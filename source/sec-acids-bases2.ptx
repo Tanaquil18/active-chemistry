@@ -204,29 +204,14 @@
 			<cell halign="center">Strong Base</cell>
 			<cell halign="center">Acid</cell>
 			<cell halign="center">Hydroxide ion</cell>
-			<cell halign="center">	<p>
-		<me>NaOH(s) + HOH(l) \rightarrow</me>
-	</p>
-
-	<p>
-		<me>Na^{+}(aq) + OH^{-}(aq) + HOH(l)</me>
-	</p>
-
-	<p>
-		Same as: <m>NaOH(s) + H_{2}O(l) \rightarrow NaOH(aq) + H_{2}O(l)</m>
-	</p></cell>
+			<cell halign="center"><me>NaOH(s) + HOH(l) \rightarrow Na^{+}(aq) + OH^{-}(aq) + HOH(l)</me></cell>
 		</row>
 		<row class="odd">
 			<cell halign="center">Weak Base</cell>
 			<cell halign="center">Acid</cell>
 			<cell halign="center">Hydroxide ion</cell>
 			<cell halign="center">	<p>
-		<me>NH_{3}(g) + H_{2}O(l) \rightarrow OH^{-}(aq) + NH_{4}^{+}(aq)</me>
-	</p>
-
-	<p>
-		<me>\rightarrow NH_{4}OH(aq)</me>
-	</p></cell>
+		<me>NH_{3}(g) + H_{2}O(l) \rightarrow OH^{-}(aq) + NH_{4}^{+}(aq) \rightarrow NH_{4}OH(aq)</me></cell>
 		</row>
 		</tabular>
 	</table>
@@ -682,6 +667,7 @@
 
 
 </section>
+
 
 
 
