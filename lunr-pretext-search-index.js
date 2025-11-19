@@ -1558,6 +1558,2103 @@ var ptx_lunr_docs = [
   "body": "Key "
 },
 {
+  "id": "sec-compounds1",
+  "level": "1",
+  "url": "sec-compounds1.html",
+  "type": "Section",
+  "number": "6.1",
+  "title": "Compounds 1",
+  "body": " Compounds 1    Ionic compounds vs. covalent compounds    Simple ionic compounds with only two elements    How can we figure out the charge on the ions    How do we figure out the chemical formula for the ionic compound    How do we name ionic compounds       Section 1: Ionic compounds   To review, compounds are pure substances that consist of atoms of various elements that are joined together in a specific ratio. There are two different classes of compounds: ionic compounds and covalent\/molecular compounds. In this section, we’ll be learning about the differences between ionic compounds and covalent compounds. What distinguishes ionic compounds from covalent\/molecular compounds is the way in which the atoms are joined together.   Ionic compounds are made up of ions that are joined together by electrostatic forces . Ions are particles that have a net charge, either a positive or a negative charge. Ions can either be positively charged ( cations ) or negatively charges ( anions ). Additionally, ions can either consist of one atom (a monoatomic ion) or of several atoms that are joined together to form a larger charged unit (a polyatomic ion). An ionic compound consists of cations and anions that are held together because their opposite charges attract one another (electrostatic forces).   Covalent compounds (also known as molecular compounds ) are formed from atoms that are joined together by sharing electrons. Ionic compounds always consist of multiple ions, which are separate units that are attracted to one another. In contrast, covalent compounds consist of a single unit that is comprised of all of the component atoms. Within this unit, the atoms are held together by the sharing of electrons. This unit of a covalent compound is called a molecule .  Ionic compounds generally (but not always…we’ll learn about the exceptions later) consist of a metal and one or more non-metals. Covalent compounds, on the other hand, consist exclusively of non-metals. This can be useful in allowing us to identify whether a compound is an ionic or covalent compound. Recall that metals can be found on the left side of the periodic table whereas non-metals can be found exclusively on the upper right. Thus, if a compound contains a metal, we can be confident that it is an ionic compound. If a compound doesn’t contain a metal, it is usually a covalent compound (again, we’ll learn about exceptions to this in a later section).  These atomic-level differences between ionic and covalent compounds lead to very different physical properties. The physical properties that we’ll be learning about are melting point and behavior in solution. In general, ionic compounds have much higher melting points than covalent compounds. In a solid ionic compound, the ions are held together by strong electrostatic forces as we learned above. In a solid covalent compound, the various molecules are themselves held together, but by much weaker intermolecular forces . We’ll discuss intermolecular forces in much more detail later in this chapter. Since the forces that hold together ions in an ionic compound are much stronger than the intermolecular forces that hold together molecules in a covalent compound, more energy is required to break the bonds in an ionic compound. This results in a higher melting point.  There is a big difference between ionic and covalent compounds when it comes to how they can dissolve in water to form a solution. When an ionic compound dissolves in water, the electrostatic interactions between the ions are replaced by interactions between the ions and water. Basically, the ions that make up the ionic compound separate from one another and get surrounded by water molecules. When covalent compounds dissolve in water, they remain as intact molecules. Each molecule is surrounded by water molecules similar to what is seen for an ionic compound. The difference is that molecules remain intact whereas the ions that make up ionic compounds separate from one another.   Exercise 1:      Classify the following as a monoatomic cation, a monoatomic anion, a polyatomic cation, or a polyatomic anion      Ca 2+      Mn 2+      NH 4 +      ClO 4 -      Cl -      O 2-      SO 4 2-        What term describes the forces that hold together the ions in an ionic compound?      What term describes all of the forces that hold together molecules in a molecular compound?      For each of the following, do they describe a molecular compound or an ionic compound      Parts of the chemical formula break apart when they are dissolved into water      Low melting points      Usually contains metal ions        Section 2: Ions   In this section, we’ll be learning about how atoms form ions. First of all, what is an ion. We’ve learned that an ion is a species that is charged. So how does it get its charge? It does so by having extra electrons or by lacking electrons. If an atom has more electrons than protons, then its charge will be negative and it will be an anion. If an atom has fewer electrons than protons, then the atom will be positively charges, and it will be a cation. Importantly, the number of protons will NEVER change for an element. Ions are created by either adding or removing electrons.  Why do some atoms gain electrons whereas other atoms lose them? Why do some gain\/lose a single electron whereas others gain\/lose multiple? To understand this, we need to revisit electron configurations. The most stable elements on the periodic table are the noble gases. Why are they so stable? It turns out that they are stable because their orbitals are either completely filled or completely empty! For instance, the electron configuration of helium is and the electron configuration of neon is (recall that a set of s-orbitals hold 2 electrons, a set of p orbitals can hold 6…etc.). For all of the noble gases except helium, they have 8 valence electrons (helium has 2). Thus the most stable electron configurations will have 8 valence electrons, something known as the octet rule .  For many elements, they form ions in order to get an electron configuration that is the same as a noble gas. For instance, if a group 1 metal loses a single electron, then it will have the same electron configuration as a noble gas (ex. the electron configuration of sodium is and if it loses its outermost valence electron then its electron configuration will simply be or simply ). Because of this, group 1 metals tend to lose a single electron to form ions. Elements in group 2 tend to lose 2 electrons, because this will give them an electron configuration that is the same as a noble gas as well. On the other side of the periodic table, the halogens (group 17 or 7A) have electron configurations that are a single electron away from resembling a noble gas. In order for them to reach a noble gas configuration, they have to GAIN one electron. As a result they’ll form negatively charged anions. Elements in group 16 will likewise gain two electrons to achieve a noble gas electron configuration.  Many of the elements in the periodic table have predictable charges in ionic compounds. The metals in group 1 will always have a +1 charge. The metals in group 2 will always have a +2 charge. Aluminum will likewise always have a +3 charge. The halogens (group 17 or 7A) will always for anions with a -1 charge. The non-metals in group 16 (6A) will gain two electrons to form -2 anions. The non-metals in group 15 (5A), nitrogen and phosphorus, can gain 3 electrons to form -3 anions. Hydrogen is a rather unique element, in that it can lose one electron (forming a +1 ion with completely empty orbitals) or gain an electron to resemble helium (forming a -1 anion).   Exercise 2:      What is the electron configuration and charge of…      Calcium if it loses two electrons      Chlorine if it gains one electron      Hydrogen if it gains one electron      Hydrogen if it loses one electron      Sodium if it loses one electron      Aluminum if it loses 3 electrons      Phosphorus if it gains 3 electrons        Each of the ions in question 1 are common in ionic compounds. What do you notice about the electron configuration of each of the ions in question 1? Do you notice a pattern?      Which of the ions in question 1 are cations? Which are anions?      Keeping in mind that ions like to form electron configurations with either completely full or completely empty valence shells, what is the charge on each of the ions in the following ionic compounds. Their position on the periodic table may help.      Sodium ion      Strontium ion      Aluminum ion      Bromine ion      Sulfur ion      Nitrogen ion        Section 3: Simple ionic compounds   Ionic compounds are formed by combining cations and anions. When they are combined, they must do so in such a way that the total positive charge is equal to the total negative charge. Sometimes this is simple. For instance a ion can be combined with a ion in a 1:1 ratio because the +1 charge from the sodium balances the -1 charge from the chlorine. There would therefore be one of each ion in the chemical formula for this compound, and we’d write it simply as (note: if there’s one of an element in a chemical formula the 1 is not written). On the other hand, if we wanted to make an ionic compound by joining a ion with a ion, then we’d require 2 ions to balance the +2 charge on the calcium ion. Thus, they’d combine to form the compound (the number of ions is written as a subscript). Also, note that when we write the chemical formula of an ionic compound that we don’t include the charges of the ions!   Ionic compounds can be specified by their chemical formula (as covered above) or by their name. How do we name ionic compounds? Naming ionic compounds is easy. They consist of two separate words. The first word is the name of the cation, and the second word is the name of the anion. For simple ionic compounds that have metal cations with known charges, naming the cation is easy…it’s simply the name of that metal. The name of the anion is more complex. To name the anion, we start with the name of the element, but we delete the ending of the name and replace it with -ide. See the table below:        Element  Anion name    Oxygen  Oxide    Chlorine  Chloride    Bromine  Bromide    Nitrogen  Nitride    Phosphorous  Phosphide     Thus the name of is sodium chloride and would be calcium bromide. When we’re naming ionic compounds, we NEVER use prefixes to indicate the number of ions present. The number of ions is implied by our knowledge about the ions themselves and their charges. To illustrate this, lets figure out the chemical formula for magnesium oxide. We know that this compound consists of magnesium and oxygen. Based on their locations in the periodic table, we can conclude that magnesium would form a +2 ion and that oxygen would form a -2 ion. In order to get the positive and negative charges to balance, we’d need a 1:1 ratio so the correct formula would simply be .   Exercise 3:      Try to balance the positive and negative charge to create ionic compounds. What is the correct formula be for the following ionic compounds?      Formed from Na + and Cl -      Formed from Mg 2+ and Cl -      Formed from Al 3+ and Cl -      Formed from Na + and O 2-      Formed from Mg 2+ and O 2-      Formed from Al 3+ and O 2-      Formed from K + and N 3-      Formed from Mg 2+ and P 3-        Name the following ionic compounds. Name the cation, then name the anion. The anion has an -ide ending.      MgCl 2      KI      AlN      SrO      Ca 3 P 2        What is the formula of the following compounds      Potassium bromide      Magnesium sulfide      Strontium fluoride      Sodium phosphide      Calcium nitride      Lithium hydride      Hydrogen bromide           Key:    Exercise 1:      Classify the following as a monoatomic cation, a monoatomic anion, a polyatomic cation, or a polyatomic anion      Monoatomic cation      Monoatomic cation      Polyatomic cation      Polyatomic anion      Monoatomic anion      Monoatomic anion      polyatomic anion        electrostatic forces      intermolecular forces      For each of the following, do they describe a molecular compound or an ionic compound      Ionic compound      Covalent\/molecular compound      Ionic compound        Exercise 2:      What is the electron configuration and charge of…                                           The outer shell is always full or empty. They resemble noble gases.      Each one that loses electrons is a cation, the ones that gain electrons are anions      Keeping in mind that ions like to form electron configurations with either completely full or completely empty valence shells, what is the charge on each of the ions in the following ionic compounds. Their position on the periodic table may help.      +1      +2      +3      -1      -2      -3        Exercise 3:      Try to balance the positive and negative charge to create ionic compounds. What is the correct formula be for the following ionic compounds?      NaCl      MgCl 2      AlCl 3      Na 2 O      MgO (not Mg 2 O 2 )      Al 2 O 3      K 3 N      Mg 3 P 2        Name the following ionic compounds. Name the cation, then name the anion. The anion has an -ide ending.      Magnesium chloride      Potassium iodide      Aluminum nitride      Strontium oxide      Calcium phosphide        What is the formula of the following compounds      KBr      MgS      SrF 2      Na 3 P      Ca 3 N 2      LiH      HBr       "
+},
+{
+  "id": "sec-compounds1-3",
+  "level": "2",
+  "url": "sec-compounds1.html#sec-compounds1-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Section 1: Ionic compounds "
+},
+{
+  "id": "sec-compounds1-5",
+  "level": "2",
+  "url": "sec-compounds1.html#sec-compounds1-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Ionic compounds ions electrostatic forces cations anions "
+},
+{
+  "id": "sec-compounds1-6",
+  "level": "2",
+  "url": "sec-compounds1.html#sec-compounds1-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Covalent compounds molecular compounds molecule "
+},
+{
+  "id": "sec-compounds1-8",
+  "level": "2",
+  "url": "sec-compounds1.html#sec-compounds1-8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "intermolecular forces "
+},
+{
+  "id": "sec-compounds1-12",
+  "level": "2",
+  "url": "sec-compounds1.html#sec-compounds1-12",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Section 2: Ions "
+},
+{
+  "id": "sec-compounds1-14",
+  "level": "2",
+  "url": "sec-compounds1.html#sec-compounds1-14",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "valence electrons octet rule "
+},
+{
+  "id": "sec-compounds1-19",
+  "level": "2",
+  "url": "sec-compounds1.html#sec-compounds1-19",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Section 3: Simple ionic compounds "
+},
+{
+  "id": "sec-compounds1-20",
+  "level": "2",
+  "url": "sec-compounds1.html#sec-compounds1-20",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "chemical formula "
+},
+{
+  "id": "sec-compounds1-22",
+  "level": "2",
+  "url": "sec-compounds1.html#sec-compounds1-22",
+  "type": "Table",
+  "number": "6.1.1",
+  "title": "",
+  "body": "      Element  Anion name    Oxygen  Oxide    Chlorine  Chloride    Bromine  Bromide    Nitrogen  Nitride    Phosphorous  Phosphide    "
+},
+{
+  "id": "sec-compounds1-27",
+  "level": "2",
+  "url": "sec-compounds1.html#sec-compounds1-27",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Key: "
+},
+{
+  "id": "sec-compounds1-28",
+  "level": "2",
+  "url": "sec-compounds1.html#sec-compounds1-28",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Exercise 1: "
+},
+{
+  "id": "sec-compounds1-30",
+  "level": "2",
+  "url": "sec-compounds1.html#sec-compounds1-30",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Exercise 2: "
+},
+{
+  "id": "sec-compounds1-32",
+  "level": "2",
+  "url": "sec-compounds1.html#sec-compounds1-32",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Exercise 3: "
+},
+{
+  "id": "sec-compounds2",
+  "level": "1",
+  "url": "sec-compounds2.html",
+  "type": "Section",
+  "number": "6.2",
+  "title": "Compounds 2",
+  "body": " Compounds 2   Summary     Metals with variable charges    Metals that don’t fall into the following groups    Group 1 metals    Group 2 metals    C.A.Z.A.G. elements      If an ionic compound has a metal with variable charges, then the charge must be specified in the compound name      Polyatomic ions    Some ions consist of multiple atoms bound together    Learn the names, formulas, and charges of common polyatomic ions    Naming ionic compounds that contain polyatomic ions and figuring out their formulas    Parentheses around polyatomic ions when there is more than one copy in the compound         Section 1: Metals with variable charges   All metals can form ions to form ionic compounds. However, for many metals (such as the transition metals) it is unrealistic to expect them to lose enough electrons to achieve the same electron configuration as a noble gas. Instead, these metals will lose fewer electrons in an effort to empty out their outer s or p orbitals, or to obtain other stable electron configurations. Often there are multiple ways for these metals to achieve stable states, and therefore these metals can adopt different charge states. For instance, iron has the electron configuration . Iron can empty out its 4s shell, losing 2 electrons in the process, and forming a Fe 2+ ion. Alternatively, iron can empty its 4s shell AND lose an electron from its 3d shell. This results in a semi-stable half-filled 3d shell. In this case, iron has lost 3 electrons, forming a Fe 3+ ion in the process.  So which metals have variable charges and which ones don’t? The metals with known charges are listed below:    Metals in group 1 (+1 charge)    Metals in group 2 (+2 charge)    C.A.Z.A.G. metals    Cd, cadmium (+2 charge)    Al, aluminum (+3 charge)    Zn, zinc (+2 charge)    Ag, silver (+1 charge)    Ga, gallium (+3 charge)      All other metals in the periodic table have more than one possible charge.  How are we supposed to know what the charge of a metal is in an ionic compound if it has a metal with variable charges. When naming these types of ionic compounds, we specify the charge of the metal by putting the charge in parentheses as a Roman numeral (see the table below). Importantly, we ONLY do this if the metal in the ionic compound has variable charges. So the name iron (III) chloride is an ionic compound between Fe 3+ and Cl - ; the (III) specifies that the charge on the iron is 3+. Chloride is in group 17, and thus we can determine that its charge is -1 (because it only needs one extra electron to have a noble gas electron configuration). From this information, we can determine that the formula for iron (III) chloride must be because 3 chloride ions would be needed to balance out the charge of the iron.        Number  Roman numeral    1  I    2  II    3  III    4  IV    5  V    6  VI    7  VII    8  VIII     Likewise, we can figure out the name of an ionic compound that involves a metal with variable charges by figuring out the charge on the metal by looking at the known charge on the anion. For example, if you were tasked with naming the compound , you’d first need to recognize that tin is a metal with variable charges. In order to figure out its charge, we need to determine that oxide ions have a charge of -2. Since there are two oxides in the chemical formula, the total negative charge is 2(-2) = -4. The one Sn ion must have a positive charge that balances the negative charges from the oxides. Therefore the cation is Sn 4+ . To name the compound, we name the cation along with the charge in parentheses and then we name the anion. So the name of this compound is tin (IV) oxide.   Exercise 1:      What is the charge on the metal in the following ionic compounds. You need to figure out the charge on the metal based on the identity and quantity of the non-metals and the quantity of the metal in the compound. Remember that the positive and negative charges need to balance.     FeCl 3     FeCl 2     CoO    OsO 4     MnN    Sn 3 N 4     Sb 2 O 5        Name the ionic compounds in part 1. Remember that if an ionic compound has a metal with variable charges, then the charge on the metal is specified with a roman numeral in parentheses after the metal name      What are the formulas for the following compounds      Copper (I) sulfide      Copper (II) sulfide      Nickel (II) oxide      Manganese (III) chloride      Manganese (VII) oxide      Lead (IV) chloride        Section 2: Polyatomic ions   There are ions (both cations and anions) that consist of more than one atom, and these are called polyatomic  ions . These atoms are joined together by sharing electrons (covalent bonds) to form a single unit. This collective unit of atoms contains fewer electrons (if it’s a cation) or extra electrons (if it’s an anion), and thus the entire unit has a charge. We’ll explore the structures of these polyatomic ions later in this chapter. For now, we won’t worry about their structure. Rather we’ll focus on their component atoms and charges alone.  Polyatomic ions have names, formulas, and charges that must be memorized. There are some patterns to their naming that become apparent after close inspection, and these patterns will be looked at as a part of the exercises below. The polyatomic ions that you are responsible for knowing are listed in the table below:         Name  Charge  Formula with charge    Ammonium  +1     Carbonate  -2     Hydrogen carbonate (or bicarbonate)  -1     Phosphate  -3     Hydrogen phosphate (or phosphate dibasic)  -2     Dihydrogen phosphate (or phosphate monobasic)  -1     Sulfate  -2     Sulfite  -2     Nitrate  -1     Nitrite  -1     Hydroxide  -1     Acetate  -1      We can name ionic compounds that include polyatomic ions by following the same rules that we learned previously: we simply name the cation (with the charge, if needed) and then the anion. So if you have to name , you first of all, need to recognize that it’s an ionic compound (because it has a metal and nonmetals). Then you need to remember that sodium has a known charge (because it’s in group 1) and thus we won’t specify its charge in the name. Lastly, you need to recognize that is included in the formula and is called nitrate. Therefore, this compound is called sodium nitrate.  One additional complication that arises when discussing polyatomic ions is that there is one polyatomic ion, ammonium, that is a cation. Thus, we can have ionic compounds that don’t have metals. They will instead have ammonium ( ) as a part of their formula. So is an ionic compound that consists of an ammonium cation and a chloride anion. It is therefore named ammonium chloride.  Sometimes chemical formulas will require that we include more than one polyatomic ion in order to balance the positive and negative charges. To specify this, the polyatomic ion is put inside of parentheses and a subscript number is written after the parentheses to indicate the number of polyatomic ions present. So if we were making a compound between and , we’d need two nitrate ions to balance the charge, and the chemical formula would thus be written as .   Exercise 2:      Notice the pattern in the yellow and orange cells in the table above. What happens to the name and charge of the polyatomic ion as hydrogens are added?      Notice the pattern in the green and blue cells in the table above. What happens to the formula and charge when an -ate ending is change to -ite?      What would the correct formula be for the following ionic compounds. If you need multiple polyatomic ions, place parentheses around the ion and specify how many of them there are with a subscript after the parentheses.      Sodium carbonate      Potassium bicarbonate      Calcium hydroxide      Iron (II) phosphate      Copper (I) nitrite      Zinc acetate      Ammonium sulfate      Ammonium acetate        Name the following ionic compounds                                                   Key:   Exercise 1:     What is the charge on the metal in the following ionic compounds. You need to figure out the charge on the metal based on the identity and quantity of the non-metals and the quantity of the metal in the compound. Remember that the positive and negative charges need to balance.     Fe 3+     Fe 2+     Co 2+     Os 8+     Mn 3+     Sn 4+     Sb 5+        Name the ionic compounds in part 1. Remember that if an ionic compound has a metal with variable charges, then the charge on the metal is specified with a roman numeral in parentheses after the metal name      Iron (III) chloride      Iron (II) chloride      Cobalt (II) oxide      Osmium (VIII) oxide      Manganese (III) nitride      Tin (IV) nitride      Antimony (V) oxide        What are the formulas for the following compounds                                     Exercise 2:     Hydrogen (or dihydrogen) is added to the name, but the root polyatomic ion name stays the same. For every hydrogen atom added, the charge increases by one (or the numeral decreases---ie. -3 to -2)      There is one less oxygen atom but everything else is the same.      What would the correct formula be for the following ionic compounds. If you need multiple polyatomic ions, place parentheses around the ion and specify how many of them there are with a subscript after the parentheses.      Sodium carbonate       Potassium bicarbonate       Calcium hydroxide       Iron (II) phosphate       Copper (I) nitrite       Zinc acetate       Ammonium sulfate       Ammonium acetate         Name the following ionic compounds       ammonium iodide       sodium nitrate       cobalt (II) carbonate       aluminum hydrogen phosphate (or aluminum phosphate dibasic)       silver acetate       tin (IV) sulfite       barium hydrogen carbonate (or barium bicarbonate)       ammonium dihydrogen phosphate (or ammonium phosphate monobasic)       "
+},
+{
+  "id": "sec-compounds2-2",
+  "level": "2",
+  "url": "sec-compounds2.html#sec-compounds2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Summary "
+},
+{
+  "id": "sec-compounds2-4",
+  "level": "2",
+  "url": "sec-compounds2.html#sec-compounds2-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Section 1: Metals with variable charges "
+},
+{
+  "id": "sec-compounds2-10",
+  "level": "2",
+  "url": "sec-compounds2.html#sec-compounds2-10",
+  "type": "Table",
+  "number": "6.2.1",
+  "title": "",
+  "body": "      Number  Roman numeral    1  I    2  II    3  III    4  IV    5  V    6  VI    7  VII    8  VIII    "
+},
+{
+  "id": "sec-compounds2-14",
+  "level": "2",
+  "url": "sec-compounds2.html#sec-compounds2-14",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Section 2: Polyatomic ions "
+},
+{
+  "id": "sec-compounds2-15",
+  "level": "2",
+  "url": "sec-compounds2.html#sec-compounds2-15",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "polyatomic ions "
+},
+{
+  "id": "sec-compounds2-17",
+  "level": "2",
+  "url": "sec-compounds2.html#sec-compounds2-17",
+  "type": "Table",
+  "number": "6.2.2",
+  "title": "",
+  "body": "       Name  Charge  Formula with charge    Ammonium  +1     Carbonate  -2     Hydrogen carbonate (or bicarbonate)  -1     Phosphate  -3     Hydrogen phosphate (or phosphate dibasic)  -2     Dihydrogen phosphate (or phosphate monobasic)  -1     Sulfate  -2     Sulfite  -2     Nitrate  -1     Nitrite  -1     Hydroxide  -1     Acetate  -1     "
+},
+{
+  "id": "sec-compounds2-21",
+  "level": "2",
+  "url": "sec-compounds2.html#sec-compounds2-21",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Exercise 2: "
+},
+{
+  "id": "sec-compounds2-23",
+  "level": "2",
+  "url": "sec-compounds2.html#sec-compounds2-23",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": ""
+},
+{
+  "id": "sec-compounds2-24",
+  "level": "2",
+  "url": "sec-compounds2.html#sec-compounds2-24",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Key: "
+},
+{
+  "id": "sec-compounds3",
+  "level": "1",
+  "url": "sec-compounds3.html",
+  "type": "Section",
+  "number": "6.3",
+  "title": "Compounds 3",
+  "body": " Compounds 3   Making a covalent bond    Covalent compounds are formed when atoms share electrons. When two electrons are shared between two atoms, this forms a covalent bond . Covalent bonds are quite strong and are difficult to break. Thus covalent compounds remain together as discrete units called molecules , even when dissolved, melted, or boiled.  Before we discuss covalent compounds further, let’s learn rules that allow us to draw the Lewis dot structure for an atom:    Write the element symbol    Surround it with the valence electrons written as dots    There are 4 sides around the symbol (each side represents an outer shell atomic orbital-there is one outer s-orbital and 3 outer p-orbitals for most elements except hydrogen)    Place a maximum of 2 dots per side; don’t start pairing until you have to    Which side does NOT matter      How do covalent bonds form and how does sharing electrons help to hold together two atoms? Orbitals are most stable when they have completely filled (or completely empty orbitals). When two atoms come together, their atomic orbitals can combine together to form molecular orbitals . These molecular orbitals are shared between the two atoms and have shapes that resemble the s and p orbitals if they overlap with one another. Importantly, these are still orbitals, and thus molecular orbitals can still only hold 2 electrons.  Recall from earlier this chapter that the most stable electron configuration for most atoms is 8 valence electrons, because 8 electrons is the number required to completely fill the outer shell s (one of them) and p (three of them) orbitals. This is called the octet rule . So how can we fulfill the octet rule without adding or removing electrons?  We do this by forming molecular orbitals (which reduces the number of orbitals that have to be filled) and by sharing electrons between the atoms in these molecular orbitals. Consider the molecule . Each fluorine has 7 valence electrons, for a total of 14 valence electrons. Each fluorine also has a 4 outer shell orbitals, one 2s orbital and three 2p orbitals, for a grand total of 8 outer shell orbitals. If two of those orbitals are combined into one molecular orbital, then the total number of outer shell orbitals is only 7. These 7 orbitals can be filled perfectly by the 14 electrons. Two of these electrons are shared between the two fluorine atoms in the molecular orbital and thus form the bond that links them together. See the figure below:    A screenshot of a video game AI-generated content may be incorrect.   The Lewis dot structures of 2 fluorine atoms are shown above. The circles are shown to emphasize the orbitals that the electrons are in. Note: normally a Lewis dot structure does NOT include these circles. In the bottom portion, the two fluorine atoms are joined together by a covalent bond. The red orbital is a molecular orbital that was created by fusing two atomic orbitals together. It contain electrons that came from both of the fluorine atoms.  Hydrogen is an important common exception to the octet rule. The nearest noble gas to hydrogen is helium, which has a completely filled 1 st shell that only requires two electrons. So hydrogen obeys the duet rule for valence electrons; it wants to have two valence electrons rather than 8.   Exercise 1:      Draw the Lewis dot structure for:      Hydrogen      Helium      Chlorine      Oxygen      Nitrogen      Carbon        Based on the number of valence electrons listed below, complete the “Typical number of bonds” column in the table below. Recall that atoms can essentially acquire an extra electron by having them shared with them through a bond.            Element  Number of valence electrons  Typical number of bonds in a Lewis structure    H  1     He  2     F  7     O  6     N  5     C  4     S  6     Ne  8       Lewis structures: Basic rules   When it comes to figuring out the structure of larger covalent molecules, the same principles apply (the octet rule, the duet rule, and combining atomic orbitals to form a shared molecular orbital). However, there are additional complexities that also get introduced. For instance, which atoms should be bound to which other atoms? Also, some atoms are capable of forming more than one bond. Carbon, for instance, has 4 valence electrons. That means that it needs 4 other electrons to be shared with it to reach its octet. That means that carbon likes to form 4 covalent bonds!  To help facilitate drawing Lewis structures, there are some basic procedural steps that you should follow. We’ll begin with the basic rules and then increase the complexity with more rules in later sections.   Basic rules for Lewis structures of molecules:      Draw the skeleton structure. Arrange the atoms with atoms that can make more bonds (ex. C, N, O) in the center and atoms that can make fewer bonds on the outside (ex. H and halogens)      Count the total number of valence electrons. Add electrons for negative charges; subtract electrons for positive charges. Your final structure must have this number of electrons in it!!!      Form single bonds between the center atom and peripheral atoms. Remember that each bond is 2 electrons. Count how many electrons you have remaining      Place the remaining electrons around the outer atoms first and then the inner atoms until you have an octet (or duet) of electrons around each atom. Don’t forget that the bonds have 2 electrons!      More rules later…      Exercise 2:      How many valence electrons are in…                                     Draw Lewis dot structures for the following compounds                                                    Lewis structures: Multiple bonds   Try to draw the Lewis structure of (or see the figure below). If you follow the rules above, you quickly find that you have a problem, you can’t make an octet around each oxygen atom. How are we supposed to satisfy the octet rule, then?  We can satisfy the octet rule on both atoms by joining two additional atomic orbitals to form a second molecular orbital and by using this additional molecular orbital to share another pair of electrons. This creates a double bond between the two oxygen atoms. Each bond is a separate molecular orbital that contains a pair of shared electrons.  In some cases, such as when we try to draw the Lewis structure for , we need to join still another pair of atomic orbitals to form a third molecular orbital that we can use to share a third pair of electrons. This creates a triple bond.  The steps for drawing a Lewis structure can be added onto with an additional rule that covers these situations:   Basic rules for Lewis structures of molecules:      Draw the skeleton structure. Arrange the atoms with atoms that can make more bonds (ex. C, N, O) in the center and atoms that can make fewer bonds on the outside (ex. H and halogens)      Count the total number of valence electrons. Add electrons for negative charges; subtract electrons for positive charges. Your final structure must have this number of electrons in it!!!      Form single bonds between the center atom and peripheral atoms. Remember that each bond is 2 electrons. Count how many electrons you have remaining      Place the remaining electrons around the outer atoms first and then the inner atoms until you have an octet (or duet) of electrons around each atom. Don’t forget that the bonds have 2 electrons!      If any of the atoms don’t have an octet, then move a lone pair from an adjacent atom to make a 2 nd bond between the atoms. This effectively adds to electrons to the receiving atom while keeping the electrons with the donor atom. Repeat this step as needed. You can form triple bonds, but you will never form a quadruple bond!      Exercise 3:      Consider the drawing below that a student might make along the way to figuring out the Lewis structure of SeO. Explain how you know that the structure isn’t finished. Why can’t the student add more electrons to the structure?      Draw the Lewis structures of the following molecules. Keep in mind the number of bonds that each atom likes to form (from Exercise 1).                                              Key   Exercise 1:     Draw the Lewis dot structure for:      Hydrogen      Helium      Chlorine      Oxygen      Nitrogen      Carbon        Based on the number of valence electrons listed below, complete the “Typical number of bonds” column in the table below. Recall that atoms can essentially acquire an extra electron by having them shared with them through a bond.            Element  Number of valence electrons  Typical number of bonds in a Lewis structure    H  1  1    He  2  0    F  7  1    O  6  2    N  5  3    C  4  4    S  6  2    Ne  8  0     Exercise 2:     How many valence electrons are in…       14       8       14       16       8       10        Draw Lewis dot structures for the following compounds                  A black background with a black square AI-generated content may be incorrect.             A black background with a black square AI-generated content may be incorrect.             A black background with a black square AI-generated content may be incorrect.      A black background with a black square AI-generated content may be incorrect.                  A black background with a black square AI-generated content may be incorrect.      A black background with a black square AI-generated content may be incorrect.                  A black background with a black square AI-generated content may be incorrect.      A black background with a black square AI-generated content may be incorrect.           Exercise 3:     Consider the drawing below that a student might make along the way to figuring out the Lewis structure of SeO. Explain how you know that the structure isn’t finished. Why can’t the student add more electrons to the structure?      The oxygen doesn’t have an octet of electrons. All of the available valence electrons are already on the structure      Draw the Lewis structures of…                   A black background with a black square AI-generated content may be incorrect.             A black background with a black square AI-generated content may be incorrect.             A black background with a black square AI-generated content may be incorrect.             A black background with a black square AI-generated content may be incorrect.              A black background with a black square AI-generated content may be incorrect.               "
+},
+{
+  "id": "sec-compounds3-2",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Making a covalent bond "
+},
+{
+  "id": "sec-compounds3-3",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Covalent compounds covalent bond molecules "
+},
+{
+  "id": "sec-compounds3-5",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "valence electrons "
+},
+{
+  "id": "sec-compounds3-6",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "molecular orbitals "
+},
+{
+  "id": "sec-compounds3-7",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "octet rule "
+},
+{
+  "id": "sec-compounds3-9",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-9",
+  "type": "Figure",
+  "number": "6.3.1",
+  "title": "",
+  "body": "  A screenshot of a video game AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds3-11",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-11",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "duet rule "
+},
+{
+  "id": "sec-compounds3-14",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-14",
+  "type": "Table",
+  "number": "6.3.2",
+  "title": "",
+  "body": "       Element  Number of valence electrons  Typical number of bonds in a Lewis structure    H  1     He  2     F  7     O  6     N  5     C  4     S  6     Ne  8     "
+},
+{
+  "id": "sec-compounds3-15",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-15",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Lewis structures: Basic rules "
+},
+{
+  "id": "sec-compounds3-20",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-20",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Exercise 2: "
+},
+{
+  "id": "sec-compounds3-22",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-22",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Lewis structures: Multiple bonds "
+},
+{
+  "id": "sec-compounds3-29",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-29",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Exercise 3: "
+},
+{
+  "id": "sec-compounds3-31",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-31",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": ""
+},
+{
+  "id": "sec-compounds3-32",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-32",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Key "
+},
+{
+  "id": "sec-compounds3-35",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-35",
+  "type": "Table",
+  "number": "6.3.3",
+  "title": "",
+  "body": "       Element  Number of valence electrons  Typical number of bonds in a Lewis structure    H  1  1    He  2  0    F  7  1    O  6  2    N  5  3    C  4  4    S  6  2    Ne  8  0    "
+},
+{
+  "id": "sec-compounds3-38",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-38",
+  "type": "Figure",
+  "number": "6.3.4",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds3-40-1",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-40-1",
+  "type": "Figure",
+  "number": "6.3.5",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds3-42",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-42",
+  "type": "Figure",
+  "number": "6.3.6",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds3-43-1",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-43-1",
+  "type": "Figure",
+  "number": "6.3.7",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds3-45",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-45",
+  "type": "Figure",
+  "number": "6.3.8",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds3-46-1",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-46-1",
+  "type": "Figure",
+  "number": "6.3.9",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds3-48",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-48",
+  "type": "Figure",
+  "number": "6.3.10",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds3-49-1",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-49-1",
+  "type": "Figure",
+  "number": "6.3.11",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds3-55",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-55",
+  "type": "Figure",
+  "number": "6.3.12",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds3-57-1",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-57-1",
+  "type": "Figure",
+  "number": "6.3.13",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds3-59",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-59",
+  "type": "Figure",
+  "number": "6.3.14",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds3-61-1",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-61-1",
+  "type": "Figure",
+  "number": "6.3.15",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds3-63-1",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-63-1",
+  "type": "Figure",
+  "number": "6.3.16",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds3-65",
+  "level": "2",
+  "url": "sec-compounds3.html#sec-compounds3-65",
+  "type": "Figure",
+  "number": "6.3.17",
+  "title": "",
+  "body": "   "
+},
+{
+  "id": "sec-compounds4",
+  "level": "1",
+  "url": "sec-compounds4.html",
+  "type": "Section",
+  "number": "6.4",
+  "title": "Compounds 4",
+  "body": " Compounds 4   Section 1: Lewis structures: Formal charge   In many cases, a covalent compound will have atoms that are charged. Sometimes, multiple atoms in the structure will be charged, other times just a single atom. Sometimes the charges will cancel out (for instance if a structure has one atom with a +1 charge and another with a -1 charge), but in other cases they won’t (and we have a polyatomic ion). How then are we to figure out whether or not an atom in a structure is charged or not?  To figure out the formal charge on an atom in a Lewis structure, we apply the rules listed below:  Rules for formal charges:    If the atom is making its typical number of bonds, it DOES NOT have a formal charge    Atoms want to be surrounded by an octet (or duet) of electrons, but they don’t own all of them    Atoms own all of their lone pair electrons    Atoms own half of the electrons in the bonds connected to them      Atoms want to own their number of valence electrons    Charge=number of valence electrons desired-number of electrons owned in the structure    We can get clues from looking at a structure about what atom(s) are likely to have formal charges. Recall from an earlier exercise, how we can figure out the typical number of bonds that an atom will make (example: oxygen has 6 valence electrons so it needs 2 bonds to get to its octet). When an atom makes its typical number of bonds in a structure, that atom will typically have a charge of zero. If the atom is making a different number of bonds, then it is more likely to have a formal charge. You can use this to help you quickly narrow down which atoms are likely to have a charge in a structure. For example, oxygen atoms with 2 bonds almost always have a formal charge of zero. Oxygen atoms with one bond and 3 bonds are typically negatively and positively charged, respectively. (see the figure below)  Now that we know how to compute the formal charge on atoms in a Lewis structure, we should update our rules for Lewis structures with one additional step:   Basic rules for Lewis structures of molecules:     Draw the skeleton structure. Arrange the atoms with atoms that can make more bonds (ex. C, N, O) in the center and atoms that can make fewer bonds on the outside (ex. H and halogens)    Count the total number of valence electrons. Add electrons for negative charges; subtract electrons for positive charges. Your final structure must have this number of electrons in it!!!    Form single bonds between the center atom and peripheral atoms. Remember that each bond is 2 electrons. Count how many electrons you have remaining    Place the remaining electrons around the outer atoms first and then the inner atoms until you have an octet (or duet) of electrons around each atom. Don’t forget that the bonds have 2 electrons!    If any of the atoms don’t have an octet, then move a lone pair from an adjacent atom to make a 2 nd bond between the atoms. This effectively adds to electrons to the receiving atom while keeping the electrons with the donor atom. Repeat this step as needed. You can form triple bonds, but you will never form a quadruple bond!    Figure out the formal charge on the atoms (if any). List the formal charge next to the atom and circle it for emphasis     Exercise 1:      In the structure shown below (it’s NOT a correct structure at this point…), for each of the atoms, determine a) the number of electrons around the atom, b) the number of electrons that that each atom “owns”, c) the typical number of valence electrons for each atom, and d) the formal charge on each atom. NOTE THAT THE OXYGEN ATOMS HAVE THE SAME NUMBER OF BONDS AND LONE-PAIRS OF ELECTRONS…SO ONCE YOU’VE FIGURED OUT ONE OF THEM, THE OTHERS ARE THE SAME…       A group of red text on a black background AI-generated content may be incorrect.      Add formal charges to the indicated atoms in the structures shown below            A blackboard with red writing on it AI-generated content may be incorrect.           A black background with red writing on it AI-generated content may be incorrect.           A group of red writing on a black background AI-generated content may be incorrect.       Draw the following Lewis dot structures and indicate which atom has the formal charge                                 Section 2: Lewis structures: Exceptions to the octet rule   Some atoms are capable of having more than an octet of electrons around them. Atoms in the 3 rd period of the periodic table and beyond are large enough that they can accommodate more electrons in their outer shell. In addition, they are not limited to just s and p orbitals; they also have d-orbitals which allow them to hold more than 8 electrons. To account for this, we have to add to some of our rules (highlighted in red) and also add an extra rule at the end.   Basic rules for Lewis structures of molecules:     Draw the skeleton structure. Arrange the atoms with atoms that can make more bonds (ex. C, N, O) in the center and atoms that can make fewer bonds on the outside (ex. H and halogens). Remember that atoms in the 3 rd period and below may be capable of making more than their typical number of bonds.    Count the total number of valence electrons. Add electrons for negative charges; subtract electrons for positive charges. Your final structure must have this number of electrons in it!!!    Form single bonds between the center atom and peripheral atoms. Remember that each bond is 2 electrons. Count how many electrons you have remaining    Place the remaining electrons around the outer atoms first and then the inner atoms until you have an octet (or duet) of electrons around each atom. Don’t forget that the bonds have 2 electrons! If you have extra electrons after giving every atom an octet, go ahead and place the additional electrons around an atom that’s from the 3 rd period or lower (usually the central atom in your structure).    If any of the atoms don’t have an octet, then move a lone pair from an adjacent atom to make a 2 nd bond between the atoms. This effectively adds to electrons to the receiving atom while keeping the electrons with the donor atom. Repeat this step as needed. You can form triple bonds, but you will never form a quadruple bond!    Figure out the formal charge on the atoms (if any). List the formal charge next to the atom and circle it for emphasis    If the central atom is in the 3 rd period or lower, we have to check to see if it should make additional bonds and thereby break the octet rule. Try moving a lone pair from an outer atom and forming an additional bond to the center atom. Re-evaluate the formal charges. Repeat step 7 as needed. You are trying to…    Eliminate atoms with multiple charges (ie. +2 or -2)    Minimize the number of atoms with a charge    Prevent adjacent like-charges (ie. No negative charges on adjacent atoms…adjacent positive and negative charges can be okay)    Note: Usually the central atom will end up with a charge of 0       Exercise 2:      Draw the Lewis structures for the following molecules:                                 Section 3: Structures of polyatomic ions   In this section, we’re not going to be adding any new knowledge. Instead, we’ll be tying your new skills to material that you’ve learned previously. Polyatomic ions are ions that consist of multiple atoms that are bound together through covalent bonds. In this section you’ll be determining the structure of polyatomic ions that we’ve previously covered and you’ll be determining which atom(s) in the structure contain the formal charges.   Exercise 3:      Draw the Lewis structure of   with only a single bond between the phosphorous and each oxygen atom      Figure out the formal charge on each of the atoms      Convert one of the lone pairs of electrons on one of the oxygens into a double bond between the P and O. Recompute the formal charges      Repeat step b using another oxygen atom in the structure. Which structure has the least number of charges, the one in a, b, or c?        Repeat the steps in the problem above (you may need to repeat step b additional times) to figure out the correct Lewis structure of…                       Why don’t we need to do step b in problem 1 if we’re figuring out the structure of  .      Key:   Exercise 1:     Se: 8 electrons around it, it owns 4 of them, it wants to have 6 valence electrons, it has a charge of +2      O: 8 electrons around it, it owns 7 of them, it wants to have 6 valence electrons, it has a charge of -1      Add formal charges to the indicated atoms in the structures shown below      +1      -1      Left: -1; middle: +1, right: =        Draw the following Lewis dot structures and indicate which atom has the formal charge               A black background with a black square AI-generated content may be incorrect.              A black background with a black square AI-generated content may be incorrect.                  A black background with a black square AI-generated content may be incorrect.                Exercise 2:     Draw the Lewis structures for the following molecules:               A black background with a black square AI-generated content may be incorrect.                   A black background with a black square AI-generated content may be incorrect.             A black background with a black square AI-generated content may be incorrect.            A black background with a black square AI-generated content may be incorrect.   Exercise 3:     Draw the Lewis structure of   with only a single bond between the phosphorous and each oxygen atom…       A black background with a black square AI-generated content may be incorrect.      Repeat the steps in the problem above (you may need to repeat step b additional times) to figure out the correct Lewis structure of…                           A black background with a black square AI-generated content may be incorrect.             A black background with a black square AI-generated content may be incorrect.      Nitrogen is in the 2 nd period and can’t break the octet rule. Therefore you can’t make additional bonds between it and the oxygen atoms    "
+},
+{
+  "id": "sec-compounds4-2",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Section 1: Lewis structures: Formal charge "
+},
+{
+  "id": "sec-compounds4-11",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-11",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Exercise 1: "
+},
+{
+  "id": "sec-compounds4-13",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-13",
+  "type": "Figure",
+  "number": "6.4.1",
+  "title": "",
+  "body": "  A group of red text on a black background AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds4-15-1",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-15-1",
+  "type": "Figure",
+  "number": "6.4.2",
+  "title": "",
+  "body": "  A blackboard with red writing on it AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds4-17-1",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-17-1",
+  "type": "Figure",
+  "number": "6.4.3",
+  "title": "",
+  "body": "  A black background with red writing on it AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds4-19-1",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-19-1",
+  "type": "Figure",
+  "number": "6.4.4",
+  "title": "",
+  "body": "  A group of red writing on a black background AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds4-21",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-21",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Section 2: Lewis structures: Exceptions to the octet rule "
+},
+{
+  "id": "sec-compounds4-25",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-25",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Exercise 2: "
+},
+{
+  "id": "sec-compounds4-27",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-27",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Section 3: Structures of polyatomic ions "
+},
+{
+  "id": "sec-compounds4-29",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-29",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Exercise 3: "
+},
+{
+  "id": "sec-compounds4-31",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-31",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Key: "
+},
+{
+  "id": "sec-compounds4-36-1",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-36-1",
+  "type": "Figure",
+  "number": "6.4.5",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds4-38-1",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-38-1",
+  "type": "Figure",
+  "number": "6.4.6",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds4-40",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-40",
+  "type": "Figure",
+  "number": "6.4.7",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds4-41-1",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-41-1",
+  "type": "Figure",
+  "number": "6.4.8",
+  "title": "",
+  "body": "   "
+},
+{
+  "id": "sec-compounds4-45-1",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-45-1",
+  "type": "Figure",
+  "number": "6.4.9",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds4-47-1",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-47-1",
+  "type": "Figure",
+  "number": "6.4.10",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds4-49",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-49",
+  "type": "Figure",
+  "number": "6.4.11",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds4-51",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-51",
+  "type": "Figure",
+  "number": "6.4.12",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds4-54",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-54",
+  "type": "Figure",
+  "number": "6.4.13",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds4-56-1",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-56-1",
+  "type": "Figure",
+  "number": "6.4.14",
+  "title": "",
+  "body": "   "
+},
+{
+  "id": "sec-compounds4-58",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-58",
+  "type": "Figure",
+  "number": "6.4.15",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds4-60-1",
+  "level": "2",
+  "url": "sec-compounds4.html#sec-compounds4-60-1",
+  "type": "Figure",
+  "number": "6.4.16",
+  "title": "",
+  "body": "  A black background with a black square AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-compounds5",
+  "level": "1",
+  "url": "sec-compounds5.html",
+  "type": "Section",
+  "number": "6.5",
+  "title": "Compounds 5",
+  "body": " Compounds 5   Naming diatomic covalent compounds   The rules for naming covalent compounds are actually much more complex than those of ionic compounds and will be covered in the 2 nd half of this book once we get to organic chemistry. For now, we’ll limit our focus to binary (only two atom types) covalent compounds. We name binary diatomic compounds in a similar way that we name diatomic ionic compounds. We are going to name the first atom and then the second atom with its ending swapped for -ide. However, we also add on a prefix to both the first and second word that indicates how many atoms there are (with one exception). We have to do this because the atoms aren’t charged and thus we can’t figure out how many are present from the name alone. So what are these prefixes and what’s the exception? The prefixes are listed in the table below. The exception to adding prefixes is that we don’t add “mono-“ to the first word if there is only one.        Number  Prefix    1  mono (not used on the first word)    2  di    3  tri    4  tetra    5  penta    6  hexa    7  hepta    8  octa    9  nona    10  deca      Exercise 1:      What is the formula for the following compounds:      Carbon dioxide      Nitrogen trihydride      Disulfur dichloride      Triphosphorous pentafluoride        Name the following compounds                            Geometry   In chemistry, the shape of a molecule can be incredibly important. The shape of a pharmaceutical molecule allows it to properly interact with its biological target. The shape of a protein controls its function inside of a cell, allowing for things like metabolism and movement to occur. In order to understand the shape of complex molecules, we must first understand the shape\/geometry around a single atom within a covalent compound. Two or more electron groups are found around the atom whose geometry we’re considering. An electron group is defined as either a lone pair of electrons or an atom (or group of atoms) that is bound directly to the atom that we’re considering. If we know the number of electron groups, then we can determine the electron geometry using VSEPR theory. This theory states that the electron groups will spread out in 3D space as much as possible in order to maximize the distance between them. The electron geometries that we observe in molecules are dependent on the number of electron groups. If we have two electron groups around a central atom, then the best way for nature to separate them is to have them on completely opposite sides of the central atom. This creates a linear arrangement of our two electron groups and the central atom, and thus this electron geometry is called “linear” and has a bond angle of 180 degrees. If three electron groups are present, then they spread out in a flat triangular arrangement and the geometry is called “trigonal planar” and has bond angles of 120 degrees. With four electron groups, they must spread out in a 3D arrangement called “tetrahedral” with bond angles of 109.5 degrees (see the table below).  The electron geometry is useful information, but often we don’t care about where the lone pairs of electrons are and want to focus solely on the shape of the atoms in a molecule. When we’re figuring this out, we’re determining the molecular geometry (or molecular shape). The molecular geometries are determined by first figuring out the electron geometry. Once we’ve done this, we can ignore\/”cover-up” the electron groups that are lone-pairs of electrons, allowing us to focus on the ones that are groups of atoms. It’s important to note that the lone pairs of electrons are still present and still taking up space, but we’re simply choosing to ignore them. Thus if we have 3 electron groups around a central atom, but one of them is a lone pair of electrons, then the electron geometry is trigonal planar. If we cover up one of the electron groups, the resulting molecular geometry is called “bent” and it still has a bond angle of 120 degrees…the same as its electron geometry. If we have 4 electron groups, the electron geometry is tetrahedral and we have bond angles of 109.5 degrees. If one of the groups is a lone pair of electrons, then the molecular geometry has a non-flat triagonal molecular geometry called “trigonal pyramidal”. If two of the electron groups are lone pairs             Number of electron groups  Electron geometry  Electron geometry appearance  Bond angle  Number of lone pairs of electrons  Molecular shape  Molecular shape appearance    2  Linear   180 o  0  Linear     3  Trigonal planar   120 o  0  Trigonal planar         1  Bent     4  Tetrahedral   109.5 o  0  Tetrahedral         1  Trigonal pyramidal         2  Bent      In the diagrams shown, X represents the central atom. E is an electron group (either an atom or a lone pair of electrons). A represents another atom. Wedge bonds indicate that the bond is coming out of the paper at you. A dashed bond indicates that the bond is going away from you.   Exercise 2:      What are the electron geometries and molecular shapes described by the following:      2 electron groups, no lone pairs      3 electron groups, no lone pairs      4 electron groups, 1 lone pair of electrons      3 electron groups, 1 lone pair of electrons      4 electron groups, no lone pairs of electrons      4 electron groups, 2 lone pairs of electrons        Based on the Lewis structures below, determine the electron geometries, molecular shapes, and the bond angles.            Draw the Lewis structure for H2O and ...           For the phosphite (PO3)3- Giving all ...              Draw out the Lewis dot structures for ...           O3 Lewis Structure - Chemistry Steps       What is the electron and molecular geometries in the following compounds? What are the bond angles?:      Carbon tetrachloride      Nitrogen trihydride      Carbonate      Sulfur dioxide        Polarity and intermolecular forces   When considering the types of bonding that are observed in chemistry, we use two distinct terms: ionic bonding and covalent bonding. In actuality, there are bonds that are somewhat in-between as well, where the electrons are being shared, but in a non-equal way. This results in one of the atoms having slightly more electrons than it should (producing a partial negative charge, depicted as ) and one having slightly fewer than it should (producing a partial positive charge, depicted as ). This type of bond is called a polar covalent bond because it has partial positive and negatively charged ends, or poles. A covalent bond where the electrons are shared equally is called a nonpolar covalent bond .  How can we figure out if electrons will be shared equally between two atoms? To determine this, we need to look at the electronegativity value of each of the bonded atoms. Electronegativity is a measure of how much an atom will attract additional electrons towards itself. The highest electronegativity value is fluorine, which will attract electrons the strongest. The lowest values are seen at the bottom left of the periodic table. See the chart in the link: Electronegativity chart . To determine if a bond is polar, we subtract the electronegativity values of the two bound atoms. If the difference is <0.5, then the electrons are shared more-or-less equally and the bond is non-polar. If the difference is 0.5-1.7 then the bond is a polar covalent bond, with the atom with the greater electronegativity value having the partial negative charge . If the difference is greater than 1.7, then the bond is likely an ionic bond.  A polar molecule is one that has a partially positive side and a partial negative side. If a molecule has polar covalent bonds then the molecule itself is often (but not always polar). The exception to this is when the polar covalent bonds cancel out one another due to a symmetric geometry. If the molecular geometry is either linear, trigonal planar, or tetrahedral (ie. one of the molecular geometries that doesn’t have a lone pair) AND the bonds are equivalent, then the polarities of the bonds will cancel out, resulting a case where we have polar bonds but a non-polar molecule. So in order to determine if a molecule is polar, we have to:    Ask if it has polar bonds    Make sure that the polar bonds don’t cancel each other out     How can polarity cancel out in a molecule?   There are two requirements:    The polar bonds must be equivalent in strength (generally they will be bonds between identical elements)    The polar bonds must be symmetric    Generally this means that the molecular shape must be tetrahedral, trigonal, planar, or linear    There cannot be lone pairs of electrons on the central atom      The polarity (or non-polarity) of a molecule determines how it is able to interact with other molecules. This is useful for understanding things like how DNA is held together, what gives proteins their shapes, how pharmaceuticals interact with proteins, etc. There are 4 types of intermolecular forces that we’re going to discuss: ionic bonds, dipole-dipole interactions, hydrogen bonds, and London dispersion forces. We’ve already learned about ionic bonds. This is the attraction between cations and anions that holds together ionic compounds. Basically any time we have a full positive or negative charge on an atom or a molecule, it will be able to interact with ionic bonds.  Dipole-dipole interactions are like ionic bonds in that a positive charge attracts a negative charge, but the distinguishing feature is that the charges are partial charges in this case. Polar molecules have partial positive and partial negative ends and are thus able to form dipole-dipole interactions with one another. This is why a polar molecule like sugar is able to interact with another polar molecule like water, allowing water to dissolve sugar.  Hydrogen bonds are a special type of dipole-dipole interaction that occurs when we have a polar N-H, O-H, or H-F bond that is able to interact with a lone pair of electrons. The hydrogen atom in each of the listed bonds has a partial positive charge. However, since hydrogen only has one electron, having it be partially positively charged is basically exposing a bare nucleus, allowing it to form bonds that are much stronger than other dipole-dipole interactions. The partially positively charged hydrogen atom is attracted to the partial negative charge of a lone-pair of electrons, forming a special type of dipole-dipole interaction (because of the exposed hydrogen nucleus) that we call a hydrogen bond.  London dispersion forces are the weakest of all of the intermolecular forces. They are a type of dipole-dipole interaction that occurs when temporary dipoles form. In every molecule the electrons are continually shifting. Sometimes this shifting\/movement of electrons creates a partial charge imbalance in the molecule, resulting in a partial negative and partial positive charge. These partial charges can attract those of adjacent molecules. Since these forces are dependent on the normal movement of electrons in any molecule, ALL molecules can interact with London dispersion forces. These forces are the reason why non-polar molecules can still interact with one another and simply don’t fly apart. Gasoline, for instance, is very non-polar but the molecules interact with one another strongly enough to hold together in a liquid form at room temperature.  In terms of strength, ionic bonds are the strongest due to the complete positive and negative charges. Hydrogen bonds are next, followed by dipole-dipole interactions. Last, in terms of strength, are London dispersion forces.   Intermolecular forces ordered according to strength:    Strongest     Ionic bonds    Ions are required    Example: Na+ and Cl-      Hydrogen bonds    A polar N-H, O-H, or F-H bond is required and a lone pair of electrons    Example:       Dipole-dipole interactions    A polar molecule is required    Example:       London dispersion forces    Applies to all molecules. Caused by a temporary dipole created by electron mobility       Weakest    Exercise 3:      Determine which of the following bonds are polar vs. non-polar      C-H      Cl-Cl      C-F      N-O      S-H      O-H        Are the following molecules polar or non-polar?            Determine the molecular formula and molecular mass for n ...              Draw the Lewis structure for NF3. How ...           BF3 (Boron trifluoride) Lewis Structure                   What intermolecular force(s) (there may be more than one) would exist between the following pairs of molecules?       and             and     Determine the molecular formula and molecular mass for n ...       and              Key:   Exercise 1:                              Carbon monoxide    Tricarbon octahydride    Tetranitrogen tetraiodide    Carbon tetrahydride      Exercise 2:      Linear, linear    Trigonal planar, trigonal planar    Tetrahedral, trigonal pyramidal    Trigonal planar, bent    Tetrahedral, tetrahedral    Tetrahedral, bent        Tetrahedral, bent, 109.5    Tetrahedral, trigonal pyramidal, 109.5    Tetrahedral, tetrahedral, 109.5    Trigonal planar, bent, 120        Tetrahedral, tetrahedral, 109.5    Tetrahedral, trigonal pyramidal, 109.5    Trigonal planar, trigonal planar, 120    trigonal planar, bent, 120      Exercise 3:      NP    NP    P    P    NP    P        NP    P    NP    NP    P        Dipole-dipole and London dispersion    London dispersion    Ionic bonds and London dispersion    Ionic bonds, hydrogen bonds, dipole-dipole, and London dispersion      "
+},
+{
+  "id": "sec-compounds5-2",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Naming diatomic covalent compounds "
+},
+{
+  "id": "sec-compounds5-4",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-4",
+  "type": "Table",
+  "number": "6.5.1",
+  "title": "",
+  "body": "      Number  Prefix    1  mono (not used on the first word)    2  di    3  tri    4  tetra    5  penta    6  hexa    7  hepta    8  octa    9  nona    10  deca    "
+},
+{
+  "id": "sec-compounds5-7",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Geometry "
+},
+{
+  "id": "sec-compounds5-8",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "electron groups electron geometry "
+},
+{
+  "id": "sec-compounds5-9",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-9",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "molecular geometry (or molecular shape). "
+},
+{
+  "id": "sec-compounds5-10",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-10",
+  "type": "Table",
+  "number": "6.5.2",
+  "title": "",
+  "body": "           Number of electron groups  Electron geometry  Electron geometry appearance  Bond angle  Number of lone pairs of electrons  Molecular shape  Molecular shape appearance    2  Linear   180 o  0  Linear     3  Trigonal planar   120 o  0  Trigonal planar         1  Bent     4  Tetrahedral   109.5 o  0  Tetrahedral         1  Trigonal pyramidal         2  Bent     "
+},
+{
+  "id": "sec-compounds5-14-1",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-14-1",
+  "type": "Figure",
+  "number": "6.5.3",
+  "title": "",
+  "body": "  Draw the Lewis structure for H2O and ...  "
+},
+{
+  "id": "sec-compounds5-16-1",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-16-1",
+  "type": "Figure",
+  "number": "6.5.4",
+  "title": "",
+  "body": "  For the phosphite (PO3)3- Giving all ...  "
+},
+{
+  "id": "sec-compounds5-19-1",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-19-1",
+  "type": "Figure",
+  "number": "6.5.5",
+  "title": "",
+  "body": "  Draw out the Lewis dot structures for ...  "
+},
+{
+  "id": "sec-compounds5-21-1",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-21-1",
+  "type": "Figure",
+  "number": "6.5.6",
+  "title": "",
+  "body": "  O3 Lewis Structure - Chemistry Steps  "
+},
+{
+  "id": "sec-compounds5-23",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-23",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Polarity and intermolecular forces "
+},
+{
+  "id": "sec-compounds5-24",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-24",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "polar covalent bond nonpolar covalent bond "
+},
+{
+  "id": "sec-compounds5-25",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-25",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "electronegativity "
+},
+{
+  "id": "sec-compounds5-26",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-26",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "polar molecule "
+},
+{
+  "id": "sec-compounds5-28",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-28",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "How can polarity cancel out in a molecule? "
+},
+{
+  "id": "sec-compounds5-31",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-31",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "ionic bonds, dipole-dipole interactions, hydrogen bonds, London dispersion forces. "
+},
+{
+  "id": "sec-compounds5-36",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-36",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Intermolecular forces ordered according to strength: "
+},
+{
+  "id": "sec-compounds5-37",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-37",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Strongest "
+},
+{
+  "id": "sec-compounds5-39",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-39",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Weakest "
+},
+{
+  "id": "sec-compounds5-42-1",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-42-1",
+  "type": "Figure",
+  "number": "6.5.7",
+  "title": "",
+  "body": "  Determine the molecular formula and molecular mass for n ...  "
+},
+{
+  "id": "sec-compounds5-45-1",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-45-1",
+  "type": "Figure",
+  "number": "6.5.8",
+  "title": "",
+  "body": "  Draw the Lewis structure for NF3. How ...  "
+},
+{
+  "id": "sec-compounds5-47-1",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-47-1",
+  "type": "Figure",
+  "number": "6.5.9",
+  "title": "",
+  "body": "  BF3 (Boron trifluoride) Lewis Structure  "
+},
+{
+  "id": "sec-compounds5-50-2",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-50-2",
+  "type": "Figure",
+  "number": "6.5.10",
+  "title": "",
+  "body": "  Determine the molecular formula and molecular mass for n ...  "
+},
+{
+  "id": "sec-compounds5-52-1",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-52-1",
+  "type": "Figure",
+  "number": "6.5.11",
+  "title": "",
+  "body": "   "
+},
+{
+  "id": "sec-compounds5-53",
+  "level": "2",
+  "url": "sec-compounds5.html#sec-compounds5-53",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Key: "
+},
+{
+  "id": "sec-rxns1",
+  "level": "1",
+  "url": "sec-rxns1.html",
+  "type": "Section",
+  "number": "7.1",
+  "title": "Reactions 1",
+  "body": " Reactions 1   Classes of chemical reactions   A chemical reaction is the process of converting one or more pure substances into others. In order to do this, nature does not create or destroy atoms (that only happens in nuclear reactions, as is covered in chapter 5). Instead, atoms are swapped between compounds. Bonds in the reactant compounds are broken and new bonds are formed to create the product compounds. See the example below:     In this example, compounds AX and BY are the reactants . AB and XY are the products of the reaction. Chemical reactions are always written with the reactants on the left, products on the right, and a reaction arrow separating them. In the example above, the bonds between A and X and B and Y are broken so that A can form a new bond with B and X with Y.  In chemical reactions, in addition to the chemical formulas of the reactants and products, we see additional numbers and symbols. See the example below:     In this example, the reactants H 2 and O 2 are reacting to form water (H 2 O). In front of the chemical formulas, there are sometimes additional numbers called coefficients . These numbers are used to tell how many of those elements or compounds are required for the reaction to be balanced (more on this in another lesson). After the formulas for the elements or compounds, it is quite common to see either (g), (l), (s), or (aq) listed. These symbols state whether the substance is a gas (g), liquid (l), or solid (s) or can indicate that the substance is dissolved in water (aq) (this stands for “aqueous”).  When learning about chemical reactions, it can be very helpful to classify the reactions. This allow us to begin to recognize patterns that we can use to predict what will happen in other chemical reactions. We’ll learn several different ways of classifying reactions, beginning in this exercise where we will classify reactions by the numbers of reactants\/products and whether the reactants\/products are elements or compounds. We’ll start with the simplest types of reactions:  Type 1: Addition reaction (sometimes called a combination reaction ): Two or more pure substances combine to make one. Example:     Type 2: Decomposition reaction : One substance breaks apart into two or more substances. Example:      An important note to be aware of: recall that some elements exist as diatomic compounds. This is very common with non-metals and they are typically gasses (with a few exaceptions) at room temperature. You need to know that the following elements exist as diatomic compounds:         Exercise 1:      Classify the following reactions as addition (combination) reactions or decomposition reactions:                  Write the following reactions using chemical formulas and coefficients. Indicate the state of the substance using the symbols learned above:      Two units of solid iron (III) hydroxide decompose into one unit of solid iron (III) oxide and three molecules of liquid water      Two units of solid silver bromide decay into two atoms of silver metal and one molecule of liquid bromine.      Two molecules of nitrogen gas combine with three molecules of hydrogen gas to produce two molecules of gasseous nitrogen trihydride        Slightly more complex reactions   Type 3: Single-replacement reaction : One compound reacts with a pure element. The element swaps with an atom in the compound. Example:     Type 4: Double-replacement reaction : Two compounds react with one another. Atoms from both compounds swap with one another. Example:     One common type of double-replacement reaction is a precipitation reaction. In a precipitation reaction, both reactants are ionic compounds that are dissolved in water (ie. aqueous, aq). When the reactants are combined, one of the combinations of a cation and an anion results in a compound that is insoluble in water, meaning that it cannot be dissolved by water. As a result, crystals of that insoluble ionic compound form in the reaction. Why are some ionic compounds soluble and others aren’t? Basically, in order for an ionic compound to dissolve in water, its ions must separate from one another and form new interactions with the polar water molecules (through ion-dipole interactions or hydrogen bonding). If the interactions that the ions form with water are stronger than the interactions holding the ionic compound together, then water will “win” and the ionic compound will dissolve. If the bonds holding the ionic compound together are stronger than the interactions that the ions can form with water, then the ionic compound “wins” and the ionic compound will not dissolve in water.  There are some rules about solubility of ionic compounds that you’ll need to know. You need to apply these rules in this order!    Compounds containing ammonium, magnesium, or alkali metal cations (group I metals), and\/or nitrate, and acetate anions are soluble    Compounds containing the cation of silver, lead, or mercury are insoluble    Compounds containing the chloride, bromide, or iodide anions are soluble    Compounds containing the sulfate anion are soluble, except when paired with group 2 metals    Everything else is insoluble     Exercise 2:      Predict whether the following compounds are soluble or insoluble in water.      Sodium phosphate      Potassium iodide      Silver bromide      Iron (III) carbonate      Magnesium sulfate      Copper (II) sulfate        Classify the following reactions are single replacement or double replacement:                            Will the following reactions produce a precipitate? If so, what is its name and chemical formula?      Aqueous sodium chloride and aqueous copper (II) nitrate      Aqueous sodium hydrogen phosphate and aqueous nickel (II) chloride      Ammonium sulfate and lead (II) nitrate      Strontium bromide and potassium sulfate        Ionic equations and Net Ionic equations   When the reactants in a reaction are aqueous, the standard way of writing a reaction works, but depending on what we’re trying to show, we can sometimes do better. For instance, writing NaCl (aq) in a reaction tells us that sodium chloride is dissolved in water. It doesn’t show us what has happened to the sodium chloride through. When ionic compounds dissolve in water, they dissociate into their ions, with both the cations and anions forming bonds with the dipole of water. A better way of depicting this in a chemical reaction would be to instead write NaCl (aq) as . This is what we do when we write an ionic equation ; all of the reactants and products that are aqueous are instead written as their ions that are dissolved in water. Two important notes:    If there is more than one ion, then this is specified with a coefficient in front of the ion…NOT with a subscript after it.    Polyatomic ions will not break apart    Both of these rules are illustrated when we write as .  A net ionic equation is an ionic equation that only lists the ions that actually react in the reaction. In order to write a net ionic equation we begin with an ionic equation and then delete any ions that are aqueous in both the reactants and products. These ions are called spectator ions because they don’t participate in the reaction themselves. See the example below:  Standard reaction equation:   Ionic equation:   Net ionic equation:    Exercise 3:      Write ionic and net ionic equations for the following reactions                            Key:    E1:        Addition      Decomposition                           E2:        soluble      soluble      insoluble      insoluble      insoluble      soluble        Classify the following reactions are single replacement or double replacement:      Double replacement      Double replacement      Single replacement      Single replacement        Will the following reactions produce a precipitate? If so, what is its name and chemical formula?      No precipitate      yes, nickel (II) hydrogen phosphate ( )      yes lead (II) sulfate,       yes, strontium sulfate,         E3:      Write ionic and net ionic equations for the following reactions      Ionic equation:          Net ionic:        Ionic equation:        Net ionic:        Ionic equation:        Net ionic:        Ionic equation:        Net ionic:     "
+},
+{
+  "id": "sec-rxns1-2",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Classes of chemical reactions "
+},
+{
+  "id": "sec-rxns1-5",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "reactants products "
+},
+{
+  "id": "sec-rxns1-8",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "coefficients "
+},
+{
+  "id": "sec-rxns1-10",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-10",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Addition reaction combination reaction "
+},
+{
+  "id": "sec-rxns1-12",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-12",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Decomposition reaction "
+},
+{
+  "id": "sec-rxns1-18",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-18",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Slightly more complex reactions "
+},
+{
+  "id": "sec-rxns1-19",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-19",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Single-replacement reaction "
+},
+{
+  "id": "sec-rxns1-21",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-21",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Double-replacement reaction "
+},
+{
+  "id": "sec-rxns1-23",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-23",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "insoluble "
+},
+{
+  "id": "sec-rxns1-28",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-28",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Ionic equations and Net Ionic equations "
+},
+{
+  "id": "sec-rxns1-29",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-29",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "ionic equation "
+},
+{
+  "id": "sec-rxns1-32",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-32",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "net ionic equation spectator ions "
+},
+{
+  "id": "sec-rxns2",
+  "level": "1",
+  "url": "sec-rxns2.html",
+  "type": "Section",
+  "number": "7.2",
+  "title": "Reactions 2",
+  "body": " Reactions 2    Oxidation-Reduction reactions   Another way of classifying reactions is by ones that result in a transfer of electrons from one substance to another, regardless of the number of reactants or products involved. These reactions that involve a transfer of electrons are known as oxidation-reduction reactions (also called redox reactions ). In a redox reaction, one or more reactants will take electrons from one or more other reactants. If a reactant gained electrons then it got reduced . If a reactant loses electrons, then it gets oxidized. This can be remembered by the saying “LeO the lion says GeR”…Losing electrons is oxidation, gaining electrons is reduction. A slight amount of confusion enters in when we talk about oxidizing agents and reducing agents . These agents are causing the oxidation or reduction of some other substance, respectively. Therefore an oxidizing agent will cause the oxidation of something else (ie. cause something else to lose electrons). It can only do this by accepting the electrons itself. Therefore an oxidizing agent gets reduced in a chemical reaction. The opposite is true of reducing agents . A reducing agent causes the reduction of another substance (ie. causes something else to gain electrons) by providing the electrons itself. Therefore reducing agents get oxidized in chemical reactions.  When dealing with ionic compounds in a reaction, it is straightforward to determine if a redox reaction is occurring. All we need to do is look at the charge on the ion. A very important note: elements have a charge of zero when in their elemental form . So in the zinc has a +2 charge and the chlorines each have a charge of zero. Let’s investigate the following reaction:     In this case the zinc begins with a charge of +2. In the products, it is in its elemental form and thus has a charge of zero. How did the zinc change charge??? It gained two electrons! The negative charge of the two electrons cancels out the +2 charge, resulting in neutral zinc. Thus the zinc gained electrons and got reduced. In every redox reaction, something gets reduced and something gets oxidized. So in the example above, what is losing electrons? The chloride has a -1 charge in zinc chloride and still has a -1 charge in sodium chloride, so the chloride isn’t participating in the electron transfer. The sodium, on the other hand, begins in its elemental form with a charge of zero and then has a charge of +1 in the products. So the sodium is losing electrons. Each sodium loses one electron, but there are two sodium atoms present, so this adds up to 2 electrons being lost by the sodiums (which matches the two electrons being gained by the zinc; the number of electrons lost must always equal the number of electrons gained in the reaction).  When gets turned into , hydrogen gas (with its two electrons) is released. Therefore, the reactant got oxidized to . We can recognize this because the carbon in the reactant lost a bond to hydrogen and gained a new bond to oxygen, indicating that it got oxidized. In this reaction the two hydrogen atoms that were lost from gained those two electrons and thus got reduced.      One special class of redox reaction involving covalent compounds is a combustion reaction . In a combustion reaction, a carbon containing compound reacts with oxygen gas ( ), producing carbon dioxide ( ) and water ( ). Combustion reactions are carried out when we burn fossil fuels in our cars or in power plants. The reaction releases a lot of energy that can be harnessed for beneficial purposes. It is also very important to note that our bodies carry out combustion reactions when we break down sugars, fats, and proteins to get harvest energy. The chemical equation showing the breakdown of glucose is shown below:     It is a combustion reaction because a carbon compound reacts with oxygen gas to produce carbon dioxide and water. Also, the carbon atoms in the glucose compound end up losing bonds to hydrogen and gaining bonds to oxygen, indicating that they are getting oxidized. The oxygen atoms are losing a bond to the other oxygen and gaining new bonds to hydrogen and are thus getting reduced.   Exercise 1:      For the following redox reactions, identify the substance being oxidized and the substance being reduced. Identify the oxidizing agent and the reducing agent. How many electrons are being transferred in each reaction?                  For the following reactions (note: these are the reactions that you wrote ionic and net ionic equations for in exercise 3…looking at those equations may help you!) identify whether they are redox reactions or not. If they are redox reactions, identify what is being oxidized and what is being reduced.                            In the following redox reactions, identify the species that is getting oxidized and the species that is getting reduced.       A black arrow pointing to a black arrow AI-generated content may be incorrect.       A black arrow pointing to a black arrow AI-generated content may be incorrect.        In the combustion of hexane ( ), one of the reactants is hexane. What are the other reactants and what are the products? (don’t worry about how many of each should be in the reaction)      Which reactant gets oxidized? Which one gets reduced? Which is the oxidizing agent? Which is the reducing agent?        Balancing chemical reactions   In chemical reactions, the law of conservation of mass applies. This law states that matter cannot be created or destroyed by chemical reactions. The consequence of this law is that when writing chemical reactions, we need to make sure that the number of each type of atom in the reaction is the same on both sides of the reaction arrow. So if there are three nitrogen atoms in the reactants, then the products side must have 3 nitrogen atoms as well. What if the numbers of atoms are not balanced? We cannot change the number of atoms in the compounds without changing the identity of that compound (ie. do NOT change the subscripts). We have to balance the reaction by adding in coefficients in front of the compounds. To do this, we’re going to follow the following steps that will work for any simple reaction (we won’t deal with more complex reaction in this class):    Write the reaction with the correct chemical formulas of the reactants and products    Determine the number of atoms of each element on the reactants and products sides    If all of the elements are balanced, then you’re done      Select one element that appears in only one compound in both the reactants and the products. Balance it by adding in necessary coefficients in front of the compounds. Then check to see if the elements are balanced    Repeat step 3 with other elements that only appear in one compound in both the reactants and product.    Balance any remaining elements by changing\/adding coefficients    Check and recheck every element for balance    Simplify the coefficients    If you have any fractional coefficients, multiply ALL of the coefficients by numbers found in the denominators    If all of the coefficients have a common factor (ex. 4, 8, and 2 all have a common factor of 2), then divide them all by that common factor      To see these steps in practice, see the example below:  Example: Balance the combustion reaction for .    Since this is a combustion reaction, we know the other reactants ( ) and products ( and ) so the reaction is     Check to see if the atoms are balanced on both sides of the reaction:           Element  Number on left side  Number on the right side    C  2  1    H  4  2    O  2  3      They aren’t, so we have to go to step 3.     We should balance either hydrogen or carbon first because they are only found in one compound in the reactants and products. Oxygen is found in two spots in the products and is thus harder to balance. Lets start with carbon. We need to have two carbons on the right side, so lets as a coefficient of 2 in front of the carbon dioxide as shown:              Element  Number on left side  Number on the right side    C  2  2    H  4  2    O  2  5     Notice that the number of oxygens in the products also changed…changing coefficients often changes the amount of numerous atoms.    Now that carbon is balanced, let’s balance hydrogen. We need to increase the number of hydrogens on the right side. Adding a coefficient of 2 in front of the water will give us 4 hydrogens since each of the two water molecules has 2 hydrogens:                Element  Number on left side  Number on the right side    C  2  2    H  4  4    O  2  6       We can now move on to oxygen. There are 6 on the right and 2 on the left. We can fix this by adding a 3 as a coefficient in front of the oxygen gas.              Element  Number on left side  Number on the right side    C  2  2    H  4  4    O  6  6       All of the elements are balanced and the coefficients are simplified. We are now done.     Exercise 2:      Balance the following reactions by adding in the necessary coefficients:                                Write an equation for the following reactions and balance it    Aqueous sodium sulfate and aqueous calcium chloride are mixed    Combustion of        Moles   In chemistry, we often have to deal with very large numbers of things (ex. atoms or molecules). For convenience, we can rely of scientific notation to help us out. We can also use the term mole to help us out. A mole is a word that represents a number of things (similar to how a dozen means 12 things). The number represented by a mole is Avogadro’s number and has a value of . Why this weird number? You’ll have to wait until the next section of this lesson to find out. We can use the definition of a mole as a conversion factor to convert between numbers of things (atoms\/molecules\/etc.) and moles:       When carrying out calculations involving numbers of molecules and\/or atoms, it is VERY important to add labels to our units to specify what is being quantified. This can help us see if we need to use other conversion factors in our problems. See the example below.  How many molecules are in 3.0 moles of water? How many hydrogen atoms are in 3.0 moles of water?    We begin with 3.0 moles of water and want to determine the number of molecules of water. To do this we need to use Avogadro’s number as shown below:         To convert from molecules of water to number of hydrogen atoms, we need to see that 1 water molecule contains 2 hydrogen atoms. This can be written as a conversion factor and used to solve the problem as shown:        Hint to try and understand moles:   When faced with confusing concepts in chemistry, like a mole, it can sometimes be helpful to think of more familiar examples with simpler numbers. Recall that a mole is like a dozen; it is a word that represents a number.  If you have 2 dozen eggs, how many do you have? 24 of course. How did you get that? You took the 2 and multiplied it by the number represented by a dozen (12).  So if you have 2 moles of molecules, you’ll follow the same pattern: 2 times the number represented by a mole (6.022 x 10 23 ).  Likewise if I have 48 eggs, how many dozen do I have? 4 dozen. You get this by taking the number of objects and dividing by the number represented by a dozen.  So…how would you determine how many moles of molecules you have if you have 432 molecules? Take that number and divide it by the number represented by a mole.     How many molecules are in 0.366 moles of carbon dioxide? How many carbon atoms? How many atoms? How many protons?      If you have   hydrogen atoms, then how many moles of atoms do you have. If those hydrogen atoms are in the form of  , then how many molecules of   do you have? How many moles of H 2 molecules do you have?      If 3.0 moles of carbon dioxide are mixed with 4.5 moles of water, how many moles of oxygen atoms are there? How many atoms of oxygen?     Key  Exercise 1:     For the following redox reactions, identify the substance being oxidized and the substance being reduced. Identify the oxidizing agent and the reducing agent. How many electrons are being transferred in each reaction?      Iron (III) gets reduced and is the oxidizing agent; Cu(I) gets oxidized and is the reducing agent; one electron is transferred from copper (I) to iron (III)      Fluorine gas gets reduced and is the oxidizing agent; iodide ions get oxidized and are the reducing agent; 2 electrons are transferred from two iodide ions to a molecule of fluorine gas        For the following reactions (note: these are the reactions that you wrote ionic and net ionic equations for in exercise 3…looking at those equations may help you!) identify whether they are redox reactions or not. If they are redox reactions, identify what is being oxidized and what is being reduced.      Not redox      Not redox      redox, Cs gets oxidized, Fe(II) gets reduced      redox, Fluorine gas gets reduced, chloride ions get oxidized        In the following redox reactions, identify the species that is getting oxidized and the species that is getting reduced.            A diagram of a chemical formula AI-generated content may be incorrect.           A diagram of a chemical formula AI-generated content may be incorrect.       Reactants:        Products:        Hexane gets oxidized and is the reducing agent, oxygen gets reduced and is the oxidizing agent     Exercise 2:     Balance the following reactions by adding in the necessary coefficients:                                Write an equation for the following reactions and balance it                Exercise 3:     2.20E23 molecules, 2.20E23 carbon atoms, 6.61E23 atoms, 4.85E24 protons      1220 moles H atoms, 3.67 x 10 26 H atoms, 609 moles H2 molecules      10.5 moles oxygen atoms, 6.32E24 atoms of oxygen     "
+},
+{
+  "id": "sec-rxns2-2",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Oxidation-Reduction reactions "
+},
+{
+  "id": "sec-rxns2-3",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "oxidation-reduction reactions redox reactions reduced oxidized. oxidizing agents reducing agents oxidizing agent reducing agents "
+},
+{
+  "id": "sec-rxns2-8",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-8",
+  "type": "Figure",
+  "number": "7.2.1",
+  "title": "",
+  "body": "   "
+},
+{
+  "id": "sec-rxns2-9",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-9",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "combustion reaction "
+},
+{
+  "id": "sec-rxns2-13-1-3-2-1-1-1",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-13-1-3-2-1-1-1",
+  "type": "Figure",
+  "number": "7.2.2",
+  "title": "",
+  "body": "  A black arrow pointing to a black arrow AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-rxns2-13-1-3-2-1-2-1",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-13-1-3-2-1-2-1",
+  "type": "Figure",
+  "number": "7.2.3",
+  "title": "",
+  "body": "  A black arrow pointing to a black arrow AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-rxns2-14",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-14",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Balancing chemical reactions "
+},
+{
+  "id": "sec-rxns2-15",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-15",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "law of conservation of mass "
+},
+{
+  "id": "sec-rxns2-20",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-20",
+  "type": "Table",
+  "number": "7.2.4",
+  "title": "",
+  "body": "       Element  Number on left side  Number on the right side    C  2  1    H  4  2    O  2  3    "
+},
+{
+  "id": "sec-rxns2-24",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-24",
+  "type": "Table",
+  "number": "7.2.5",
+  "title": "",
+  "body": "       Element  Number on left side  Number on the right side    C  2  2    H  4  2    O  2  5    "
+},
+{
+  "id": "sec-rxns2-28",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-28",
+  "type": "Table",
+  "number": "7.2.6",
+  "title": "",
+  "body": "       Element  Number on left side  Number on the right side    C  2  2    H  4  4    O  2  6    "
+},
+{
+  "id": "sec-rxns2-31",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-31",
+  "type": "Table",
+  "number": "7.2.7",
+  "title": "",
+  "body": "       Element  Number on left side  Number on the right side    C  2  2    H  4  4    O  6  6    "
+},
+{
+  "id": "sec-rxns2-35",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-35",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Moles "
+},
+{
+  "id": "sec-rxns2-36",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-36",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "mole Avogadro’s number "
+},
+{
+  "id": "sec-rxns2-44",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-44",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Hint to try and understand moles: "
+},
+{
+  "id": "sec-rxns2-54-1",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-54-1",
+  "type": "Figure",
+  "number": "7.2.8",
+  "title": "",
+  "body": "  A diagram of a chemical formula AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-rxns2-56-1",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-56-1",
+  "type": "Figure",
+  "number": "7.2.9",
+  "title": "",
+  "body": "  A diagram of a chemical formula AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-rxns3",
+  "level": "1",
+  "url": "sec-rxns3.html",
+  "type": "Section",
+  "number": "7.3",
+  "title": "Reactions 3",
+  "body": " Reactions 3    Molar Mass and its use in chemistry   We’ve previously learned about atomic mass. Recall that it’s the average of the masses of the naturally occurring isotopes weighted according to their abundance. The value of the atomic mass can be found in the periodic table under the element symbol. By adding together the atomic masses of all of the elements in a compound, we can determine the molecular weight (for covalent compounds) or formula weight (for all compounds) of the compound in units of amu. Molecular weight and formula weight are calculated in the same way, but they apply to different compounds; molecular weight only applies to molecules (which only exist in covalent compounds) whereas formula weight applies to both ionic and covalent compounds. Molar mass is the mass of one mole of the compound. It has the same value as the formula weight and is calculated in the exact same way, but it has different units of grams per mole (g\/mol) instead of amu. Thus a single carbon atom has an atomic mass of 12.011 amu, and a mole of carbon atoms will weigh 12.011 g. This is the reason for the bizarre value of Avogadro’s number…it’s the number of atoms needed to give an atom the same weight in grams as its atomic mass in atomic mass units.  So we can find the molar mass of an element from the periodic table by taking the atomic mass and appending units of g\/mol to it. If we can do this, then we can also figure out the molar mass of entire compounds by simply adding together the molar masses of each of the component elements.   Molar mass is used as a conversion factor to convert between grams and moles and vice-versa. When coupled with Avogadro’s number, we can convert between grams and numbers of things (like molecules). This is summed up in the diagram shown below.   Exercise 1:      What is the molar mass of the following compounds?      Chlorine gas      Magnesium chloride      NaCl      CH 4      Magnesium nitrate        If you have 42.3 g of chlorine gas, how many moles of chlorine gas do you have?      How much does 0.375 moles of NaCl weigh in grams?      How many chlorine atoms are in 5.73 mg of magnesium chloride?      What is the mass of 3.33 x 10 17 hydrogen atoms in nanograms?      Mole-mole relationships in chemical reactions   We just learned how to convert between moles and numbers of atoms\/molecules. When we’re talking about chemical reactions, it is often very useful to be able to convert between moles of one substance in the reaction and moles of another. This allows chemists to determine how much reactant is needed for a reaction to proceed or to determine how much product can be produced. To do these calculations, we NEED to have a balanced chemical reaction. If one is not provided as a part of a question, then you need to make sure to write one.  The balanced chemical reaction is key because the coefficients in front of the chemical formulas will be used to determine a conversion factor called a mole-mole ratio. For instance, the mock formula: implies that for every 2 moles of A, the reaction would require one mole of B and then produce 3 moles of C. We can write these relationships as conversion factors:     Which one we choose is determined by which information we’re given and what information we’re trying to attain. See the example and helpful hint below:  For the reaction below: if we have 3.0 moles of aluminum chloride, then a) how many moles of sodium hydroxide would be needed to completely react with the aluminum chloride and b) assuming that we have an excess of sodium hydroxide, how many moles of aluminum hydroxide could be produced?                 Helpful hint:  It can be helpful to think of more obvious examples of ‘reactions’ that we are familiar with in our everyday lives. The problem solving strategies that you employ can be similarly used in chemistry problem solving. For instance, we all know that a tricycle has 3 wheels. If I have 6 wheels, how many tricycles can I make? The answer is hopefully easy for you to determine…we can make 2 tricycles with 6 wheels. How did you solve this and could you instead use dimensional analysis and a balanced reaction to solve it?  Balanced reaction:   Conversion factor:   Math with the conversion factor:     Write three mole-mole conversion factors based on the reaction shown below:         If you have 17 moles of S 8 , how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form?    You are carrying out the reaction of iron metal plus chlorine gas to produce iron (III) chloride. If you require 6 moles of iron (III) chloride, how many moles of iron and how many moles of chlorine gas would you need?    Write a balanced chemical equation for this reaction    Figure out the mole-mole conversion factors that you need and solve       Theoretical yield in chemical reactions   In a chemical reaction, it is often surprising to students that the mass of the reactants does not match up with the mass of the products. The law of conservation of mass states that the total mass of all of the reactants must equal the mass of all of the products, but the masses of individual reactants or products often differ. For instance, in the reaction if we start with 2 grams of hydrogen gas (and excess oxygen gas), we don’t get a mass of 2 grams of water; we get about 18 grams of water! Don’t the coefficients from the balanced reaction mean that for every 2 grams of hydrogen gas, we should get 2 grams of water?! No. The coefficients only apply when we’re counting things (numbers of molecules or moles of molecules); they do NOT apply to mass. Why not? The reason is that different molecules have different masses. We can illustrate this with a relatable example:  For the reaction, , if each tire weighs 40 pounds, would you expect the car to weigh only 160 pounds? No. The reason is that the car frame adds mass. The car will have the mass of those tires, but also extra mass from the frame. Similarly, water has added mass from oxygen and thus the 2 grams of hydrogen gas end up producing a larger mass of water.   The previous section allows us to determine the number of moles of product that can be produced in a chemical reaction if we are given the number of moles of reactants. In a laboratory setting, we don’t have any tool that allows us to measure the number of moles of a reactant directly. Instead, we are able to determine the amount of reactants and products by measuring their mass. As we learned in the last lesson, we can easily convert between grams and moles using the molar mass of a substance. So if we are given a certain number of grams of reactant, we can determine the number of moles of that reactant. We can then convert that number of moles to moles of product using the balanced chemical reaction and the mole-mole conversion factor. Finally, we can convert between the number of moles of product and the number of grams of product by using the molar mass of that product. This procedure is summarized in the diagram below:   Exercise 3:      For the reaction shown below, if you have 5.0 grams of S 8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form?           For the reaction shown above, how many grams of oxygen gas would be required to react with 5.0 grams of S 8 ?      For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride?      For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?     Key  Exercise 1:     (your answers may vary depending on the periodic table that you use…you should use all of the digits in the periodic table provided)      70.906 g\/mole      95.211g\/mole      58.433 g\/mole      16.043 g\/mole      148.315 g\/mole        0.597 moles chlorine gas      21.9 g      7.25E19      557 ng     Exercise 2:    Write three mole-mole conversion factors based on the reaction shown below:            If you have 17 moles of S 8 , how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form?    204 moles of oxygen gas  136 moles of sulfur trioxide    You are carrying out the reaction of iron metal plus chlorine gas to produce iron (III) chloride. If you require 6 moles of iron (III) chloride, how many moles of iron and how many moles of chlorine gas would you need?    Write a balanced chemical equation for this reaction           Figure out the mole-mole conversion factors that you need and solve     6 moles of iron and 9 moles of chlorine gas are required   Exercise 3:     For the reaction shown below, if you have 5.0 grams of S 8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form?        12 grams of sulfur trioxide     For the reaction shown above, how many grams of oxygen gas would be required to react with 5.0 grams of S 8 ?      7.5 grams      For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride?         135 grams      For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?      2.4 grams   "
+},
+{
+  "id": "sec-rxns3-2",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Molar Mass and its use in chemistry "
+},
+{
+  "id": "sec-rxns3-3",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "molecular weight formula weight Molar mass "
+},
+{
+  "id": "sec-rxns3-6",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Exercise 1: "
+},
+{
+  "id": "sec-rxns3-8",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Mole-mole relationships in chemical reactions "
+},
+{
+  "id": "sec-rxns3-24",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-24",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Theoretical yield in chemical reactions "
+},
+{
+  "id": "sec-rxns3-25",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-25",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "law of conservation of mass "
+},
+{
+  "id": "sec-rxns4",
+  "level": "1",
+  "url": "sec-rxns4.html",
+  "type": "Section",
+  "number": "7.4",
+  "title": "Reactions 4",
+  "body": " Reactions 4    Reaction energetics: kinetics and thermodynamics   In chemistry, it is often very helpful to know how fast reactions occur. Within our bodies, chemical reactions drive a wide range of different processes ranging from DNA replication, to movement, to nerve firing. Each of these processes must be carefully controlled. For instance, a nerve firing too quickly could disrupt muscle contractions leading to seizures or cardiac arrest. So in chemistry, what controls the speed of a reaction? The answer is that both the speed and extent of a reaction are controlled by the energetics of that reaction. Some reactions that we regard as impossible (ex. helium, a noble gas, reacting with oxygen) aren’t actually impossible…they’d just require a LOT of energy in order to make them occur. Energy similarly controls the speed of a chemical reaction.  How are we to understand the energetics of chemical reactions? Reaction energy diagrams can be very useful in this. A reaction energy diagram displays the energy level of the reactants and products of a reaction as well as the energy of the transition state. The transition state is a point that is midway between reactants and products. In most chemical reactions, bonds have to be broken before new bonds can form. The transition state generally represents a point at which the old bonds have been broken and the atoms are positioned so that new bonds can form (see the figure below that depicts the formation of water from hydrogen gas and oxygen gas).  Reaction energy diagrams, like the one shown below, depict the difference between the energy level of the reactants and the transition state, a quantity known as the activation energy of the reaction. Activation energy is directly proportional to the speed or kinetics of a reaction. The higher the activation energy, the slower the reaction; the lower the activation energy, the faster the reaction. This is because as the activation energy of a reaction increases, it becomes less and less probable that a given reactant molecule will have enough energy to transform from reactants into products. The less likely this is, the slower the reaction proceeds. Reactions can be sped up by adding in more energy (ie. by increasing the temperature) or by adding in catalysts . A catalyst is a substance that is able to speed up a reaction by decreasing the energy of the transition state. Importantly, a catalyst does this without being consumed by the reaction. A catalyst also does not affect the energies of the reactants or products.  Reaction energy diagrams also depict the relative energies of the reactants and products. The relationship between the reactants and products will determine which one is favored in the reaction, with nature always favoring the one that has the lowest energy (ie. the one that is the most stable). Reactions where the products are lower in energy than the reactants are called exergonic reactions . These reactions will proceed in the forward direction and will release energy. Reactions where the reactants are lower in energy than the products are called endergonic reactions. In those reactions, the reaction would tend to proceed in the reverse direction, creating more reactants from the products. In order to get the reaction to proceed in the forward direction, energy would have to be put into the reaction, often by applying heat. This is similar to how you have to expend energy to push an object uphill. It is important to understand that whether a reaction is exergonic or endergonic predicts the directionality of a reaction and whether or not there will be more reactants or products when the reaction finishes. It does NOT determine how fast a reaction occurs; that is only determined by the activation energy.   Sample reaction energy diagrams:            Enzymes are proteins that speed up chemical reactions in our bodies. Enzymes are not used up in chemical reactions. Thus enzymes are acting as __________ in the chemical reactions that they carryout.    Draw a reaction energy diagram that is exergonic. Label the reactants and products and transition state and mark the activation energy on the diagram.    Draw a second diagram on top of this one that has the same reactants and products but that would occur faster      Draw a reaction energy diagram that is neither exergonic or endergonic. Label the reactants and products and transition state and mark the activation energy on the diagram.    What would you expect the relative amounts of reactants and products to be at the conclusion of this reaction?      Draw a reaction energy diagram where the reactants would almost entirely be converted to products, but where the reaction is also extremely slow.    If we add heat to a reaction, the speed of the reaction will _____________(increase\/decrease)     Reaction equilibrium and Le Chatelier’s principle   Our discussion of reaction energy diagrams and energetics revealed that chemical reactions are reversible. Chemical reactions, once started proceed both in the forward and reverse directions, however it’s often the case that one direction is preferred over the other. For the purposes of this discussion, let’s assume that the forward direction is preferred over the reverse direction (ie. the reaction is exergonic). The net reaction initially proceeds in the forward direction because the forward reaction is occurring faster than the reverse reaction. However, as time goes on, the reactants begin to run out, slowing down the forward reaction, while the reverse reaction begins to speed up. The reaction finally stops once it reaches equilibrium. At this point, the amount of reactants and products is no longer changing because the speed of the forward reaction is equal to the speed of the reverse reaction. Once reactions reach equilibrium, the net reaction can once again proceed (either in the forward or reverse direction) if the equilibrium is disturbed. We can predict the outcome of this disturbance by applying Le Chatelier’s principle . Le Chatelier’s principle states that a reaction at equilibrium will respond to changes by trying to restore the equilibrium. This can be easily illustrated by viewing chemical reactions as a seesaw. A reaction at equilibrium can be thought of as a balanced seesaw; once a disturbance occurs, then the balance of the seesaw is broken. In order to restore the equilibrium, reactants must either convert to products or products must convert to reactants until the balance is once again restored.   Progress of a reaction towards equilibrium :    A useful model for understanding Le Chatelier’s Principle:          For a given chemical reaction, if the forward reaction has a rate of 4 and the reverse reaction has a rate of 6, then what is the direction and net rate of the reaction?      What will happen to the forward and reverse rates as the reaction approaches equilibrium?        Consider the following reaction that has reached equilibrium:         Which direction would you expect the net reaction to proceed in if:      Sodium chloride is added to the reaction      The precipitate is removed from the reaction      The reaction is cooled      The reaction is heated      Sodium hydroxide is added to the reaction      Calcium chloride is added to the reaction        In chemical manufacturing, in order to maximize the amount of product formed, the product is often removed from the reaction as the reaction proceeds. Why does this help?     Key:   Exercise 1:     Catalysts      A diagram of a graph Description automatically generated         A graph with blue lines on a black background Description automatically generated     The amounts of products and reactants should be the same at the end      Draw a reaction energy diagram where the reactants would almost entirely be converted to products, but where the reaction is also extremely slow.      A blue line on a black background Description automatically generated     Increase     Exercise 2:      The net reaction is in the reverse direction with a rate of 2      The reverse rate will slow down as the products are used up. The forward rate will speed up as reactants are created        Consider the following reaction that has reached equilibrium:         Which direction would you expect the net reaction to proceed in if:      Toward reactants (reverse)      Towards products (forward)      Towards products (forward)      Towards reactants (reverse)      Towards products (forward)      Towards products (forward)        Removing product causes the reaction to shift towards products by Le Chatelier’s principle     "
+},
+{
+  "id": "sec-rxns4-2",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Reaction energetics: kinetics and thermodynamics "
+},
+{
+  "id": "sec-rxns4-4",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "transition state. "
+},
+{
+  "id": "sec-rxns4-5",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "activation energy catalysts "
+},
+{
+  "id": "sec-rxns4-6",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "exergonic reactions endergonic reactions. "
+},
+{
+  "id": "sec-rxns4-8",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-8",
+  "type": "Figure",
+  "number": "7.4.1",
+  "title": "",
+  "body": "   "
+},
+{
+  "id": "sec-rxns4-9",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-9",
+  "type": "Figure",
+  "number": "7.4.2",
+  "title": "",
+  "body": "   "
+},
+{
+  "id": "sec-rxns4-11",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-11",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Reaction equilibrium and Le Chatelier’s principle "
+},
+{
+  "id": "sec-rxns4-12",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-12",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "equilibrium. Le Chatelier’s principle "
+},
+{
+  "id": "sec-rxns4-13",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-13",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Progress of a reaction towards equilibrium "
+},
+{
+  "id": "sec-rxns4-14",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-14",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "A useful model for understanding Le Chatelier’s Principle: "
+},
+{
+  "id": "sec-rxns4-15",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-15",
+  "type": "Figure",
+  "number": "7.4.3",
+  "title": "",
+  "body": "   "
+},
+{
+  "id": "sec-rxns4-23-1-2-1",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-23-1-2-1",
+  "type": "Figure",
+  "number": "7.4.4",
+  "title": "",
+  "body": "  A diagram of a graph Description automatically generated  "
+},
+{
+  "id": "sec-rxns4-24",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-24",
+  "type": "Figure",
+  "number": "7.4.5",
+  "title": "",
+  "body": "  A graph with blue lines on a black background Description automatically generated  "
+},
+{
+  "id": "sec-rxns4-27",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-27",
+  "type": "Figure",
+  "number": "7.4.6",
+  "title": "",
+  "body": "  A blue line on a black background Description automatically generated  "
+},
+{
+  "id": "sec-gas1",
+  "level": "1",
+  "url": "sec-gas1.html",
+  "type": "Section",
+  "number": "8.1",
+  "title": "Gases 1",
+  "body": " Gases 1    Kinetic molecular theory of gases and pressure   Gases are a state of matter. Gases are similar to liquids in that they adopt the shape of their containers, but are different in that they will spread out to occupy the entire volume of their container. Thus gases do NOT have a fixed volume or a fixed shape. To better understand these properties as well as other properties of gases that we’ll be learning abou in this chapter, scientists have developed the kinetic molecular theory of gases. This theory states that the properties of a gas can be understood by a model that assumes the following:    Gases consist of tiny particles that occupy only a small percentage of the total volume of the gas    The gas molecules are constantly moving with very high speeds    Gas molecules do not interact with one another at all due to their high speeds and the fact that they occupy such a small percentage of the volume of the gas    When gas molecules impact one another or the sides of their container, they bounce off, essentially losing none of their energy.    The average speed of the gas molecules is directly proportional to the temperature. So as temperature increases, the gas molecules move more quickly.    This information about gases will help us to understand other properties of gases as well as the gas laws that we’ll encounter later in the chapter. The first such property that we can begin to discuss is pressure. When a gas is near a surface (like air near our bodies) or trapped in a container, then the gas molecules will impact the surfaces that they’re exposed to with a certain amount of force. This force will push against that surface. When a force is being applied to a surface, we can measure the pressure being exerted. Pressure is simply the amount of force being applied divided by the area of the surface that it’s being applied to. This can be illustrated easily using everyday objects. If you place a large piece of wood on top of another piece of wood and hit it with a hammer, you’re unlikely to drive one piece of wood into the other. However if you place a nail on a piece of wood and hit it with a hammer, you can easily drive the nail into the wood. Why? The amount of force applied with the hammer was the exact same. However, in the first case, the amount of surface that the force was applied to was large, meaning that the pressure was small. In the case of the nail, that same amount of force is applied to the narrow point of a nail (a much smaller area) so the nail has a very high pressure and is able to easily penetrate the wood.  The idea of gas pressure is actually quite fascinating when you think about it. We know that we can inflate balloons by filling them with a gas and that this gas exerts a certain amount of pressure (that we can easily feel if you try and squeeze the balloon). The bizarre thing about the balloon, though, is that the ballon is almost entirely empty. What keeps it inflated isn’t that it is ‘full of air’, it’s that the little bit of air inside is impacting the balloon surface with such force that it’s continually driving it outwards, keeping it inflated. In fact, each gas molecule inside of a helium balloon at room temperature is impacting the surface of the balloon with a speed of approximately 4000 miles per hour!!!  We can measure the pressure of a gas using various units. The SI unit for pressure is a Pascal (Pa), and like other SI units we can attach metric prefixes to it. Other units of pressure are commonly used also. These include atmospheres (atm), bars, inches (or millimeters) of mercury, and pounds per square inch. If you ever need to convert between these various units on an exam, a conversion factor will be provided.   Exercise 1:      If you increase the temperature of a gas      Do the molecules move faster or slower?      Would the molecules impact the sides of the container with more force or less force?      If the sides of the container remain the same size and surface area, would this cause the pressure to increase or decrease?        Calculate the pressure if 10.0 pounds of force are applied to an object with a surface area of 2 square inches (answer in units of pounds per square inch).      Calculate the pressure if 10.0 pounds of force are applied to an object with a surface area of 0.5 square inches (answer in units of pounds per square inch). Is this pressure higher or lower?        Convert 1.72 atm of pressure to the following units using the conversion factors provided:      Pa (1 atm=101,325 Pa)      kPa      pound per square inch (psi) (14.7 psi=1atm)      bar (1 atm=101,325 Pa and 1 bar=100,000 Pa)        Basic gas laws   The kinetic molecular theory of gases can give rise to our understanding of three basic gas laws: Boyle’s Law, Charles’s Law, and Gay-Lussac’s Law. These laws relate changes in pressure, temperature, and volume of a gas. Each law also has an associated equation that can be used to determine the effect of changing the pressure, volume, or temperature of a gas.  Boyle’s law states that pressure and volume are inversely proportional to one another if the temperature is kept constant. This means that as one goes up, the other must go down (ex. if the volume decreases then the pressure must increase). We can understand this quite easily if we reflect on the kinetic molecular theory of gases. If gas molecules are moving around with a certain speed, because the temperature is kept constant, and we shrink the container that the gas is trapped in, then the gas molecules will be impacting the walls of the container more frequently and thus the pressure exerted will increase. Most of us have probably experienced Boyle’s law if you’ve ever tried to squeeze a balloon. When you do that, you are attempting to reduce the volume of the gas, and as you do so, it gets harder and harder to squeeze. Since pressure and volume are inversely proportional, this can be described mathematically as where c is a constant (the value of this constant isn’t important and actually varies depending on a number of factors). With that equation, if we increase pressure, then volume must decrease in order for the product to still equal c. This relationship hold true as long and the amount of gas and the temperature are kept constant…so under one set of conditions and under a second set of pressure and volumes . Since both of these equations equal c, we can set them equal to one another to get the equation for Boyle’s law:     This equation can be used to determine the new pressure of a gas if the volume changes or to find the new volume if the pressure changes (again, assuming that the temperature and the amount of the gas are fixed).  Charles’s law relates the volume and temperature of a gas, stating that these two properties are directly proportional (assuming that the pressure and amount of gas are constant). This again agrees with kinetic molecular theory because if I increase the temperature of a gas, the molecules will move faster, this would cause them to impact the sides of the container with more force, thus increasing the pressure. If the pressure is being held constant, however, the only way to allow for this is to have the volume of the gas increase, causing the impacts of the gas on the sides of the container to become less frequent. Thus an increase in temperature causes an increase in volume and a decrease in temperature would cause a decrease in volume. Many of us have also seen Charles’s law in our lives. Charles’s law is used to inflate hot air balloons; the heat from the flame at the base of the balloon heats the gas inside causing the volume of the balloon to increase and inflate. This relationship can be described mathematically by where c is a constant. Like in Boyle’s law, this equation will hold under different conditions, so we can similarly derive the equation for Charle’s law:      It is VERY important to note that this equation only works if the temperatures have units of Kelvin!!!! Using this equation we can predict the new volume of a gas if the temperature changes or the new temperature if the volume changes (assuming that the amount of gas and the pressure are constant)  The final law that we’ll cover in this section is Gay-Lussac’s Law. This law states that pressure and temperature are directly proportional if the volume and amount of gas are fixed. Gay-Lussac’s law can be understood if we realize that increasing the temperature causes the speed of molecules to increase. If the size of the container is kept the same, then those molecules will impact the sides with more force, thus increasing the pressure. Gay-Lussac’s law can be described with the formula:     This equation can be used to find the new pressure if the temperature of a gas changes or the new temperature if the pressure changes (again, assuming that the volume and amount of gas don’t change).   Exercise 2:      Proportionality      For this exercise, we are going to examine an example of inverse proportionality using the equation  , where a and b are the variables that are inversely proportional, and c is a constant. If a= 80 and b=20, then what does c equal?      If a doubles to 160, what is the new value of b (remember that c is the same as in the previous problem because it’s a constant). Does b increase or decrease? Does b decrease by the same amount as a or by the same factor (ie. does it increase by 80 or does it double also)?      If b decreases to ¼ of its original value, then what happens to a? Does a increase by the same amount as b or by the same factor as b?        For this exercise, we are going to examine an example of direct proportionality using the equation  , where a and b are the variables that are directly proportional and c is a constant. If a= 80 and b=20, then what does c equal?      If a doubles to 160, what is the new value of b (remember that c is the same as in the previous problem because it’s a constant). Does b increase or decrease? Does b increase by the same amount as a or by the same factor (ie. does it increase by 80 or does it double also)?      If b decreases to ¼ of its original value, then what happens to a? Does a decrease by the same amount as b or by the same factor as b?          Boyle’s law (for the following problems, assume that the temperature and amount of gas do NOT change)      If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new pressure if the volume is decreased to 17 L?      If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new volume if the pressure is decreased to 110 kPa?      If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new volume if the pressure is decreased to 110 Pa?        Charles’s Law (for the following problems, assume that the pressure and amount of gas do NOT change)      If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new volume of the gas if the temperature is increased to 761K?      If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new temperature of the gas if the volume is increased to 77.1 L      If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new temperature of the gas if the volume is decreased to 77.1 mL?      If a gas has a volume of 73.5 mL at a temperature of 32 o C, then what is the new volume if the temperature decreases to -15 o C.      Calculate this correctly, then calculate it without converting the temperatures to Kelvin. When you leave the temperatures in Celsius, what obvious problem do you notice?          Gay-Lussac’s law (for the following problems, assume that the volume and amount of gas do NOT change)      If a gas has a pressure of 73.2 psi and a temperature of 73.1 o C, what is the new pressure of the gas if the temperature doubles to 146.2 o C?      Did the pressure double when the temperature, measured in Celsius, doubled?        If a gas has a pressure of 73.2 psi and a temperature of 73.1K, what is the new pressure of the gas if the temperature doubles to 146.2 K?      Did the pressure double when the temperature, measured in Kelvin, doubled?        If a gas has a pressure of 2.3 atm and a temperature of 731 K, what is the new temperature of the gas if the pressure is changed to 2.3 kPa (1 atm=101.325 kPa)?        Exercise 1:        Faster      More force      Pressure would increase        5 psi      20 psi, higher pressure        Convert 1.72 atm of pressure to the following units using the conversion factors provided:      174,000 Pa      174 kPa      25.3 psi      1.74 bar        Exercise 2:      Proportionality      1600      10, b decreases, b decreases by 10 which is not the same amount, b also decreases by a factor of 2 (it is ½ of the original starting value of 20)      a increases to 320, a increased by the same factor as b, not by the same amount (a increases by an amount of 240 but by a factor of 4)        4      40, b increases, b increases by the same factor as a (b and a increase by a factor of 2; whereas a increased by an amount of 80 whereas b only increased by 20)      a decreases to 20. a decreases by the same factor as b          Boyle’s law (for the following problems, assume that the temperature and amount of gas do NOT change)      1.0 x 10 3 kPa      150 L      1.5 x 10 5 L        Charles’s Law (for the following problems, assume that the pressure and amount of gas do NOT change)      23.0 L      2550 K      2.55 K      62.2 mL If a gas has a volume of 73.5 mL at a temperature of 32 o C, then what is the new volume if the temperature decreases to -15 o C.      You get a negative volume. Volume can’t be negative.          Gay-Lussac’s law (for the following problems, assume that the volume and amount of gas do NOT change)      88.7 psi      No        146.4 psi      yes        If a gas has a pressure of 2.3 atm and a temperature of 731 K, what is the new temperature of the gas if the pressure is changed to 2.3 kPa (1 atm=101.325 kPa)?      7.2 K         "
+},
+{
+  "id": "sec-gas1-2",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Kinetic molecular theory of gases and pressure "
+},
+{
+  "id": "sec-gas1-3",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "kinetic molecular theory of gases. "
+},
+{
+  "id": "sec-gas1-5",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "pressure. "
+},
+{
+  "id": "sec-gas1-10",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-10",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Basic gas laws "
+},
+{
+  "id": "sec-gas1-11",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Boyle’s Law, Charles’s Law, and Gay-Lussac’s Law. "
+},
+{
+  "id": "sec-gas2",
+  "level": "1",
+  "url": "sec-gas2.html",
+  "type": "Section",
+  "number": "8.2",
+  "title": "Gases 2",
+  "body": " Gases 2    Combined gas law   Since pressure and volume are inversely proportional, volume and temperature are directly proportional, and pressure and temperature are directly proportional, we can describe these three relationships with the equation . Since this relationship should hold under multiple conditions (assuming that the amount of gas doesn’t change), we can derive the combined gas law:      Exercise 1:      Combined gas law (the following problems assume that the amount of gas doesn’t change)      If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is…      the new pressure if the volume is decreased to 0.55 L and the temperature is increased to 331 K?      the new volume if the pressure is increased to 34.0 atm and the temperature decreases to 151 K?      the new temperature if the pressure increases to 33.5 atm and the volume increases to 7.55 L        If a gas has a pressure of 1.52 MPa, a volume of 223 L and a temperature of 151 o C, what is the new temperature if the pressure decreases to 453 kPa and the volume increases to 1.55 kL?        Avogadro’s law and molar volume   All of the gas laws that we learned about in the last lesson allowed for changes in the pressure, volume, and\/or temperature of the gas. All of those laws had the stated assumption that the amount of the gas was fixed. Avogadro’s law is the first law that allows us to predict the effect of changing the amount of gas. Avogadro’s law relates the volume of a gas to the number of moles of the gas. It states that the volume of the gas and the number of moles are directly proportional to one another if pressure and temperature are kept constant. This means that if the number of moles of a gas increase, then the volume would be expected to increase as well. A real-world example of this is what happens when you blow into a balloon. You are increasing the amount of gas in the balloon and, as a result, its volume increases. Like our other gas laws, this proportionality can be shown by an equation: where n is the number of moles of gas and c is a constant. If we want to predict the effect of changing the amount of gas on the volume, then we can use the form of Avogadro’s law shown below:     One consequence of Avogadro’s law is that one mole of a gas will always have the same volume, regardless of which gas we’re talking about, if the pressure and temperature are kept constant. At a standard temperature and pressure (STP, defined as 1 atm of pressure and 273.15 K) one mole of gas has a volume of 22.4 L. This is called the molar volume of a gas. Molar volume can be used as a conversion factor ( ) to convert between volume and number of moles if the gas is at STP conditions.   Exercise 2:      If you have a 22.2 L ballon of gas containing 0.0311 moles of helium, what will the new volume be is an additional 0.0233 moles of helium are added?      If you have a 34.2 L sample of oxygen gas at STP, how many moles of oxygen gas do you have?      What is the volume of 17.0 g of oxygen gas at STP? Hint: what information do we need to go from grams to moles of oxygen gas?      A 10.0L balloon has a contains 3.2 grams of helium gas. If 1.6 grams of helium gas is added, then what is the new volume? Hint: what information do we need to go from grams to moles of helium gas?      Ideal gas law   Avogadro’s law and the other gas laws can all be combined together. Pressure and volume are inversely proportional. Temperature and moles of gas are directly proportional to volume. If we combine all of this information, we get the equation:     where c is a constant. In chemistry, we substitute the symbol R for this constant to give:     R is a special constant in chemistry called the ideal gas constant. There are several different values for R which are all actually equivalent…they have different values because they have different units of pressure or volume. The value of R that uses SI units of pressure and volume is . The equation shown above is called the Ideal Gas Law and is often shown in the rearranged form:     The other laws that we learned about are useful for predicting the effect of changing the conditions of a gas, either the pressure, volume, temperature, or moles of gas. The Ideal Gas Law allows us to calculate one unknown property of a gas if we’re given the other 3 properties. For instance, if we know the pressure, volume, and temperature of a sample of gas, we can calculate the number of moles of gas.  Various values for R:                 If a sample of gas contains 0.0300 moles of gas and has a pressure of 2300 Pa at a temperature of 273K, what would the volume of the gas be?      Calculate the temperature of a gas if 3.0 moles of gas have a volume of 43L and a pressure of 2.3 atm. (1atm=101325 Pa)      What is the pressure of a gas in units of MPa if 2.3 moles of gas are placed into a 6.7L container at 103 o C?         Key:    Exercise 1:      Combined gas law (the following problems assume that the amount of gas doesn’t change)      If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is…      36 atm      0.263 L      4280 K        879K        Exercise 2:      38.8L      1.53 moles      11.9 L      15 L      Exercise 3:      30. L      4.0 x 10 2 K      1.1 MPa     "
+},
+{
+  "id": "sec-gas2-2",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Combined gas law "
+},
+{
+  "id": "sec-gas2-7",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Avogadro’s law and molar volume "
+},
+{
+  "id": "sec-gas2-10",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-10",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "molar volume "
+},
+{
+  "id": "sec-gas2-13",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-13",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Ideal gas law "
+},
+{
+  "id": "sec-gas3",
+  "level": "1",
+  "url": "sec-gas3.html",
+  "type": "Section",
+  "number": "8.3",
+  "title": "Gases 3",
+  "body": " Gases 3    Ideal Gas Law and Chemical Reactions   The Ideal Gas Law can also be used in calculations involving chemical reactions. The Ideal Gas Law can be used to determine the number of moles of reactants or to determine the pressure\/volume\/temperature of the products from the number of moles. This is displayed in the figure below. Also, please see the sample calculation shown below.    A diagram of a chemical process Description automatically generated    Sample calculations:   A vessel with a volume of 1200 L contains 17 kg of nitrogen gas and exactly the amount of hydrogen gas needed to react with it at a temperature of 500.0 o C. The nitrogen and hydrogen gas react according to the equation shown below:       How much hydrogen (in moles) is needed to react with the nitrogen gas?    What is the starting pressure of the gases in the tank in units of psi?    (     What is the pressure in the tank at the conclusion of the reaction in units of psi?     Solutions:     We need to go from kg of nitrogen gas to moles of nitrogen gas using the molar mass, then to moles of hydrogen gas using the mole-mole conversion factor.            We are going to use the Ideal Gas Law and plug in the total number of moles of nitrogen gas and hydrogen gas.               We can borrow information from part a. If we have moles of nitrogen gas, we can use a mole-mole conversion factor to get the number of moles of NH 3 . We can then use the Ideal Gas Law to calculate the pressure.                 Exercise 1:      When our bodies ‘burn’ glucose ( , they do so according to the following reaction:         If a person consumes a soda with 42 g of glucose, what volume of carbon dioxide will they emit at STP once they’ve burned all that glucose?      Water can undergo an electrolysis reaction shown below:         If 33 g of water undergoes this reaction in a sealed chamber with a volume of 2.0 L at a temperature of 301K, then what will the pressure be in the chamber at the end of the reaction in MPa?    Partial Pressures and Dalton’s Law   All of the gas laws that we’ve dealt with thus far assume that we are dealing with a pure sample of one gas. What is we’re dealing with a mixture of gases, like air? If we have a mixture of gases in a container, then we can measure the volume of the mixture and its temperature and those values will apply to each of the individual gases within the mixture as well, because each of the individual gases will occupy the entirety of the volume and have the same amount of kinetic energy as all of the other gases in the mixture. However, the gas particles of an individual gas in a mixture of gases will NOT have the same pressure as the mixture. This is because each individual gas is impacting the sides of the container with only a portion of the total pressure being exerted by the mixture itself. We have a term for the amount of pressure that an individual gas exerts within a mixture and it is called the partial pressure of that gas.   Dalton’s Law deals with the partial pressure of gases within a mixture, and it’s an intuitive law when you think about it. Daltons law says the pressure of a mixture of gases is equal to the sum of the partial pressures of the individual gases that make up the mixture. This is because each individual gas impacts the sides of the container with a certain force. The total force is simply the sum of the forces of each of the gases. Since they are all impacting the same surface area, the pressures should also be additive. Dalton’s Law is summarized by the following formula:      Exercise 2:      If the partial pressure of gas A is 34 psi and the partial pressure of gas B is 44 psi in the same container, what is the combined pressure of the gases?      If a mixture of gases has a pressure of 4.0 atm, and it contains 3 gases. Gas A has a partial pressure of 2.7 atm, gas B has a partial pressure of 0.4 atm. What is the partial pressure of gas C?      If the chamber has a volume of 3.0 L and the temperature is 298K, then how many moles of each gas are in the chamber? ( )        Water can undergo an electrolysis reaction shown below:         If 33 g of water undergoes this reaction in a sealed chamber with a volume of 2.0 L at a temperature of 301K, then…      What will the partial pressure of hydrogen gas be in the chamber at the end of the reaction in MPa?      What will the partial pressure of oxygen gas be in the chamber at the end of the reaction in MPa?      What is the combined pressure of the gases in the chamber at the end of the reaction in MPa? Use your answers in a and b to answer this. Compare this answer to your answer in Exercise 3 Question 2.     Key:   Exercise 1:      31 L      3.4MPa      Exercise 2:      78 psi      0.9atm      0.33 moles      0.05 moles      0.1 moles          2.3 MPa      1.1 MPa      3.4 MPa       "
+},
+{
+  "id": "sec-gas3-2",
+  "level": "2",
+  "url": "sec-gas3.html#sec-gas3-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Ideal Gas Law and Chemical Reactions "
+},
+{
+  "id": "sec-gas3-4",
+  "level": "2",
+  "url": "sec-gas3.html#sec-gas3-4",
+  "type": "Figure",
+  "number": "8.3.1",
+  "title": "",
+  "body": "  A diagram of a chemical process Description automatically generated  "
+},
+{
+  "id": "sec-gas3-5",
+  "level": "2",
+  "url": "sec-gas3.html#sec-gas3-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Sample calculations: "
+},
+{
+  "id": "sec-gas3-11",
+  "level": "2",
+  "url": "sec-gas3.html#sec-gas3-11",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Solutions: "
+},
+{
+  "id": "sec-gas3-31",
+  "level": "2",
+  "url": "sec-gas3.html#sec-gas3-31",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Partial Pressures and Dalton’s Law "
+},
+{
+  "id": "sec-gas3-32",
+  "level": "2",
+  "url": "sec-gas3.html#sec-gas3-32",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "partial pressure "
+},
+{
+  "id": "sec-gas3-33",
+  "level": "2",
+  "url": "sec-gas3.html#sec-gas3-33",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Dalton’s Law "
+},
+{
+  "id": "sec-gas4",
+  "level": "1",
+  "url": "sec-gas4.html",
+  "type": "Section",
+  "number": "8.4",
+  "title": "Gases 4",
+  "body": " Gases 4    Henry’s Law and Breathing    Henry’s Law is our last gas law. It deals with solubility. Solubility is the amount of a material that can be dissolved into another; in this case, we’re talking about how much gas can dissolve in water. Henry’s law states that the solubility of a gas is directly proportional to its partial pressure. If the partial pressure of a gas is increased, it can press its way into the liquid more easily, and thus more of that gas dissolves.  Now we’re going to do some practice problems dealing with gas laws and breathing.      Exercise 1:      The lungs inflate and deflate because of the action of a muscle called the diaphragm. This muscle causes the lung volume to expand and contract.      If the volume of the lungs increases, what happens to the air pressure inside of the lungs? Which law dictates this?      If the volume of the lungs decreases, what happens to the air pressure inside of the lungs?      Air will spontaneously move from areas of high pressure to areas of low pressure. For a and b above, which corresponds to inhaling, and which corresponds to exhaling?        In our lungs our cells are exposed to air that has a high partial pressure of oxygen gas. Would the solubility of oxygen in our blood in the lungs be high or low?      When blood travels through our peripheral tissues, the amount of oxygen gas decreases because it gets taken up by our tissues. This __________(decreases\/increases) the partial pressure of oxygen that the blood is exposed to and thus ___________(increases\/decreases) the solubility of oxygen in the blood. Explain how this makes it easier for muscles to obtain oxygen from the bloodstream.      Carbon dioxide is made in our peripheral tissues and is only a small component of our atmosphere. As a result the partial pressure of carbon dioxide is __________(high\/low) in our peripheral tissues, meaning that its solubility in our blood is ______ (high\/low). When blood travels to the lungs, due to the low amount of carbon dioxide in the atmosphere, its partial pressure is ____(high\/low). This _______(increases\/decreases) the solubility of carbon dioxide in the blood, allowing it to be eliminated from the body.      Which Equation do I Need??   Each of the problems that you’ve done thus far is within a single section of the chapter, making it relatively easy to figure out what equation to use. On an exam, the problems are not organized in such a straightforward manner, and it falls on you to figure out which one(s) you need to use. Here are some tips:    In the problem, is something about the gas changing (pressure, volume, moles, temperature)? If so, then you want to use an equation with the subscript 1’s and 2’s…Boyle’s, Charles’s, Gay-Lussac’s, Combined Gas Law, Avogadro’s Law.    Are you trying to find a missing parameter about the gas, but nothing is changing…probably need the Ideal Gas Law.    Is your problem dealing with a reaction or mass of the gas? If so, you probably need to change to moles (using either molar mass or the Ideal Gas Law)    Partial pressures or gas mixtures? Then think Dalton’s Law    Find an equation that has the parameters that are provided and the one that you want. (if you are given a starting pressure and temperature of a gas, and the pressure is changed and you’re being asked for temperature, then Gay-Lussac’s should be used because it has only pressure and temperature in the equation)     Exercise 2:      If you have 2.0 grams of argon gas in a 25L balloon, what will the new volume be if 3.0 grams of argon gas is added. Assume that the temperature and pressure do NOT change.      If a gas has a pressure of 2.1 atm and a volume of 3.3 L, what will the new pressure be if the volume is expanded to 5.7 L?      A gas at 271 K, 3.3 atm of pressure, and with a volume of 5.4 L is heated to 299K at the same time that its volume is decrease to 1.7 L. What is the new pressure?      3.5 grams of gaseous water vapor is at a temperature of 452K in a volume of 150mL. What is the pressure of this gas in MPa?      2.5 moles of gas A completely reacts to form gases B and C according to the reaction below. The reaction takes place in a 15L vessel at 522K.           What is the pressure in units of Pa at the beginning of the reaction in MPa?      What is the partial pressure of B in the vessel at the end of the reaction in MPa?      What is the total pressure in the vessel at the end of the reaction in MPa?     Key:   Exercise 1:        Pressure decreases, Boyle’s law      Pressure increases, Boyle’s law      A is inhaling, B is exhaling        High solubility of oxygen      Decreases, decreases. Since the blood has a lower solubility of oxygen due to Henry’s Law, this causes even more oxygen to leave the blood for the tissues to use, ultimately removing almost all of the oxygen from the blood for use by tissues in the body.      High, high, low, decreases      Exercise 2:      63 L      1.2 atm      12 atm      4.9 MPa        0.72 MPa      0.36 MPa      1.4 MPa       "
+},
+{
+  "id": "sec-gas4-2",
+  "level": "2",
+  "url": "sec-gas4.html#sec-gas4-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Henry’s Law and Breathing "
+},
+{
+  "id": "sec-gas4-3",
+  "level": "2",
+  "url": "sec-gas4.html#sec-gas4-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Henry’s Law solubility. "
+},
+{
+  "id": "sec-gas4-8",
+  "level": "2",
+  "url": "sec-gas4.html#sec-gas4-8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Which Equation do I Need?? "
+},
+{
+  "id": "sec-solutions1",
+  "level": "1",
+  "url": "sec-solutions1.html",
+  "type": "Section",
+  "number": "9.1",
+  "title": "Solutions 1",
+  "body": " Solutions 1    Solutions with covalent vs. ionic compounds   When we dissolve one substance into another to make a homogeneous mixture, we’ve made a solution . The substance that there is less of is called the solute and the substance that there is more of is called the solvent . When discussing preparing a solution, we generally state that the solute is dissolved in the solvent (ex. sodium chloride is dissolved into water—the sodium chloride is the solute and water is the solvent). For the most part in this course, we’re going to be considering cases where water is the solvent.  Some compounds are capable of dissolving in water, whereas others cannot. Why is it that some compounds are able to dissolve in water and others are not? There are a few considerations that we need to take into account to completely answer this question. Ultimately, though, a compound will dissolve if the bonds that the compound forms with water are stronger than the bonds that the compound and water both had in their previous state.  To understand this, we must first understand what happens when a compound does successfully dissolve in water. If the compound is an ionic compound, then the compound will break apart into its individual ions as we’ve learned previously . Each of these ions will form new bonds with the polar water molecules that surround them. Recall that if a molecule is polar, that it has a partially negatively charged end and a partially positively charged end. Thus the partially negatively charged end of water is attracted to cations from the ionic compound and the partially positively charged end of water is attracted to anions from the ionic compound. These types of interactions are called ion-dipole  interactions . Covalent compounds, on the other hand, do NOT break apart when dissolved in water. Instead the covalent compound separates from other identical molecules and forms new bonds with water using the intermolecular forces we learned about previously (dipole-dipole interactions, hydrogen bonding, and London dispersion forces).  Now that we understand what has to happen to dissolve a compound, let’s draw some parallels to reaction energy diagrams that we’ve learned about in Chapter 7. We saw that we can indicate the energy levels of the reactants and products, and that the transition state separates them. The same is true for a dissolving ‘reaction’ (we usually don’t actually consider this to be a reaction since no new compound forms). In order for our starting compounds (reactants) to dissolve in one another (products), bonds must be broken (transition state) so new bonds can form. If the energy of the products is lower than the energy of the reactants, then the compound will dissolve because the dissolved state is more stable than the starting point. If the energy of the starting compound and water is lower than the energy of them dissolved together, then the compound will not dissolve because the undissolved state is more stable.   Exercise 1:      Will the following compounds break apart into ions or remain intact when dissolved in water?                KBr                       Draw a reaction energy diagram for      A compound that will dissolve      A compound that won’t dissolve        What types of intermolecular forces would hold together the following covalent molecules?                  In the previous problem if you try to dissolve the compound in part a into water (part b)…      What new types of bonds would form between the compound in a and the compound in part b?      What types of bonds would you have to break (hint: think about 3a and 3b)      Draw a reaction energy diagram showing what would happen. (If you have to break strong bonds, then you go up a large amount to reach the transition state, but a small amount for weak bonds. If you form strong bonds, then you descend a large amount from the transition state, but for weak bonds then you only descend a small amount).      Based on this diagram, would this compound dissolve or not?        Was the compound is 3a polar or non-polar? Is water polar or non-polar? Do you think polar or non-polar covalent compounds are more likely to dissolve in water? Why?        Solubility and temperature effects    Solubility is the a term that describes the amount of one compound that can dissolve into water. For instance, at 20 degrees Celsius, the solubility of NaCl is approximately 35g\/100g water. This means that 100 g of water can dissolve up to 38 g of sodium chloride. If we try to dissolve 17 g of sodium chloride into 100 g of water, it will dissolve, forming a solution. We could still dissolve more sodium chloride into that solution because it is not yet saturated. A saturated solution is one where the maximum possible amount of solute has dissolved into water. In the example above where we tried to dissolve 17g of sodium chloride into 100 g of water, it was easy to determine that it wasn’t saturated because 17g NaCl\/100g water is clearly less than the solubility of 35g NaCl\/100g water since the amount of water is the same. However, could we dissolve 17.5 g of NaCl into 43 g of water??? To determine this we want to convert this ratio into one that has 100 g of water in it, allowing us to compare it to the solubility of NaCl in water. We do this as shown below:          Since 40.7 g is more than the solubility of 35g of NaCl in 100 g of water, this amount of sodium chloride would not completely dissolve and we’d end up with a saturated solution with some undissolved solid sodium chloride left over.  Changing the temperature often has an impact on how much of a compound can dissolve in water. The effect differs depending on whether the compound that is being dissolved is a solid or a gas. For most solids, the solubility of a solid increases as the temperature increases. Thus we can dissolve more solute at higher temperatures. If a saturated solution is prepared at high temperatures and the temperature is then decreased, we can end up in a situation where we have more solid dissolved in water than the solubility limit allows for and this is called a supersaturated solution . These solutions are unstable and will spontaneously eject solid from the solution causing it to crystallize and reform the solid.   The solubility of gases, on the other hand, decreases with increasing temperature . As the temperature rises, less gas can remain dissolved in water. This is part of the reason why opened soda remains carbonated in the refrigerator but rapidly goes flat if kept warm.   Exercise 2:      If the solubility of sodium nitrate is 88 g sodium nitrate\/100 g water, then would it be possible to dissolve the following?      75 g sodium nitrate in 100 g water      95 g sodium nitrate in 100 g water      44 g sodium nitrate in 50 g water      57 g sodium nitrate in 72 g water      5 g sodium nitrate in 9 g water        The solubility listed above is the solubility of sodium nitrate at 20 degrees Celsius. At 80 degrees Celsius the solubility of sodium nitrate is 148 g sodium nitrate\/100 g water.      How many grams of sodium nitrate could dissolve in 40.0 g of water at 80 degrees Celsius?      How many grams of sodium nitrate could dissolve in 40.0 g of water at 20 degrees Celsius      If you prepared the saturated solution in part a and then cooled it to 20 degrees Celsius, how much solid sodium nitrate would you expect to crystalize?       Key   Exercise 1:      Will the following compounds break apart into ions or remain intact when dissolved in water?      No      No      Yes      Yes      Yes      No        Draw a reaction energy diagram for      A compound that will dissolve         A blue line on a black background Description automatically generated      A compound that won’t dissolve       A blue line on a black background Description automatically generated      What types of intermolecular forces would hold together the following covalent molecules?      London dispersion      London dispersion, dipole-dipole, hydrogen bonds        In the previous problem if you try to dissolve the compound in part a into water (part b)…      London dispersion forces      London dispersion forces, dipole-dipole, hydrogen bonds            A blue line on a black background Description automatically generated       Will not dissolve        Non-polar, polar, water will dissolve polar things because it can make stronger bonds with polar solutes than it can with non-polar solutes, thus stabilizing the products more      Exercise 2:      If the solubility of sodium nitrate is 88 g sodium nitrate\/100 g water, then would it be possible to dissolve the following?      75 g sodium nitrate in 100 g water--yes      95 g sodium nitrate in 100 g water--no      44 g sodium nitrate in 50 g water--yes      57 g sodium nitrate in 72 g water--yes      5 g sodium nitrate in 9 g water--yes        The solubility listed above is the solubility of sodium nitrate at 20 degrees Celsius. At 80 degrees Celsius the solubility of sodium nitrate is 148 g sodium nitrate\/100 g water.      59.2 g      35.2 g      59.2-35.2=24.0 g       "
+},
+{
+  "id": "sec-solutions1-2",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Solutions with covalent vs. ionic compounds "
+},
+{
+  "id": "sec-solutions1-3",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "solution solute solvent "
+},
+{
+  "id": "sec-solutions1-5",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "ion-dipole interactions "
+},
+{
+  "id": "sec-solutions1-9",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-9",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Solubility and temperature effects "
+},
+{
+  "id": "sec-solutions1-10",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-10",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Solubility saturated. "
+},
+{
+  "id": "sec-solutions1-13",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-13",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "supersaturated solution "
+},
+{
+  "id": "sec-solutions1-20",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-20",
+  "type": "Figure",
+  "number": "9.1.1",
+  "title": "",
+  "body": "  A blue line on a black background Description automatically generated  "
+},
+{
+  "id": "sec-solutions1-22",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-22",
+  "type": "Figure",
+  "number": "9.1.2",
+  "title": "",
+  "body": "  A blue line on a black background Description automatically generated  "
+},
+{
+  "id": "sec-solutions1-24-1",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-24-1",
+  "type": "Figure",
+  "number": "9.1.3",
+  "title": "",
+  "body": "  A blue line on a black background Description automatically generated  "
+},
+{
+  "id": "sec-solutions2",
+  "level": "1",
+  "url": "sec-solutions2.html",
+  "type": "Section",
+  "number": "9.2",
+  "title": "Solutions 2",
+  "body": " Solutions 2    Measuring concentration with percent composition   When dealing with solutions, it is often very important to know how much solute is dissolved into a certain amount of volume of the solution. This quantity is called the concentration of the solution. We have several different ways of expressing concentration. The first way that we’ll learn about is percent composition. There are three different forms of percent composition, mass-mass percent composition (% m\/m), mass-volume percent composition (% m\/v), and volume-volume percent composition (% v\/v). The formulas for each is shown below:     with units of % m\/m     with units of % m\/v     with units of % v\/v    When calculating a percent composition, we simply have to use the formulas above, but we must make sure that the units that we’re using match the units in the formula…if they don’t we need to do some unit conversions first.  We can also use percent composition to figure out how much solute is dissolved in a certain volume (or mass) of solution as shown below:  How many grams of mL of ethanol are in a 250mL bottle that contains a 65% v\/v solution?    Create a conversion factor using the percent composition. Since the values are percents, the bottom will always have a value of 100:         Use dimensional analysis:          Exercise 3:      Calculate the mass-mass percent for the following solutions      3 g NaCl dissolved in 55 g solution      3g NaCl dissolved in 44 g of water (note that this is NOT the grams of solution!)      0.30kg of ethanol dissolved in 4300 g of solution        Calculate the mass-volume percent for the following solutions      3 g NaCl dissolved in 45 mL of solution      175 mg NaCl dissolved in 5.0 mL of solution        Calculate the volume-volume percent for the following solutions      32 mL of ethanol dissolved in 100 mL of solution      165 µL of ethanol dissolved in 2.50 mL of solution        How many grams of NaCl are in 35 mL of a 1.0 % m\/v solution?      How many moles of NaCl are in 1.0L of a 2.0 % m\/v solution?      Molarity   Chemists often use a different unit of concentration because it’s often helpful to know the number of moles of solute dissolved in solution (because knowing the number of moles is critical if we’re doing any calculations involving chemical reactions). This unit of concentration is molarity . Molarity has a symbol of capital M, which is a shorthand abbreviation for moles\/L. Thus a 3.0 M solution of sodium chloride has 3.0 moles of sodium chloride dissolved in 1 L of solution. This can be expressed as the following formula:     Thus, if 1.5 moles of solute is dissolved in 0.50 L of solution, the molarity is . We can also append the metric prefixes on molarity (ex. mM). The prefix pertains to the number of moles of solute. So mM means .  Using molarity as a conversion factor:  How many grams of sodium hydroxide are contained in a 150 mL of a 500.0 mM solution of sodium hydroxide.    Convert volume and molarity to their base units. Volume should be in liters and we want to remove prefixes from molarity            Write molarity as a conversion factor:           Use molarity to determine the number of moles of solute:         Convert from moles to grams with the molar mass        Exercise 4:      Calculate the molarity of the following solutions:      0.15 moles of NaCl dissolved in 0.37 L of solution      0.070 moles of NaCl dissolved in 175 mL of solution      17 g of NaCl dissolved in 570 mL of solution        How many moles of sodium chloride are needed to prepare 45 mL of a 3.0M solution?      How many grams of sodium chloride are needed to prepare 45 mL of a 3.0 M solution?      How many mg of sodium chloride are contained in 1.00 mL of a 175 mM solution of sodium chloride?     Key:   Exercise 3:      Calculate the mass-mass percent for the following solutions      5% m\/m      6% m\/m      7.0 % m\/m        Calculate the mass-volume percent for the following solutions      7% m\/v      3.5 % m\/v        Calculate the volume-volume percent for the following solutions      32% v\/v      6.60% v\/v        0.35 g      0.34 moles      Exercise 4:      Calculate the molarity of the following solutions:      0.41M      0.40 M      0.51 M        0.14 moles      7.9g      10.2 mg     "
+},
+{
+  "id": "sec-solutions2-2",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Measuring concentration with percent composition "
+},
+{
+  "id": "sec-solutions2-3",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "concentration "
+},
+{
+  "id": "sec-solutions2-14",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-14",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Molarity "
+},
+{
+  "id": "sec-solutions2-15",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-15",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "molarity "
+},
+{
+  "id": "sec-solutions3",
+  "level": "1",
+  "url": "sec-solutions3.html",
+  "type": "Section",
+  "number": "9.3",
+  "title": "Solutions 3",
+  "body": " Solutions 3    Measuring equivalents of charge in solution   In medicine, the concentration of some solutions is measured using units of equivalents (Eq) . Equivalents is a way of measuring the amount of charge in a sample of chemical. Equivalents can be calculated as follows:     So if you have 2 moles of sulfate ions, then you have of sulfate. We can speak about the equivalents of a single ion or about the equivalents from a compound. If we are concerned about an ionic compound, then we calculate the equivalents of charge for each of the ions and then add them together. See the example below:  Calculate the number of equivalents in 2 moles of potassium sulfate.    Figure out the chemical formula if not provided         Figure out the number of moles and charge for each of the ions                  Solve for the number of Eq of both ions then add them together:             If 5.0g of potassium phosphate is dissolved into 150mL of water, what is the concentration of potassium phosphate in mEq\/L.    Figure out the formula for the compound         Convert from grams to moles         Calculate the charge and moles of each ion            Calculate the Eq of each ion and then add them together               Convert from Eq to mEq         Convert from mL to L         Divide mEq by L        Exercise 1:      How many Eq of K + do you have if you have 0.150 moles of KCl      How many Eq of oxide are in 2.0 moles of       Calculate the number of mEq of calcium ions in 0.050 moles of       How many mEq of magnesium chloride in 0.077 L of 0.110 M magnesium chloride      If 0.011 moles of sodium carbonate is dissolved in 0.28 L of water, what is the concentration of the sodium carbonate in mEq\/L?      Calculate the concentration of sodium chloride in mEq\/L if 0.15 g is dissolved into 750mL      Dilution calculations   It is common for solutions to become diluted in science and medicine. Dilution is what happens when more solvent is added to an existing solution. The solute amount remains the same, but the amount of solvent increases, and thus the concentration of the solute in the new solution is lower than it was previously. When dilutions occur, it is helpful to be able to determine what the new concentration of the final solution will be. Likewise, if you are trying to use dilution to prepare a solution with a desired concentration, then you need to know how much of the original solution and solvent you should mix. To aid in these calculations we have the following formula:     The C’s are concentration and the V’s are volume. C 1 and V 1 represent the concentration of the starting solution and the volume of it that was diluted. C 2 and V 2 represent the concentration of the final diluted solution and the volume of the final diluted solution. The units on the volumes can be any volume units, as long as the units of V 1 and V 2 are the same. Likewise, the units on C 1 and C 2 can be any concentration unit, as long as the units are the same.   Exercise 2:      17mL of 2.0M sodium chloride is diluted to a final volume of 350mL. What is the concentration of the diluted solution?      28 mL of 2.0 % m\/v sodium hydroxide is diluted to a final volume of 2.0L. What is the concentration of the diluted solution?      75 mL of 150.0 mg\/mL aspirin is mixed with 155mL of water. What is the new concentration?      You are trying to prepare 3.0L of 0.050M NaOH by diluting a 2.0M solution of NaOH. How many liters of 2.0M NaOH do you need to dilute?      You are trying to prepare 3.0L of 15mM NaOH by diluting a 1.0M solution of NaOH. How many liters of 1.0M NaOH do you need to dilute? How many liters of water will you need to add to that? Don’t worry about significant figures for this problem.     Key:   Exercise 1:      0.150 Eq      4.0 Eq      100 mEq      34mEq      160 mEq\/L      6.8 mEq\/L      Exercise 2:      0.097M      0.028% m\/v      49 mg\/mL      0.075 L      0.045 L of 1M NaOH needs to be mixed with 2.955 L of water.     "
+},
+{
+  "id": "sec-solutions3-2",
+  "level": "2",
+  "url": "sec-solutions3.html#sec-solutions3-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Measuring equivalents of charge in solution "
+},
+{
+  "id": "sec-solutions3-3",
+  "level": "2",
+  "url": "sec-solutions3.html#sec-solutions3-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "equivalents (Eq) "
+},
+{
+  "id": "sec-solutions3-38",
+  "level": "2",
+  "url": "sec-solutions3.html#sec-solutions3-38",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Dilution calculations "
+},
+{
+  "id": "sec-solutions3-39",
+  "level": "2",
+  "url": "sec-solutions3.html#sec-solutions3-39",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "diluted "
+},
+{
+  "id": "sec-solutions4",
+  "level": "1",
+  "url": "sec-solutions4.html",
+  "type": "Section",
+  "number": "9.4",
+  "title": "Solutions 4e",
+  "body": " Solutions 4e    Molarity in reactions   We can do chemical reactions using reactants that are dissolved in solution. We’ve learned one example of this previously when we learned about precipitation reactions. In our next chapter, we will learn about acid-base reactions which often take place in solution as well. Because of this, it is important to be able to carry out calculations involving these reactions. Solution reactions are particularly important because of titrations , chemical reactions that are carried out to measure the amount (or concentration) of a molecule or ion in a solution. Titrations are very useful in chemistry, allowing chemists to measure the quantities such as the amount of pollutants in drinking water.  Thankfully, carrying out these sorts of calculations proceeds in a similar way as other reaction calculations that we’ve done previously. The difference is in the start point and end point. Instead of starting off with a mass of reactant, we will start off with a molarity and volume. We can use this information to calculate the number of moles of the reactant using dimensional analysis or the formula below:      Once we know the number of moles of reactant, we can change this to moles of another reactant or moles of product by using a mole-mole conversion factor derived from the balanced chemical equation. From there, the number of moles of that substance can be converted to mass using the molar mass or to molarity using the volume. See the figure and example below.  Example. If 23.5mL of 0.988 M NaOH is needed to neutralize (fully react with) 7.50 mL of HCl, then what is the molarity of that HCl solution?       We have molarity and volume of one component in a reaction and are being asked for the molarity of the other reactant. The first step is to figure out moles of NaOH.    Molarity x Liters= moles. Our volume is in mL. We need to convert this to L before using it:                We need to convert from moles of NaOH to moles of HCl using a mole-mole conversion factor         Molarity=moles\/Liters. We need to first change our volume to L, then use the equation.           Exercise 3:      Consider the reaction below. If 10.0 mL of 0.125 M lead (II) nitrate reacts with an excess of NaCl, how many g of lead (II) chloride would you expect?           Consider the reaction below. If 4.75 mL of 0.0500 M NaOH is needed to neutralize (completely react) with 20.00 mL of HCl, then what is the molarity of the HCl solution?           Consider the reaction below. If 27.75 mL of 0.1200 M NaOH is needed to neutralize (completely react) with 20.00 mL of  , then what is the molarity of the  solution?           A sample of water is contaminated with lead (II) nitrate. 10.0 L of the water is mixed with an excess of NaCl to precipitate the lead as lead (II) chloride according to the reaction below. 0.0751 g of lead (II) chloride is obtained. What was the concentration of the lead (II) nitrate in the water sample in units of µM?           3.5 L of 0.050 M iron (III) chloride reacts with an excess of sodium carbonate. How many grams of precipitate would you expect?      Osmosis and dialysis   If two solutions (or one solution and a pure solvent) are separated by a semi-permeable membrane, then dialysis and osmosis can occur. What is a semi-permeable membrane? It is a membrane that has very tiny holes in it that of a certain size. This allows very small molecules and ions to travel across the membrane (ex. water, small covalent molecules like glucose, and soluble salts can cross the membrane) while larger molecules and objects can’t (ex. proteins and blood cells cannot cross because they can’t fit through the tiny holes). Diffusion is a term that describes the movement of molecules in a solution. In diffusion, molecules generally move from an area with a high concentration to an area with low concentration.  Dialysis is a term that describes the diffusion of solute molecules across a semipermeable membrane from the side with a high concentration to an area with a low concentration. Osmosis describes the movement of water (the solvent) across the semi-permeable membrane, and will be discussed in a little bit.  As stated above, solute will move via diffusion from an area of low concentration to an area of high concentration. This will continue until the concentrations are the same on both sides of the membrane. So if two solutions, one containing 1.0 M NaCl and the other containing 0.50 M NaCl are separated by a semi-permeable membrane, then the NaCl will move from the side with 1.0M NaCl towards the side with 0.50M NaCl. If both sides have the same volume , then this will continue until the concentration on both sides is the average of the two starting concentrations, 0.75M NaCl (IMPORTANT NOTE: this is only the case if the volumes are the same on both sides of the membrane. In this class, we will not do the more complex calculations where the volumes are different on both sides of the membrane).  Osmosis is similar to dialysis, but it describes the movement of the solvent (water) instead of the solute. Similar to dialysis, osmosis is governed by diffusion and water will move from an area with a high concentration of water to a low concentration of water. Why am I emphasizing that the movement depends on the concentration of water? This is because concentrations usually focus on the concentration of the solute, rather than the solvent. How are we supposed to figure out the concentration of the water then? We can qualitatively determine the relative concentration by keeping in mind this rule: the concentration of solute and the concentration of solvent are inversely proportional…meaning that if the concentration of solute is high, then the concentration of solvent is low. Why is this? It’s because if there is a lot of solute, then it is taking up space in the solution that would otherwise have been occupied by solvent…thus there is less solvent in the same amount of space.  In osmosis, water will flow from the side with a low solute concentration to the side with a high solute concentration, because that is the same as saying that the water is flowing from the side with a high water concentration to the side with a low water concentration. So if two solutions, one containing 1.0 M NaCl and the other containing 0.50 M NaCl are separated by a semi-permeable membrane, then the water will move from the side with 0.5 M NaCl towards the side with 1.0M NaCl, the opposite direction of the solute movement. The water pressing up against the membrane as it tries to cross applies a force to the membrane called osmotic pressure . In extreme cases, this pressure can be so strong that it causes the semi-permeable membrane to break.  Our body’s cells are surrounded by a semi-permeable cell membrane. Thus dialysis and osmosis are important considerations in medicine. This is particularly true when administering fluids directly into the bloodstream (ex. IV fluids). Doctors and nurses need to make sure that the osmotic pressure of the fluid being administered balances the osmotic pressure inside of the patient’s cells. Solutions where the osmotic pressure is balanced with the pressure inside of a cell are called isotonic solutions. Two common isotonic solutions used in medicine are 0.9% m\/v sodium chloride and 5% w\/v glucose. Solutions that contain too little solute (and thus a higher than normal concentration of water) are called hypotonic solutions . These solutions will cause water to rush into cells, causing them to swell and, in severe cases, to burst. If the concentration of solute is higher than normal, then the solution is a hypertonic solution. If a hypertonic solution is administered, water will move out of blood cells, causing them to shrink and wrinkle in appearance, a phenomenon called crenation.  In medicine, blood dialysis is used when a patient has non-functional kidneys. Our kidneys normally filter toxins from our blood stream and help to maintain ion and water balance. When the kidneys don’t work, then the blood must be filtered artificially. In blood dialysis, the patient’s blood is removed from their body and passed over a semi-permeable membrane. On the other side of the membrane is an isotonic solution that is free from the toxins that are found in blood. The semipermeable membrane prevents large proteins and blood cells from leaving the blood. The toxins in the blood, however, can cross the membrane and flow from the area with high concentration (the blood) to the area with low concentration (the dialysis fluid on the other side of the membrane), thus eliminating them from the patient’s body.   Exercise 4:      Chamber A contains 2L of 3.0 M glucose and Chamber B contains 2L of 1.0 M glucose. These chambers are separated by a semipermeable membrane.      Which direction (A to B or B to A) will glucose flow?      What is this called?        Which direction will water flow?      What is this called        What will the final concentration of glucose be in both chambers?        Classify the following solutions as isotonic, hypertonic, or hypotonic with respect to blood      3% m\/v glucose      1.5 % m\/v NaCl      0.9 % m\/v NaCl      3.0 g of glucose dissolved in 75 mL of water        Let’s assume that a patient’s body contains 6.0L of blood and that their blood contains 150 µM of a particular toxin. If their blood is dialyzed against 6.0L of isotonic fluid, then what will the concentration of toxin be after the dialysis?      The dialysis is immediately repeated using a new batch of the isotonic fluid. What is the new concentration of toxin in the patient’s blood?      What if it is repeated a third time?       Key:   Exercise 3:      0.348 g      0.0119 M      0.08325 M      27.0 µM      26 g      Exercise 4:      Chamber A contains 2L of 3.0 M glucose and Chamber B contains 2L of 1.0 M glucose. These chambers are separated by a semipermeable membrane.      A to B      Dialysis        B to A      osmosis        2.0 M        Classify the following solutions as isotonic, hypertonic, or hypotonic with respect to blood      hypotonic      hypertonic      isotonic      hypotonic (4% m\/v)        75µM      38 µM      19 µM       "
+},
+{
+  "id": "sec-solutions4-2",
+  "level": "2",
+  "url": "sec-solutions4.html#sec-solutions4-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Molarity in reactions "
+},
+{
+  "id": "sec-solutions4-3",
+  "level": "2",
+  "url": "sec-solutions4.html#sec-solutions4-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "titrations "
+},
+{
+  "id": "sec-solutions4-26",
+  "level": "2",
+  "url": "sec-solutions4.html#sec-solutions4-26",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Osmosis and dialysis "
+},
+{
+  "id": "sec-solutions4-27",
+  "level": "2",
+  "url": "sec-solutions4.html#sec-solutions4-27",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Diffusion Dialysis Osmosis "
+},
+{
+  "id": "sec-solutions4-30",
+  "level": "2",
+  "url": "sec-solutions4.html#sec-solutions4-30",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "osmotic pressure "
+},
+{
+  "id": "sec-solutions4-31",
+  "level": "2",
+  "url": "sec-solutions4.html#sec-solutions4-31",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "isotonic solutions. hypotonic solutions hypertonic solution. "
+},
+{
+  "id": "sec-acids-bases1",
+  "level": "1",
+  "url": "sec-acids-bases1.html",
+  "type": "Section",
+  "number": "10.1",
+  "title": "Acids and Bases 1",
+  "body": " Acids and Bases 1   What is an acid\/base?   There are multiple definitions of acids and bases which all generally say the same things, but with different ways of looking at it. These definitions are summarized in the table below:         Name  Definition of an acid  Definition of a base    Arrhenius definition  Produces H +  Produces OH -    Brønstead-Lowry definition  Donates H +  Accepts H +     Compounds like HCl are acids because they are ionic compounds and when we place them into water, the ions will dissociate producing H + and Cl - . Because HCl produces H + in water, it fits the definition of an Arrhenius acid. However, H + doesn’t exist for very long in water. It rapidly reacts with water to product hydronium ion , H 3 O + . Thus the HCl actually donated an H + to water in this reaction, fitting the Brønstead-Lowry definition of an acid             Green letters on a black background Description automatically generated   Sodium hydroxide fits the definition of a base. When it is dissolved in water, it quickly dissociates into ions, Na + and OH - . As a result, it fits the definition of an Arrhenius base since the concentration of hydroxide increases. It also fits the definition of a Brønstead-Lowry base, but this takes a bit more effort to see. This is because the hydroxide that is produced can accept a H + forming water.           Acids and bases don’t just react with water, they can be mixed allowing them to react with one another. In these cases, often the Brønstead-Lowry definition is easier to use to identify an acid from a base. Consider the reaction shown below:     In this reaction, the NH 3 (ammonia) accepts an H + from CH 3 CO 2 H (acetic acid). Thus ammonia is acting as a base and acetic acid is an acid because it donates an H + .  What about the chemical structure of a molecule make it into an acid or a base? Why is CH 4 not an acid while HCl is? Hold that question for now. It will be discussed more in the conjugate acids and bases section later in this lesson.   Exercise 1:      Identify the acid and base in the following reactions                     C is the reverse reaction of B. The nitrogen containing compound in b was a\/an _______(acid\/base). In the reverse reaction, the nitrogen compound was a\/an ______(acid\/base). Explain why this makes sense                       Compare your answers in E and F, focusing on water. What interesting property does water possess?          Draw the Lewis structure of hydronium ion.      Naming acids and bases   We already know how to name the common bases that we’ll see in this chapter. Most of the bases we’ll be discussing are ionic compounds that contain the hydroxide ion. We’ll be naming those compounds in the same way that we’ve named them in the past. There is one additional base that we’ll frequently encounter in this chapter, NH 3 , which is called ammonia (you should learn this). We’ll learn about other nitrogen containing bases in later chapters as well as how to name them.  Naming acids follows different rules than we’ve used previously. When naming acids, it depends on if the acid is 1) composed of two elements, 2) contains a polyatomic ion, or 3) is an organic acid (more on these in a later chapter). Acids that contain only two elements include HCl, HBr, and HI. For these acids, we name them by starting with the name of the anion (ex. HCl—we start with chloride). We then drop the -ide ending and replace it with “-ic acid”. Lastly we add “hydro-“ as a prefix. So, HCl is hydrochloric acid.  If the acid contains a polyatomic ion, then we name the anion and drop the -ate ending from the name (we won’t worry about polyatomic ions with other endings). We then add on “ic-acid” and in some cases instead add “-uric acid” or “-oric acid” (if the name of the polyatomic ion ends in an “f” sound; ex. -fate or -phate).  Additionally, some acids are polyprotic acids, meaning that they have more than one H+ that can be donated to a base. Phosphoric acid, for example, is the acid produced from the phosphate ion, . The acid thus must have 3 H + added to fully neutralize the 3 - charge, giving the formula H 3 PO 4 . Previously, we learned that there are other forms of the phosphate anion that has one or two H + s added on. and are called hydrogen phosphate and dihydrogen phosphate respectively. These are also acids since they have one or more H + s to donate, but since they are also polyatomic ions, their name is simply the name of the polyatomic ion.  To figure out the formula for an acid, we need to know the anion that it is paired with, both its formula and its charge. We then only need to pair it with the appropriate number of H + ions in order to have the number of positive and negative charges be equal.   Exercise 2:      What is the name of the following acids?      HBr      HI      HNO 3      H 3 PO 4      H 2 SO 4             What is the name of the following bases?      KOH      Sr(OH) 2      NH 3            is listed as an acid in problem 1g and a base in problem 2d. How can it be both?          What is the correct chemical formula for the following acids or bases?      Calcium hydroxide      Carbonic acid      Acetic acid      Hydrochloric acid      Magnesium hydroxide      Cesium hydroxide        What is the correct acid name if H + is added to the following polyatomic ions to turn them into acids:      Citrate      Aspartate      Oxalate        Strengths of acids and bases   When an acid or base is dissolved into water, the compound dissociates into ions (or produces ions in other cases). This process can be written as a chemical reaction. See the example below:     In a previous chapter, we learned that all chemical reactions are reversible and we learned about equilibrium. The same is true for the dissociation of an acid or base in water. Some of these dissociation reactions have equilibriums that lie so far towards the products that they are nearly irreversible reactions. When these acids\/bases dissolve into water, they very nearly completely dissociate into their ions. These compounds are said to be strong acids and strong bases. There is a list of strong acids and strong bases that you need to memorize:  Strong acids: .  Strong bases: group I and II metals paired with hydroxide in an ionic compound (ex. NaOH)   Weak acids and weak bases are ones where the compound dissociates into ions when put into water, but not completely. There is still a measurable amount of the starting compound left over. This is because the reverse reaction still occurs to an appreciable extent. These weak acids and bases partially dissociate into ions when dissolved. Thankfully there is no list of weak acids\/bases that you need to memorize. All you need to know is that if you’re dealing with an acid or base that isn’t a strong acid or base, that it will be a weak one instead.   Exercise 3:      Write the list of strong acids that you need to know.      Try to figure out a mneumonic device to help you remember this list. Share it with a classmate.        Label the following compounds as strong or weak bases      Fe(OH) 2      Ca(OH) 2      KOH      Sr(OH) 2      Mn(OH) 3             Write a reaction equation for phosphoric acid losing…      One proton      Two protons      Three protons        Consider the acid base reaction shown below:         If the following reaction is at equilibrium, which way will the reaction shift if…      More   is added      More   is added      More   is added      HCl is added (think about what HCl forms when dissolved into water)     Key:   Exercise 1:      Identify the acid and base in the following reactions                     Base, acid; once a base takes up an H+ it now has an extra one that it can donate                       Water can be both an acid and a base          Structure is in the reading      Exercise 2:      What is the name of the following acids?      Hydrobromic acid      Hydroiodic acid      Nitric acid      Phosphoric acid      Sulfuric acid      Hydrogen carbonate or bicarbonate        What is the name of the following bases?      Potassium hydroxide      Strontium hydroxide      Ammonia      Hydrogen carbonate or bicarbonate      It can accept another H+ becoming carbonic acid; it can also donate an H+ become carbonate          What is the correct chemical formula for the following acids or bases?           Carbonic acid       Acetic acid       Hydrochloric acid HCl      Magnesium hydroxide       Cesium hydroxide CsOH        What is the correct acid name if H + is added to the following ions to turn them into acids:      Citric acid      Aspartic acid      Oxalic acid        Exercise 3:      Write the list of strong acids that you need to know.      .     Try to figure out a mneumonic device to help you remember this list. Share it with a classmate.        Label the following compounds as strong or weak bases      Weak base      Strong base      Strong base      Strong base      Weak base             Write a reaction equation for phosphoric acid losing…                       Consider the acid base reaction shown below:         If the following reaction is at equilibrium, which way will the reaction shift if…      More   is added; to the right      More   is added; to the left      More   is added; to the left      HCl is added (think about what HCl forms when dissolved into water); to the left     "
+},
+{
+  "id": "sec-acids-bases1-2",
+  "level": "2",
+  "url": "sec-acids-bases1.html#sec-acids-bases1-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "What is an acid\/base? "
+},
+{
+  "id": "sec-acids-bases1-4",
+  "level": "2",
+  "url": "sec-acids-bases1.html#sec-acids-bases1-4",
+  "type": "Table",
+  "number": "10.1.1",
+  "title": "",
+  "body": "       Name  Definition of an acid  Definition of a base    Arrhenius definition  Produces H +  Produces OH -    Brønstead-Lowry definition  Donates H +  Accepts H +    "
+},
+{
+  "id": "sec-acids-bases1-5",
+  "level": "2",
+  "url": "sec-acids-bases1.html#sec-acids-bases1-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "hydronium ion "
+},
+{
+  "id": "sec-acids-bases1-9",
+  "level": "2",
+  "url": "sec-acids-bases1.html#sec-acids-bases1-9",
+  "type": "Figure",
+  "number": "10.1.2",
+  "title": "",
+  "body": "  Green letters on a black background Description automatically generated  "
+},
+{
+  "id": "sec-acids-bases1-20",
+  "level": "2",
+  "url": "sec-acids-bases1.html#sec-acids-bases1-20",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Naming acids and bases "
+},
+{
+  "id": "sec-acids-bases1-28",
+  "level": "2",
+  "url": "sec-acids-bases1.html#sec-acids-bases1-28",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Strengths of acids and bases "
+},
+{
+  "id": "sec-acids-bases1-31",
+  "level": "2",
+  "url": "sec-acids-bases1.html#sec-acids-bases1-31",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "strong acids strong bases. "
+},
+{
+  "id": "sec-acids-bases1-34",
+  "level": "2",
+  "url": "sec-acids-bases1.html#sec-acids-bases1-34",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Weak acids weak bases "
+},
+{
+  "id": "sec-acids-bases2",
+  "level": "1",
+  "url": "sec-acids-bases2.html",
+  "type": "Section",
+  "number": "10.2",
+  "title": "Acids and Bases 2",
+  "body": " Acids and Bases 2    Conjugate acid\/base pairs   The dissociation of an acid or base is a reversible reaction (excepting strong acids and bases). If acetic acid functions as an acid, donating its H + to something else, then acetate results as a product. In the reverse reaction, that acetate ion would accept an H + once again becoming acetic acid. Thus acetate would be functioning as a base. Every acid produces a base after donating its H + . Likewise, every base produces an acid after accepting an H + , because the reverse reaction would have the product donating the H + that the base form had just received.  Every acid will therefore form a base in a chemical reaction. This is called the conjugate base of that acid. Together they form a conjugate acid-base pair , two molecules whose only difference is the presence or absence of an H + . Likewise every base will form a conjugate acid after accepting an H + in a reaction, and they together for a conjugate acid-base pair.  What about the chemical structure of a molecule make it into an acid or a base? Why is CH 4 not an acid while HCl is? The truth is that every compound with a hydrogen atom is potentially an acid, but some of them are so weak that we don’t consider them to be an acid (CH 4 is an example of this). The strength of an acid is related to the stability of its conjugate base. If the conjugate base is very stable, then it is easy for the acid to lose an H + and form its conjugate base. If the conjugate base is an anion that we’ve seen before (monoatomic or polyatomic), then it’s stable. In the case of , its conjugate base would be . This is unstable because it would put a negative charge on a carbon atom, something we’ve never seen before (reminder: carbon isn’t very electronegative and thus wouldn’t like to have excess electrons). Negative charges can exist on highly electronegative elements such as the halogens and oxygen. If a molecule has a positive charge and has a hydrogen atom, it can often act as an acid since losing the H + can stabilize the molecule by also removing the positive charge (ex.   In order for a molecule to act as a base, the molecule must have a lone pair of electrons in order to form a new bond with the H + that it would accept. In addition, the conjugate acid must be stable. Nitrogen and oxygen atoms often have lone pairs of electrons and are especially good at accepting H + . Also, molecules that have a negative charge and lone pairs of electrons are often good bases because if they accept an H + , the negative charge will get neutralized (ex. ).   Exercise 4:      For the following pairs of compounds, identify them as a conjugate acid-base pair or not a conjugate acid-base pair                                      For the following pairs of compounds, the first compound is a reactant and the second compound is a product. Identify the first compound as an acid or base and the 2 nd compound as a conjugate acid or conjugate base.            \/        \/        \/       \/        Which of the following compounds is likely to be a good acid, a good base, or neither and why?                                      Water as an acid and base   We already learned that acids donate H + or increase the concentration of H + in solution. This is a bit of an oversimplification. In water, H + essentially doesn’t exist, because it very rapidly undergoes a reaction with water that is shown below:     H 3 O + is a polyatomic ion called hydronium ion . Chemists will typically use H+ and H3O+ interchangeably, so just be aware that H + really means H 3 O + if the acid is in water. Another term to be aware of is that H + is sometimes called a “proton”. Why? Well most hydrogen atoms have 1 proton, no neutrons, and 1 electron…take away the electron to form H + and all you have leftover is 1 proton.  We’ve discussed the definition of an acid and a base and have seen examples of what happens when acids or bases are mixed with water. In this section, we’re going to have a bit more formal treatment of what happens when an acid or base is mixed with water. See the chart below:          What is being mixed with water  Water acts as a…  Water becomes…  Example reaction    Acid (Strong or weak)  Base  Hydronium ion     Strong Base  Acid  Hydroxide ion         Same as:     Weak Base  Acid  Hydroxide ion             Note: when nitrogen containing bases are mixed with water, the product is a salt with hydroxide. The base accepts a proton from water and forms an ionic compound with the leftover hydroxide as shown in the table above and the additional reactions below:      So nitrogen containing bases that are aqueous can be written as salts with hydroxide. However, they are weak bases so the reactant form also remains. Either form is appropriate to write as shown in the table below:         Nitrogen containing base examples  Form 1  Form 2                    Since water can act both as an acid and a base, we can write the following reaction where one water is an acid and another is a base. This reaction is continually happening in a sample of liquid water:     So in a sample of water, there is always some hydronium ion and some hydroxide ion. If water is neutral (ie. not acidic or basic), then the concentration of hydroxide and hydronium ions are equal. If water is acidic (for instance, if an acid is added to water), then extra hydronium ion has been produced and the amount of hydronium ion exceeds the amount of hydroxide ion. If the water is basic, (for instance, if a base is added to water), then extra hydroxide ions have been produced and the amount of hydroxide exceeds the amount of hydronium ions. There is an inverse relationship between the amount of hydroxide and hydronium ions in solution. If we multiply their concentrations (measured in molarity), we get a constant, K w , which has a value of 1x10 -14 at 25 o C. This is shown by the equation below. In the equation, the brackets indicate that these are the concentrations of hydronium and hydroxide, measured in molarity. Note: it is crucial that you use the concentrations in molarity and not any other unit for this calculation. K w is a unitless value (even though it seems like it should have units of M 2 ) but the reason why is beyond the scope of this course.     This equation can be used to find the concentration of hydroxide or hydronium ion, if we’re given the concentration of the other one. It can also be used to find the concentration of hydronium and hydroxide ions in a neutral solution as shown below:  Since it’s neutral,   Therefore, becomes   So    Exercise 1:     Write the equation for adding the following compounds to water:    Ca(OH) 2     H 2 SO 4 (write the reaction for it losing only one proton)    H 2 SO 4 (write the reaction for it losing two protons)    NH 2 CH 2 CH 3       Determine the concentration of hydronium ion if the concentration of hydroxide is:    3.3 x 10 -9 M    0.0003 M    0.01 M      Look at your answers in #2. What happens to the hydronium concentration as the hydroxide concentration rises?    Determine the concentration of hydroxide ion if the concentration of hydronium is:    3.3 x 10 -9 M    0.0003 M    0.01 M      Look at your answers in #2 and #4. What do you notice?    Look at your answers in #4. What happens to the hydroxide concentration as the hydronium concentration rises?    At 0 o C, the value of K w is 1.14 x 10 -15 . What is the concentration of hydronium ion in neutral water at 0 o C?    Key:   Exercise 4:      For the following pairs of compounds, identify them as a conjugate acid-base pair or not a conjugate acid-base pair      ; yes      ; no      ; yes      ; yes      ; no      ; yes        For the following pairs of compounds, the first compound is a reactant and the second compound is a product. Identify the first compound as an acid or base and the 2 nd compound as a conjugate acid or conjugate base.       base\/conjugate acid       \/   base\/conjugate acid       \/   base\/conjugate acid       \/   acid\/conjugate base      \/  base\/conjugate acid        Which of the following compounds is likely to be a good acid, a good base, or neither and why?       acid       base       neither       acid       base       base        Exercise 1:     Write the equation for adding the following compounds to water:                          Determine the concentration of hydronium ion if the concentration of hydroxide is:    3.0 x 10 -6 M    3 x 10 -11 M    1x10 -12 M      It decreases    Determine the concentration of hydroxide ion if the concentration of hydronium is:    3.0 x 10 -6 M    3 x 10 -11 M    1x10 -12 M      The values are the same for the same starting concentrations    It decreases    3.38 x 10 -8 M    "
+},
+{
+  "id": "sec-acids-bases2-2",
+  "level": "2",
+  "url": "sec-acids-bases2.html#sec-acids-bases2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Conjugate acid\/base pairs "
+},
+{
+  "id": "sec-acids-bases2-4",
+  "level": "2",
+  "url": "sec-acids-bases2.html#sec-acids-bases2-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "conjugate base conjugate acid-base pair conjugate acid "
+},
+{
+  "id": "sec-acids-bases2-9",
+  "level": "2",
+  "url": "sec-acids-bases2.html#sec-acids-bases2-9",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Water as an acid and base "
+},
+{
+  "id": "sec-acids-bases2-12",
+  "level": "2",
+  "url": "sec-acids-bases2.html#sec-acids-bases2-12",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "hydronium ion "
+},
+{
+  "id": "sec-acids-bases2-14",
+  "level": "2",
+  "url": "sec-acids-bases2.html#sec-acids-bases2-14",
+  "type": "Table",
+  "number": "10.2.1",
+  "title": "",
+  "body": "        What is being mixed with water  Water acts as a…  Water becomes…  Example reaction    Acid (Strong or weak)  Base  Hydronium ion     Strong Base  Acid  Hydroxide ion         Same as:     Weak Base  Acid  Hydroxide ion           "
+},
+{
+  "id": "sec-acids-bases2-18",
+  "level": "2",
+  "url": "sec-acids-bases2.html#sec-acids-bases2-18",
+  "type": "Table",
+  "number": "10.2.2",
+  "title": "",
+  "body": "       Nitrogen containing base examples  Form 1  Form 2                   "
+},
+{
+  "id": "sec-acids-bases3",
+  "level": "1",
+  "url": "sec-acids-bases3.html",
+  "type": "Section",
+  "number": "10.3",
+  "title": "Acids and Bases 3",
+  "body": " Acids and Bases 3    Neutralization reactions   The other class of reaction that we’ve seen before in this chapter is a neutralization reaction. Here we’ll cover it in more detail. If the neutralization reaction is between a strong acid and strong base, then the products will be water and a salt as shown in the equations below:  Chemical equation:     Ionic equation:     Net ionic equation:     Any neutralization reaction involving a strong acid reacting with a strong base will have an ionic equation of:     When weak acids or bases are used in a neutralization reaction, we can write chemical equations in different ways. For ammonia, we can write it as or . Also, for weak acids, they somewhat dissociate (ie. are somewhat ionic) so they can be written in two different ways in an ionic equation(ex. . Using these different forms as reactants in a neutralization reaction will result in different equations. Neither one is right or wrong…in actuality, both sets of equations are happening all at the same time.          Way 1  Way 2    Chemical equation      Ionic equation                  Net ionic equation       Way 3  Way 4    Chemical equation      Ionic equation                  Net ionic equation             The first way of writing the above reactions emphasizes that the ammonia can accept a proton from solution, forming the conjugate acid, ammonium ion. The second way highlights the fact that in this reaction, the acid and base are neutralized. The third way, emphasizes that hydrofluoric acid can directly transfer a proton to ammonia. The fourth way focuses on the ability of HF to function as a weak acid, neutralizing hydroxide in solution.  Don’t be daunted by the wide variety of reactions shown above. I’m showing these to you to highlight the many ways that you might see reactions written and to emphasize that, when we mix weak acids and weak bases, there are numerous chemical reactions that are occurring at the same time.  We can figure out any of the reactions written above by doing the following:    Start with the ionic equation!    Recognize what is ionic and what is covalent. Dissociate the ions if the compound is ionic.    Recognize if you have a strong acid\/base or a weak acid\/base    If it’s a strong acid\/base, always dissociate the ions    If it’s a weak acid\/base, you’ll be directed to dissociate it or not        Transfer an H + from the acid to the base and write the resulting products    If you have H+, transfer that    If you have OH-, use it as the H+ acceptor    If you don’t have H+, remove an H+ from the weak acid that you were directed to not dissociate    If you don’t have OH-, transfer the H+ to the weak base that you were directed to not dissociate      Write an ionic equation, paying attention to how many of each ion you need for the charges to balance appropriately. Also, make sure that both sides of the equation contain all of the ions. You should now be able to combine the ions together to create the chemical equation from the ionic equation or to remove ions that are the same in the reactants and products, thus creating a net ionic equation    See the example below:  Write a chemical equation, ionic equation, and net ionic equation for the reaction between sodium hydrogen phosphate and potassium hydroxide. Do not dissociate the hydrogen carbonate ion in the equations.    Work on the ionic equation    Sodium hydrogen phosphate has sodium ions and hydrogen phosphate ions:       The hydrogen phosphate ion can be an acid (it has a proton it can donate, becoming phosphate) or a base (it can accept a proton becoming dihydrogen phosphate). In either case, it is a weak acid\/base and we’re directed in the problem to not dissociate it further. In this problem, it will be a weak acid, because our other reactant is a strong base.  We should recognize that potassium hydroxide is a strong base and immediately dissociate it as shown       We transfer a proton from the acid to the base. In this case the hydrogen phosphate transfers a proton to hydroxide forming the products:         We can start writing the ionic equation by writing the reactants and products:       We need to recognize that we need two sodium ions to balance the -2 charge of hydrogen phosphate. The +1 charge of the potassium already balances the -1 charge of hydroxide:     Lastly, we should make sure that the sodium and potassium ions are still there in the products…they didn’t just vanish!     And that’s our ionic equation! We can now combine the ions to create the chemical equation:     We can also eliminate ions that are the same on both sides of the ionic equation to give the following net ionic equation:      Exercise 2:      Write a balanced chemical reaction for the following reactions between strong acids and strong bases:      KOH and HI      H 2 SO 4 (only the first H + leaving) with Ca(OH) 2      Sr(OH) 2 and HCl      HNO 3 and RbOH        What is the net ionic equation for all of the reactions in #1?      Write an ionic equation for the following reactions:      NH 3 with sodium hydrogen sulfate (don’t allow the ammonia or hydrogen sulfate to dissociate)      NH 4 OH with sodium hydrogen sulfate (allow the hydrogen sulfate and ammonium hydroxide to dissociate)      NH 4 OH with nitric acid (allow the ammonium hydroxide to dissociate)      Phosphoric acid and sodium acetate (Don’t allow the phosphoric acid to dissociate or acetate to dissociate)      Acetic acid and sodium dihydrogen phosphate (Allow the acetic acid to dissociate but not the dihydrogen phosphate)        For the reactions in #3, write a balanced chemical equation      For the reactions in #3, write a net ionic equation      pH   When scientists describe how acidic or basic a solution is, we could report the concentration of hydronium ion or hydroxide ion. However, because the numbers are so small and usually written in scientific notation, this becomes quite cumbersome. To solve this problem, we instead often transform the concentration of hydronium ion into a pH value using the formula below:     This version of the equation can be used to find the pH value from a concentration of hydronium ion (which MUST be molarity). We can figure out the pH of a neutral solution as shown:     pH values lower than 7 are said to be acidic solutions. pH values above 7 are basic solutions. The reason why will be determined as a part of your exercises.  In some cases, we’ll need to figure out the concentration of hydronium ion from a pH value. This requires rearrangement of the pH equation using algebra skills. The tricky part of this is that we need to ‘undo’ the log function. This is done by taking 10 and raising it to the power of everything on that side of the equation as shown below:               Exercise 3:      If the concentration of hydronium ion is 0.0044M, calculate the pH of the solution      If the concentration of hydroxide ion is 0.0044M, calculate the pH of the solution (hint: first calculate the hydronium ion concentration like we did previously)      If the pH of a solution is 4.3, calculate the hydronium ion concentration and the hydroxide ion concentration. Which is greater?      Repeat the same calculations, but at a pH value of 9.2.        If 1.00 g of HCl is added to 2.0 L water, what is the new pH?      Step 1: How many moles of HCl was added? How many moles of hydronium was added? How much hydronium ion is present in the water (you can ignore the 1x10 -7 M hydronium that was already there…for these problems it is an insignificant amount)      Step 2: Calculate the molarity of hydronium ion      Step 3: Calculate the pH        If 1.00g of NaOH is added to 0.59 L of water, what is the new pH?      Step 1: How many moles of NaOH was added? How many moles of hydroxide was added? How much hydroxide ion is present in the water (you can ignore the 1x10 -7 M hydroxide that was already there…for these problems it is an insignificant amount)      Step 2: Calculate the molarity of hydroxide ion      Step 3: Calculate the molarity of the hydronium ion      Step 4: Calculate the pH        Calculate the pH of neutral water at 0 degrees Celsius where the value of K w is 1.14 x 10 -15     Key:   Exercise 2:      Write a balanced chemical reaction for the following reactions between strong acids and strong bases:                                 Write an ionic equation for the following reactions:                                 For the reactions in #3, write a balanced chemical equation                                 For the reactions in #3, write a net ionic equation                                 Exercise 3:      2.4      11.6      [hydronium]=5.0E-5 M, [hydroxide]=2.0E-10 M, hydronium ion concentration is higher      [hydronium]=6.3E-10 M, [hydroxide]=1.6E-5 M, hydroxide ion concentration is higher        If 1.00 g of HCl is added to 2.0 L water, what is the new pH?      0.0274 moles hydronium      0.014 M      1.9        If 1.00g of NaOH is added to 0.59 L of water, what is the new pH?      0.0250 moles hydroxide      0.042 M      2.4E-13 M      13        7.47     "
+},
+{
+  "id": "sec-acids-bases3-2",
+  "level": "2",
+  "url": "sec-acids-bases3.html#sec-acids-bases3-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Neutralization reactions "
+},
+{
+  "id": "sec-acids-bases3-13",
+  "level": "2",
+  "url": "sec-acids-bases3.html#sec-acids-bases3-13",
+  "type": "Table",
+  "number": "10.3.1",
+  "title": "",
+  "body": "        Way 1  Way 2    Chemical equation      Ionic equation                  Net ionic equation       Way 3  Way 4    Chemical equation      Ionic equation                  Net ionic equation            "
+},
+{
+  "id": "sec-acids-bases3-39",
+  "level": "2",
+  "url": "sec-acids-bases3.html#sec-acids-bases3-39",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "pH "
+},
+{
+  "id": "sec-acids-bases4",
+  "level": "1",
+  "url": "sec-acids-bases4.html",
+  "type": "Section",
+  "number": "10.4",
+  "title": "Acids and Bases 4",
+  "body": " Acids and Bases 4    Buffers    Buffers are substances that can be added to water to make the water resistant to changes in pH. A buffer consists of either a weak acid and its conjugate base or a weak base and its conjugate acid. How does this mixture of substances make the solution more resistant to changes in pH?  When a strong acid is added to water, it will form hydronium ions and the concentration of the hydronium ions formed will be the same as the concentration of the acid that was just added, because a strong acid completely dissociates upon addition to water. Likewise if a strong base is added to water, it will form the number of hydroxide ions that are contained in that substance that was added, again because a strong base will completely dissociate when added to water. The additional hydronium ion or hydroxide ion will then directly affect the pH of the solution.   When a buffer is present, the solution contains an additional solute that is an acid and another that is a base. These acids and bases are capable of reacting with any base or acid that might get added to the solution, helping to neutralize it. The picture below might help.  Every buffer has a buffering capacity . This is the amount of additional acid or base that can be added without exceeding the amount of buffering compounds. So if a buffered solution contains 0.1M weak base and 0.2M of its conjugate acid, then the solution could handle the addition of up to 0.1M hydronium ions before running out of weak base (because the weak base will react with the hydronium ions) and up to 0.2M hydroxide ions (because the hydroxide would react with the conjugate acid). Amounts of hydronium above 0.1M would exceed the buffering capacity of the solution as would addition of more than 0.2M hydroxide ion.   Exercise 4:      Which of the following mixtures of chemicals would make good buffers?            \/                      \/             Create a drawing similar to the figure above that shows how a buffer can resist changes to pH caused by adding in strong base.      If a solution contains 0.11 moles of weak base and 0.33 moles of weak acid, then how many moles of nitric acid could be added without exceeding the buffering capacity?      How many moles of sodium hydroxide could be added without exceeding the buffering capacity?      How many moles of calcium hydroxide could be added without exceeding the buffering capacity?        Acid-Base titration review   An acid base titration is simply a solution reaction that is used to measure the concentration of an acid or base. If we begin with a known volume of solution with an unknown concentration of acid, we can determine its concentration by measuring the number of moles of base that we have to add to neutralize it. The easiest way to do that is to slowly add a solution of base of known concentration to the solution using a burette, which allows us to measure the volume of base needed. If we have the volume and concentration of the base, we can use this to determine the number of moles of base. From there, we can convert moles of base to moles of acid using the balanced chemical equation. If we know moles of acid and its volume (remember we need to know this when we start the titration), then we can divide them to determine the concentration.   Exercise 5:      What is the molarity of an HCl solution if 7.50 mL of the solution was neutralized by the addition of 14.30mL of 0.0980 M NaOH?      What was the starting pH of the HCl solution?        What is the molarity of a NaOH solution if 1.5 L of the solution was neutralized by the addition of 15.33mL of 6.00M HCl?      What was the starting pH of that NaOH solution?        What is the molarity of a magnesium hydroxide solution if 20.00 mL of it was neutralized by the addition of 4.75 mL of 0.100M HCl?     Key:   Exercise 4:      Which of the following mixtures of chemicals would make good buffers?                                           Drawings may vary      If a solution contains 0.11 moles of weak base and 0.33 moles of weak acid, then how many moles of nitric acid could be added without exceeding the buffering capacity? 0.11 moles      How many moles of sodium hydroxide could be added without exceeding the buffering capacity? 0.33 moles      How many moles of calcium hydroxide could be added without exceeding the buffering capacity? 0.17 moles        Exercise 5:      What is the molarity of an HCl solution if 7.50 mL of the solution was neutralized by the addition of 14.30mL of 0.0980 M NaOH?      What was the starting pH of the HCl solution?        What is the molarity of a NaOH solution if 1.5 L of the solution was neutralized by the addition of 15.33mL of 6.00M HCl?      What was the starting pH of that NaOH solution?        What is the molarity of a magnesium hydroxide solution if 20.00 mL of it was neutralized by the addition of 4.75 mL of 0.100M HCl?     "
+},
+{
+  "id": "sec-acids-bases4-2",
+  "level": "2",
+  "url": "sec-acids-bases4.html#sec-acids-bases4-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Buffers "
+},
+{
+  "id": "sec-acids-bases4-3",
+  "level": "2",
+  "url": "sec-acids-bases4.html#sec-acids-bases4-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Buffers "
+},
+{
+  "id": "sec-acids-bases4-6",
+  "level": "2",
+  "url": "sec-acids-bases4.html#sec-acids-bases4-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "buffering capacity "
+},
+{
+  "id": "sec-acids-bases4-9",
+  "level": "2",
+  "url": "sec-acids-bases4.html#sec-acids-bases4-9",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Acid-Base titration review "
+},
+{
+  "id": "sec-acids-bases4-10",
+  "level": "2",
+  "url": "sec-acids-bases4.html#sec-acids-bases4-10",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "titration "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",

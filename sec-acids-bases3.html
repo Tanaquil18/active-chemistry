@@ -1,0 +1,1180 @@
+<!DOCTYPE html>
+<!--********************************************-->
+<!--*       Generated from PreTeXt source      *-->
+<!--*                                          *-->
+<!--*         https://pretextbook.org          *-->
+<!--*                                          *-->
+<!--********************************************-->
+<html lang="en-US" dir="ltr">
+<!--******************************************-->
+<!--*  Authored with PreTeXt                 *-->
+<!--*  pretextbook.org                       *-->
+<!--*  Theme: default-modern                 *-->
+<!--*  Palette:                              *-->
+<!--******************************************-->
+<head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Acids and Bases 3</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
+<link href="_static/pretext/css/theme.css" rel="stylesheet" type="text/css">
+<script>
+var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+window.MathJax = {
+  "tex": {
+    "inlineMath": [
+      [
+        "\\(",
+        "\\)"
+      ]
+    ],
+    "tags": "none",
+    "tagSide": "right",
+    "tagIndent": ".8em",
+    "packages": {
+      "[+]": [
+        "base",
+        "extpfeil",
+        "ams",
+        "amscd",
+        "color",
+        "newcommand",
+        "knowl"
+      ]
+    }
+  },
+  "options": {
+    "ignoreHtmlClass": "tex2jax_ignore|ignore-math",
+    "processHtmlClass": "process-math"
+  },
+  "chtml": {
+    "scale": 0.98,
+    "mtextInheritFont": true
+  },
+  "loader": {
+    "load": [
+      "input/asciimath",
+      "[tex]/extpfeil",
+      "[tex]/amscd",
+      "[tex]/color",
+      "[tex]/newcommand",
+      "[pretext]/mathjaxknowl3.js"
+    ],
+    "paths": {
+      "pretext": "_static/pretext/js/lib"
+    }
+  },
+  "startup": {
+    pageReady() {
+      return MathJax.startup.defaultPageReady().then(function () {
+      console.log("in ready function");
+      rsMathReady();
+      }
+    )}
+  }
+};
+</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><meta name="Keywords" content="Authored in PreTeXt">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:type" content="book">
+<meta property="book:title" content="Chemistry">
+<meta property="book:author" content="James Vranish">
+<script src="_static/pretext/js/lib/jquery.min.js"></script><script src="_static/pretext/js/lib/jquery.sticky.js"></script><script src="_static/pretext/js/lib/jquery.espy.min.js"></script><script src="_static/pretext/js/pretext.js"></script><script src="_static/pretext/js/pretext_add_on.js?x=1"></script><script src="_static/pretext/js/user_preferences.js"></script><!--** eBookCongig is necessary to configure interactive       **-->
+<!--** Runestone components to run locally in reader's browser **-->
+<!--** No external communication:                              **-->
+<!--**     log level is 0, Runestone Services are disabled     **-->
+<script type="text/javascript">
+eBookConfig = {};
+eBookConfig.useRunestoneServices = false;
+eBookConfig.host = 'http://127.0.0.1:8000';
+eBookConfig.course = 'PTX_Course_Title_Here';
+eBookConfig.basecourse = 'PTX_Base_Course';
+eBookConfig.isLoggedIn = false;
+eBookConfig.email = '';
+eBookConfig.isInstructor = false;
+eBookConfig.logLevel = 0;
+eBookConfig.username = '';
+eBookConfig.readings = null;
+eBookConfig.activities = null;
+eBookConfig.downloadsEnabled = false;
+eBookConfig.allow_pairs = false;
+eBookConfig.enableScratchAC = false;
+eBookConfig.build_info = "";
+eBookConfig.python3 = null;
+eBookConfig.runestone_version = '7.9.19';
+eBookConfig.jobehost = '';
+eBookConfig.proxyuri_runs = '';
+eBookConfig.proxyuri_files = '';
+eBookConfig.enable_chatcodes =  false;
+</script>
+<!--*** Runestone Services ***-->
+<script src="_static/prefix-runtime.5c6d23c3bf7decb7.bundle.js"></script><script src="_static/prefix-723.3e6434f80549315a.bundle.js"></script><script src="_static/prefix-runestone.296eb9cf978e3bdb.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-723.3bccd435914aa0ff.css">
+<link rel="stylesheet" type="text/css" href="_static/prefix-runestone.557d81b04b3ec0e4.css">
+<script src="_static/pretext/js/lti_iframe_resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="_static/pretext/js/pretext_search.js"></script><script src="_static/pretext/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
+</script>
+</head>
+<body id="changeme" class="pretext book ignore-math">
+<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead" class="ptx-masthead"><div class="ptx-banner"><div class="title-container">
+<h1 class="heading"><a href="my-great-book.html"><span class="title">Chemistry</span> <span class="subtitle">An active approach to the study of God’s creation</span></a></h1>
+<p class="byline">James Vranish</p>
+</div></div></header><nav id="ptx-navbar" class="ptx-navbar navbar"><div class="ptx-navbar-contents">
+<button class="toc-toggle button" title="Contents"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5d2;</span><span class="name">Contents</span></button><div class="searchbox">
+<div class="searchwidget"><button id="searchbutton" class="searchbutton button" type="button" title="Search book"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8b6;</span><span class="name">Search Book</span></button></div>
+<div id="searchresultsplaceholder" class="searchresultsplaceholder" style="display: none">
+<div class="search-results-controls">
+<input aria-label="Search term" id="ptxsearch" class="ptxsearch" type="text" name="terms" placeholder="Search term"><button title="Close search" id="closesearchresults" class="closesearchresults"><span class="material-symbols-outlined">close</span></button>
+</div>
+<h2 class="search-results-heading">Search Results: </h2>
+<div id="searchempty" class="searchempty"><span>No results.</span></div>
+<ol id="searchresults" class="searchresults"></ol>
+</div>
+</div>
+<span class="nav-other-controls"><button id="light-dark-button" class="light-dark-button button" title="Dark Mode"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe51c;</span><span class="name">Dark Mode</span></button></span><span class="treebuttons"><a class="previous-button button" href="sec-acids-bases2.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="up-button button" href="ch-acids-bases.html" title="Up"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Up</span></a><a class="next-button button" href="sec-acids-bases4.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a></span>
+</div></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(\newcommand{\N}{\mathbb N} \newcommand{\Z}{\mathbb Z} \newcommand{\Q}{\mathbb Q} \newcommand{\R}{\mathbb R}
+\newcommand{\lt}{&lt;}
+\newcommand{\gt}{&gt;}
+\newcommand{\amp}{&amp;}
+\definecolor{fillinmathshade}{gray}{0.9}
+\newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
+\)</span></div>
+<div class="ptx-page">
+<div id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth2 focused" data-preexpanded-levels="0" data-max-levels="2"><ul class="structural toc-item-list contains-active">
+<li class="toc-item toc-frontmatter">
+<div class="toc-title-box"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-preface"><div class="toc-title-box"><a href="frontmatter-3.html" class="internal"><span class="title">Purpose</span></a></div></li>
+<li class="toc-item toc-preface"><div class="toc-title-box"><a href="frontmatter-4.html" class="internal"><span class="title">Learning in an Active Classroom</span></a></div></li>
+<li class="toc-item toc-colophon"><div class="toc-title-box"><a href="front-colophon.html" class="internal"><span class="title">Colophon</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-faith-compatibility.html" class="internal"><span class="codenumber">1</span> <span class="title">The Role of Faith</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-chem-and-faith.html" class="internal"><span class="codenumber">1.1</span> <span class="title">Chemistry and Faith</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-science-and-faith.html" class="internal"><span class="codenumber">1.2</span> <span class="title">Science and Faith</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-math-review.html" class="internal"><span class="codenumber">2</span> <span class="title">Math Review</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-math-review.html" class="internal"><span class="codenumber">2.1</span> <span class="title">Math Review</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-matter-energy.html" class="internal"><span class="codenumber">3</span> <span class="title">Matter and Energy</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-matter1.html" class="internal"><span class="codenumber">3.1</span> <span class="title">Basics of Matter</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-matter2.html" class="internal"><span class="codenumber">3.2</span> <span class="title">Basics of Energy</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-matter3.html" class="internal"><span class="codenumber">3.3</span> <span class="title">Changes in Temperature and/or State</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-atoms.html" class="internal"><span class="codenumber">4</span> <span class="title">Atoms and Atomic Structure</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-atoms1.html" class="internal"><span class="codenumber">4.1</span> <span class="title">Atoms and the Periodic Table</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-atoms2.html" class="internal"><span class="codenumber">4.2</span> <span class="title">Atomic mass and atomic orbitals</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-atoms3.html" class="internal"><span class="codenumber">4.3</span> <span class="title">Electron arrangement</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-nuclear-chemistry.html" class="internal"><span class="codenumber">5</span> <span class="title">Atoms and Atomic Structure</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-nuclear1.html" class="internal"><span class="codenumber">5.1</span> <span class="title">Radioactivity and its uses</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-nuclear2.html" class="internal"><span class="codenumber">5.2</span> <span class="title">Radiation safety and radiation calculations</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-compounds.html" class="internal"><span class="codenumber">6</span> <span class="title">Compounds</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-compounds1.html" class="internal"><span class="codenumber">6.1</span> <span class="title">Compounds 1</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-compounds2.html" class="internal"><span class="codenumber">6.2</span> <span class="title">Compounds 2</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-compounds3.html" class="internal"><span class="codenumber">6.3</span> <span class="title">Compounds 3</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-compounds4.html" class="internal"><span class="codenumber">6.4</span> <span class="title">Compounds 4</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-compounds5.html" class="internal"><span class="codenumber">6.5</span> <span class="title">Compounds 5</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-chemical-reactions.html" class="internal"><span class="codenumber">7</span> <span class="title">Chemical reactions</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-rxns1.html" class="internal"><span class="codenumber">7.1</span> <span class="title">Reactions 1</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-rxns2.html" class="internal"><span class="codenumber">7.2</span> <span class="title">Reactions 2</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-rxns3.html" class="internal"><span class="codenumber">7.3</span> <span class="title">Reactions 3</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-rxns4.html" class="internal"><span class="codenumber">7.4</span> <span class="title">Reactions 4</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-gases.html" class="internal"><span class="codenumber">8</span> <span class="title">Gases</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-gas1.html" class="internal"><span class="codenumber">8.1</span> <span class="title">Gases 1</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-gas2.html" class="internal"><span class="codenumber">8.2</span> <span class="title">Gases 2</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-gas3.html" class="internal"><span class="codenumber">8.3</span> <span class="title">Gases 3</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-gas4.html" class="internal"><span class="codenumber">8.4</span> <span class="title">Gases 4</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-solutions.html" class="internal"><span class="codenumber">9</span> <span class="title">Solutions</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-solutions1.html" class="internal"><span class="codenumber">9.1</span> <span class="title">Solutions 1</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-solutions2.html" class="internal"><span class="codenumber">9.2</span> <span class="title">Solutions 2</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-solutions3.html" class="internal"><span class="codenumber">9.3</span> <span class="title">Solutions 3</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-solutions4.html" class="internal"><span class="codenumber">9.4</span> <span class="title">Solutions 4e</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter contains-active">
+<div class="toc-title-box"><a href="ch-acids-bases.html" class="internal"><span class="codenumber">10</span> <span class="title">Acids and Bases</span></a></div>
+<ul class="structural toc-item-list contains-active">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-acids-bases1.html" class="internal"><span class="codenumber">10.1</span> <span class="title">Acids and Bases 1</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-acids-bases2.html" class="internal"><span class="codenumber">10.2</span> <span class="title">Acids and Bases 2</span></a></div></li>
+<li class="toc-item toc-section active"><div class="toc-title-box"><a href="sec-acids-bases3.html" class="internal"><span class="codenumber">10.3</span> <span class="title">Acids and Bases 3</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-acids-bases4.html" class="internal"><span class="codenumber">10.4</span> <span class="title">Acids and Bases 4</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-backmatter"><div class="toc-title-box"><a href="backmatter.html" class="internal"><span class="title">Backmatter</span></a></div></li>
+</ul></nav></div>
+<main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="section" id="sec-acids-bases3"><h2 class="heading hide-type">
+<span class="type">Section</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">10.3</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">Acids and Bases 3</span>
+</h2>
+<div class="para" id="sec-acids-bases3-2">
+<dfn class="terminology">Neutralization reactions</dfn><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-3">The other class of reaction that we’ve seen before in this chapter is a neutralization reaction. Here we’ll cover it in more detail. If the neutralization reaction is between a strong acid and strong base, then the products will be water and a salt as shown in the equations below:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-3" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-4">Chemical equation:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-4" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-5">
+<div class="displaymath process-math">
+\begin{equation*}
+HCl(aq) + NaOH(aq) \rightarrow H_{2}O(l) + NaCl(aq)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-5" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-6">Ionic equation:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-6" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-7">
+<div class="displaymath process-math">
+\begin{equation*}
+H^{+}(aq) + Cl^{-}(aq) + Na^{+}(aq) + OH^{-}(aq) \rightarrow H_{2}O\ (l) + Na^{+}(aq) + Cl^{-}(aq)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-7" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-8">Net ionic equation:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-8" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-9">
+<div class="displaymath process-math">
+\begin{equation*}
+H^{+}(aq) + OH^{-}(aq) \rightarrow H_{2}O(l)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-9" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-10">Any neutralization reaction involving a strong acid reacting with a strong base will have an ionic equation of:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-10" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-11">
+<div class="displaymath process-math">
+\begin{equation*}
+H^{+}(aq) + OH^{-}(aq) \rightarrow H_{2}O(l)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-11" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-12">When weak acids or bases are used in a neutralization reaction, we can write chemical equations in different ways. For ammonia, we can write it as <span class="process-math">\(NH_{3}(aq)\)</span> or <span class="process-math">\(NH_{4}OH(aq)\text{.}\)</span> Also, for weak acids, they somewhat dissociate (ie. are somewhat ionic) so they can be written in two different ways in an ionic equation(ex. <span class="process-math">\(HF(aq)\ or\ H^{+}(aq) + F^{-}(aq))\text{.}\)</span> Using these different forms as reactants in a neutralization reaction will result in different equations. Neither one is right or wrong…in actuality, both sets of equations are happening all at the same time.<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-12" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<figure class="table table-like" id="sec-acids-bases3-13"><figcaption><span class="type">Table</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">10.3.1<span class="period heading-divison-mark heading-divison-mark__period">.</span></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><div class="autopermalink" data-description="Table 10.3.1: "><a href="#sec-acids-bases3-13" title="Copy heading and permalink for Table 10.3.1: " aria-label="Copy heading and permalink for Table 10.3.1: ">🔗</a></div></figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr class="header-horizontal">
+<th scope="col" class="l m b0 r0 l0 t0 lines"></th>
+<th scope="col" class="l m b0 r0 l0 t0 lines"><dfn class="terminology">Way 1</dfn></th>
+<th scope="col" class="l m b0 r0 l0 t0 lines"><dfn class="terminology">Way 2</dfn></th>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Chemical equation</td>
+<td class="l m b0 r0 l0 t0 lines"><div class="displaymath process-math">
+\begin{equation*}
+NH_{3}(aq) + HF(aq) \rightarrow NH_{4}F(aq)
+\end{equation*}
+</div></td>
+<td class="l m b0 r0 l0 t0 lines"><div class="displaymath process-math">
+\begin{equation*}
+NH_{4}OH(aq) + HF(aq) \rightarrow H_{2}O(l) + NH_{4}F(aq)
+\end{equation*}
+</div></td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Ionic equation</td>
+<td class="l m b0 r0 l0 t0" style="max-width:120">
+<div class="para logical" id="sec-acids-bases3-13-5-3-2-1">
+<div class="displaymath process-math">
+\begin{equation*}
+NH_{3}(aq) + H^{+}(aq) + F^{-}(aq) \rightarrow
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-13-5-3-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-13-5-3-2-2">
+<div class="displaymath process-math">
+\begin{equation*}
+NH_{4}^{+}(aq) + F^{-}(aq)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-13-5-3-2-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="l m b0 r0 l0 t0" style="max-width:120">
+<div class="para logical" id="sec-acids-bases3-13-5-3-3-1">
+<div class="displaymath process-math">
+\begin{equation*}
+NH_{4}^{+}(aq) + OH^{-}(aq) + H^{+}(aq) + F^{-}(aq) \rightarrow
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-13-5-3-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-13-5-3-3-2">
+<div class="displaymath process-math">
+\begin{equation*}
+H_{2}O(l) + NH_{4}^{+}(aq) + F^{-}(aq)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-13-5-3-3-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Net ionic equation</td>
+<td class="l m b0 r0 l0 t0 lines"><div class="displaymath process-math">
+\begin{equation*}
+NH_{3}(aq) + H^{+}(aq) \rightarrow NH_{4}^{+}(aq)
+\end{equation*}
+</div></td>
+<td class="l m b0 r0 l0 t0 lines"><div class="displaymath process-math">
+\begin{equation*}
+H^{+}(aq) + OH^{-}(aq) \rightarrow H_{2}O(l)
+\end{equation*}
+</div></td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines"></td>
+<td class="l m b0 r0 l0 t0 lines"><dfn class="terminology">Way 3</dfn></td>
+<td class="l m b0 r0 l0 t0 lines"><dfn class="terminology">Way 4</dfn></td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Chemical equation</td>
+<td class="l m b0 r0 l0 t0 lines"><div class="displaymath process-math">
+\begin{equation*}
+NH_{3}(aq) + HF(aq) \rightarrow NH_{4}F(aq)
+\end{equation*}
+</div></td>
+<td class="l m b0 r0 l0 t0 lines"><div class="displaymath process-math">
+\begin{equation*}
+NH_{4}OH(aq) + HF(aq) \rightarrow H_{2}O(l) + NH_{4}F(aq)
+\end{equation*}
+</div></td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Ionic equation</td>
+<td class="l m b0 r0 l0 t0" style="max-width:120">
+<div class="para logical" id="sec-acids-bases3-13-5-7-2-1">
+<div class="displaymath process-math">
+\begin{equation*}
+NH_{3}(aq) + HF(aq) \rightarrow
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-13-5-7-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-13-5-7-2-2">
+<div class="displaymath process-math">
+\begin{equation*}
+NH_{4}^{+}(aq) + F^{-}(aq)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-13-5-7-2-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="l m b0 r0 l0 t0" style="max-width:120">
+<div class="para logical" id="sec-acids-bases3-13-5-7-3-1">
+<div class="displaymath process-math">
+\begin{equation*}
+NH_{4}^{+}(aq) + OH^{-}(aq) + HF(aq) \rightarrow
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-13-5-7-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-13-5-7-3-2">
+<div class="displaymath process-math">
+\begin{equation*}
+H_{2}O(l) + NH_{4}^{+}(aq) + F^{-}(aq)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-13-5-7-3-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Net ionic equation</td>
+<td class="l m b0 r0 l0 t0" style="max-width:120">
+<div class="para logical" id="sec-acids-bases3-13-5-8-2-1">
+<div class="displaymath process-math">
+\begin{equation*}
+NH_{3}(aq) + HF(aq) \rightarrow
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-13-5-8-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-13-5-8-2-2">
+<div class="displaymath process-math">
+\begin{equation*}
+NH_{4}^{+}(aq) + F^{-}(aq)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-13-5-8-2-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</td>
+<td class="l m b0 r0 l0 t0 lines"><div class="displaymath process-math">
+\begin{equation*}
+OH^{-}(aq) + HF(aq) \rightarrow H_{2}O(l) + F^{-}(aq)
+\end{equation*}
+</div></td>
+</tr>
+</table></div></figure><div class="para" id="sec-acids-bases3-14">The first way of writing the above reactions emphasizes that the ammonia can accept a proton from solution, forming the conjugate acid, ammonium ion. The second way highlights the fact that in this reaction, the acid and base are neutralized. The third way, emphasizes that hydrofluoric acid can directly transfer a proton to ammonia. The fourth way focuses on the ability of HF to function as a weak acid, neutralizing hydroxide in solution.<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-14" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-15">Don’t be daunted by the wide variety of reactions shown above. I’m showing these to you to highlight the many ways that you might see reactions written and to emphasize that, when we mix weak acids and weak bases, there are numerous chemical reactions that are occurring at the same time.<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-15" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-16">We can figure out any of the reactions written above by doing the following:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-16" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-17">
+<ol class="decimal" id="sec-acids-bases3-17-1">
+<li id="sec-acids-bases3-17-1-1">
+<div class="para" id="sec-acids-bases3-17-1-1-1">Start with the ionic equation!<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-17-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 1"><a href="#sec-acids-bases3-17-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-17-1-2">
+<div class="para" id="sec-acids-bases3-17-1-2-1">Recognize what is ionic and what is covalent. Dissociate the ions if the compound is ionic.<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-17-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-17-1-2-2">
+<ol class="lower-alpha lower-alpha-level-1" id="sec-acids-bases3-17-1-2-2-1"><li id="sec-acids-bases3-17-1-2-2-1-1">
+<div class="para" id="sec-acids-bases3-17-1-2-2-1-1-1">Recognize if you have a strong acid/base or a weak acid/base<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-17-1-2-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-17-1-2-2-1-1-2">
+<ol class="lower-roman" id="sec-acids-bases3-17-1-2-2-1-1-2-1">
+<li id="sec-acids-bases3-17-1-2-2-1-1-2-1-1">
+<div class="para" id="sec-acids-bases3-17-1-2-2-1-1-2-1-1-1">If it’s a strong acid/base, always dissociate the ions<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-17-1-2-2-1-1-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 2.a.i"><a href="#sec-acids-bases3-17-1-2-2-1-1-2-1-1" title="Copy heading and permalink for Item 2.a.i" aria-label="Copy heading and permalink for Item 2.a.i">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-17-1-2-2-1-1-2-1-2">
+<div class="para" id="sec-acids-bases3-17-1-2-2-1-1-2-1-2-1">If it’s a weak acid/base, you’ll be directed to dissociate it or not<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-17-1-2-2-1-1-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 2.a.ii"><a href="#sec-acids-bases3-17-1-2-2-1-1-2-1-2" title="Copy heading and permalink for Item 2.a.ii" aria-label="Copy heading and permalink for Item 2.a.ii">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-17-1-2-2-1-1-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 2.a"><a href="#sec-acids-bases3-17-1-2-2-1-1" title="Copy heading and permalink for Item 2.a" aria-label="Copy heading and permalink for Item 2.a">🔗</a></div>
+</li></ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-17-1-2-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 2"><a href="#sec-acids-bases3-17-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-17-1-3">
+<div class="para" id="sec-acids-bases3-17-1-3-1">Transfer an H+ from the acid to the base and write the resulting products<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-17-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-17-1-3-2">
+<ol class="lower-alpha lower-alpha-level-1" id="sec-acids-bases3-17-1-3-2-1">
+<li id="sec-acids-bases3-17-1-3-2-1-1">
+<div class="para" id="sec-acids-bases3-17-1-3-2-1-1-1">If you have H+, transfer that<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-17-1-3-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3.a"><a href="#sec-acids-bases3-17-1-3-2-1-1" title="Copy heading and permalink for Item 3.a" aria-label="Copy heading and permalink for Item 3.a">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-17-1-3-2-1-2">
+<div class="para" id="sec-acids-bases3-17-1-3-2-1-2-1">If you have OH-, use it as the H+ acceptor<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-17-1-3-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3.b"><a href="#sec-acids-bases3-17-1-3-2-1-2" title="Copy heading and permalink for Item 3.b" aria-label="Copy heading and permalink for Item 3.b">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-17-1-3-2-1-3">
+<div class="para" id="sec-acids-bases3-17-1-3-2-1-3-1">If you don’t have H+, remove an H+ from the weak acid that you were directed to not dissociate<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-17-1-3-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3.c"><a href="#sec-acids-bases3-17-1-3-2-1-3" title="Copy heading and permalink for Item 3.c" aria-label="Copy heading and permalink for Item 3.c">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-17-1-3-2-1-4">
+<div class="para" id="sec-acids-bases3-17-1-3-2-1-4-1">If you don’t have OH-, transfer the H+ to the weak base that you were directed to not dissociate<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-17-1-3-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3.d"><a href="#sec-acids-bases3-17-1-3-2-1-4" title="Copy heading and permalink for Item 3.d" aria-label="Copy heading and permalink for Item 3.d">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-17-1-3-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3"><a href="#sec-acids-bases3-17-1-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-17-1-4">
+<div class="para" id="sec-acids-bases3-17-1-4-1">Write an ionic equation, paying attention to how many of each ion you need for the charges to balance appropriately. Also, make sure that both sides of the equation contain all of the ions. You should now be able to combine the ions together to create the chemical equation from the ionic equation or to remove ions that are the same in the reactants and products, thus creating a net ionic equation<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-17-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4"><a href="#sec-acids-bases3-17-1-4" title="Copy heading and permalink for Item 4" aria-label="Copy heading and permalink for Item 4">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-17" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-18">See the example below:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-18" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-19">Write a chemical equation, ionic equation, and net ionic equation for the reaction between sodium hydrogen phosphate and potassium hydroxide. Do not dissociate the hydrogen carbonate ion in the equations.<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-19" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-20">
+<ol class="decimal" id="sec-acids-bases3-20-1">
+<li id="sec-acids-bases3-20-1-1">
+<div class="para" id="sec-acids-bases3-20-1-1-1">Work on the ionic equation<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-20-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 1"><a href="#sec-acids-bases3-20-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-20-1-2">
+<div class="para" id="sec-acids-bases3-20-1-2-1">Sodium hydrogen phosphate has sodium ions and hydrogen phosphate ions:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-20-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 2"><a href="#sec-acids-bases3-20-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-20" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-21">
+<div class="displaymath process-math">
+\begin{equation*}
+Na^{+}(aq)\ and\ HPO_{4}^{2 -}(aq)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-21" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-22">The hydrogen phosphate ion can be an acid (it has a proton it can donate, becoming phosphate) or a base (it can accept a proton becoming dihydrogen phosphate). In either case, it is a weak acid/base and we’re directed in the problem to not dissociate it further. In this problem, it will be a weak acid, because our other reactant is a strong base.<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-22" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-23">We should recognize that potassium hydroxide is a strong base and immediately dissociate it as shown<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-23" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-24">
+<div class="displaymath process-math">
+\begin{equation*}
+Na^{+}(aq)\ and\ OH^{-}(aq)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-24" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-25">
+<ol class="decimal" id="sec-acids-bases3-25-1"><li id="sec-acids-bases3-25-1-1">
+<div class="para" id="sec-acids-bases3-25-1-1-1">We transfer a proton from the acid to the base. In this case the hydrogen phosphate transfers a proton to hydroxide forming the products:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-25-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 1"><a href="#sec-acids-bases3-25-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+</li></ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-25" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-26">
+<div class="displaymath process-math">
+\begin{equation*}
+PO_{4}^{3 -}(aq)\ and\ H_{2}O(l)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-26" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-27">
+<ol class="decimal" id="sec-acids-bases3-27-1"><li id="sec-acids-bases3-27-1-1">
+<div class="para" id="sec-acids-bases3-27-1-1-1">We can start writing the ionic equation by writing the reactants and products:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-27-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 1"><a href="#sec-acids-bases3-27-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+</li></ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-27" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-28">
+<div class="displaymath process-math">
+\begin{equation*}
+Na^{+}(aq) + HPO_{4}^{2 -}(aq) + K^{+}(aq) + OH^{-}(aq) \rightarrow PO_{4}^{3 -} + H_{2}O(l)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-28" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-29">We need to recognize that we need two sodium ions to balance the -2 charge of hydrogen phosphate. The +1 charge of the potassium already balances the -1 charge of hydroxide:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-29" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-30">
+<div class="displaymath process-math">
+\begin{equation*}
+2Na^{+}(aq) + HPO_{4}^{2 -}(aq) + K^{+}(aq) + OH^{-}(aq) \rightarrow PO_{4}^{3 -} + H_{2}O(l)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-30" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-31">Lastly, we should make sure that the sodium and potassium ions are still there in the products…they didn’t just vanish!<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-31" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-32">
+<div class="displaymath process-math">
+\begin{equation*}
+2Na^{+}(aq) + HPO_{4}^{2 -}(aq) + K^{+}(aq) + OH^{-}(aq) \rightarrow PO_{4}^{3 -} + H_{2}O(l) + 2Na^{+}(aq) + 2K^{+}(aq)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-32" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-33">And that’s our ionic equation! We can now combine the ions to create the chemical equation:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-33" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-34">
+<div class="displaymath process-math">
+\begin{equation*}
+Na_{2}HPO_{4}(aq) + KOH(aq) \rightarrow H_{2}O(l) + Na_{2}KHPO_{4}(aq)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-34" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-35">We can also eliminate ions that are the same on both sides of the ionic equation to give the following net ionic equation:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-35" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-36">
+<div class="displaymath process-math">
+\begin{equation*}
+HPO_{4}^{2 -}(aq) + OH^{-}(aq) \rightarrow PO_{4}^{3 -} + H_{2}O(l)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-36" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-37">
+<em class="emphasis">Exercise 2:</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-37" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-38">
+<ol class="decimal" id="sec-acids-bases3-38-1">
+<li id="sec-acids-bases3-38-1-1">
+<div class="para" id="sec-acids-bases3-38-1-1-1">
+<em class="emphasis">Write a balanced chemical reaction for the following reactions between strong acids and strong bases:</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-38-1-1-2">
+<ol class="lower-alpha lower-alpha-level-1" id="sec-acids-bases3-38-1-1-2-1">
+<li id="sec-acids-bases3-38-1-1-2-1-1">
+<div class="para" id="sec-acids-bases3-38-1-1-2-1-1-1">
+<em class="emphasis">KOH and HI</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38-1-1-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 1.a"><a href="#sec-acids-bases3-38-1-1-2-1-1" title="Copy heading and permalink for Item 1.a" aria-label="Copy heading and permalink for Item 1.a">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-38-1-1-2-1-2">
+<div class="para" id="sec-acids-bases3-38-1-1-2-1-2-1">
+<em class="emphasis">H2SO4 (only the first H+ leaving) with Ca(OH)2</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38-1-1-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 1.b"><a href="#sec-acids-bases3-38-1-1-2-1-2" title="Copy heading and permalink for Item 1.b" aria-label="Copy heading and permalink for Item 1.b">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-38-1-1-2-1-3">
+<div class="para" id="sec-acids-bases3-38-1-1-2-1-3-1">
+<em class="emphasis">Sr(OH)2 and HCl</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38-1-1-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 1.c"><a href="#sec-acids-bases3-38-1-1-2-1-3" title="Copy heading and permalink for Item 1.c" aria-label="Copy heading and permalink for Item 1.c">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-38-1-1-2-1-4">
+<div class="para" id="sec-acids-bases3-38-1-1-2-1-4-1">
+<em class="emphasis">HNO3 and RbOH</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38-1-1-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 1.d"><a href="#sec-acids-bases3-38-1-1-2-1-4" title="Copy heading and permalink for Item 1.d" aria-label="Copy heading and permalink for Item 1.d">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38-1-1-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 1"><a href="#sec-acids-bases3-38-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-38-1-2">
+<div class="para" id="sec-acids-bases3-38-1-2-1">
+<em class="emphasis">What is the net ionic equation for all of the reactions in #1?</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 2"><a href="#sec-acids-bases3-38-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-38-1-3">
+<div class="para" id="sec-acids-bases3-38-1-3-1">
+<em class="emphasis">Write an ionic equation for the following reactions:</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-38-1-3-2">
+<ol class="lower-alpha lower-alpha-level-1" id="sec-acids-bases3-38-1-3-2-1">
+<li id="sec-acids-bases3-38-1-3-2-1-1">
+<div class="para" id="sec-acids-bases3-38-1-3-2-1-1-1">
+<em class="emphasis">NH3 with sodium hydrogen sulfate (don’t allow the ammonia or hydrogen sulfate to dissociate)</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38-1-3-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3.a"><a href="#sec-acids-bases3-38-1-3-2-1-1" title="Copy heading and permalink for Item 3.a" aria-label="Copy heading and permalink for Item 3.a">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-38-1-3-2-1-2">
+<div class="para" id="sec-acids-bases3-38-1-3-2-1-2-1">
+<em class="emphasis">NH4OH with sodium hydrogen sulfate (allow the hydrogen sulfate and ammonium hydroxide to dissociate)</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38-1-3-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3.b"><a href="#sec-acids-bases3-38-1-3-2-1-2" title="Copy heading and permalink for Item 3.b" aria-label="Copy heading and permalink for Item 3.b">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-38-1-3-2-1-3">
+<div class="para" id="sec-acids-bases3-38-1-3-2-1-3-1">
+<em class="emphasis">NH4OH with nitric acid (allow the ammonium hydroxide to dissociate)</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38-1-3-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3.c"><a href="#sec-acids-bases3-38-1-3-2-1-3" title="Copy heading and permalink for Item 3.c" aria-label="Copy heading and permalink for Item 3.c">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-38-1-3-2-1-4">
+<div class="para" id="sec-acids-bases3-38-1-3-2-1-4-1">
+<em class="emphasis">Phosphoric acid and sodium acetate (Don’t allow the phosphoric acid to dissociate or acetate to dissociate)</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38-1-3-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3.d"><a href="#sec-acids-bases3-38-1-3-2-1-4" title="Copy heading and permalink for Item 3.d" aria-label="Copy heading and permalink for Item 3.d">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-38-1-3-2-1-5">
+<div class="para" id="sec-acids-bases3-38-1-3-2-1-5-1">
+<em class="emphasis">Acetic acid and sodium dihydrogen phosphate (Allow the acetic acid to dissociate but not the dihydrogen phosphate)</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38-1-3-2-1-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3.e"><a href="#sec-acids-bases3-38-1-3-2-1-5" title="Copy heading and permalink for Item 3.e" aria-label="Copy heading and permalink for Item 3.e">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38-1-3-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3"><a href="#sec-acids-bases3-38-1-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-38-1-4">
+<div class="para" id="sec-acids-bases3-38-1-4-1">
+<em class="emphasis">For the reactions in #3, write a balanced chemical equation</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4"><a href="#sec-acids-bases3-38-1-4" title="Copy heading and permalink for Item 4" aria-label="Copy heading and permalink for Item 4">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-38-1-5">
+<div class="para" id="sec-acids-bases3-38-1-5-1">
+<em class="emphasis">For the reactions in #3, write a net ionic equation</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38-1-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5"><a href="#sec-acids-bases3-38-1-5" title="Copy heading and permalink for Item 5" aria-label="Copy heading and permalink for Item 5">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-38" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-39">
+<dfn class="terminology">pH</dfn><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-39" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-40">When scientists describe how acidic or basic a solution is, we could report the concentration of hydronium ion or hydroxide ion. However, because the numbers are so small and usually written in scientific notation, this becomes quite cumbersome. To solve this problem, we instead often transform the concentration of hydronium ion into a pH value using the formula below:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-40" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-41">
+<div class="displaymath process-math">
+\begin{equation*}
+pH = - log(\left\lbrack H_{3}O^{+} \right\rbrack)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-41" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-42">This version of the equation can be used to find the pH value from a concentration of hydronium ion (which MUST be molarity). We can figure out the pH of a neutral solution as shown:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-42" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-43">
+<div class="displaymath process-math">
+\begin{equation*}
+pH = - \log\left( 1 \times 10^{- 7} \right) = 7
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-43" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-44">pH values lower than 7 are said to be acidic solutions. pH values above 7 are basic solutions. The reason why will be determined as a part of your exercises.<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-44" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-45">In some cases, we’ll need to figure out the concentration of hydronium ion from a pH value. This requires rearrangement of the pH equation using algebra skills. The tricky part of this is that we need to ‘undo’ the log function. This is done by taking 10 and raising it to the power of everything on that side of the equation as shown below:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-45" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-46">
+<div class="displaymath process-math">
+\begin{equation*}
+pH = - \log\left( \left\lbrack H_{3}O^{+} \right\rbrack \right)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-46" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-47">
+<div class="displaymath process-math">
+\begin{equation*}
+- pH = \log\left( \left\lbrack H_{3}O^{+} \right\rbrack \right)
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-47" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-48">
+<div class="displaymath process-math">
+\begin{equation*}
+10^{- pH} = 10^{\log\left( \left\lbrack H_{3}O^{+} \right\rbrack \right)}
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-48" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-49">
+<div class="displaymath process-math">
+\begin{equation*}
+10^{- pH} = \lbrack H_{3}O^{+}\rbrack
+\end{equation*}
+</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-49" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-50">
+<em class="emphasis">Exercise 3:</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-50" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-51">
+<ol class="decimal" id="sec-acids-bases3-51-1">
+<li id="sec-acids-bases3-51-1-1">
+<div class="para" id="sec-acids-bases3-51-1-1-1">
+<em class="emphasis">If the concentration of hydronium ion is 0.0044M, calculate the pH of the solution</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 1"><a href="#sec-acids-bases3-51-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-51-1-2">
+<div class="para" id="sec-acids-bases3-51-1-2-1">
+<em class="emphasis">If the concentration of hydroxide ion is 0.0044M, calculate the pH of the solution (hint: first calculate the hydronium ion concentration like we did previously)</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 2"><a href="#sec-acids-bases3-51-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-51-1-3">
+<div class="para" id="sec-acids-bases3-51-1-3-1">
+<em class="emphasis">If the pH of a solution is 4.3, calculate the hydronium ion concentration and the hydroxide ion concentration. Which is greater?</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-51-1-3-2">
+<ol class="lower-alpha lower-alpha-level-1" id="sec-acids-bases3-51-1-3-2-1"><li id="sec-acids-bases3-51-1-3-2-1-1">
+<div class="para" id="sec-acids-bases3-51-1-3-2-1-1-1">
+<em class="emphasis">Repeat the same calculations, but at a pH value of 9.2.</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-3-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3.a"><a href="#sec-acids-bases3-51-1-3-2-1-1" title="Copy heading and permalink for Item 3.a" aria-label="Copy heading and permalink for Item 3.a">🔗</a></div>
+</li></ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-3-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3"><a href="#sec-acids-bases3-51-1-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-51-1-4">
+<div class="para" id="sec-acids-bases3-51-1-4-1">
+<em class="emphasis">If 1.00 g of HCl is added to 2.0 L water, what is the new pH?</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-51-1-4-2">
+<ol class="lower-alpha lower-alpha-level-1" id="sec-acids-bases3-51-1-4-2-1">
+<li id="sec-acids-bases3-51-1-4-2-1-1">
+<div class="para" id="sec-acids-bases3-51-1-4-2-1-1-1">
+<em class="emphasis">Step 1: How many moles of HCl was added? How many moles of hydronium was added? How much hydronium ion is present in the water (you can ignore the 1x10-7 M hydronium that was already there…for these problems it is an insignificant amount)</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-4-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4.a"><a href="#sec-acids-bases3-51-1-4-2-1-1" title="Copy heading and permalink for Item 4.a" aria-label="Copy heading and permalink for Item 4.a">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-51-1-4-2-1-2">
+<div class="para" id="sec-acids-bases3-51-1-4-2-1-2-1">
+<em class="emphasis">Step 2: Calculate the molarity of hydronium ion</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-4-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4.b"><a href="#sec-acids-bases3-51-1-4-2-1-2" title="Copy heading and permalink for Item 4.b" aria-label="Copy heading and permalink for Item 4.b">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-51-1-4-2-1-3">
+<div class="para" id="sec-acids-bases3-51-1-4-2-1-3-1">
+<em class="emphasis">Step 3: Calculate the pH</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-4-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4.c"><a href="#sec-acids-bases3-51-1-4-2-1-3" title="Copy heading and permalink for Item 4.c" aria-label="Copy heading and permalink for Item 4.c">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-4-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4"><a href="#sec-acids-bases3-51-1-4" title="Copy heading and permalink for Item 4" aria-label="Copy heading and permalink for Item 4">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-51-1-5">
+<div class="para" id="sec-acids-bases3-51-1-5-1">
+<em class="emphasis">If 1.00g of NaOH is added to 0.59 L of water, what is the new pH?</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-51-1-5-2">
+<ol class="lower-alpha lower-alpha-level-1" id="sec-acids-bases3-51-1-5-2-1">
+<li id="sec-acids-bases3-51-1-5-2-1-1">
+<div class="para" id="sec-acids-bases3-51-1-5-2-1-1-1">
+<em class="emphasis">Step 1: How many moles of NaOH was added? How many moles of hydroxide was added? How much hydroxide ion is present in the water (you can ignore the 1x10-7 M hydroxide that was already there…for these problems it is an insignificant amount)</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-5-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.a"><a href="#sec-acids-bases3-51-1-5-2-1-1" title="Copy heading and permalink for Item 5.a" aria-label="Copy heading and permalink for Item 5.a">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-51-1-5-2-1-2">
+<div class="para" id="sec-acids-bases3-51-1-5-2-1-2-1">
+<em class="emphasis">Step 2: Calculate the molarity of hydroxide ion</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-5-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.b"><a href="#sec-acids-bases3-51-1-5-2-1-2" title="Copy heading and permalink for Item 5.b" aria-label="Copy heading and permalink for Item 5.b">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-51-1-5-2-1-3">
+<div class="para" id="sec-acids-bases3-51-1-5-2-1-3-1">
+<em class="emphasis">Step 3: Calculate the molarity of the hydronium ion</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-5-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.c"><a href="#sec-acids-bases3-51-1-5-2-1-3" title="Copy heading and permalink for Item 5.c" aria-label="Copy heading and permalink for Item 5.c">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-51-1-5-2-1-4">
+<div class="para" id="sec-acids-bases3-51-1-5-2-1-4-1">
+<em class="emphasis">Step 4: Calculate the pH</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-5-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.d"><a href="#sec-acids-bases3-51-1-5-2-1-4" title="Copy heading and permalink for Item 5.d" aria-label="Copy heading and permalink for Item 5.d">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-5-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5"><a href="#sec-acids-bases3-51-1-5" title="Copy heading and permalink for Item 5" aria-label="Copy heading and permalink for Item 5">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-51-1-6">
+<div class="para" id="sec-acids-bases3-51-1-6-1">
+<em class="emphasis">Calculate the pH of neutral water at 0 degrees Celsius where</em> the value of Kw is 1.14 x 10-15<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51-1-6-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 6"><a href="#sec-acids-bases3-51-1-6" title="Copy heading and permalink for Item 6" aria-label="Copy heading and permalink for Item 6">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-51" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-52">Key:<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-52" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-53">
+<em class="emphasis">Exercise 2:</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-53" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-54">
+<ol class="decimal" id="sec-acids-bases3-54-1">
+<li id="sec-acids-bases3-54-1-1">
+<div class="para" id="sec-acids-bases3-54-1-1-1">
+<em class="emphasis">Write a balanced chemical reaction for the following reactions between strong acids and strong bases:</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-54-1-1-2">
+<ol class="lower-alpha lower-alpha-level-1" id="sec-acids-bases3-54-1-1-2-1">
+<li id="sec-acids-bases3-54-1-1-2-1-1">
+<div class="para" id="sec-acids-bases3-54-1-1-2-1-1-1">
+<span class="process-math">\(\displaystyle KOH(aq) + HI(aq) \rightarrow H_{2}O(l) + KI(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-1-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 1.a"><a href="#sec-acids-bases3-54-1-1-2-1-1" title="Copy heading and permalink for Item 1.a" aria-label="Copy heading and permalink for Item 1.a">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-1-2-1-2">
+<div class="para" id="sec-acids-bases3-54-1-1-2-1-2-1">
+<span class="process-math">\(\displaystyle 2H_{2}SO_{4}(aq) + Ca(OH)_{2}(aq) \rightarrow 2H_{2}O(l) + Ca\left( HSO_{4} \right)_{2}(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-1-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 1.b"><a href="#sec-acids-bases3-54-1-1-2-1-2" title="Copy heading and permalink for Item 1.b" aria-label="Copy heading and permalink for Item 1.b">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-1-2-1-3">
+<div class="para" id="sec-acids-bases3-54-1-1-2-1-3-1">
+<span class="process-math">\(\displaystyle Sr(OH)_{2}(aq) + 2HCl(aq) \rightarrow 2H_{2}O(l) + SrCl_{2}(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-1-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 1.c"><a href="#sec-acids-bases3-54-1-1-2-1-3" title="Copy heading and permalink for Item 1.c" aria-label="Copy heading and permalink for Item 1.c">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-1-2-1-4">
+<div class="para" id="sec-acids-bases3-54-1-1-2-1-4-1">
+<span class="process-math">\(\displaystyle HNO_{3}(aq) + RbOH(aq) \rightarrow H_{2}O(l) + RbNO_{3}(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-1-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 1.d"><a href="#sec-acids-bases3-54-1-1-2-1-4" title="Copy heading and permalink for Item 1.d" aria-label="Copy heading and permalink for Item 1.d">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-1-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 1"><a href="#sec-acids-bases3-54-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-2">
+<div class="para" id="sec-acids-bases3-54-1-2-1">
+<span class="process-math">\(\displaystyle H^{+}(aq) + OH^{-}(aq) \rightarrow H_{2}O(l)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 2"><a href="#sec-acids-bases3-54-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-3">
+<div class="para" id="sec-acids-bases3-54-1-3-1">
+<em class="emphasis">Write an ionic equation for the following reactions:</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-54-1-3-2">
+<ol class="lower-alpha lower-alpha-level-1" id="sec-acids-bases3-54-1-3-2-1">
+<li id="sec-acids-bases3-54-1-3-2-1-1">
+<div class="para" id="sec-acids-bases3-54-1-3-2-1-1-1">
+<span class="process-math">\(\displaystyle NH_{3}(aq) + Na^{+}(aq) + HSO_{4}^{-}(aq) \rightarrow NH_{4}^{+}(aq) + Na^{+}(aq) + SO_{4}^{2 -}(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-3-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3.a"><a href="#sec-acids-bases3-54-1-3-2-1-1" title="Copy heading and permalink for Item 3.a" aria-label="Copy heading and permalink for Item 3.a">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-3-2-1-2">
+<div class="para" id="sec-acids-bases3-54-1-3-2-1-2-1">
+<span class="process-math">\(\displaystyle NH_{4}^{+}(aq) + OH^{-}(aq) + Na^{+}(aq) + H^{+}(aq) + SO_{4}^{2 -}(aq) \rightarrow NH_{4}^{+}(aq) + H_{2}O(l) + \ Na^{+}(aq) + SO_{4}^{2 -}(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-3-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3.b"><a href="#sec-acids-bases3-54-1-3-2-1-2" title="Copy heading and permalink for Item 3.b" aria-label="Copy heading and permalink for Item 3.b">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-3-2-1-3">
+<div class="para" id="sec-acids-bases3-54-1-3-2-1-3-1">
+<span class="process-math">\(\displaystyle NH_{4}^{+}(aq) + OH^{-}(aq) + H^{+}(aq) + NO_{3}^{-}(aq) \rightarrow H_{2}O(l) + NH_{4}^{+}(aq) + NO_{3}^{+}(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-3-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3.c"><a href="#sec-acids-bases3-54-1-3-2-1-3" title="Copy heading and permalink for Item 3.c" aria-label="Copy heading and permalink for Item 3.c">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-3-2-1-4">
+<div class="para" id="sec-acids-bases3-54-1-3-2-1-4-1">
+<span class="process-math">\(\displaystyle H_{3}PO_{4}(aq) + Na^{+}(aq) + C_{2}H_{3}O_{2}^{-}(aq) \rightarrow H_{2}PO_{4}^{-}(aq) + Na^{+}(aq) + HC_{2}H_{3}O_{2}(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-3-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3.d"><a href="#sec-acids-bases3-54-1-3-2-1-4" title="Copy heading and permalink for Item 3.d" aria-label="Copy heading and permalink for Item 3.d">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-3-2-1-5">
+<div class="para" id="sec-acids-bases3-54-1-3-2-1-5-1">
+<span class="process-math">\(\displaystyle H^{+}(aq) + {\ C}_{2}H_{3}O_{2}^{-}(aq) + Na^{+}(aq) + H_{2}PO_{4}^{-}(aq) \rightarrow H_{3}PO_{4}(aq) + Na^{+}(aq) + C_{2}H_{3}O_{2}^{-}(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-3-2-1-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3.e"><a href="#sec-acids-bases3-54-1-3-2-1-5" title="Copy heading and permalink for Item 3.e" aria-label="Copy heading and permalink for Item 3.e">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-3-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3"><a href="#sec-acids-bases3-54-1-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-4">
+<div class="para" id="sec-acids-bases3-54-1-4-1">
+<em class="emphasis">For the reactions in #3, write a balanced chemical equation</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-54-1-4-2">
+<ol class="lower-alpha lower-alpha-level-1" id="sec-acids-bases3-54-1-4-2-1">
+<li id="sec-acids-bases3-54-1-4-2-1-1">
+<div class="para" id="sec-acids-bases3-54-1-4-2-1-1-1">
+<span class="process-math">\(\displaystyle NH_{3}(aq) + NaHSO_{4}(aq) \rightarrow NaNH_{4}SO_{4}(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-4-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4.a"><a href="#sec-acids-bases3-54-1-4-2-1-1" title="Copy heading and permalink for Item 4.a" aria-label="Copy heading and permalink for Item 4.a">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-4-2-1-2">
+<div class="para" id="sec-acids-bases3-54-1-4-2-1-2-1">
+<span class="process-math">\(\displaystyle NH_{4}OH(aq) + NaHSO_{4}(aq) \rightarrow H_{2}O(l) + NaNH_{4}SO_{4}(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-4-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4.b"><a href="#sec-acids-bases3-54-1-4-2-1-2" title="Copy heading and permalink for Item 4.b" aria-label="Copy heading and permalink for Item 4.b">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-4-2-1-3">
+<div class="para" id="sec-acids-bases3-54-1-4-2-1-3-1">
+<span class="process-math">\(\displaystyle NH_{4}OH\ (aq) + HNO_{3}(aq) \rightarrow H_{2}O(l) + NH_{4}NO_{3}(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-4-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4.c"><a href="#sec-acids-bases3-54-1-4-2-1-3" title="Copy heading and permalink for Item 4.c" aria-label="Copy heading and permalink for Item 4.c">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-4-2-1-4">
+<div class="para" id="sec-acids-bases3-54-1-4-2-1-4-1">
+<span class="process-math">\(\displaystyle H_{3}PO_{4}(aq) + NaC_{2}H_{3}O_{2}(aq) \rightarrow NaH_{2}PO_{4}(aq) + HC_{2}H_{3}O_{2}(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-4-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4.d"><a href="#sec-acids-bases3-54-1-4-2-1-4" title="Copy heading and permalink for Item 4.d" aria-label="Copy heading and permalink for Item 4.d">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-4-2-1-5">
+<div class="para" id="sec-acids-bases3-54-1-4-2-1-5-1">
+<span class="process-math">\(\displaystyle HC_{2}H_{3}O_{2}(aq) + NaH_{2}PO_{4}(aq) \rightarrow H_{3}PO_{4}(aq) + NaC_{2}H_{3}O_{2}(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-4-2-1-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4.e"><a href="#sec-acids-bases3-54-1-4-2-1-5" title="Copy heading and permalink for Item 4.e" aria-label="Copy heading and permalink for Item 4.e">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-4-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4"><a href="#sec-acids-bases3-54-1-4" title="Copy heading and permalink for Item 4" aria-label="Copy heading and permalink for Item 4">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-5">
+<div class="para" id="sec-acids-bases3-54-1-5-1">
+<em class="emphasis">For the reactions in #3, write a net ionic equation</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-54-1-5-2">
+<ol class="lower-alpha lower-alpha-level-1" id="sec-acids-bases3-54-1-5-2-1">
+<li id="sec-acids-bases3-54-1-5-2-1-1">
+<div class="para" id="sec-acids-bases3-54-1-5-2-1-1-1">
+<span class="process-math">\(\displaystyle NH_{3}(aq) + HSO_{4}^{-}(aq) \rightarrow NH_{4}^{+}(aq) + SO_{4}^{2 -}(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-5-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.a"><a href="#sec-acids-bases3-54-1-5-2-1-1" title="Copy heading and permalink for Item 5.a" aria-label="Copy heading and permalink for Item 5.a">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-5-2-1-2">
+<div class="para" id="sec-acids-bases3-54-1-5-2-1-2-1">
+<span class="process-math">\(\displaystyle OH^{-}(aq) + H^{+}(aq) \rightarrow H_{2}O(l)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-5-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.b"><a href="#sec-acids-bases3-54-1-5-2-1-2" title="Copy heading and permalink for Item 5.b" aria-label="Copy heading and permalink for Item 5.b">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-5-2-1-3">
+<div class="para" id="sec-acids-bases3-54-1-5-2-1-3-1">
+<span class="process-math">\(\displaystyle OH^{-}(aq) + H^{+}(aq) \rightarrow H_{2}O(l)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-5-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.c"><a href="#sec-acids-bases3-54-1-5-2-1-3" title="Copy heading and permalink for Item 5.c" aria-label="Copy heading and permalink for Item 5.c">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-5-2-1-4">
+<div class="para" id="sec-acids-bases3-54-1-5-2-1-4-1">
+<span class="process-math">\(\displaystyle H_{3}PO_{4}(aq) + C_{2}H_{3}O_{2}^{-}(aq) \rightarrow H_{2}PO_{4}^{-}(aq) + HC_{2}H_{3}O_{2}(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-5-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.d"><a href="#sec-acids-bases3-54-1-5-2-1-4" title="Copy heading and permalink for Item 5.d" aria-label="Copy heading and permalink for Item 5.d">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-54-1-5-2-1-5">
+<div class="para" id="sec-acids-bases3-54-1-5-2-1-5-1">
+<span class="process-math">\(\displaystyle H^{+}(aq) + H_{2}PO_{4}^{-}(aq) \rightarrow H_{3}PO_{4}(aq)\)</span><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-5-2-1-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.e"><a href="#sec-acids-bases3-54-1-5-2-1-5" title="Copy heading and permalink for Item 5.e" aria-label="Copy heading and permalink for Item 5.e">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54-1-5-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5"><a href="#sec-acids-bases3-54-1-5" title="Copy heading and permalink for Item 5" aria-label="Copy heading and permalink for Item 5">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-54" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para" id="sec-acids-bases3-55">
+<em class="emphasis">Exercise 3:</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-55" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-56">
+<ol class="decimal" id="sec-acids-bases3-56-1">
+<li id="sec-acids-bases3-56-1-1">
+<div class="para" id="sec-acids-bases3-56-1-1-1">
+<em class="emphasis">2.4</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 1"><a href="#sec-acids-bases3-56-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-56-1-2">
+<div class="para" id="sec-acids-bases3-56-1-2-1">
+<em class="emphasis">11.6</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 2"><a href="#sec-acids-bases3-56-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-56-1-3">
+<div class="para" id="sec-acids-bases3-56-1-3-1">
+<em class="emphasis">[hydronium]=5.0E-5 M, [hydroxide]=2.0E-10 M, hydronium ion concentration is higher</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-56-1-3-2">
+<ol class="lower-alpha lower-alpha-level-1" id="sec-acids-bases3-56-1-3-2-1"><li id="sec-acids-bases3-56-1-3-2-1-1">
+<div class="para" id="sec-acids-bases3-56-1-3-2-1-1-1">
+<em class="emphasis">[hydronium]=6.3E-10 M, [hydroxide]=1.6E-5 M, hydroxide ion concentration is higher</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-3-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3.a"><a href="#sec-acids-bases3-56-1-3-2-1-1" title="Copy heading and permalink for Item 3.a" aria-label="Copy heading and permalink for Item 3.a">🔗</a></div>
+</li></ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-3-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3"><a href="#sec-acids-bases3-56-1-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-56-1-4">
+<div class="para" id="sec-acids-bases3-56-1-4-1">
+<em class="emphasis">If 1.00 g of HCl is added to 2.0 L water, what is the new pH?</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-56-1-4-2">
+<ol class="lower-alpha lower-alpha-level-1" id="sec-acids-bases3-56-1-4-2-1">
+<li id="sec-acids-bases3-56-1-4-2-1-1">
+<div class="para" id="sec-acids-bases3-56-1-4-2-1-1-1">
+<em class="emphasis">0.0274 moles hydronium</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-4-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4.a"><a href="#sec-acids-bases3-56-1-4-2-1-1" title="Copy heading and permalink for Item 4.a" aria-label="Copy heading and permalink for Item 4.a">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-56-1-4-2-1-2">
+<div class="para" id="sec-acids-bases3-56-1-4-2-1-2-1">
+<em class="emphasis">0.014 M</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-4-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4.b"><a href="#sec-acids-bases3-56-1-4-2-1-2" title="Copy heading and permalink for Item 4.b" aria-label="Copy heading and permalink for Item 4.b">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-56-1-4-2-1-3">
+<div class="para" id="sec-acids-bases3-56-1-4-2-1-3-1">
+<em class="emphasis">1.9</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-4-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4.c"><a href="#sec-acids-bases3-56-1-4-2-1-3" title="Copy heading and permalink for Item 4.c" aria-label="Copy heading and permalink for Item 4.c">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-4-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4"><a href="#sec-acids-bases3-56-1-4" title="Copy heading and permalink for Item 4" aria-label="Copy heading and permalink for Item 4">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-56-1-5">
+<div class="para" id="sec-acids-bases3-56-1-5-1">
+<em class="emphasis">If 1.00g of NaOH is added to 0.59 L of water, what is the new pH?</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="para logical" id="sec-acids-bases3-56-1-5-2">
+<ol class="lower-alpha lower-alpha-level-1" id="sec-acids-bases3-56-1-5-2-1">
+<li id="sec-acids-bases3-56-1-5-2-1-1">
+<div class="para" id="sec-acids-bases3-56-1-5-2-1-1-1">
+<em class="emphasis">0.0250 moles hydroxide</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-5-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.a"><a href="#sec-acids-bases3-56-1-5-2-1-1" title="Copy heading and permalink for Item 5.a" aria-label="Copy heading and permalink for Item 5.a">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-56-1-5-2-1-2">
+<div class="para" id="sec-acids-bases3-56-1-5-2-1-2-1">
+<em class="emphasis">0.042 M</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-5-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.b"><a href="#sec-acids-bases3-56-1-5-2-1-2" title="Copy heading and permalink for Item 5.b" aria-label="Copy heading and permalink for Item 5.b">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-56-1-5-2-1-3">
+<div class="para" id="sec-acids-bases3-56-1-5-2-1-3-1">
+<em class="emphasis">2.4E-13 M</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-5-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.c"><a href="#sec-acids-bases3-56-1-5-2-1-3" title="Copy heading and permalink for Item 5.c" aria-label="Copy heading and permalink for Item 5.c">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-56-1-5-2-1-4">
+<div class="para" id="sec-acids-bases3-56-1-5-2-1-4-1">
+<em class="emphasis">13</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-5-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.d"><a href="#sec-acids-bases3-56-1-5-2-1-4" title="Copy heading and permalink for Item 5.d" aria-label="Copy heading and permalink for Item 5.d">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-5-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5"><a href="#sec-acids-bases3-56-1-5" title="Copy heading and permalink for Item 5" aria-label="Copy heading and permalink for Item 5">🔗</a></div>
+</li>
+<li id="sec-acids-bases3-56-1-6">
+<div class="para" id="sec-acids-bases3-56-1-6-1">
+<em class="emphasis">7.47</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56-1-6-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 6"><a href="#sec-acids-bases3-56-1-6" title="Copy heading and permalink for Item 6" aria-label="Copy heading and permalink for Item 6">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-acids-bases3-56" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Section 10.3: Acids and Bases 3"><a href="#sec-acids-bases3" title="Copy heading and permalink for Section 10.3: Acids and Bases 3" aria-label="Copy heading and permalink for Section 10.3: Acids and Bases 3">🔗</a></div></section></div>
+<div id="ptx-content-footer" class="ptx-content-footer">
+<a class="previous-button button" href="sec-acids-bases2.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="sec-acids-bases4.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
+</div></main>
+</div>
+<div id="ptx-page-footer" class="ptx-page-footer">
+<a class="pretext-link" href="https://pretextbook.org" title="PreTeXt"><div class="logo"><svg xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="338 3000 8772 6866" role="img"><title>PreTeXt logo</title><g style="stroke-width:.025in; stroke:currentColor; fill:none"><polyline points="472,3590 472,9732 " style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke-width:126;stroke-linecap:butt;" d="M 4724,9448 A 4660 4660  0  0  1  8598  9259"></path><path style="stroke-width:174;stroke-linecap:butt;" d="M 4488,9685 A 4228 4228  0  0  0   472  9732"></path><path style="stroke-width:126;stroke-linecap:butt;" d="M 4724,3590 A 4241 4241  0  0  1  8598  3496"></path><path style="stroke-width:126;stroke-linecap:round;" d="M 850,3496  A 4241 4241  0  0  1  4724  3590"></path><path style="stroke-width:126;stroke-linecap:round;" d="M 850,9259  A 4507 4507  0  0  1  4724  9448"></path><polyline points="5385,4299 4062,8125" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8598,3496 8598,9259" style="stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="850,3496 850,9259" style="stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="4960,9685 4488,9685" style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="3070,4582 1889,6141 3070,7700" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="6418,4582 7600,6141 6418,7700" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8976,3590 8976,9732" style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><path style="stroke-width:174;stroke-linecap:butt;" d="M 4960,9685 A 4228 4228  0  0  1  8976  9732"></path></g></svg></div></a><a class="runestone-link" href="https://runestone.academy" title="Runestone Academy"><img class="logo" src="https://runestone.academy/runestone/static/images/RAIcon_cropped.png" alt="Runstone Academy logo"></a><a class="mathjax-link" href="https://www.mathjax.org" title="MathJax"><img class="logo" src="https://www.mathjax.org/badge/badge-square-2.png" alt="MathJax logo"></a>
+</div>
+</body>
+</html>
