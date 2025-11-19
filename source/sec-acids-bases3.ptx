@@ -66,20 +66,8 @@
 		</row>
 		<row class="even">
 			<cell halign="left">Ionic equation</cell>
-			<cell halign="left">	<p>
-		<me>NH_{3}(aq) + H^{+}(aq) + F^{-}(aq) \rightarrow</me>
-	</p>
-
-	<p>
-		<me>NH_{4}^{+}(aq) + F^{-}(aq)</me>
-	</p></cell>
-			<cell halign="left">	<p>
-		<me>NH_{4}^{+}(aq) + OH^{-}(aq) + H^{+}(aq) + F^{-}(aq) \rightarrow</me>
-	</p>
-
-	<p>
-		<me>H_{2}O(l) + NH_{4}^{+}(aq) + F^{-}(aq)</me>
-	</p></cell>
+			<cell halign="left"><me>NH_{3}(aq) + H^{+}(aq) + F^{-}(aq) \rightarrow NH_{4}^{+}(aq) + F^{-}(aq)</me></cell>
+			<cell halign="left"><me>NH_{4}^{+}(aq) + OH^{-}(aq) + H^{+}(aq) + F^{-}(aq) \rightarrow H_{2}O(l) + NH_{4}^{+}(aq) + F^{-}(aq)</me></cell>
 		</row>
 		<row class="odd">
 			<cell halign="left">Net ionic equation</cell>
@@ -98,30 +86,12 @@
 		</row>
 		<row class="even">
 			<cell halign="left">Ionic equation</cell>
-			<cell halign="left">	<p>
-		<me>NH_{3}(aq) + HF(aq) \rightarrow</me>
-	</p>
-
-	<p>
-		<me>NH_{4}^{+}(aq) + F^{-}(aq)</me>
-	</p></cell>
-			<cell halign="left">	<p>
-		<me>NH_{4}^{+}(aq) + OH^{-}(aq) + HF(aq) \rightarrow</me>
-	</p>
-
-	<p>
-		<me>H_{2}O(l) + NH_{4}^{+}(aq) + F^{-}(aq)</me>
-	</p></cell>
+			<cell halign="left"><me>NH_{3}(aq) + HF(aq) \rightarrow NH_{4}^{+}(aq) + F^{-}(aq)</me></cell>
+			<cell halign="left"><me>NH_{4}^{+}(aq) + OH^{-}(aq) + HF(aq) \rightarrow H_{2}O(l) + NH_{4}^{+}(aq) + F^{-}(aq)</me></cell>
 		</row>
 		<row class="odd">
 			<cell halign="left">Net ionic equation</cell>
-			<cell halign="left">	<p>
-		<me>NH_{3}(aq) + HF(aq) \rightarrow</me>
-	</p>
-
-	<p>
-		<me>NH_{4}^{+}(aq) + F^{-}(aq)</me>
-	</p></cell>
+			<cell halign="left"><me>NH_{3}(aq) + HF(aq) \rightarrow NH_{4}^{+}(aq) + F^{-}(aq)</me></cell>
 			<cell halign="left"><me>OH^{-}(aq) + HF(aq) \rightarrow H_{2}O(l) + F^{-}(aq)</me></cell>
 		</row>
 		</tabular>
@@ -824,5 +794,6 @@
 
 
 </section>
+
 
 
