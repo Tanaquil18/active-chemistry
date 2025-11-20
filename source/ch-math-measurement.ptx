@@ -5,12 +5,12 @@
 
     <xi:include href="sec-math-review.ptx" />
 
-    <xi:include href="sec-math1.ptx" />
-    <xi:include href="sec-math2.ptx" />
-    <xi:include href="sec-math3.ptx" />
-    <xi:include href="sec-math4.ptx" />
-    <xi:include href="sec-math5.ptx" />
-    <xi:include href="sec-math6.ptx" />
+  <!--  <xi:include href="sec-math1.ptx" /> -->
+  <!--  <xi:include href="sec-math2.ptx" /> -->
+  <!--  <xi:include href="sec-math3.ptx" /> -->
+  <!--  <xi:include href="sec-math4.ptx" /> -->
+  <!--  <xi:include href="sec-math5.ptx" /> -->
+   <!-- <xi:include href="sec-math6.ptx" /> -->
     
 
 </chapter>
