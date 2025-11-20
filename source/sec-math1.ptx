@@ -1,1 +1,283 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-math-review" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Fractions Review</title>
+
+    <p>
+		<term>Summary:</term>
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				Fraction math review
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Terms for parts of a fraction
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						How to multiply and divide fractions
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				Canceling out factors and labels
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						When fractions are multiplied, if a factor (or a label) occurs in both the numerator and the denominator, they cancel out
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+    </ol></p>
+    <p>
+		<term>Section 1: Fraction math review</term>
+	</p>
+
+	<p>
+		Fractions play a key role in science because they allow us to use ratios in our calculations. In chemistry, they have many uses as we’ll see if upcoming chapters and exercises. The most common math that we do with fractions in chemistry is multiplying and dividing them. To carry out multiplication of fractions, we simply multiply together all of the values in the <term>numerators</term><fn>	<p>
+		The numerator is the top of a fraction
+	</p></fn> (the top of the fraction), keeping the product in the numerator of the final answer, and then do a similar operation with the <term>denominator</term><fn>	<p>
+		The denominator is the bottom of a fraction
+	</p></fn> (the bottom of the fraction).
+	</p>
+
+	<p>
+		Multiplication of fractions example 1:
+	</p>
+
+	<p>
+		<me>\frac{2}{3} \times \frac{7}{3} = \frac{2 \times 7}{3 \times 3} = \frac{14}{9}</me>
+	</p>
+
+	<p>
+		Multiplication of fractions example 2:
+	</p>
+
+	<p>
+		<me>\frac{a}{b} \times \frac{c}{d} \times \frac{e}{f} \times \frac{g}{h} = \frac{a \times c \times e \times g}{b \times d \times f \times h}</me>
+	</p>
+
+	<p>
+		Dividing fractions is similarly quite easy to do. In a division problem, the first number is the <term>dividend</term> (the number being divided) and the second is the <term>divisor</term> (the number that the dividend is being divided into). Division of fractions can be expressed in multiple ways
+	</p>
+
+	<p>
+		<me>\frac{4}{3} \div \frac{7}{8} = \frac{\frac{4}{3}}{\frac{7}{8}}\ \ </me>
+	</p>
+
+	<p>
+		Please note that the dividend is the numerator in the fraction expression and the divisor becomes the denominator. To complete this division problem, we simply need to flip the divisor and multiply that value by the dividend.
+	</p>
+
+	<p>
+		<me>\frac{4}{3} \div \frac{7}{8} = \frac{4}{3} \times \frac{8}{7} = \frac{4 \times 8}{3 \times 7} = \frac{32}{21}</me>
+	</p>
+
+	<p>
+		<em><term>Exercise 1: Fraction math review</term></em>
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				Fraction math. Do the following math problems <em></em>
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p><ol>
+		<li>
+			<p>
+				<m>\frac{7}{3} \times \frac{4}{3} =</m>
+			</p>
+		</li>
+
+		<li>
+			<p>
+				<m>\frac{2}{3} \times \frac{7}{2} \times \frac{3}{5} =</m>
+			</p>
+		</li>
+
+		<li>
+			<p>
+				<m>\frac{4}{3} \div \frac{3}{4} =</m>
+			</p>
+		</li>
+
+		<li>
+			<p>
+				<m>\frac{a}{b} \div \frac{c}{d} \times \frac{c}{a} =</m>
+			</p>
+		</li>
+
+		<li>
+			<p>
+				<m>7 \times \frac{5}{3} \div 9 =</m>
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p>
+		<term>Section 2: Canceling out factors and labels in calculations</term>
+	</p>
+
+	<p>
+		Another VERY important lesson to remember about fractions is that if the numerator and denominator both contain the same factor, then they cancel out. This is true for both numbers in the fractions but also for labels like units. See the examples below:
+	</p>
+
+	<p>
+		Example 1: <m>\frac{4}{3} \times \frac{3}{7} = \frac{4 \times 3}{3 \times 7}\ </m> (the 3s cancel out) <m>= \frac{4}{7}</m>
+	</p>
+
+	<p>
+		Example 2: <m>4\ miles\left( \frac{hr}{10\ miles} \right) = \frac{4\ miles \times hr}{10\ miles}</m> (the “miles” labels cancel out)
+	</p>
+
+	<p>
+		<me>= \frac{2}{5}hr</me>
+	</p>
+
+	<p>
+		<em><term>Exercise 2: Canceling out factors and labels in calculations</term></em>
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				Simplify the following expressions <em></em>
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p><ol>
+		<li>
+			<p>
+				<m>\frac{7}{5} \times \frac{15}{14}</m>
+			</p>
+		</li>
+
+		<li>
+			<p>
+				<m>\frac{7}{3} \div \frac{7}{9}</m>
+			</p>
+		</li>
+
+		<li>
+			<p>
+				<m>\frac{x}{y} \times \frac{z}{y} \times \frac{y}{z}</m>
+			</p>
+		</li>
+
+		<li>
+			<p>
+				<m>50km \times \frac{hr}{10km} \times \frac{60min}{hr}</m>
+			</p>
+		</li>
+
+	</ol></p>
+    <p>
+		<term>Key:</term>
+	</p>
+
+	<p>
+		Exercise 1:
+	</p>
+
+	<p><ol>
+		<li>
+		
+		</li>
+
+	</ol></p>
+
+	<p><ol>
+		<li>
+			<p>
+				28/9
+			</p>
+		</li>
+
+		<li>
+			<p>
+				42/30=7/5
+			</p>
+		</li>
+
+		<li>
+			<p>
+				16/9
+			</p>
+		</li>
+
+		<li>
+			<p>
+				(adc)/(bca)=d/b
+			</p>
+		</li>
+
+		<li>
+			<p>
+				35/27
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p>
+		Exercise 2.
+	</p>
+
+	<p><ol>
+		<li>
+		
+		</li>
+
+	</ol></p>
+
+	<p><ol>
+		<li>
+			<p>
+				3/2
+			</p>
+		</li>
+
+		<li>
+			<p>
+				3
+			</p>
+		</li>
+
+		<li>
+			<p>
+				x/y
+			</p>
+		</li>
+
+		<li>
+			<p>
+				300min
+			</p>
+		</li>
+
+	</ol></p>
+
+</section>
