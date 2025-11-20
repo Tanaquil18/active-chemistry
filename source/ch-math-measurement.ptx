@@ -3,7 +3,7 @@
 <chapter xml:id="ch-math-review" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Math and Measurement</title>
 
-    <!-- <xi:include href="sec-math-review.ptx" /> -->
+   
 
    <xi:include href="sec-math1.ptx" />
    <xi:include href="sec-math2.ptx" />
