@@ -340,7 +340,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.5",
   "title": "Chemistry",
-  "body": " Chemistry   Summary:     Chemistry    What is the definition of chemistry, matter, and mass?    What is matter and what is energy?       Section 3: Chemistry   Modern science is separated into the disciplines of physics, chemistry, and biology. There is considerable overlap between these subjects since each discipline can influence the others. Chemistry  Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc. is the study of the properties of matter  Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe. . Matter can be defined as anything that occupies space and has mass  Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction. . Basically, everything that you can see and touch is matter. Even particles that are too small to be seen, such as atoms and molecules, are still matter because they occupy space and have mass. Energy (defined in a later chapter), on the other hand, is NOT matter. It is a property that matter can have, but it is not a thing that occupies space. Light and heat are things that we can experience in the physical world, but they lack mass and thus are not matter. Sound is another example of energy. Sound is caused by the vibration of matter, but it refers to the vibration, not to the particles that are vibrating.  Chemistry is often referred to as the central science. This is because to fully understand the behavior and properties of matter, we first have to understand the laws of physics. Physics provides chemistry with information about the composition of matter and its most basic parts. It also provides chemists with an understanding of energy and how it interacts with matter. At the same time, all organisms are comprised of matter; thus, if we want to understand life, we need to understand the matter that comprises it. Chemistry aids biology by helping us understand how organisms function and can also help us learn how to manipulate biology, for instance by designing pharmaceuticals or pesticides.   Exercise 3: Chemistry, health, and ethics     Write down the definitions of chemistry, matter, and mass.    Are the following best described as matter or energy?    The heat from a fire    The smoke from a fire    The vibration of a string on a violin    A string on a violin      What are your career goals (discuss this with your group)? How might the knowledge of chemistry help you in your career?    Even if you never directly use the knowledge from this course in your profession, does this course still have value to you? Is knowledge without purpose worthless?     Key:   Exercise 3:    See the definitions in the text    Are the following best described as matter or energy?    Energy    Matter    Energy    Matter      Varies    Varies. Knowledge about creation contains knowledge of God. Knowing God is obviously good, so pursuing any knowledge of creation has inherent goodness.    "
+  "body": " Chemistry   Summary:     Chemistry    What is the definition of chemistry, matter, and mass?    What is matter and what is energy?       Section 3: Chemistry   Modern science is separated into the disciplines of physics, chemistry, and biology. There is considerable overlap between these subjects since each discipline can influence the others. Chemistry is the study of the properties of matter  Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe. . Matter can be defined as anything that occupies space and has mass  Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction. . Basically, everything that you can see and touch is matter. Even particles that are too small to be seen, such as atoms and molecules, are still matter because they occupy space and have mass. Energy (defined in a later chapter), on the other hand, is NOT matter. It is a property that matter can have, but it is not a thing that occupies space. Light and heat are things that we can experience in the physical world, but they lack mass and thus are not matter. Sound is another example of energy. Sound is caused by the vibration of matter, but it refers to the vibration, not to the particles that are vibrating.  Chemistry is often referred to as the central science. This is because to fully understand the behavior and properties of matter, we first have to understand the laws of physics. Physics provides chemistry with information about the composition of matter and its most basic parts. It also provides chemists with an understanding of energy and how it interacts with matter. At the same time, all organisms are comprised of matter; thus, if we want to understand life, we need to understand the matter that comprises it. Chemistry aids biology by helping us understand how organisms function and can also help us learn how to manipulate biology, for instance by designing pharmaceuticals or pesticides.   Exercise 3: Chemistry, health, and ethics     Write down the definitions of chemistry, matter, and mass.    Are the following best described as matter or energy?    The heat from a fire    The smoke from a fire    The vibration of a string on a violin    A string on a violin      What are your career goals (discuss this with your group)? How might the knowledge of chemistry help you in your career?    Even if you never directly use the knowledge from this course in your profession, does this course still have value to you? Is knowledge without purpose worthless?     Key:   Exercise 3:    See the definitions in the text    Are the following best described as matter or energy?    Energy    Matter    Energy    Matter      Varies    Varies. Knowledge about creation contains knowledge of God. Knowing God is obviously good, so pursuing any knowledge of creation has inherent goodness.    "
 },
 {
   "id": "sec-chem-faith5-2",
@@ -388,148 +388,346 @@ var ptx_lunr_docs = [
   "body": "Key: "
 },
 {
-  "id": "sec-math-review",
+  "id": "sec-math1",
   "level": "1",
-  "url": "sec-math-review.html",
+  "url": "sec-math1.html",
   "type": "Section",
   "number": "2.1",
-  "title": "Math Review",
-  "body": " Math Review   Summary:     Fraction math review    Terms for parts of a fraction    How to multiply and divide fractions      Canceling out factors and labels    When fractions are multiplied, if a factor (or a label) occurs in both the numerator and the denominator, they cancel out      Scientific notation    Know how to convert between standard and scientific notation    Remember that a positive power is associated with a large number (greater than 10) and a negative power is associated with a small number (less than 1)      Correct use of a calculator    Use the correct scientific notation button on your calculator to avoid errors    Know when to use parentheses      Algebra review    Use opposite operations to isolate your variable of interest       Section 1: Fraction math review   Fractions play a key role in science because they allow us to use ratios in our calculations. In chemistry, they have many uses as we’ll see if upcoming chapters and exercises. The most common math that we do with fractions in chemistry is multiplying and dividing them. To carry out multiplication of fractions, we simply multiply together all of the values in the numerators  The numerator is the top of a fraction (the top of the fraction), keeping the product in the numerator of the final answer, and then do a similar operation with the denominator  The denominator is the bottom of a fraction (the bottom of the fraction).  Multiplication of fractions example 1:     Multiplication of fractions example 2:     Dividing fractions is similarly quite easy to do. In a division problem, the first number is the dividend (the number being divided) and the second is the divisor (the number that the dividend is being divided into). Division of fractions can be expressed in multiple ways     Please note that the dividend is the numerator in the fraction expression and the divisor becomes the denominator. To complete this division problem, we simply need to flip the divisor and multiply that value by the dividend.      Exercise 1: Fraction math review     Fraction math. Do the following math problems                                 Section 2: Canceling out factors and labels in calculations   Another VERY important lesson to remember about fractions is that if the numerator and denominator both contain the same factor, then they cancel out. This is true for both numbers in the fractions but also for labels like units. See the examples below:  Example 1: (the 3s cancel out)   Example 2: (the “miles” labels cancel out)      Exercise 2: Canceling out factors and labels in calculations     Simplify the following expressions                            Section 3: Scientific notation   In chemistry, we frequently have to make use of very large numbers (e.g. when we’re discussing numbers of atoms) as well as very small numbers (e.g. the weight of an atom). We have a couple of strategies that make this much more palatable for us. One such strategy is to have different units of measurement for discussing large numbers vs. small numbers. The other common approach is to use scientific notation. Ultimately scientific notation is required, even if we use different units, because we still need to use very large (or small) numbers to express the relationship between these different units. For example, if we are talking about the distance across an atom, a common unit of measurement is an Angstrom. A hydrogen atom has a diameter of approximately 1.1 Angstroms. But how many inches is that? In order to convert between units of Angstroms and inches we'd have to know that 1 Angstrom = 0.00000000394 inches. Working with that number is obviously obnoxious, requiring us to count exactly how many zeroes there are. To get around this, we like to use scientific notation.   a number in scientific notation, identifying coefficient, power, and base   To write a number in scientific notation, we combine a coefficient The coefficient is the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal. with a base The base follows the coefficient in scientific notation. It is multiplied by the base. It is always 10 raised to some integer power. . The coefficient is always a number that is greater than or equal to 1 and less than 10, and is written as a decimal. The coefficient is then multiplied by the base which is 10 raised to some power.    number in scientific notation and moving the decimal point to get expanded form    number in scientific notation and moving the decimal point to get expanded form    A positive power makes the coefficient larger by moving the decimal in the coefficient to the right by the number of digit places given by the number in the power. Conversely, a negative power makes the coefficient smaller by moving the decimal in the coefficient to the left by the number of digit places given by the number in the power.  We also have to be able to take a number that is written in standard notation and rewrite it in scientific notation. To do this, we move the decimal point in the direction that will result in a coefficient that has a value between 1 and 10. We count the number of digit places that we moved the decimal and that becomes the value in the power. If we moved the decimal to the left, then the power remains positive. If the decimal had to be moved to the right, then the value in the power becomes negative.     a number in scientific notation, identifying coefficient, power, and base    number in scientific notation and moving the decimal point to get expanded form    One of the things that often confuses students about scientific notation is remembering when to move the decimal to the right or the left. These rules can be summed up by remembering the simple rule that big numbers have positive powers and small numbers have negative powers. Remembering this rule can help you determine for yourself whether you should move the decimal right or left.   Exercise 3: Scientific notation     Do the following math problems       Write the following numbers in scientific notation.    3,001.002    5,000,005    10,055,057,001    0.000 057 8    0.08    0.000 000 007 044      Write the following numbers in standard notation.                                      Do the following math problems using your calculator. You probably have a SCI and DEC button or mode on your calculator. If you need help figuring out how to do these on your calculator, please reach out to your instructor or find an online tutorial that is specific to your calculator model.    Write the following numbers in scientific notation.    3,001.002    5,000,005    10,055,057,001    0.000 0578    0.08    0.000 000 007 044      Write the following numbers in standard notation.                                       Section 4: Scientific notation and calculators   Doing multi-step calculations often leads to errors. These errors often result from incorrect calculator usage. It is important to make sure that you are correctly inputting scientific notation into your calculator. Often the correct way to do this is using the EE button on your calculator. If, on the other hand, you input scientific notation using the times button and then your exponent button, you may inadvertently input the incorrect math problem. See the example below:     4.1 EE 3 “divided by” 3.3 EE 10 =   4.1 “times” 10 ^ 3 “divided by” 3.3 “times” 10 ^ 10  This incorrect input above is actually calculating the following:   Another way that you can correctly input scientific notation is to put parentheses around each of your scientific notation inputs. This allows you to input the scientific notation using whichever method you’d prefer.  ( 4.1 “times” 10 ^ 3 ) “divided by” ( 3.3 “times” 10 ^ 10)  Another important calculator rule to remember is that when we write complex fractions, all of the operations in the numerator and denominator respectively are carried out before the division step. This is correctly input into a calculator by remembering to put parentheses around both the numerator and denominator. See the example below:     ( 7 “plus” 3 ) “divided by” ( 5.5 EE 3 “plus” 100 ) =    Exercise 4: Scientific notation and calculators .     Complete the following problems using your calculator.                           Section 5: Algebra review   The final part of this math review is a brief review of algebra. We use algebra to rearrange mathematical expressions to solve for some unknown. There are two things to remember when doing algebraic rearrangements. First, our goal is to isolate the variable of interest, remembering that it must be in the numerator if we’re dealing with fractions. Second, the way in which we will isolate the variable is by carrying out . See the examples below:   Exercise 5: Algebra review.     For the following problems, solve for the value of c. In some cases your solution will be an expression rather than a number. Write out all of your steps                                Key:   Exercise 1:        28\/9    42\/30=7\/5    16\/9    (adc)\/(bca)=d\/b    35\/27    Exercise 2.        3\/2    3    x\/y    300min    Exercise 3:                                                                              Exercise 3, problem 2: Same as problem 1  Exercise 4:                            Exercise 5:        3\/2    275\/9         8    20 hr    "
+  "title": "Fractions Review",
+  "body": " Fractions Review   Summary:     Fraction math review    Terms for parts of a fraction    How to multiply and divide fractions      Canceling out factors and labels    When fractions are multiplied, if a factor (or a label) occurs in both the numerator and the denominator, they cancel out       Section 1: Fraction math review   Fractions play a key role in science because they allow us to use ratios in our calculations. In chemistry, they have many uses as we’ll see if upcoming chapters and exercises. The most common math that we do with fractions in chemistry is multiplying and dividing them. To carry out multiplication of fractions, we simply multiply together all of the values in the numerators The numerator is the top of a fraction (the top of the fraction), keeping the product in the numerator of the final answer, and then do a similar operation with the denominator The denominator is the bottom of a fraction (the bottom of the fraction).  Multiplication of fractions example 1:     Multiplication of fractions example 2:     Dividing fractions is similarly quite easy to do. In a division problem, the first number is the dividend (the number being divided) and the second is the divisor (the number that the dividend is being divided into). Division of fractions can be expressed in multiple ways     Please note that the dividend is the numerator in the fraction expression and the divisor becomes the denominator. To complete this division problem, we simply need to flip the divisor and multiply that value by the dividend.      Exercise 1: Fraction math review     Fraction math. Do the following math problems                                 Section 2: Canceling out factors and labels in calculations   Another VERY important lesson to remember about fractions is that if the numerator and denominator both contain the same factor, then they cancel out. This is true for both numbers in the fractions but also for labels like units. See the examples below:  Example 1: (the 3s cancel out)   Example 2: (the “miles” labels cancel out)      Exercise 2: Canceling out factors and labels in calculations     Simplify the following expressions                            Key:   Exercise 1:        28\/9    42\/30=7\/5    16\/9    (adc)\/(bca)=d\/b    35\/27    Exercise 2.        3\/2    3    x\/y    300min    "
 },
 {
-  "id": "sec-math-review-2",
+  "id": "sec-math1-2",
   "level": "2",
-  "url": "sec-math-review.html#sec-math-review-2",
+  "url": "sec-math1.html#sec-math1-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Summary: "
 },
 {
-  "id": "sec-math-review-4",
+  "id": "sec-math1-4",
   "level": "2",
-  "url": "sec-math-review.html#sec-math-review-4",
+  "url": "sec-math1.html#sec-math1-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Section 1: Fraction math review "
 },
 {
-  "id": "sec-math-review-5",
+  "id": "sec-math1-5",
   "level": "2",
-  "url": "sec-math-review.html#sec-math-review-5",
+  "url": "sec-math1.html#sec-math1-5",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "numerators denominator "
 },
 {
-  "id": "sec-math-review-10",
+  "id": "sec-math1-10",
   "level": "2",
-  "url": "sec-math-review.html#sec-math-review-10",
+  "url": "sec-math1.html#sec-math1-10",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "dividend divisor "
 },
 {
-  "id": "sec-math-review-14",
+  "id": "sec-math1-14",
   "level": "2",
-  "url": "sec-math-review.html#sec-math-review-14",
+  "url": "sec-math1.html#sec-math1-14",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Exercise 1: Fraction math review "
 },
 {
-  "id": "sec-math-review-17",
+  "id": "sec-math1-17",
   "level": "2",
-  "url": "sec-math-review.html#sec-math-review-17",
+  "url": "sec-math1.html#sec-math1-17",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Section 2: Canceling out factors and labels in calculations "
 },
 {
-  "id": "sec-math-review-22",
+  "id": "sec-math1-22",
   "level": "2",
-  "url": "sec-math-review.html#sec-math-review-22",
+  "url": "sec-math1.html#sec-math1-22",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Exercise 2: Canceling out factors and labels in calculations "
 },
 {
-  "id": "sec-math-review-25",
+  "id": "sec-math1-25",
   "level": "2",
-  "url": "sec-math-review.html#sec-math-review-25",
+  "url": "sec-math1.html#sec-math1-25",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Key: "
+},
+{
+  "id": "sec-math2",
+  "level": "1",
+  "url": "sec-math2.html",
+  "type": "Section",
+  "number": "2.2",
+  "title": "Scientific notation",
+  "body": " Scientific notation   Summary:     Scientific notation    Know how to convert between standard and scientific notation    Remember that a positive power is associated with a large number (greater than 10) and a negative power is associated with a small number (less than 1)      Correct use of a calculator    Use the correct scientific notation button on your calculator to avoid errors    Know when to use parentheses       Section 3: Scientific notation   In chemistry, we frequently have to make use of very large numbers (e.g. when we’re discussing numbers of atoms) as well as very small numbers (e.g. the weight of an atom). We have a couple of strategies that make this much more palatable for us. One such strategy is to have different units of measurement for discussing large numbers vs. small numbers. The other common approach is to use scientific notation. Ultimately scientific notation is required, even if we use different units, because we still need to use very large (or small) numbers to express the relationship between these different units. For example, if we are talking about the distance across an atom, a common unit of measurement is an Angstrom. A hydrogen atom has a diameter of approximately 1.1 Angstroms. But how many inches is that? In order to convert between units of Angstroms and inches we'd have to know that 1 Angstrom = 0.00000000394 inches. Working with that number is obviously obnoxious, requiring us to count exactly how many zeroes there are. To get around this, we like to use scientific notation.   a number in scientific notation, identifying coefficient, power, and base   To write a number in scientific notation, we combine a coefficient The coefficient is the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal. with a base The base follows the coefficient in scientific notation. It is multiplied by the base. It is always 10 raised to some integer power. . The coefficient is always a number that is greater than or equal to 1 and less than 10, and is written as a decimal. The coefficient is then multiplied by the base which is 10 raised to some power.    number in scientific notation and moving the decimal point to get expanded form    number in scientific notation and moving the decimal point to get expanded form    A positive power makes the coefficient larger by moving the decimal in the coefficient to the right by the number of digit places given by the number in the power. Conversely, a negative power makes the coefficient smaller by moving the decimal in the coefficient to the left by the number of digit places given by the number in the power.  We also have to be able to take a number that is written in standard notation and rewrite it in scientific notation. To do this, we move the decimal point in the direction that will result in a coefficient that has a value between 1 and 10. We count the number of digit places that we moved the decimal and that becomes the value in the power. If we moved the decimal to the left, then the power remains positive. If the decimal had to be moved to the right, then the value in the power becomes negative.     a number in scientific notation, identifying coefficient, power, and base    number in scientific notation and moving the decimal point to get expanded form    One of the things that often confuses students about scientific notation is remembering when to move the decimal to the right or the left. These rules can be summed up by remembering the simple rule that big numbers have positive powers and small numbers have negative powers. Remembering this rule can help you determine for yourself whether you should move the decimal right or left.   Exercise 3: Scientific notation     Do the following math problems       Write the following numbers in scientific notation.    3,001.002    5,000,005    10,055,057,001    0.000 057 8    0.08    0.000 000 007 044      Write the following numbers in standard notation.                                      Do the following math problems using your calculator. You probably have a SCI and DEC button or mode on your calculator. If you need help figuring out how to do these on your calculator, please reach out to your instructor or find an online tutorial that is specific to your calculator model.    Write the following numbers in scientific notation.    3,001.002    5,000,005    10,055,057,001    0.000 0578    0.08    0.000 000 007 044      Write the following numbers in standard notation.                                       Section 4: Scientific notation and calculators   Doing multi-step calculations often leads to errors. These errors often result from incorrect calculator usage. It is important to make sure that you are correctly inputting scientific notation into your calculator. Often the correct way to do this is using the EE button on your calculator. If, on the other hand, you input scientific notation using the times button and then your exponent button, you may inadvertently input the incorrect math problem. See the example below:     4.1 EE 3 “divided by” 3.3 EE 10 =   4.1 “times” 10 ^ 3 “divided by” 3.3 “times” 10 ^ 10  This incorrect input above is actually calculating the following:   Another way that you can correctly input scientific notation is to put parentheses around each of your scientific notation inputs. This allows you to input the scientific notation using whichever method you’d prefer.  ( 4.1 “times” 10 ^ 3 ) “divided by” ( 3.3 “times” 10 ^ 10)  Another important calculator rule to remember is that when we write complex fractions, all of the operations in the numerator and denominator respectively are carried out before the division step. This is correctly input into a calculator by remembering to put parentheses around both the numerator and denominator. See the example below:     ( 7 “plus” 3 ) “divided by” ( 5.5 EE 3 “plus” 100 ) =    Exercise 4: Scientific notation and calculators .     Complete the following problems using your calculator.                          Exercise 3:                                                                              Exercise 3, problem 2: Same as problem 1  Exercise 4:                            "
+},
+{
+  "id": "sec-math2-2",
+  "level": "2",
+  "url": "sec-math2.html#sec-math2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-math2-4",
+  "level": "2",
+  "url": "sec-math2.html#sec-math2-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Section 3: Scientific notation "
 },
 {
-  "id": "sec-math-review-28",
+  "id": "sec-math2-7",
   "level": "2",
-  "url": "sec-math-review.html#sec-math-review-28",
+  "url": "sec-math2.html#sec-math2-7",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "coefficient base "
 },
 {
-  "id": "sec-math-review-34",
+  "id": "sec-math2-13",
   "level": "2",
-  "url": "sec-math-review.html#sec-math-review-34",
+  "url": "sec-math2.html#sec-math2-13",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Exercise 3: Scientific notation "
 },
 {
-  "id": "sec-math-review-38",
+  "id": "sec-math2-17",
   "level": "2",
-  "url": "sec-math-review.html#sec-math-review-38",
+  "url": "sec-math2.html#sec-math2-17",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Section 4: Scientific notation and calculators "
 },
 {
-  "id": "sec-math-review-49",
+  "id": "sec-math2-28",
   "level": "2",
-  "url": "sec-math-review.html#sec-math-review-49",
+  "url": "sec-math2.html#sec-math2-28",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Exercise 4: Scientific notation and calculators "
 },
 {
-  "id": "sec-math-review-52",
+  "id": "sec-math3",
+  "level": "1",
+  "url": "sec-math3.html",
+  "type": "Section",
+  "number": "2.3",
+  "title": "Algebra review",
+  "body": " Algebra review   Summary:     Algebra review    Use opposite operations to isolate your variable of interest       Section 5: Algebra review   The final part of this math review is a brief review of algebra. We use algebra to rearrange mathematical expressions to solve for some unknown. There are two things to remember when doing algebraic rearrangements. First, our goal is to isolate the variable of interest, remembering that it must be in the numerator if we’re dealing with fractions. Second, the way in which we will isolate the variable is by carrying out . See the examples below:   Exercise 5: Algebra review.     For the following problems, solve for the value of c. In some cases your solution will be an expression rather than a number. Write out all of your steps                               Exercise 5:        3\/2    275\/9         8    20 hr    "
+},
+{
+  "id": "sec-math3-2",
   "level": "2",
-  "url": "sec-math-review.html#sec-math-review-52",
+  "url": "sec-math3.html#sec-math3-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-math3-4",
+  "level": "2",
+  "url": "sec-math3.html#sec-math3-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Section 5: Algebra review "
 },
 {
-  "id": "sec-math-review-54",
+  "id": "sec-math3-6",
   "level": "2",
-  "url": "sec-math-review.html#sec-math-review-54",
+  "url": "sec-math3.html#sec-math3-6",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Exercise 5: Algebra review. "
 },
 {
-  "id": "sec-math-review-57",
+  "id": "sec-math4",
+  "level": "1",
+  "url": "sec-math4.html",
+  "type": "Section",
+  "number": "2.4",
+  "title": "Significant figures",
+  "body": " Significant figures   Summary:     Significant figures    Exact numbers have infinite significant figures    Measured numbers have finite numbers of significant figures    All non-zero numbers are significant    Zeroes    Between non-zero digits are always significant    To the left of the non-zero digits are never significant    To the right of the non-zero digits are significant ONLY if there is a decimal point        Scientific notation    All digits in the coefficient are significant    Digits in the base and power are never significant         Section 1: Significant Figures   In chemistry, we use math a lot. The numbers that we use in our calculations often describe measurements or numbers of things, such as numbers of molecules. This then raises an important consideration for us, namely how precisely do we know the numbers in our calculations? For instance, if I’m measuring the length of a piece of string, do I know its length precisely to the nearest inch, or to the nearest millimeter, or to the nearest nanometer? The answer to that question depends on the tools that were used to make the measurement and their level of precision. Obviously, you won’t be able to tell how many nanometers long a piece of string is by using a typical ruler; another much more expensive measuring device would likely be required.  To understand how precisely we know a quantity, we will first discuss the difference between exact  An exact number is one that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures. and measured  A measured number is a number that exists because of some measurement. Measured numbers have a finite number of significant figures. numbers. Exact numbers are discrete things that can be counted (ex. 3 eggs), quantities that are exact definitions (ex. there are 12 inches in one foot), or desired values (ex. the established dosage for a pharmaceutical is 10 mg\/kg\/day). Measured numbers are any quantity that had to be measured. They are also found when we are equating units that occur in different systems of measurement (ex. 2.54 cm=1 inch; 1 inch is very close to 2.54 cm, but an inch is not defined as being exactly 2.54 cm).  Exact numbers are known to an infinite level of precision. If you have 3 eggs, you don’t have 3.0000001 eggs…you have exactly 3.00000000… (keeps on going…) eggs. If the dosage of drug that you are supposed to give to a patient is 10mg\/kg\/day, the desired dose is not higher or lower than that…it is exactly that value. Measured numbers, on the other hand, are known only to a certain level of precision. A race may have taken exactly 9.813453223 (feel free to add other random digits on the end) seconds, but if I am using a stop watch that only measures hundredths of a second, then my measured value would be 9.81 seconds. Because of this, measured numbers always have a certain amount of uncertainty associated with them. How then do we communicate the level of certainty with which we know a number?  This brings us to the concept of significant figures  Significant figures are those digits in a number that convey information about its value and its precision. . Significant figures are those digits in a number that reveal the level of precision. We have to worry about the number of significant figures when we’re dealing with measured numbers, since those values are only known to a certain degree of precision. If a stopwatch at the end of a race reads 9.81 seconds, then that measurement has 3 significant figures (the 9, 8, and 1 are each significant). In that case, the time was measured to the hundredths place, but not to the thousandths place and the reported value should reflect that. Exact numbers, on the other hand, have an infinite number of significant figures because of their infinite precision.  In a measured numbers, there are some simple rules to remember in order to identify which digits are significant. First of all, non-zero digits are always significant when the number is written in standard notation (more on scientific notation in just a little bit). The complication comes from zeros in measured numbers.  There are three rules to remember with zeros:    When zeros are to the far left of the number, they are never significant    Zeros in between non-zero digits are always significant    Zeros to the far right of a number are significant ONLY if there is a decimal point written in the number.     Some examples of this:     0.0034 (none of these zeros are significant because of rule 1)    3001 (the zeros are significant because of rule 2)    400.0 (all of these zeros are significant because of rule 3)    300 (none of these zeros are significant because of rule 3)    300. (all of these zeros are significant because of rule 3; notice the decimal has been purposely included)    The last rule for significant figures has to deal with scientific notation. In scientific notation, the power and the base are NOT significant. The only significant figures come from the coefficient portion, and it obeys the rules covered previously, including the rules about zeros. So has 5 significant figures (4.0010; the 10 to the 10 th power is not significant). Sometimes we HAVE to write a number in scientific notation to convey the correct number of significant figures. For instance, if you measured as distance of 300 cm to 2 significant figures, you can’t indicate that by writing 300 cm (1 significant figure) or 300. cm (2 significant figures). You can show it by writing cm.   Exercise 1: Significant figures     Complete the following problems      Determine if the following numbers are exact or measured.    12 cows    4.73 feet    42 minutes    23 dozen eggs    10 mm in a centimeter    12 inches in a foot    1.057 quarts in a liter      How many significant figures are in the following numbers?    4.33    17.04    0.0053020    500    1000000.    5.620 x 10 23       Rewrite the following numbers with the indicated number of significant figures.    9.9800 (4 significant figures)    2.80 x 10 4 (4 significant figures)    52000 (3 significant figures)      "
+},
+{
+  "id": "sec-math4-2",
   "level": "2",
-  "url": "sec-math-review.html#sec-math-review-57",
+  "url": "sec-math4.html#sec-math4-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Key: "
+  "body": "Summary: "
+},
+{
+  "id": "sec-math4-4",
+  "level": "2",
+  "url": "sec-math4.html#sec-math4-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Section 1: Significant Figures "
+},
+{
+  "id": "sec-math4-6",
+  "level": "2",
+  "url": "sec-math4.html#sec-math4-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "exact measured "
+},
+{
+  "id": "sec-math4-8",
+  "level": "2",
+  "url": "sec-math4.html#sec-math4-8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "significant figures "
+},
+{
+  "id": "sec-math4-15",
+  "level": "2",
+  "url": "sec-math4.html#sec-math4-15",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Exercise 1: Significant figures "
+},
+{
+  "id": "sec-math5",
+  "level": "1",
+  "url": "sec-math5.html",
+  "type": "Section",
+  "number": "2.5",
+  "title": "Analog vs. digital measurements",
+  "body": " Analog vs. digital measurements   Summary:     Digital vs. analog measurements    Digital    All digits shown on the display should be written down    Do NOT add any extra digits      Analog    Read all digits provided by the scale shown    Estimate one extra digit ONLY if all of the digits of the previous position are marked on the scale         Section 2: Digital vs. Analog Measurements   When we make measurements with analog  An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes. devices like a ruler or a graduated cylinder, the process for determining the number of significant figures in your measurement is more complicated than with a digital  A digital device is one that displays a measurement using digits only. device. With a digital device, you simply record all of the displayed numbers in your measured number and obey the rules that were learned previously for significant figures in order to determine which digits are significant . For example if a balance reads 0.320 grams, then your measurement is 0.320 grams with 3 significant figures (the left zero is NOT significant because of the rules you learned in the last section).  When we use an analog device, we frequently see that the line that we’re measuring occurs between values on the measuring scale. When reporting these measurements, we report all of the digits that are provided by the measuring scale PLUS we estimate the value of one extra digit by mentally subdividing the scale into 10 equal portions. See the example below:    A graph with a red arrow Description automatically generated   If we’re trying to measure the length of the orange arrow the scale provided depicts tenths of a unit (let’s say it’s centimeters). The orange arrow appears to be between 0.9 and 1 cm long. Since this is an analog scale, we should ALWAYS estimate one extra significant digit, even if that digit is a 0. In this case, my estimate would be 0.94 cm, but yours might differ slightly (though it should be 0.9 something).    A line with numbers and a line with a line AI-generated content may be incorrect.   In this case not all of the digits in the tenths place are shown, only 0.5. Because of this we don’t estimate an extra decimal place. Instead we estimate for the decimal place shown by the most precise markings, in this case the tenths place. My estimate would be 0.9 cm. Your estimate might be 0.8 cm or even 1.0 cm.   Exercise 2: Digital vs. analog measurements      Record the proper measurement with the following devices (don’t worry about the units). How many significant figures are in each measurement?                             "
+},
+{
+  "id": "sec-math5-2",
+  "level": "2",
+  "url": "sec-math5.html#sec-math5-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-math5-4",
+  "level": "2",
+  "url": "sec-math5.html#sec-math5-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Section 2: Digital vs. Analog Measurements "
+},
+{
+  "id": "sec-math5-5",
+  "level": "2",
+  "url": "sec-math5.html#sec-math5-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "analog digital "
+},
+{
+  "id": "sec-math5-7",
+  "level": "2",
+  "url": "sec-math5.html#sec-math5-7",
+  "type": "Figure",
+  "number": "2.5.1",
+  "title": "",
+  "body": "  A graph with a red arrow Description automatically generated  "
+},
+{
+  "id": "sec-math5-9",
+  "level": "2",
+  "url": "sec-math5.html#sec-math5-9",
+  "type": "Figure",
+  "number": "2.5.2",
+  "title": "",
+  "body": "  A line with numbers and a line with a line AI-generated content may be incorrect.  "
+},
+{
+  "id": "sec-math5-11",
+  "level": "2",
+  "url": "sec-math5.html#sec-math5-11",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Exercise 2: Digital vs. analog measurements "
+},
+{
+  "id": "sec-math5-12-1-1-2-1-2-1",
+  "level": "2",
+  "url": "sec-math5.html#sec-math5-12-1-1-2-1-2-1",
+  "type": "Figure",
+  "number": "2.5.3",
+  "title": "",
+  "body": "   "
+},
+{
+  "id": "sec-math5-12-1-1-2-1-3-1",
+  "level": "2",
+  "url": "sec-math5.html#sec-math5-12-1-1-2-1-3-1",
+  "type": "Figure",
+  "number": "2.5.4",
+  "title": "",
+  "body": "   "
+},
+{
+  "id": "sec-math5-12-1-1-2-1-5-1",
+  "level": "2",
+  "url": "sec-math5.html#sec-math5-12-1-1-2-1-5-1",
+  "type": "Figure",
+  "number": "2.5.5",
+  "title": "",
+  "body": "   "
+},
+{
+  "id": "sec-math6",
+  "level": "1",
+  "url": "sec-math6.html",
+  "type": "Section",
+  "number": "2.6",
+  "title": "Significant figures in calculations",
+  "body": " Significant figures in calculations    Significant figures in calculations    Multiplication\/division    Count the significant figures in each starting number    Round your answer to have the same number of significant figures as the starting number with the fewest      Addition\/subtraction    Determine the most precise digit place in the starting numbers    Round your answer to the digit place that is the least precise out of those you’ve chosen in the first step      Multiple operations    Mark the digit place that you should be rounding to after each step but do NOT round    Keep at least one extra digit beyond the rounding spot    Treat this number as having the number of significant digits that are indicated by your marked digit place, even though it has extra digits      After the final calculation determine where the number should be rounded to using the multiplication\/division or addition\/subtraction rules    Round the final answer appropriately           Exercise 3: Significant figures in calculations      Do the following calculations. Assume that each of the numbers is a measured number unless otherwise stated.       5.55-1    4.888+0.01    9.999\/4.33    22.1 x 44.44       Do the following calculations. Assume that each of the numbers is a measured number unless otherwise stated. Show each of your steps and circle the digit that should be rounded to after each step.     (97+32) x 1.8    (9.80 x 0.0010 \/ 4.533) + 0.045     (hint: you may want to write the scientific notation in standard notation to help you out)      "
+},
+{
+  "id": "sec-math6-3",
+  "level": "2",
+  "url": "sec-math6.html#sec-math6-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Exercise 3: Significant figures in calculations "
 },
 {
   "id": "sec-matter1",
@@ -3734,6 +3932,24 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "titration "
+},
+{
+  "id": "ch-definitions",
+  "level": "1",
+  "url": "ch-definitions.html",
+  "type": "Chapter",
+  "number": "11",
+  "title": "Definitions",
+  "body": " Definitions    Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.    "
+},
+{
+  "id": "def-chemistry",
+  "level": "2",
+  "url": "ch-definitions.html#def-chemistry",
+  "type": "Definition",
+  "number": "11.0.1",
+  "title": "",
+  "body": "  Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.   "
 },
 {
   "id": "backmatter-2",
