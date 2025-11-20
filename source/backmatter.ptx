@@ -6,7 +6,7 @@
 <!-- solutions in the next. Then there is an appendix -->
 <!-- with all notation generated, and finally the index. -->
 <backmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="backmatter">
-  <title>Backmatter</title>
+  <title>Appendix</title>
 
   <!-- <solutions divisional="hint"> <title>Selected Hints</title> </solutions> -->
 
@@ -19,7 +19,7 @@
         <definition xml:id="def-numerator">
         <statement>
           <p>
-            The numerator is the top of a fraction.
+            <term>Numerator:</term>the top of a fraction.
           </p>
         </statement>
       </definition>
@@ -28,7 +28,25 @@
         <definition xml:id="def-denominator">
           <statement>
             <p>
-              The denominator is the bottom of a fraction.
+              <term>Denominator:</term>the bottom of a fraction.
+            </p>
+          </statement>
+        </definition>
+      </p>
+      <p>
+        <definition xml:id="def-dividend">
+          <statement>
+            <p>
+              <term>Dividend:</term>the number that is being divided.
+            </p>
+          </statement>
+        </definition>
+      </p>
+      <p>
+        <definition xml:id="def-divisor">
+          <statement>
+            <p>
+              <term>Divisor:</term> the number of parts that the dividend is being divided into.
             </p>
           </statement>
         </definition>
