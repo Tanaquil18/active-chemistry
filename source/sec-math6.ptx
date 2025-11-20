@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-math6">
+    <title>Significant figures in calculations</title>
+    
+    <p><ol>
+        <li>
+			<p>
+				Significant figures in calculations
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Multiplication/division
+					</p>
+				
+					<p><ol>
+						<li>
+							<p>
+								Count the significant figures in each starting number
+							</p>
+						</li>
+				
+						<li>
+							<p>
+								Round your answer to have the same number of significant figures as the starting number with the fewest
+							</p>
+						</li>
+				
+					</ol></p>
+				</li>
+		
+				<li>
+					<p>
+						Addition/subtraction
+					</p>
+				
+					<p><ol>
+						<li>
+							<p>
+								Determine the most precise digit place in the starting numbers
+							</p>
+						</li>
+				
+						<li>
+							<p>
+								Round your answer to the digit place that is the least precise out of those you’ve chosen in the first step
+							</p>
+						</li>
+				
+					</ol></p>
+				</li>
+		
+				<li>
+					<p>
+						Multiple operations
+					</p>
+				
+					<p><ol>
+						<li>
+							<p>
+								Mark the digit place that you should be rounding to after each step but do NOT round
+							</p>
+						
+							<p><ol>
+								<li>
+									<p>
+										Keep at least one extra digit beyond the rounding spot
+									</p>
+								</li>
+						
+								<li>
+									<p>
+										Treat this number as having the number of significant digits that are indicated by your marked digit place, even though it has extra digits
+									</p>
+								</li>
+						
+							</ol></p>
+						</li>
+				
+						<li>
+							<p>
+								After the final calculation determine where the number should be rounded to using the multiplication/division or addition/subtraction rules
+							</p>
+						
+							<p><ol>
+								<li>
+									<p>
+										Round the final answer appropriately
+									</p>
+								</li>
+						
+							</ol></p>
+						</li>
+				
+					</ol></p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+	</ol></p>
+
+    <p>
+		<em><term>Exercise 3: Significant figures in calculations</term></em>
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				<em>Do the following calculations. Assume that each of the numbers is a measured number unless otherwise stated.</em>
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p><ol>
+		<li>
+			<p>
+				5.55-1
+			</p>
+		</li>
+
+		<li>
+			<p>
+				4.888+0.01
+			</p>
+		</li>
+
+		<li>
+			<p>
+				9.999/4.33
+			</p>
+		</li>
+
+		<li>
+			<p>
+				22.1 x 44.44
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p><ol>
+		<li>
+			<p>
+				<em>Do the following calculations. Assume that each of the numbers is a measured number unless otherwise stated. Show each of your steps and circle the digit that should be rounded to after each step.</em>
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						(97+32) x 1.8
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						(9.80 x 0.0010 / 4.533) + 0.045
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						<m>\frac{1.1 \times 10^{6} + 5.12}{17.55 + 3.077}</m> (hint: you may want to write the scientific notation in standard notation to help you out)
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+	</ol></p>
+</section>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-math5">
+    <title>Analog vs. digital measurements</title>
+    <p>
+		<term>Summary:</term>
+	</p>
+
+	<p><ol>
+		
+		<li>
+			<p>
+				Digital vs. analog measurements
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Digital
+					</p>
+				
+					<p><ol>
+						<li>
+							<p>
+								All digits shown on the display should be written down
+							</p>
+						</li>
+				
+						<li>
+							<p>
+								Do NOT add any extra digits
+							</p>
+						</li>
+				
+					</ol></p>
+				</li>
+		
+				<li>
+					<p>
+						Analog
+					</p>
+				
+					<p><ol>
+						<li>
+							<p>
+								Read all digits provided by the scale shown
+							</p>
+						</li>
+				
+						<li>
+							<p>
+								Estimate one extra digit ONLY if all of the digits of the previous position are marked on the scale
+							</p>
+						</li>
+				
+					</ol></p>
+				</li>
+		
+			</ol></p>
+		</li>
+    </ol></p>
+
+    <p>
+		<term>Section 2: Digital vs. Analog Measurements</term>
+	</p>
+
+	<p>
+		When we make measurements with <term>analog</term><fn>	<p>
+		An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.
+	</p></fn> devices like a ruler or a graduated cylinder, the process for determining the number of significant figures in your measurement is more complicated than with a <term>digital</term><fn>	<p>
+		A digital device is one that displays a measurement using digits only.
+	</p></fn> device. <em>With a digital device, you simply record all of the displayed numbers in your measured number and obey the rules that were learned previously for significant figures in order to determine which digits are significant</em>. For example if a balance reads 0.320 grams, then your measurement is 0.320 grams with 3 significant figures (the left zero is NOT significant because of the rules you learned in the last section).
+	</p>
+
+	<p>
+		When we use an analog device, we frequently see that the line that we’re measuring occurs between values on the measuring scale. When reporting these measurements, we report all of the digits that are provided by the measuring scale PLUS we estimate the value of one extra digit by mentally subdividing the scale into 10 equal portions. See the example below:
+	</p>
+
+	<figure>
+	<image source="media/image11.png"/>
+		<caption>A graph with a red arrow Description automatically generated</caption>
+</figure>
+
+	<p>
+		If we’re trying to measure the length of the orange arrow the scale provided depicts tenths of a unit (let’s say it’s centimeters). The orange arrow appears to be between 0.9 and 1 cm long. Since this is an analog scale, we should ALWAYS estimate one extra significant digit, even if that digit is a 0. In this case, my estimate would be 0.94 cm, but yours might differ slightly (though it should be 0.9 something).
+	</p>
+
+	<figure>
+	<image source="media/image20.png"/>
+		<caption>A line with numbers and a line with a line AI-generated content may be incorrect.</caption>
+</figure>
+
+	<p>
+		In this case not all of the digits in the tenths place are shown, only 0.5. Because of this we don’t estimate an extra decimal place. Instead we estimate for the decimal place shown by the most precise markings, in this case the tenths place. My estimate would be 0.9 cm. Your estimate might be 0.8 cm or even 1.0 cm.
+	</p>
+
+	<p>
+		<em><term>Exercise 2: Digital vs. analog measurements</term></em>
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				<em>Record the proper measurement with the following devices (don’t worry about the units). How many significant figures are in each measurement?</em>
+			</p>
+		
+			<p><ol>
+				<li>
+				
+				</li>
+		
+				<li>
+					<figure>
+					<image source="media/image3.png"/>
+						<caption></caption>
+				</figure>
+				</li>
+		
+				<li>
+					<figure>
+					<image source="media/image4.png"/>
+						<caption></caption>
+				</figure>
+				</li>
+		
+				<li>
+				
+				</li>
+		
+				<li>
+					<figure>
+					<image source="media/image5.png"/>
+						<caption></caption>
+				</figure>
+				</li>
+		
+			</ol></p>
+		</li>
+
+	</ol></p>
+
+</section>
