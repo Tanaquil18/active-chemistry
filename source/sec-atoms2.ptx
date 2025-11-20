@@ -414,18 +414,15 @@
 		<row class="odd">
 			<cell halign="center"></cell>
 			<cell halign="center"></cell>
-			<cell halign="center">	<p>
-		?, ?, ?, ?, ?, ?, ?, ?, ?
-	</p>
-
-	<p>
-		(there’s no element that requires these, but we can hypothesize that there would be 9 orbitals of this type)
-	</p></cell>
+			<cell halign="center">	?, ?, ?, ?, ?, ?, ?, ?, ? ***	</cell>
 			<cell halign="center">18?</cell>
 		</row>
 		</tabular>
 	</table>
 
+	<p>
+		<em>***there’s no element that requires these, but we can hypothesize that there would be 9 orbitals of this type</em>
+	</p>
 	<p>
 		<em><!-- linebreak --></em>
 	</p>
@@ -691,6 +688,7 @@
 
 
 </section>
+
 
 
 
