@@ -22,6 +22,7 @@
     <xi:include href="./ch-gases.ptx" />
     <xi:include href="./ch-solutions.ptx" />
     <xi:include href="./ch-acids-bases.ptx" />
+    <xi:include href="./ch-definitions.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />

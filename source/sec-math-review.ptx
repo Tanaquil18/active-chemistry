@@ -271,7 +271,7 @@
         To get around this, we like to use scientific notation.
 	</p>
     
-    <image source="exp-power-base.png">
+    <image source="exp-power-base">
         <shortdescription>a number in scientific notation, identifying coefficient, power, and base</shortdescription>
     </image>
 
