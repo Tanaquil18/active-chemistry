@@ -85,9 +85,30 @@
 		<me>\frac{4}{3} \div \frac{7}{8} = \frac{4}{3} \times \frac{8}{7} = \frac{4 \times 8}{3 \times 7} = \frac{32}{21}</me>
 	</p>
 
+
+
 	<p>
-		<em><term>Exercise 1: Fraction math review</term></em>
+		<term>Section 2: Canceling out factors and labels in calculations</term>
 	</p>
+
+	<p>
+		Another VERY important lesson to remember about fractions is that if the numerator and denominator both contain the same factor, then they cancel out. This is true for both numbers in the fractions but also for labels like units. See the examples below:
+	</p>
+
+	<p>
+		Example 1: <m>\frac{4}{3} \times \frac{3}{7} = \frac{4 \times 3}{3 \times 7}\ </m> (the 3s cancel out) <m>= \frac{4}{7}</m>
+	</p>
+
+	<p>
+		Example 2: <m>4\ miles\left( \frac{hr}{10\ miles} \right) = \frac{4\ miles \times hr}{10\ miles}</m> (the “miles” labels cancel out)
+	</p>
+
+	<p>
+		<me>= \frac{2}{5}hr</me>
+	</p>
+	<exercises>
+		<title>Exercises:</title>
+	
 
 	<p><ol>
 		<li>
@@ -100,15 +121,49 @@
 
 	<p><ol>
 		<li>
-			<p>
-				<m>\frac{7}{3} \times \frac{4}{3} =</m>
-			</p>
+			<exercise>
+				<statement>
+					<p>
+						<m>\frac{7}{3} \times \frac{4}{3} =</m>
+					</p>
+				</statement>
+				<hint>
+					<p>
+						Multiply 7 times 4 and put that on top.  Then multiply 3 times 3 and put that on the bottom.
+					</p>
+				</hint>
+				<answer>
+					<p>
+						<m>\frac{28}{9}</m>
+					</p>
+				</answer>
+				
+			</exercise>
+			
 		</li>
 
 		<li>
-			<p>
-				<m>\frac{2}{3} \times \frac{7}{2} \times \frac{3}{5} =</m>
-			</p>
+			<exercise>
+				<statement>
+					<p>
+						<m>\frac{2}{3} \times \frac{7}{2} \times \frac{3}{5} =</m>
+					</p>
+				</statement>
+				<hint>
+					<p>
+						Multiply the numbers in the numerator and put that value into the numerator of the final answer.  Multiply the numbers in the denominator and put that value into the denominator of the final answer.
+					</p>
+					<p>
+						See if you can simplify your answer by dividing the numerator and denominator by their greatest common factor.
+					</p>
+				</hint>
+				<answer>
+					<p>
+						<m>\frac{42}{30}=\frac{7}{5}
+					</p>
+				</answer>
+			</exercise>
+			
 		</li>
 
 		<li>
@@ -130,30 +185,7 @@
 		</li>
 
 	</ol></p>
-
-	<p>
-		<term>Section 2: Canceling out factors and labels in calculations</term>
-	</p>
-
-	<p>
-		Another VERY important lesson to remember about fractions is that if the numerator and denominator both contain the same factor, then they cancel out. This is true for both numbers in the fractions but also for labels like units. See the examples below:
-	</p>
-
-	<p>
-		Example 1: <m>\frac{4}{3} \times \frac{3}{7} = \frac{4 \times 3}{3 \times 7}\ </m> (the 3s cancel out) <m>= \frac{4}{7}</m>
-	</p>
-
-	<p>
-		Example 2: <m>4\ miles\left( \frac{hr}{10\ miles} \right) = \frac{4\ miles \times hr}{10\ miles}</m> (the “miles” labels cancel out)
-	</p>
-
-	<p>
-		<me>= \frac{2}{5}hr</me>
-	</p>
-
-	<p>
-		<em><term>Exercise 2: Canceling out factors and labels in calculations</term></em>
-	</p>
+	
 
 	<p><ol>
 		<li>

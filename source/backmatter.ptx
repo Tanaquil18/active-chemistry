@@ -14,12 +14,12 @@
 
   <appendix> <title>Definitions</title> 
     <p>
-      <em>Chapter 1</em>
+      <term>Chapter 1</term>
       <p>
         <definition xml:id="def-numerator">
         <statement>
           <p>
-            <term>Numerator:</term>the top of a fraction.
+            <term>Numerator:</term> the top of a fraction.
           </p>
         </statement>
       </definition>
@@ -28,7 +28,7 @@
         <definition xml:id="def-denominator">
           <statement>
             <p>
-              <term>Denominator:</term>the bottom of a fraction.
+              <term>Denominator:</term> the bottom of a fraction.
             </p>
           </statement>
         </definition>
@@ -37,7 +37,7 @@
         <definition xml:id="def-dividend">
           <statement>
             <p>
-              <term>Dividend:</term>the number that is being divided.
+              <term>Dividend:</term> the number that is being divided.
             </p>
           </statement>
         </definition>
