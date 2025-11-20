@@ -12,7 +12,31 @@
 
   <!-- <solutions divisional="solution"> <title>Selected Solutions</title> </solutions> -->
 
-  <!-- <appendix> <title>List of Symbols</title> <notation-list/> </appendix> -->
+  <appendix> <title>Definitions</title> 
+    <p>
+      <em>Chapter 1</em>
+      <p>
+        <definition xml:id="def-numerator">
+        <statement>
+          <p>
+            The numerator is the top of a fraction.
+          </p>
+        </statement>
+      </definition>
+      </p>
+      <p>
+        <definition xml:id="def-denominator">
+          <statement>
+            <p>
+              The denominator is the bottom of a fraction.
+            </p>
+          </statement>
+        </definition>
+      </p>
+    </p>
+
+    
+  </appendix>
 
   <!-- <index> <title>Index</title> <index-list/> </index> -->
 
