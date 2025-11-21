@@ -51,6 +51,51 @@
           </statement>
         </definition>
       </p>
+      <p>
+        <definition xml:id="def-coefficient">
+          <statement>
+            <p>
+              <term>Coefficient:</term> the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.
+            </p>
+          </statement>
+        </definition>
+      </p>
+      <p>
+        <definition xml:id="def-base1">
+          <statement>
+            <p>
+              <term>Base:</term> follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.
+            </p>
+          </statement>
+        </definition>
+      </p>
+      <p>
+        <definition xml:id="def-exact">
+          <statement>
+            <p>
+              <term>Exact number:</term> a value that is countable, a definition, or a desired quantity. Exact numbers have an <em>infinite</em> number of significant figures.
+            </p>
+          </statement>
+        </definition>
+      </p>
+      <p>
+        <definition xml:id="def-measured">
+          <statement>
+            <p>
+              <term>Measured number:</term> a value that was measured and thus isn't known exactly.  Every measured number has a non-zero amount of uncertainty.
+            </p>
+          </statement>
+        </definition>
+      </p>
+      <p>
+        <definition xml:id="def-significant">
+          <statement>
+            <p>
+              <term>Significant figures:</term> the digits in a number that both convey its quantity and that are known reliably.
+            </p>
+          </statement>
+        </definition>
+      </p>
     </p>
 
     
