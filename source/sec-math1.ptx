@@ -161,7 +161,7 @@
 				<statement>
 					<p>
 						Fraction math. Do the following math problems
-						<m>\frac{4}{3} \divide \frac{3}{4} =</m>
+						<m>\frac{4}{3} \div \frac{3}{4} =</m>
 					</p>
 				</statement>
 				<hint>
@@ -180,7 +180,7 @@
 				<statement>
 					<p>
 						Fraction math. Do the following math problems
-						<m>\frac{a}{b}\divide\frac{c}{d}\times{c}{a} =</m>
+						<m>\frac{a}{b}\div\frac{c}{d}\times\frac{c}{a} =</m>
 					</p>
 				</statement>
 				
