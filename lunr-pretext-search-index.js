@@ -6,13 +6,22 @@ var ptx_lunr_docs = [
   "url": "frontmatter-3.html",
   "type": "Preface",
   "number": "",
-  "title": "Purpose",
-  "body": "Purpose  This textbook is intended for collegiate pre-nursing students as a part of a two semester course in General, Organic, and Biological chemistry. The first ten chapters of this text is also appropriate for high school students as a first chemistry course and pairs with the Franciscan Advantage program in chemistry that is offered by Franciscan University of Steubenville.  I believe that this textbook is unique in that it pairs active-learning in chemistry with a Catholic-Christian understanding of science and chemistry. Active learning is an educational term that encompasses many different approaches, but importantly means that the student is actively engaged in learning rather than listening to lectures.  This textbook is divided into chapters. Each chapter is further divided into lessons (which are appropriate for a 50 min college class or perhaps several days worth of a high school class). Within each lesson are several sections, each of which teaches a different concept. The sections contain a text lesson, which should ideally be read by the student before class. Each section ends with several exercises which are designed to be completed during class, with the help of peers or the instructor. Studies have repeatedly shown that students learn better and retain knowledge better when they are actively engaged in learning new material rather than simply having it presented to them.  This text also aims to incorporate a Catholic-Christian understanding of science, philosophy, and ethics. The first chapter of the textbook focuses heavily on this, but there are additional places throughout the textbook where the relevance of the lesson to our faith and morals is discussed further.  To further aid in student learning, this textbook includes helpful online video instruction to accompany the various chapters and lessons in the textbook. These videos are freely available on YouTube, and teachers and students are encouraged to utilize them where they deem appropriate.  "
+  "title": "Acknowledgements",
+  "body": "Acknowledgements  Thank you to Dr. Christina Safranski for all of her help in converting this text into a publishable format using Pretext.  Thank you to Dr. Chris Payne for his help with revising the text.  Thank you to the numerous students who have alterted me to errors in the text and who have helped improve the quality of this work.  "
 },
 {
   "id": "frontmatter-4",
   "level": "1",
   "url": "frontmatter-4.html",
+  "type": "Preface",
+  "number": "",
+  "title": "Purpose",
+  "body": "Purpose  This textbook is intended for collegiate pre-nursing students as a part of a two semester course in General, Organic, and Biological chemistry. The first ten chapters of this text is also appropriate for high school students as a first chemistry course and pairs with the Franciscan Advantage program in chemistry that is offered by Franciscan University of Steubenville.  I believe that this textbook is unique in that it pairs active-learning in chemistry with a Catholic-Christian understanding of science and chemistry. Active learning is an educational term that encompasses many different approaches, but importantly means that the student is actively engaged in learning rather than listening to lectures.  This textbook is divided into chapters. Each chapter is further divided into lessons (which are appropriate for a 50 min college class or perhaps several days worth of a high school class). Within each lesson are several sections, each of which teaches a different concept. The sections contain a text lesson, which should ideally be read by the student before class. Each section ends with several exercises which are designed to be completed during class, with the help of peers or the instructor. Studies have repeatedly shown that students learn better and retain knowledge better when they are actively engaged in learning new material rather than simply having it presented to them.  This text also aims to incorporate a Catholic-Christian understanding of science, philosophy, and ethics. The first chapter of the textbook focuses heavily on this, but there are additional places throughout the textbook where the relevance of the lesson to our faith and morals is discussed further.  To further aid in student learning, this textbook includes helpful online video instruction to accompany the various chapters and lessons in the textbook. These videos are freely available on YouTube, and teachers and students are encouraged to utilize them where they deem appropriate.  "
+},
+{
+  "id": "frontmatter-5",
+  "level": "1",
+  "url": "frontmatter-5.html",
   "type": "Preface",
   "number": "",
   "title": "Learning in an Active Classroom",
@@ -34,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Relationship between the natural and the supernatural",
-  "body": " Relationship between the natural and the supernatural   Summary:     Relationship between the natural and the supernatural    What is meant by the natural and supernatural    The existence of the natural world is dependent on a supernatural cause    Christians hold the natural and supernatural to both be important       Section 1: Natural and the Supernatural   In this textbook, I’m going to be assuming that the reader acknowledges the existence of the Christian God and His Son, Jesus Christ. My discussions of faith, science, and ethics will come from the theological tradition of the Roman Catholic Church, but will have a lot in common with other Christian denominations. If there are areas in the text that seem to be at odd with your own personal beliefs, I hope the information contained in here can serve as a starting point for further discussions and debates.  Catholics acknowledge Jesus and thus can’t separate their discussions of the natural world  Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science. from the supernatural  Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology. (bolded text is usually indicating an important term that you SHOULD know the definition of. In this textbook, definitions and extra commentary are provided as footnotes at the bottom of the page). Both the natural and supernatural are components of reality and are interdependent. Catholics acknowledge the existence of God, and thus existence that is beyond nature, in other words, the supernatural. As St. Thomas Aquinas argues in his Summa Theologica , the creation of the natural world presupposes a supernatural cause; nature cannot be the first cause. He argues this at length through the “first mover” argument. In this argument he establishes that the natural world is dependent on God for its existence. This argument goes something like this:    The natural world is full of motion. Matter moves, time moves, etc.    All motion must have a prior cause.    Natural things have the potential to move, that is they have potency  Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving. . That potential can be realized through the action of some outside cause. Natural things also have actuality  Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning. , the ability to bring forth potency (ie. natural things can cause other natural things to move). The bringing forth of potency is a change in that thing.    There must be a first actuality to bring forth all motion. That actuality can’t have potency, otherwise it would have had to be acted on by something else first. We can summarize this by saying that there must be a “first mover”.    There is a philosophical need for an actor that can actualize motion but remain unchangeable. We call this actor God. God must therefore lack potency (He doesn’t change). Instead, God is pure actuality ( Actus Purus  Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself. ). He can initiate change or motion but can’t be acted upon or changed by other things.    Actus purus must initiate all motion. Therefore God must have initiate all of nature.    After having established the existence of the supernatural in addition to the natural world, many questions arise about the importance of each and the relationship between them (example: miracles). In many ways, the Catholic faith is grounded in the supernatural. God has a supernatural nature and is both the Creator and Redeemer. Humanity is dependent on Him for existence, and the hope for eternal life rests solely in Him. Because of the supremacy of God’s supernatural nature, one might argue that the best thing that each of us can do with our lives is to put all of effort into understanding the supernatural, thus minimizing the importance of the material world. Indeed portions of scripture could be interpreted as saying that this is the approach that Catholics should take. Two examples:   “Do not love the world or the things of the world. If anyone loves the world, the love of the Father is not in him.” 1 John 2:15   “’Therefore I tell you, do not worry about your life, what you will eat [or drink], or about your body, what you will wear. Is not life more than food and the body more than clothing?  Look at the birds in the sky; they do not sow or reap, they gather nothing into barns, yet your heavenly Father feeds them. Are not you more important than they?  Can any of you by worrying add a single moment to your life-span?  Why are you anxious about clothes? Learn from the way the wild flowers grow. They do not work or spin.  But I tell you that not even Solomon in all his splendor was clothed like one of them.  If God so clothes the grass of the field, which grows today and is thrown into the oven tomorrow, will he not much more provide for you, O you of little faith?  So do not worry and say, ‘What are we to eat?’ or ‘What are we to drink?’ or ‘What are we to wear?’  All these things the pagans seek. Your heavenly Father knows that you need them all.  But seek first the kingdom [of God] and his righteousness, and all these things will be given you besides.” Matthew 6: 25-33.  So, should we all study theology and scorn the study of the natural world? Hopefully it is obvious to you that this view is incomplete and thus misguided…but why?   Exercise 1: Natural and the Supernatural     Summarize the first mover argument in your own words.    Explain the terms potency, actuality, and Actus Purus in your own words. What is the relationship between the three terms?    Would most superheroes be best classified as natural or supernatural? They are clearly exceptional, but are they supernatural?    Are angels natural or supernatural? Do angels possess potency, actuality, or both?    Is everything that is supernatural Actus Purus?    As Catholics, we believe that God is not exclusively supernatural. We believe that Jesus is the unity of the supernatural and the natural in one person. How does this knowledge inform the way in which we should approach the relationship between the natural and the supernatural as Catholics? Is one more important than the other?    Catholics are called to be separate from the world, yet we are material creatures. What are ways in which we can practically abandon materialism?     Key:   Exercise 1:    Answers may vary (see the argument in the text to check for similarity to what you stated).    Actuality is the ability to bring forth potency. Potency is some change that can be realized in a thing. Actus Purus is a term for God that describes Him as pure actuality without potency. Actuality brings forth potency. The first actualization must have been from Actus Purus.    They are exceptional but natural. They can be seen and touched. Their powers often work within nature (example: spiderman can only swing because of his webs).    Angels are supernatural (example: they don’t exist in one particular space; their movement defies the laws of physics). Angels can change and therefore possess potency. They can also influence other things and thus have actuality.    Angels are an example of something that is supernatural that nonetheless possesses potency. Only God is Actus Purus.    Human nature and human bodies are a part of God, through his Son, Jesus. God is therefore body and spirit, natural and supernatural. If we are to love God, we must love both parts. In caring for others, we must care for their bodily and spiritual needs.    When we say we should abandon materialism, we mean that we should abandon unhealthy attachments. For instance, food is good, but gluttony is sinful. We can avoid gluttony by practicing occasional fasting.    "
+  "body": " Relationship between the natural and the supernatural   Summary:     Relationship between the natural and the supernatural    What is meant by the natural and supernatural    The existence of the natural world is dependent on a supernatural cause    Christians hold the natural and supernatural to both be important       Section 1: Natural and the Supernatural   In this textbook, I’m going to be assuming that the reader acknowledges the existence of the Christian God and His Son, Jesus Christ. My discussions of faith, science, and ethics will come from the theological tradition of the Roman Catholic Church, but will have a lot in common with other Christian denominations. If there are areas in the text that seem to be at odd with your own personal beliefs, I hope the information contained in here can serve as a starting point for further discussions and debates.  Catholics acknowledge Jesus and thus can’t separate their discussions of the natural world  Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science. from the supernatural  Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology. (bolded text is usually indicating an important term that you SHOULD know the definition of. In this textbook, definitions and extra commentary are provided as footnotes at the bottom of the page). Both the natural and supernatural are components of reality and are interdependent. Catholics acknowledge the existence of God, and thus existence that is beyond nature, in other words, the supernatural. As St. Thomas Aquinas argues in his Summa Theologica , the creation of the natural world presupposes a supernatural cause; nature cannot be the first cause. He argues this at length through the “first mover” argument. In this argument he establishes that the natural world is dependent on God for its existence. This argument goes something like this:    The natural world is full of motion. Matter moves, time moves, etc.    All motion must have a prior cause.    Natural things have the potential to move, that is they have potency  Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving. . That potential can be realized through the action of some outside cause. Natural things also have actuality  Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning. , the ability to bring forth potency (ie. natural things can cause other natural things to move). The bringing forth of potency is a change in that thing.    There must be a first actuality to bring forth all motion. That actuality can’t have potency, otherwise it would have had to be acted on by something else first. We can summarize this by saying that there must be a “first mover”.    There is a philosophical need for an actor that can actualize motion but remain unchangeable. We call this actor God. God must therefore lack potency (He doesn’t change). Instead, God is pure actuality ( Actus Purus  Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself. ). He can initiate change or motion but can’t be acted upon or changed by other things.    Actus purus must initiate all motion. Therefore God must have initiate all of nature.    After having established the existence of the supernatural in addition to the natural world, many questions arise about the importance of each and the relationship between them (example: miracles). In many ways, the Catholic faith is grounded in the supernatural. God has a supernatural nature and is both the Creator and Redeemer. Humanity is dependent on Him for existence, and the hope for eternal life rests solely in Him. Because of the supremacy of God’s supernatural nature, one might argue that the best thing that each of us can do with our lives is to put all of effort into understanding the supernatural, thus minimizing the importance of the material world. Indeed portions of scripture could be interpreted as saying that this is the approach that Catholics should take. Two examples:   “Do not love the world or the things of the world. If anyone loves the world, the love of the Father is not in him.” 1 John 2:15   “’Therefore I tell you, do not worry about your life, what you will eat [or drink], or about your body, what you will wear. Is not life more than food and the body more than clothing?  Look at the birds in the sky; they do not sow or reap, they gather nothing into barns, yet your heavenly Father feeds them. Are not you more important than they?  Can any of you by worrying add a single moment to your life-span?  Why are you anxious about clothes? Learn from the way the wild flowers grow. They do not work or spin.  But I tell you that not even Solomon in all his splendor was clothed like one of them.  If God so clothes the grass of the field, which grows today and is thrown into the oven tomorrow, will he not much more provide for you, O you of little faith?  So do not worry and say, ‘What are we to eat?’ or ‘What are we to drink?’ or ‘What are we to wear?’  All these things the pagans seek. Your heavenly Father knows that you need them all.  But seek first the kingdom [of God] and his righteousness, and all these things will be given you besides.” Matthew 6: 25-33.  So, should we all study theology and scorn the study of the natural world? Hopefully it is obvious to you that this view is incomplete and thus misguided…but why?     Summarize the first mover argument in your own words.      Answers may vary (see the argument in the text to check for similarity to what you stated).        Explain the terms potency, actuality, and Actus Purus in your own words. What is the relationship between the three terms?      Actuality is the ability to bring forth potency. Potency is some change that can be realized in a thing. Actus Purus is a term for God that describes Him as pure actuality without potency. Actuality brings forth potency. The first actualization must have been from Actus Purus.        Would most superheroes be best classified as natural or supernatural? They are clearly exceptional, but are they supernatural?      They are exceptional but natural. They can be seen and touched. Their powers often work within nature (example: spiderman can only swing because of his webs).        Are angels natural or supernatural? Do angels possess potency, actuality, or both?      Angels are supernatural (example: they donâ€™t exist in one particular space; their movement defies the laws of physics). Angels can change and therefore possess potency. They can also influence other things and thus have actuality.        Is everything that is supernatural Actus Purus?      Angels are an example of something that is supernatural that nonetheless possesses potency. Only God is Actus Purus.        As Catholics, we believe that God is not exclusively supernatural. We believe that Jesus is the unity of the supernatural and the natural in one person. How does this knowledge inform the way in which we should approach the relationship between the natural and the supernatural as Catholics? Is one more important than the other?      Human nature and human bodies are a part of God, through his Son, Jesus. God is therefore body and spirit, natural and supernatural. If we are to love God, we must love both parts. In caring for others, we must care for their bodily and spiritual needs.        Catholics are called to be separate from the world, yet we are material creatures. What are ways in which we can practically abandon materialism?      When we say we should abandon materialism, we mean that we should abandon unhealthy attachments. For instance, food is good, but gluttony is sinful. We can avoid gluttony by practicing occasional fasting.       "
 },
 {
   "id": "sec-chem-faith1-2",
@@ -73,22 +82,67 @@ var ptx_lunr_docs = [
   "body": "potency actuality Actus Purus "
 },
 {
-  "id": "sec-chem-faith1-12",
+  "id": "exercises-chem-faith1-1",
   "level": "2",
-  "url": "sec-chem-faith1.html#sec-chem-faith1-12",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-chem-faith1.html#exercises-chem-faith1-1",
+  "type": "Exercise",
+  "number": "1.1.1",
   "title": "",
-  "body": "Exercise 1: Natural and the Supernatural "
+  "body": "  Summarize the first mover argument in your own words.      Answers may vary (see the argument in the text to check for similarity to what you stated).     "
 },
 {
-  "id": "sec-chem-faith1-14",
+  "id": "exercises-chem-faith1-2",
   "level": "2",
-  "url": "sec-chem-faith1.html#sec-chem-faith1-14",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-chem-faith1.html#exercises-chem-faith1-2",
+  "type": "Exercise",
+  "number": "1.1.2",
   "title": "",
-  "body": "Key: "
+  "body": "  Explain the terms potency, actuality, and Actus Purus in your own words. What is the relationship between the three terms?      Actuality is the ability to bring forth potency. Potency is some change that can be realized in a thing. Actus Purus is a term for God that describes Him as pure actuality without potency. Actuality brings forth potency. The first actualization must have been from Actus Purus.     "
+},
+{
+  "id": "exercises-chem-faith1-3",
+  "level": "2",
+  "url": "sec-chem-faith1.html#exercises-chem-faith1-3",
+  "type": "Exercise",
+  "number": "1.1.3",
+  "title": "",
+  "body": "  Would most superheroes be best classified as natural or supernatural? They are clearly exceptional, but are they supernatural?      They are exceptional but natural. They can be seen and touched. Their powers often work within nature (example: spiderman can only swing because of his webs).     "
+},
+{
+  "id": "exercises-chem-faith1-4",
+  "level": "2",
+  "url": "sec-chem-faith1.html#exercises-chem-faith1-4",
+  "type": "Exercise",
+  "number": "1.1.4",
+  "title": "",
+  "body": "  Are angels natural or supernatural? Do angels possess potency, actuality, or both?      Angels are supernatural (example: they donâ€™t exist in one particular space; their movement defies the laws of physics). Angels can change and therefore possess potency. They can also influence other things and thus have actuality.     "
+},
+{
+  "id": "exercises-chem-faith1-5",
+  "level": "2",
+  "url": "sec-chem-faith1.html#exercises-chem-faith1-5",
+  "type": "Exercise",
+  "number": "1.1.5",
+  "title": "",
+  "body": "  Is everything that is supernatural Actus Purus?      Angels are an example of something that is supernatural that nonetheless possesses potency. Only God is Actus Purus.     "
+},
+{
+  "id": "exercises-chem-faith1-6",
+  "level": "2",
+  "url": "sec-chem-faith1.html#exercises-chem-faith1-6",
+  "type": "Exercise",
+  "number": "1.1.6",
+  "title": "",
+  "body": "  As Catholics, we believe that God is not exclusively supernatural. We believe that Jesus is the unity of the supernatural and the natural in one person. How does this knowledge inform the way in which we should approach the relationship between the natural and the supernatural as Catholics? Is one more important than the other?      Human nature and human bodies are a part of God, through his Son, Jesus. God is therefore body and spirit, natural and supernatural. If we are to love God, we must love both parts. In caring for others, we must care for their bodily and spiritual needs.     "
+},
+{
+  "id": "exercises-chem-faith1-7",
+  "level": "2",
+  "url": "sec-chem-faith1.html#exercises-chem-faith1-7",
+  "type": "Exercise",
+  "number": "1.1.7",
+  "title": "",
+  "body": "  Catholics are called to be separate from the world, yet we are material creatures. What are ways in which we can practically abandon materialism?      When we say we should abandon materialism, we mean that we should abandon unhealthy attachments. For instance, food is good, but gluttony is sinful. We can avoid gluttony by practicing occasional fasting.     "
 },
 {
   "id": "sec-chem-faith2",
@@ -394,7 +448,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Fractions Review",
-  "body": " Fractions Review   Summary:     Fraction math review    Terms for parts of a fraction    How to multiply and divide fractions      Canceling out factors and labels    When fractions are multiplied, if a factor (or a label) occurs in both the numerator and the denominator, they cancel out       Section 1: Fraction math review   Fractions play a key role in science because they allow us to use ratios in our calculations. In chemistry, they have many uses as we’ll see if upcoming chapters and exercises. The most common math that we do with fractions in chemistry is multiplying and dividing them. To carry out multiplication of fractions, we simply multiply together all of the values in the numerators The numerator is the top of a fraction (the top of the fraction), keeping the product in the numerator of the final answer, and then do a similar operation with the denominator The denominator is the bottom of a fraction (the bottom of the fraction).  Multiplication of fractions example 1:     Multiplication of fractions example 2:     Dividing fractions is similarly quite easy to do. In a division problem, the first number is the dividend (the number being divided) and the second is the divisor (the number that the dividend is being divided into). Division of fractions can be expressed in multiple ways     Please note that the dividend is the numerator in the fraction expression and the divisor becomes the denominator. To complete this division problem, we simply need to flip the divisor and multiply that value by the dividend.      Exercise 1: Fraction math review     Fraction math. Do the following math problems                                 Section 2: Canceling out factors and labels in calculations   Another VERY important lesson to remember about fractions is that if the numerator and denominator both contain the same factor, then they cancel out. This is true for both numbers in the fractions but also for labels like units. See the examples below:  Example 1: (the 3s cancel out)   Example 2: (the “miles” labels cancel out)      Exercise 2: Canceling out factors and labels in calculations     Simplify the following expressions                            Key:   Exercise 1:        28\/9    42\/30=7\/5    16\/9    (adc)\/(bca)=d\/b    35\/27    Exercise 2.        3\/2    3    x\/y    300min    "
+  "body": " Fractions Review   Summary:     Fraction math review    Terms for parts of a fraction    How to multiply and divide fractions      Canceling out factors and labels    When fractions are multiplied, if a factor (or a label) occurs in both the numerator and the denominator, they cancel out       Section 1: Fraction math review   Fractions play a key role in science because they allow us to use ratios in our calculations. In chemistry, they have many uses as we’ll see if upcoming chapters and exercises. The most common math that we do with fractions in chemistry is multiplying and dividing them. To carry out multiplication of fractions, we simply multiply together all of the values in the numerator The numerator is the top of a fraction, keeping the product in the numerator of the final answer, and then do a similar operation with the denominator   Multiplication of fractions example 1:     Multiplication of fractions example 2:     Dividing fractions is similarly quite easy to do. In a division problem, the first number is the dividend and the second is the divisor . Division of fractions can be expressed in multiple ways     Please note that the dividend is the numerator in the fraction expression and the divisor becomes the denominator. To complete this division problem, we simply need to flip the divisor and multiply that value by the dividend.      Section 2: Canceling out factors and labels in calculations   Another VERY important lesson to remember about fractions is that if the numerator and denominator both contain the same factor, then they cancel out. This is true for both numbers in the fractions but also for labels like units. See the examples below:  Example 1: (the 3s cancel out)   Example 2: (the “miles” labels cancel out)      Exercises:    Fraction math. Do the following math problem without using a calculator     Multiply 7 times 4 and put that on top. Then multiply 3 times 3 and put that on the bottom.           Fraction math. Do the following math problem without using a calculator     Multiply the numbers in the numerator and put that value into the numerator of the final answer. Multiply the numbers in the denominator and put that value into the denominator of the final answer.  See if you can simplify your answer by dividing the numerator and denominator by their greatest common factor.           Fraction math. Do the following math problem without using a calculator     Flip the second fraction, then multiply the two fractions.           Fraction math. Do the following math problem without using a calculator            Fraction math. Do the following math problem without using a calculator.     Dividing by 9 is the same as multiplying by            Simplify the following expression without using a calculator.     Look for common factors in the numerator and denominator and cancel them out before multiplying the fractions.           Simplify the following expression without using a calculator.     Flip the 2nd fraction. Then look for common factors in the numerator and denominator and cancel them out. Finally, multiply the fractions.           Simplify the following expression without using a calculator.            Simplify the following expression without using a calculator.     Treat the units like numbers. If the same unit occurs in the numerator and denominator, cancel them out.          "
 },
 {
   "id": "sec-math1-2",
@@ -421,7 +475,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "numerators denominator "
+  "body": "numerator denominator "
 },
 {
   "id": "sec-math1-10",
@@ -439,34 +493,88 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Exercise 1: Fraction math review "
-},
-{
-  "id": "sec-math1-17",
-  "level": "2",
-  "url": "sec-math1.html#sec-math1-17",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
   "body": "Section 2: Canceling out factors and labels in calculations "
 },
 {
-  "id": "sec-math1-22",
+  "id": "sec-math1-19-2",
   "level": "2",
-  "url": "sec-math1.html#sec-math1-22",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-math1.html#sec-math1-19-2",
+  "type": "Exercise",
+  "number": "2.1.1",
   "title": "",
-  "body": "Exercise 2: Canceling out factors and labels in calculations "
+  "body": "  Fraction math. Do the following math problem without using a calculator     Multiply 7 times 4 and put that on top. Then multiply 3 times 3 and put that on the bottom.        "
 },
 {
-  "id": "sec-math1-25",
+  "id": "sec-math1-19-3",
   "level": "2",
-  "url": "sec-math1.html#sec-math1-25",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-math1.html#sec-math1-19-3",
+  "type": "Exercise",
+  "number": "2.1.2",
   "title": "",
-  "body": "Key: "
+  "body": "  Fraction math. Do the following math problem without using a calculator     Multiply the numbers in the numerator and put that value into the numerator of the final answer. Multiply the numbers in the denominator and put that value into the denominator of the final answer.  See if you can simplify your answer by dividing the numerator and denominator by their greatest common factor.        "
+},
+{
+  "id": "sec-math1-19-4",
+  "level": "2",
+  "url": "sec-math1.html#sec-math1-19-4",
+  "type": "Exercise",
+  "number": "2.1.3",
+  "title": "",
+  "body": "  Fraction math. Do the following math problem without using a calculator     Flip the second fraction, then multiply the two fractions.        "
+},
+{
+  "id": "sec-math1-19-5",
+  "level": "2",
+  "url": "sec-math1.html#sec-math1-19-5",
+  "type": "Exercise",
+  "number": "2.1.4",
+  "title": "",
+  "body": "  Fraction math. Do the following math problem without using a calculator         "
+},
+{
+  "id": "sec-math1-19-6",
+  "level": "2",
+  "url": "sec-math1.html#sec-math1-19-6",
+  "type": "Exercise",
+  "number": "2.1.5",
+  "title": "",
+  "body": "  Fraction math. Do the following math problem without using a calculator.     Dividing by 9 is the same as multiplying by         "
+},
+{
+  "id": "sec-math1-19-7",
+  "level": "2",
+  "url": "sec-math1.html#sec-math1-19-7",
+  "type": "Exercise",
+  "number": "2.1.6",
+  "title": "",
+  "body": "  Simplify the following expression without using a calculator.     Look for common factors in the numerator and denominator and cancel them out before multiplying the fractions.        "
+},
+{
+  "id": "sec-math1-19-8",
+  "level": "2",
+  "url": "sec-math1.html#sec-math1-19-8",
+  "type": "Exercise",
+  "number": "2.1.7",
+  "title": "",
+  "body": "  Simplify the following expression without using a calculator.     Flip the 2nd fraction. Then look for common factors in the numerator and denominator and cancel them out. Finally, multiply the fractions.        "
+},
+{
+  "id": "sec-math1-19-9",
+  "level": "2",
+  "url": "sec-math1.html#sec-math1-19-9",
+  "type": "Exercise",
+  "number": "2.1.8",
+  "title": "",
+  "body": "  Simplify the following expression without using a calculator.         "
+},
+{
+  "id": "sec-math1-19-10",
+  "level": "2",
+  "url": "sec-math1.html#sec-math1-19-10",
+  "type": "Exercise",
+  "number": "2.1.9",
+  "title": "",
+  "body": "  Simplify the following expression without using a calculator.     Treat the units like numbers. If the same unit occurs in the numerator and denominator, cancel them out.        "
 },
 {
   "id": "sec-math2",
@@ -728,6 +836,60 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "Exercise 3: Significant figures in calculations "
+},
+{
+  "id": "sec-math7",
+  "level": "1",
+  "url": "sec-math7.html",
+  "type": "Section",
+  "number": "2.7",
+  "title": "Mental math",
+  "body": " Mental math  "
+},
+{
+  "id": "sec-math8",
+  "level": "1",
+  "url": "sec-math8.html",
+  "type": "Section",
+  "number": "2.8",
+  "title": "Conversion factors",
+  "body": " Conversion factors  "
+},
+{
+  "id": "sec-math9",
+  "level": "1",
+  "url": "sec-math9.html",
+  "type": "Section",
+  "number": "2.9",
+  "title": "Dimensional analysis",
+  "body": " Dimensional analysis  "
+},
+{
+  "id": "sec-math10",
+  "level": "1",
+  "url": "sec-math10.html",
+  "type": "Section",
+  "number": "2.10",
+  "title": "Density and specific gravity",
+  "body": " Density and specific gravity  "
+},
+{
+  "id": "sec-math11",
+  "level": "1",
+  "url": "sec-math11.html",
+  "type": "Section",
+  "number": "2.11",
+  "title": "Dosage problems",
+  "body": " Dosage problems  "
+},
+{
+  "id": "sec-math12",
+  "level": "1",
+  "url": "sec-math12.html",
+  "type": "Section",
+  "number": "2.12",
+  "title": "Advanced dimensional analysis",
+  "body": " Advanced dimensional analysis  "
 },
 {
   "id": "sec-matter1",
@@ -3934,27 +4096,108 @@ var ptx_lunr_docs = [
   "body": "titration "
 },
 {
-  "id": "ch-definitions",
-  "level": "1",
-  "url": "ch-definitions.html",
-  "type": "Chapter",
-  "number": "11",
-  "title": "Definitions",
-  "body": " Definitions    Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.    "
-},
-{
-  "id": "def-chemistry",
-  "level": "2",
-  "url": "ch-definitions.html#def-chemistry",
-  "type": "Definition",
-  "number": "11.0.1",
-  "title": "",
-  "body": "  Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.   "
-},
-{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
+  "type": "Appendix",
+  "number": "A",
+  "title": "Definitions",
+  "body": " Definitions   Chapter 1    Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.       Chapter 3    Chapter 4    Chapter 5    Chapter 6    Chapter 7    Chapter 8    Chapter 9    Chapter 10   "
+},
+{
+  "id": "backmatter-2-2",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 1 "
+},
+{
+  "id": "backmatter-2-3",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 2 Numerator: Denominator: Dividend: Divisor: Coefficient: Base: Exact number: Measured number: Significant figures: "
+},
+{
+  "id": "backmatter-2-4",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 3 "
+},
+{
+  "id": "backmatter-2-5",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 4 "
+},
+{
+  "id": "backmatter-2-6",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 5 "
+},
+{
+  "id": "backmatter-2-7",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 6 "
+},
+{
+  "id": "backmatter-2-8",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 7 "
+},
+{
+  "id": "backmatter-2-9",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-9",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 8 "
+},
+{
+  "id": "backmatter-2-10",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-10",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 9 "
+},
+{
+  "id": "backmatter-2-11",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-11",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 10 "
+},
+{
+  "id": "backmatter-3",
+  "level": "1",
+  "url": "backmatter-3.html",
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
