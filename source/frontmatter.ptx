@@ -31,7 +31,17 @@
   <titlepage>
     <titlepage-items/>
   </titlepage>
-
+  <preface><title>Acknowledgements</title>
+  <p>
+    Thank you to Dr. Christina Safranski for all of her help in converting this text into a publishable format using Pretext.
+  </p>
+  <p>
+    Thank you to Dr. Chris Payne for his help with revising the text.
+  </p>
+  <p>
+    Thank you to the numerous students who have alterted me to errors in the text and who have helped improve the quality of this work.
+  </p>
+  </preface>
   <preface><title>Purpose</title>
   <p>
   This textbook is intended for collegiate pre-nursing students as a part of a two semester course 

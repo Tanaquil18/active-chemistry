@@ -15,6 +15,9 @@
   <appendix> <title>Definitions</title> 
     <p>
       <term>Chapter 1</term>
+    </p>
+    <p>
+      <term>Chapter 2</term>
       <p>
         <definition xml:id="def-numerator">
         <statement>
@@ -97,7 +100,31 @@
         </definition>
       </p>
     </p>
-
+    <p>
+      <term>Chapter 3</term>
+    </p>
+    <p>
+      <term>Chapter 4</term>
+    </p>
+    <p>
+      <term>Chapter 5</term>
+    </p>
+    <p>
+      <term>Chapter 6</term>
+    </p>
+    <p>
+      <term>Chapter 7</term>
+    </p>
+    <p>
+      <term>Chapter 8</term>
+    </p>
+    <p>
+      <term>Chapter 9</term>
+    </p>
+    <p>
+      <term>Chapter 10</term>
+    </p>
+    </p>
     
   </appendix>
 
