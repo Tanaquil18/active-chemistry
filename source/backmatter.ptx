@@ -126,7 +126,7 @@
       </p>
 
       <p>
-        <definition xml:id="def-controlgroups">
+        <definition xml:id="def-controlgroup">
         <statement>
           <p>
             <term>Control groups:</term> The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.
@@ -136,7 +136,7 @@
       </p>
 
       <p>
-        <definition xml:id="def-experimental groups">
+        <definition xml:id="def-experimentalgroup">
         <statement>
           <p>
             <term>Experimental groups:</term> Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).
