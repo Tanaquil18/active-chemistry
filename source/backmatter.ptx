@@ -75,6 +75,96 @@
       </definition>
       </p>
 
+      <p>
+        <definition xml:id="def-science">
+        <statement>
+          <p>
+            <term>Science:</term> a method for systematically studying the observable world.
+          </p>
+        </statement>
+      </definition>
+      </p>
+
+      <p>
+        <definition xml:id="def-scientificmethod">
+        <statement>
+          <p>
+            <term>Scientific method:</term> A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.
+          </p>
+        </statement>
+      </definition>
+      </p>
+
+      <p>
+        <definition xml:id="def-laws">
+        <statement>
+          <p>
+            <term>Laws:</term> statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.
+          </p>
+        </statement>
+      </definition>
+      </p>
+
+      <p>
+        <definition xml:id="def-hypothesis">
+        <statement>
+          <p>
+            <term>Hypothesis:</term> A statement that seeks to explain observations of nature.
+          </p>
+        </statement>
+      </definition>
+      </p>
+
+      <p>
+        <definition xml:id="def-variables">
+        <statement>
+          <p>
+            <term>Variables:</term> The parameter or condition that is changed within an experiment.
+          </p>
+        </statement>
+      </definition>
+      </p>
+
+      <p>
+        <definition xml:id="def-controlgroups">
+        <statement>
+          <p>
+            <term>Control groups:</term> The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.
+          </p>
+        </statement>
+      </definition>
+      </p>
+
+      <p>
+        <definition xml:id="def-experimental groups">
+        <statement>
+          <p>
+            <term>Experimental groups:</term> Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).
+          </p>
+        </statement>
+      </definition>
+      </p>
+
+      <p>
+        <definition xml:id="def-theory">
+        <statement>
+          <p>
+            <term>Theory:</term> A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.
+          </p>
+        </statement>
+      </definition>
+      </p>
+
+      <p>
+        <definition xml:id="def-correlates">
+        <statement>
+          <p>
+            <term>Correlation:</term> Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.
+          </p>
+        </statement>
+      </definition>
+      </p>
+
     </p>
     <p>
       <term>Chapter 2</term>
