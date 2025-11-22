@@ -15,6 +15,56 @@
   <appendix> <title>Definitions</title> 
     <p>
       <term>Chapter 1</term>
+        <p>
+        <definition xml:id="def-naturalworld">
+        <statement>
+          <p>
+            <term>Natural world:</term> Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.
+          </p>
+        </statement>
+      </definition>
+      </p>
+
+        <p>
+        <definition xml:id="def-supernatural">
+        <statement>
+          <p>
+            <term>Supernatural:</term> Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.
+          </p>
+        </statement>
+      </definition>
+      </p>
+
+      <p>
+        <definition xml:id="def-potency">
+        <statement>
+          <p>
+            <term>Potency:</term> Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.
+          </p>
+        </statement>
+      </definition>
+      </p>
+
+      <p>
+        <definition xml:id="def-actuality">
+        <statement>
+          <p>
+            <term>Actuality:</term> Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.
+          </p>
+        </statement>
+      </definition>
+      </p>
+
+      <p>
+        <definition xml:id="def-actuspurus">
+        <statement>
+          <p>
+            <term>Actus Purus:</term> Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.
+          </p>
+        </statement>
+      </definition>
+      </p>
+
     </p>
     <p>
       <term>Chapter 2</term>
