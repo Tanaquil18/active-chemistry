@@ -94,120 +94,72 @@
 	</p></fn> with board strength. While this result supports his hypothesis, there are still other possible explanations for the result. For instance, perhaps the process used for reducing the thickness of the boards damaged the wood by introducing cracks. Alternatively, the thin pieces of wood might have had more (or fewer) wood grains and that might instead have been the source of the observed outcomes. . Correlation does not equal causation!
 	</p>
 
-	<p>
-		<em><term>Exercise 1: What is science?</term></em>
-	</p>
+	<exercises xml:id="exercises-chem-faith3">
+		<exercise>
+  <statement>
+    <p>Come up with 3 additional laws of nature that you have encountered in your own life that you wonâ€™t find listed in a science textbook.</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>The law of melting butter.  When you heat butter, it turns into a liquid.  The law of successful campfires.  Camp fires burn best when they have adequate ventilation near the bottom.  The law of autumn.  Leaves turn from green to yellow, orange, or red in the fall.</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
 
-	<p><ol>
-		<li>
-			<p>
-				Come up with 3 additional laws of nature that you have encountered in your own life that you won’t find listed in a science textbook.
-			</p>
-		</li>
+<exercise>
+  <statement>
+    <p>Come up with 3 ways in which you used the scientific method in your own life without realizing what you were doing.</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>I try out different amounts of time when frying eggs to see whether the yolk is hard or runny. (experiment). I observe that when I hit the up volume button on the remote control, the TV gets louder (observation).  I think that my lawn is turning brown because it needs more water (hypothesis)</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
 
-		<li>
-			<p>
-				Come up with 3 ways in which you used the scientific method in your own life without realizing what you were doing.
-			</p>
-		</li>
+<exercise>
+  <statement>
+    <p>Look around you right now.  Observe something and write it down.  Try to develop a hypothesis that explains that observation.  Design an experiment to test your hypothesis.  Why controls would you need?  What results would you expect that would validate your hypothesis?</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>Light is coming through various sized slits in the blinds in my room.  I think that light can always pass through any gap, no matter how small.  I get two objects that can move to change the gap size between them.  I place a light behind them and observe if the light can pass through at various gap sizes.  A negative control would be if the objects were pressed together so no gap exists.  A positive control would be the light itself without the objects to create the gap (to just make sure that I can see the light and that itâ€™s working.</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
 
-		<li>
-			<p>
-				Look around you right now. Observe something and write it down. Try to develop a hypothesis that explains that observation. Design an experiment to test your hypothesis. Why controls would you need? What results would you expect that would validate your hypothesis?
-			</p>
-		</li>
+<exercise>
+  <statement>
+    <p>Why is it important to develop alternative explanations to experimental observations?</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>These can remind us that scientific theories are never certain.  Also, they can help us design new experiments to add greater certainty to theories (or possibly to prove them wrong).</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
 
-		<li>
-			<p>
-				Why is it important to develop alternative explanations to experimental observations?
-			</p>
-		</li>
+<exercise>
+  <statement>
+    <p>It is seen that lead exposure levels correlate with crime rates.  Does this mean that lead exposure causes crime?  If not, what come up with some alternative explanations.</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>Not necessarily.  Perhaps people who are exposed to higher levels of lead tend to be more impoverished.  Perhaps that poverty is the root cause of the high crime rate.</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
 
-		<li>
-			<p>
-				It is seen that lead exposure levels correlate with crime rates. Does this mean that lead exposure causes crime? If not, what come up with some alternative explanations.
-			</p>
-		</li>
-
-	</ol></p>
-
-	
-
-	<p>
-		<term>Key:</term>
-	</p>
-
-	<p>
-		Exercise:
-	</p>
-
-	<p><ol>
-		<li>
-			<p><ol>
-				<li>
-					<p>
-						The law of melting butter. When you heat butter, it turns into a liquid.
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						The law of successful campfires. Camp fires burn best when they have adequate ventilation near the bottom.
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						The law of autumn. Leaves turn from green to yellow, orange, or red in the fall.
-					</p>
-				</li>
-		
-			</ol></p>
-		</li>
-
-		<li>
-			<p><ol>
-				<li>
-					<p>
-						I try out different amounts of time when frying eggs to see whether the yolk is hard or runny. (experiment)
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						I observe that when I hit the up volume button on the remote control, the TV gets louder (observation)
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						I think that my lawn is turning brown because it needs more water (hypothesis)
-					</p>
-				</li>
-		
-			</ol></p>
-		</li>
-
-		<li>
-			<p>
-				Light is coming through various sized slits in the blinds in my room. I think that light can always pass through any gap, no matter how small. I get two objects that can move to change the gap size between them. I place a light behind them and observe if the light can pass through at various gap sizes. A negative control would be if the objects were pressed together so no gap exists. A positive control would be the light itself without the objects to create the gap (to just make sure that I can see the light and that it’s working.
-			</p>
-		</li>
-
-		<li>
-			<p>
-				These can remind us that scientific theories are never certain. Also, they can help us design new experiments to add greater certainty to theories (or possibly to prove them wrong).
-			</p>
-		</li>
-
-		<li>
-			<p>
-				Not necessarily. Perhaps people who are exposed to higher levels of lead tend to be more impoverished. Perhaps that poverty is the root cause of the high crime rate.
-			</p>
-		</li>
-
-	</ol></p>
-
-	
+	</exercises>
 
 </section>
