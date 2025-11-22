@@ -565,7 +565,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.5",
   "title": "Chemistry",
-  "body": " Chemistry   Summary:     Chemistry    What is the definition of chemistry, matter, and mass?    What is matter and what is energy?       Section 3: Chemistry   Modern science is separated into the disciplines of physics, chemistry, and biology. There is considerable overlap between these subjects since each discipline can influence the others. Chemistry is the study of the properties of matter  Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe. . Matter can be defined as anything that occupies space and has mass  Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction. . Basically, everything that you can see and touch is matter. Even particles that are too small to be seen, such as atoms and molecules, are still matter because they occupy space and have mass. Energy (defined in a later chapter), on the other hand, is NOT matter. It is a property that matter can have, but it is not a thing that occupies space. Light and heat are things that we can experience in the physical world, but they lack mass and thus are not matter. Sound is another example of energy. Sound is caused by the vibration of matter, but it refers to the vibration, not to the particles that are vibrating.  Chemistry is often referred to as the central science. This is because to fully understand the behavior and properties of matter, we first have to understand the laws of physics. Physics provides chemistry with information about the composition of matter and its most basic parts. It also provides chemists with an understanding of energy and how it interacts with matter. At the same time, all organisms are comprised of matter; thus, if we want to understand life, we need to understand the matter that comprises it. Chemistry aids biology by helping us understand how organisms function and can also help us learn how to manipulate biology, for instance by designing pharmaceuticals or pesticides.   Exercise 3: Chemistry, health, and ethics     Write down the definitions of chemistry, matter, and mass.    Are the following best described as matter or energy?    The heat from a fire    The smoke from a fire    The vibration of a string on a violin    A string on a violin      What are your career goals (discuss this with your group)? How might the knowledge of chemistry help you in your career?    Even if you never directly use the knowledge from this course in your profession, does this course still have value to you? Is knowledge without purpose worthless?     Key:   Exercise 3:    See the definitions in the text    Are the following best described as matter or energy?    Energy    Matter    Energy    Matter      Varies    Varies. Knowledge about creation contains knowledge of God. Knowing God is obviously good, so pursuing any knowledge of creation has inherent goodness.    "
+  "body": " Chemistry   Summary:     What is the definition of chemistry, matter, and mass?    What is matter and what is energy?     Section 3: Chemistry   Modern science is separated into the disciplines of physics, chemistry, and biology. There is considerable overlap between these subjects since each discipline can influence the others. Chemistry is the study of the properties of matter . Matter can be defined as anything that occupies space and has mass . Basically, everything that you can see and touch is matter. Even particles that are too small to be seen, such as atoms and molecules, are still matter because they occupy space and have mass. Energy (defined in a later chapter), on the other hand, is NOT matter. It is a property that matter can have, but it is not a thing that occupies space. Light and heat are things that we can experience in the physical world, but they lack mass and thus are not matter. Sound is another example of energy. Sound is caused by the vibration of matter, but it refers to the vibration, not to the particles that are vibrating.  Chemistry is often referred to as the central science. This is because to fully understand the behavior and properties of matter, we first have to understand the laws of physics. Physics provides chemistry with information about the composition of matter and its most basic parts. It also provides chemists with an understanding of energy and how it interacts with matter. At the same time, all organisms are comprised of matter; thus, if we want to understand life, we need to understand the matter that comprises it. Chemistry aids biology by helping us understand how organisms function and can also help us learn how to manipulate biology, for instance by designing pharmaceuticals or pesticides.     Write down the definitions of chemistry, matter, and mass.      See the definitions in the text       For questions 2-5, answer the following question: Are the following things best described as matter or energy?      The heat from a fire      Energy        The smoke from a fire      Matter        The vibration of a string on a violin      Energy        A string on a violin      Matter        What are your career goals (discuss this with your group)? How might the knowledge of chemistry help you in your career?      Answers may vary        Even if you never directly use the knowledge from this course in your profession, does this course still have value to you? Is knowledge without purpose worthless?      Answers may vary for the question about the personal value of this course. Knowledge about creation contains knowledge of God. Knowing God is obviously good, so pursuing any knowledge of creation has inherent goodness.       "
 },
 {
   "id": "sec-chem-faith5-2",
@@ -592,25 +592,79 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chemistry matter . mass "
+  "body": "Chemistry matter mass "
 },
 {
-  "id": "sec-chem-faith5-7",
+  "id": "exercises-chem-faith5-1",
   "level": "2",
-  "url": "sec-chem-faith5.html#sec-chem-faith5-7",
+  "url": "sec-chem-faith5.html#exercises-chem-faith5-1",
+  "type": "Exercise",
+  "number": "1.5.1",
+  "title": "",
+  "body": "  Write down the definitions of chemistry, matter, and mass.      See the definitions in the text     "
+},
+{
+  "id": "exercises-chem-faith5-2",
+  "level": "2",
+  "url": "sec-chem-faith5.html#exercises-chem-faith5-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Exercise 3: Chemistry, health, and ethics "
+  "body": "For questions 2-5, answer the following question: Are the following things best described as matter or energy?  "
 },
 {
-  "id": "sec-chem-faith5-9",
+  "id": "exercises-chem-faith5-3",
   "level": "2",
-  "url": "sec-chem-faith5.html#sec-chem-faith5-9",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-chem-faith5.html#exercises-chem-faith5-3",
+  "type": "Exercise",
+  "number": "1.5.2",
   "title": "",
-  "body": "Key: "
+  "body": "  The heat from a fire      Energy     "
+},
+{
+  "id": "exercises-chem-faith5-4",
+  "level": "2",
+  "url": "sec-chem-faith5.html#exercises-chem-faith5-4",
+  "type": "Exercise",
+  "number": "1.5.3",
+  "title": "",
+  "body": "  The smoke from a fire      Matter     "
+},
+{
+  "id": "exercises-chem-faith5-5",
+  "level": "2",
+  "url": "sec-chem-faith5.html#exercises-chem-faith5-5",
+  "type": "Exercise",
+  "number": "1.5.4",
+  "title": "",
+  "body": "  The vibration of a string on a violin      Energy     "
+},
+{
+  "id": "exercises-chem-faith5-6",
+  "level": "2",
+  "url": "sec-chem-faith5.html#exercises-chem-faith5-6",
+  "type": "Exercise",
+  "number": "1.5.5",
+  "title": "",
+  "body": "  A string on a violin      Matter     "
+},
+{
+  "id": "exercises-chem-faith5-7",
+  "level": "2",
+  "url": "sec-chem-faith5.html#exercises-chem-faith5-7",
+  "type": "Exercise",
+  "number": "1.5.6",
+  "title": "",
+  "body": "  What are your career goals (discuss this with your group)? How might the knowledge of chemistry help you in your career?      Answers may vary     "
+},
+{
+  "id": "exercises-chem-faith5-8",
+  "level": "2",
+  "url": "sec-chem-faith5.html#exercises-chem-faith5-8",
+  "type": "Exercise",
+  "number": "1.5.7",
+  "title": "",
+  "body": "  Even if you never directly use the knowledge from this course in your profession, does this course still have value to you? Is knowledge without purpose worthless?      Answers may vary for the question about the personal value of this course. Knowledge about creation contains knowledge of God. Knowing God is obviously good, so pursuing any knowledge of creation has inherent goodness.     "
 },
 {
   "id": "sec-math1",
