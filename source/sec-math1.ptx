@@ -126,7 +126,7 @@
 			<exercise>
 				<statement>
 					<p>
-						Fraction math. Do the following math problem without using a calculator
+						<!-- Fraction math. Do the following math problem without using a calculator -->
 						<m>\frac{7}{3} \times \frac{4}{3} =</m>
 					</p>
 				</statement>
@@ -149,7 +149,7 @@
 			<exercise>
 				<statement>
 					<p>
-						Fraction math. Do the following math problem without using a calculator
+						<!-- Fraction math. Do the following math problem without using a calculator -->
 						<m>\frac{2}{3} \times \frac{7}{2} \times \frac{3}{5} =</m>
 					</p>
 				</statement>
@@ -167,10 +167,11 @@
 					</p>
 				</answer>
 			</exercise>
+
 			<exercise>
 				<statement>
 					<p>
-						Fraction math. Do the following math problem without using a calculator
+						<!-- Fraction math. Do the following math problem without using a calculator -->
 						<m>\frac{4}{3} \div \frac{3}{4} =</m>
 					</p>
 				</statement>
@@ -186,24 +187,25 @@
 					</p>
 				</answer>
 			</exercise>
+
 			<exercise>
 				<statement>
 					<p>
-						Fraction math. Do the following math problem without using a calculator
+						<!-- Fraction math. Do the following math problem without using a calculator -->
 						<m>\frac{a}{b}\div\frac{c}{d}\times\frac{c}{a} =</m>
 					</p>
 				</statement>
-				
 				<answer>
 					<p>
 						<m>\frac{d}{b}</m>
 					</p>
 				</answer>
 			</exercise>
+
 			<exercise>
 				<statement>
 					<p>
-						Fraction math. Do the following math problem without using a calculator.
+						<!-- Fraction math. Do the following math problem without using a calculator. -->
 						<m>7\times\frac{5}{3}\div 9 =</m>
 					</p>
 				</statement>
@@ -221,11 +223,19 @@
 			</exercise>
 
 </exercisegroup>			
+<exercisegroup>
+
+	<introduction>
+		<p>
+			Simplify the following expression without using a calculator.
+		</p>
+	</introduction>
+
+
 
 			<exercise>
 				<statement>
 					<p>
-						Simplify the following expression without using a calculator.
 						<m>\frac{7}{5} \times \frac{15}{14} =</m>
 					</p>
 				</statement>
@@ -244,7 +254,7 @@
 			<exercise>
 				<statement>
 					<p>
-						Simplify the following expression without using a calculator.
+						<!-- Simplify the following expression without using a calculator. -->
 						<m>\frac{7}{3} \div \frac{7}{9} =</m>
 					</p>
 				</statement>
@@ -263,7 +273,7 @@
 			<exercise>
 				<statement>
 					<p>
-						Simplify the following expression without using a calculator.
+						<!-- Simplify the following expression without using a calculator. -->
 						<m>\frac{x}{y} \times \frac{z}{y} \times \frac{y}{z}=</m>
 					</p>
 				</statement>
@@ -277,7 +287,7 @@
 			<exercise>
 				<statement>
 					<p>
-						Simplify the following expression without using a calculator.
+						<!-- Simplify the following expression without using a calculator. -->
 						<m>50 km \times \frac{hr}{10 km} \times \frac{60 min}{hr}=</m>
 					</p>
 				</statement>
@@ -293,6 +303,7 @@
 					</p>
 				</answer>
 			</exercise>
+			</exercisegroup>
 	</exercises>
 
 
