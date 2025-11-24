@@ -365,6 +365,26 @@
     <p>
       <term>Chapter 10</term>
       <p>
+        <definition xml:id="def-buffer">
+        <statement>
+          <p>
+            <term>Buffer:</term> Substances that can be added to water that help the solution resist changes in pH.  Buffers are mixtures of weak acids and their conjugate base.
+          </p>
+        </statement>
+      </definition>
+      </p>
+
+      <p>
+        <definition xml:id="def-bufferingcapacity">
+        <statement>
+          <p>
+            <term>Buffering capacity:</term> The amount of strong acid or strong base that a buffer can neutralize.
+          </p>
+        </statement>
+      </definition>
+      </p>
+
+      <p>
         <definition xml:id="def-titration">
         <statement>
           <p>

@@ -32,7 +32,7 @@
     </p>
 
     <p>
-		<term>Buffers</term> are substances that can be added to water to make the water resistant to changes in pH. A buffer consists of either a weak acid and its conjugate base or a weak base and its conjugate acid. How does this mixture of substances make the solution more resistant to changes in pH?
+		<term><xref ref="def-buffer" text="custom">Buffers</xref></term> are substances that can be added to water to make the water resistant to changes in pH. A buffer consists of either a weak acid and its conjugate base or a weak base and its conjugate acid. How does this mixture of substances make the solution more resistant to changes in pH?
 	</p>
 
 	<p>
@@ -44,6 +44,200 @@
 	</p>
 
 	<p>
-		Every buffer has a <term>buffering capacity</term>. This is the amount of additional acid or base that can be added without exceeding the amount of buffering compounds. So if a buffered solution contains 0.1M weak base and 0.2M of its conjugate acid, then the solution could handle the addition of up to 0.1M hydronium ions before running out of weak base (because the weak base will react with the hydronium ions) and up to 0.2M hydroxide ions (because the hydroxide would react with the conjugate acid). Amounts of hydronium above 0.1M would exceed the buffering capacity of the solution as would addition of more than 0.2M hydroxide ion.
+		Every buffer has a <term><xref ref="def-bufferingcapacity" text="custom">buffering capacity</xref></term>. This is the amount of additional acid or base that can be added without exceeding the amount of buffering compounds. So if a buffered solution contains 0.1M weak base and 0.2M of its conjugate acid, then the solution could handle the addition of up to 0.1M hydronium ions before running out of weak base (because the weak base will react with the hydronium ions) and up to 0.2M hydroxide ions (because the hydroxide would react with the conjugate acid). Amounts of hydronium above 0.1M would exceed the buffering capacity of the solution as would addition of more than 0.2M hydroxide ion.
 	</p>
+
+    <exercises xml:id="exercises-acidbases8">
+        <exercisegroup>
+        
+            <introduction>
+                <p>
+                    Which of the following mixtures of chemicals would make good buffers?
+                </p>
+            </introduction>
+        
+            <exercise>
+  <statement>
+    <p><m>NaF/ HF</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>
+        Yes
+    </p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>KHCO_{2}</m> / <m>H_{2}CO_{2}</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>
+        Yes
+    </p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>NaOH/H_{2}O</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>
+        No
+    </p>
+  </answer>
+  <solution> 
+    <p>
+        They are related by the addition/removal of a proton.  However, hydroxide is a strong base, not a weak base.
+    </p>
+  </solution> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>NH_{3}/NH_{4}Br</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>
+        Yes
+    </p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>NaCl/HCl</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>
+        No
+    </p>
+  </answer>
+  <solution> 
+    <p>
+        These compounds are related by the addition/removal of a proton.  However, HCl is a strong acid.
+    </p>
+  </solution> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>KH_{2}PO_{4}</m>/<m>H_{3}PO_{4}</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>
+        Yes
+    </p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>HF/H_{3}PO_{4}</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>
+        No
+    </p>
+  </answer>
+  <solution> 
+    <p>
+        These compounds are both weak acids.  Neither is a base.  Also neither has its conjugate base present.
+    </p>
+  </solution> 
+</exercise>
+        
+
+</exercisegroup>
+<exercise>
+  <statement>
+    <p>Create a drawing similar to the figure above that shows how a buffer can resist changes to pH caused by adding in strong base.</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+<exercisegroup>
+
+    <introduction>
+        <p>
+            If a solution contains 0.11 moles of weak base and 0.34 moles of weak acid, then ...
+        </p>
+    </introduction>
+
+<exercise>
+  <statement>
+    <p>How many moles of nitric acid could be added without exceeding the buffering capacity?</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>
+        0.11 moles
+    </p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>How many moles of sodium hydroxide could be added without exceeding the buffering capacity?</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>
+        0.34 moles
+    </p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>How many moles of calcium hydroxide could be added without exceeding the buffering capacity?</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>
+        0.17 moles
+    </p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+
+</exercisegroup>
+</exercises>
 </section>
