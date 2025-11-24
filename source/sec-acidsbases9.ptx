@@ -43,7 +43,17 @@
     <p>What is the molarity of the HCl solution?</p>
   </statement>
   <!--<hint>--> 
-  <!--</hint>--> 
+  <!--</hint>-->
+    <hint> 
+    Divide the moles of HCl by the volume of the HCl solution (measured in liters)
+  </hint> 
+  <answer>
+    <p>
+        0.187 M
+    </p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>-->  
   <task>
  <statement>
     <p>Write a neutralization equation for this reaction.</p>
@@ -90,16 +100,7 @@
 
 
 
-  <hint> 
-    Divide the moles of HCl by the volume of the HCl solution (measured in liters)
-  </hint> 
-  <answer>
-    <p>
-        0.187 M
-    </p>
-  </answer>
-  <!-- <solution>--> 
-  <!-- </solution>--> 
+
 
 </exercise>
 
