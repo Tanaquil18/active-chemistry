@@ -673,7 +673,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Fractions Review",
-  "body": " Fractions Review   Summary:     Fraction math review    Terms for parts of a fraction    How to multiply and divide fractions      Canceling out factors and labels    When fractions are multiplied, if a factor (or a label) occurs in both the numerator and the denominator, they cancel out       Section 1: Fraction math review   Fractions play a key role in science because they allow us to use ratios in our calculations. In chemistry, they have many uses as we’ll see if upcoming chapters and exercises. The most common math that we do with fractions in chemistry is multiplying and dividing them. To carry out multiplication of fractions, we simply multiply together all of the values in the numerator The numerator is the top of a fraction, keeping the product in the numerator of the final answer, and then do a similar operation with the denominator   Multiplication of fractions example 1:     Multiplication of fractions example 2:     Dividing fractions is similarly quite easy to do. In a division problem, the first number is the dividend and the second is the divisor . Division of fractions can be expressed in multiple ways     Please note that the dividend is the numerator in the fraction expression and the divisor becomes the denominator. To complete this division problem, we simply need to flip the divisor and multiply that value by the dividend.      Section 2: Canceling out factors and labels in calculations   Another VERY important lesson to remember about fractions is that if the numerator and denominator both contain the same factor, then they cancel out. This is true for both numbers in the fractions but also for labels like units. See the examples below:  Example 1: (the 3s cancel out)   Example 2: (the “miles” labels cancel out)      Exercises:    Fraction math. Do the following math problem without using a calculator     Multiply 7 times 4 and put that on top. Then multiply 3 times 3 and put that on the bottom.           Fraction math. Do the following math problem without using a calculator     Multiply the numbers in the numerator and put that value into the numerator of the final answer. Multiply the numbers in the denominator and put that value into the denominator of the final answer.  See if you can simplify your answer by dividing the numerator and denominator by their greatest common factor.           Fraction math. Do the following math problem without using a calculator     Flip the second fraction, then multiply the two fractions.           Fraction math. Do the following math problem without using a calculator            Fraction math. Do the following math problem without using a calculator.     Dividing by 9 is the same as multiplying by            Simplify the following expression without using a calculator.     Look for common factors in the numerator and denominator and cancel them out before multiplying the fractions.           Simplify the following expression without using a calculator.     Flip the 2nd fraction. Then look for common factors in the numerator and denominator and cancel them out. Finally, multiply the fractions.           Simplify the following expression without using a calculator.            Simplify the following expression without using a calculator.     Treat the units like numbers. If the same unit occurs in the numerator and denominator, cancel them out.          "
+  "body": " Fractions Review   Summary:     Fraction math review    Terms for parts of a fraction    How to multiply and divide fractions      Canceling out factors and labels    When fractions are multiplied, if a factor (or a label) occurs in both the numerator and the denominator, they cancel out       Section 1: Fraction math review   Fractions play a key role in science because they allow us to use ratios in our calculations. In chemistry, they have many uses as we’ll see if upcoming chapters and exercises. The most common math that we do with fractions in chemistry is multiplying and dividing them. To carry out multiplication of fractions, we simply multiply together all of the values in the numerator The numerator is the top of a fraction, keeping the product in the numerator of the final answer, and then do a similar operation with the denominator   Multiplication of fractions example 1:     Multiplication of fractions example 2:     Dividing fractions is similarly quite easy to do. In a division problem, the first number is the dividend and the second is the divisor . Division of fractions can be expressed in multiple ways     Please note that the dividend is the numerator in the fraction expression and the divisor becomes the denominator. To complete this division problem, we simply need to flip the divisor and multiply that value by the dividend.      Section 2: Canceling out factors and labels in calculations   Another VERY important lesson to remember about fractions is that if the numerator and denominator both contain the same factor, then they cancel out. This is true for both numbers in the fractions but also for labels like units. See the examples below:  Example 1: (the 3s cancel out)   Example 2: (the “miles” labels cancel out)      Exercises:    Fraction math. Do the following math problem without using a calculator           Multiply 7 times 4 and put that on top. Then multiply 3 times 3 and put that on the bottom.                 Multiply the numbers in the numerator and put that value into the numerator of the final answer. Multiply the numbers in the denominator and put that value into the denominator of the final answer.  See if you can simplify your answer by dividing the numerator and denominator by their greatest common factor.                 Flip the second fraction, then multiply the two fractions.                              Dividing by 9 is the same as multiplying by             Simplify the following expression without using a calculator.          Look for common factors in the numerator and denominator and cancel them out before multiplying the fractions.                 Flip the 2nd fraction. Then look for common factors in the numerator and denominator and cancel them out. Finally, multiply the fractions.                              Treat the units like numbers. If the same unit occurs in the numerator and denominator, cancel them out.           "
 },
 {
   "id": "sec-math1-2",
@@ -721,85 +721,85 @@ var ptx_lunr_docs = [
   "body": "Section 2: Canceling out factors and labels in calculations "
 },
 {
-  "id": "sec-math1-19-2",
+  "id": "sec-math1-19-2-2",
   "level": "2",
-  "url": "sec-math1.html#sec-math1-19-2",
+  "url": "sec-math1.html#sec-math1-19-2-2",
   "type": "Exercise",
   "number": "2.1.1",
   "title": "",
-  "body": "  Fraction math. Do the following math problem without using a calculator     Multiply 7 times 4 and put that on top. Then multiply 3 times 3 and put that on the bottom.        "
+  "body": "        Multiply 7 times 4 and put that on top. Then multiply 3 times 3 and put that on the bottom.        "
 },
 {
-  "id": "sec-math1-19-3",
+  "id": "sec-math1-19-2-3",
   "level": "2",
-  "url": "sec-math1.html#sec-math1-19-3",
+  "url": "sec-math1.html#sec-math1-19-2-3",
   "type": "Exercise",
   "number": "2.1.2",
   "title": "",
-  "body": "  Fraction math. Do the following math problem without using a calculator     Multiply the numbers in the numerator and put that value into the numerator of the final answer. Multiply the numbers in the denominator and put that value into the denominator of the final answer.  See if you can simplify your answer by dividing the numerator and denominator by their greatest common factor.        "
+  "body": "        Multiply the numbers in the numerator and put that value into the numerator of the final answer. Multiply the numbers in the denominator and put that value into the denominator of the final answer.  See if you can simplify your answer by dividing the numerator and denominator by their greatest common factor.        "
 },
 {
-  "id": "sec-math1-19-4",
+  "id": "sec-math1-19-2-4",
   "level": "2",
-  "url": "sec-math1.html#sec-math1-19-4",
+  "url": "sec-math1.html#sec-math1-19-2-4",
   "type": "Exercise",
   "number": "2.1.3",
   "title": "",
-  "body": "  Fraction math. Do the following math problem without using a calculator     Flip the second fraction, then multiply the two fractions.        "
+  "body": "        Flip the second fraction, then multiply the two fractions.        "
 },
 {
-  "id": "sec-math1-19-5",
+  "id": "sec-math1-19-2-5",
   "level": "2",
-  "url": "sec-math1.html#sec-math1-19-5",
+  "url": "sec-math1.html#sec-math1-19-2-5",
   "type": "Exercise",
   "number": "2.1.4",
   "title": "",
-  "body": "  Fraction math. Do the following math problem without using a calculator         "
+  "body": "            "
 },
 {
-  "id": "sec-math1-19-6",
+  "id": "sec-math1-19-2-6",
   "level": "2",
-  "url": "sec-math1.html#sec-math1-19-6",
+  "url": "sec-math1.html#sec-math1-19-2-6",
   "type": "Exercise",
   "number": "2.1.5",
   "title": "",
-  "body": "  Fraction math. Do the following math problem without using a calculator.     Dividing by 9 is the same as multiplying by         "
+  "body": "        Dividing by 9 is the same as multiplying by         "
 },
 {
-  "id": "sec-math1-19-7",
+  "id": "sec-math1-19-3-2",
   "level": "2",
-  "url": "sec-math1.html#sec-math1-19-7",
+  "url": "sec-math1.html#sec-math1-19-3-2",
   "type": "Exercise",
   "number": "2.1.6",
   "title": "",
-  "body": "  Simplify the following expression without using a calculator.     Look for common factors in the numerator and denominator and cancel them out before multiplying the fractions.        "
+  "body": "       Look for common factors in the numerator and denominator and cancel them out before multiplying the fractions.        "
 },
 {
-  "id": "sec-math1-19-8",
+  "id": "sec-math1-19-3-3",
   "level": "2",
-  "url": "sec-math1.html#sec-math1-19-8",
+  "url": "sec-math1.html#sec-math1-19-3-3",
   "type": "Exercise",
   "number": "2.1.7",
   "title": "",
-  "body": "  Simplify the following expression without using a calculator.     Flip the 2nd fraction. Then look for common factors in the numerator and denominator and cancel them out. Finally, multiply the fractions.        "
+  "body": "        Flip the 2nd fraction. Then look for common factors in the numerator and denominator and cancel them out. Finally, multiply the fractions.        "
 },
 {
-  "id": "sec-math1-19-9",
+  "id": "sec-math1-19-3-4",
   "level": "2",
-  "url": "sec-math1.html#sec-math1-19-9",
+  "url": "sec-math1.html#sec-math1-19-3-4",
   "type": "Exercise",
   "number": "2.1.8",
   "title": "",
-  "body": "  Simplify the following expression without using a calculator.         "
+  "body": "            "
 },
 {
-  "id": "sec-math1-19-10",
+  "id": "sec-math1-19-3-5",
   "level": "2",
-  "url": "sec-math1.html#sec-math1-19-10",
+  "url": "sec-math1.html#sec-math1-19-3-5",
   "type": "Exercise",
   "number": "2.1.9",
   "title": "",
-  "body": "  Simplify the following expression without using a calculator.     Treat the units like numbers. If the same unit occurs in the numerator and denominator, cancel them out.        "
+  "body": "        Treat the units like numbers. If the same unit occurs in the numerator and denominator, cancel them out.        "
 },
 {
   "id": "sec-math2",
@@ -4321,13 +4321,238 @@ var ptx_lunr_docs = [
   "body": "titration "
 },
 {
+  "id": "sec-acidsbases8",
+  "level": "1",
+  "url": "sec-acidsbases8.html",
+  "type": "Section",
+  "number": "10.5",
+  "title": "Buffers",
+  "body": " Buffers   Summary:     Buffers help solutions resist changes in pH    Buffers are mixtures of weak acids and weak bases    Every buffered solution has a buffering capacity that describes how much acid or base it can handle     Buffers    Buffers are substances that can be added to water to make the water resistant to changes in pH. A buffer consists of either a weak acid and its conjugate base or a weak base and its conjugate acid. How does this mixture of substances make the solution more resistant to changes in pH?  When a strong acid is added to water, it will form hydronium ions and the concentration of the hydronium ions formed will be the same as the concentration of the acid that was just added, because a strong acid completely dissociates upon addition to water. Likewise if a strong base is added to water, it will form the number of hydroxide ions that are contained in that substance that was added, again because a strong base will completely dissociate when added to water. The additional hydronium ion or hydroxide ion will then directly affect the pH of the solution.   When a buffer is present, the solution contains an additional solute that is an acid and another that is a base. These acids and bases are capable of reacting with any base or acid that might get added to the solution, helping to neutralize it. The picture below might help.  Every buffer has a buffering capacity . This is the amount of additional acid or base that can be added without exceeding the amount of buffering compounds. So if a buffered solution contains 0.1M weak base and 0.2M of its conjugate acid, then the solution could handle the addition of up to 0.1M hydronium ions before running out of weak base (because the weak base will react with the hydronium ions) and up to 0.2M hydroxide ions (because the hydroxide would react with the conjugate acid). Amounts of hydronium above 0.1M would exceed the buffering capacity of the solution as would addition of more than 0.2M hydroxide ion.     Which of the following mixtures of chemicals would make good buffers?          Yes        \/      Yes             No    They are related by the addition\/removal of a proton. However, hydroxide is a strong base, not a weak base.           Yes             No    These compounds are related by the addition\/removal of a proton. However, HCl is a strong acid.      \/      Yes             No    These compounds are both weak acids. Neither is a base. Also neither has its conjugate base present.       Create a drawing similar to the figure above that shows how a buffer can resist changes to pH caused by adding in strong base.             If a solution contains 0.11 moles of weak base and 0.34 moles of weak acid, then ...     How many moles of nitric acid could be added without exceeding the buffering capacity?      0.11 moles        How many moles of sodium hydroxide could be added without exceeding the buffering capacity?      0.34 moles        How many moles of calcium hydroxide could be added without exceeding the buffering capacity?      0.17 moles        "
+},
+{
+  "id": "sec-acidsbases8-2",
+  "level": "2",
+  "url": "sec-acidsbases8.html#sec-acidsbases8-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-acidsbases8-4",
+  "level": "2",
+  "url": "sec-acidsbases8.html#sec-acidsbases8-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Buffers "
+},
+{
+  "id": "sec-acidsbases8-5",
+  "level": "2",
+  "url": "sec-acidsbases8.html#sec-acidsbases8-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Buffers "
+},
+{
+  "id": "sec-acidsbases8-8",
+  "level": "2",
+  "url": "sec-acidsbases8.html#sec-acidsbases8-8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "buffering capacity "
+},
+{
+  "id": "exercises-acidbases8-1-2",
+  "level": "2",
+  "url": "sec-acidsbases8.html#exercises-acidbases8-1-2",
+  "type": "Exercise",
+  "number": "10.5.1",
+  "title": "",
+  "body": "       Yes     "
+},
+{
+  "id": "exercises-acidbases8-1-3",
+  "level": "2",
+  "url": "sec-acidsbases8.html#exercises-acidbases8-1-3",
+  "type": "Exercise",
+  "number": "10.5.2",
+  "title": "",
+  "body": "  \/      Yes     "
+},
+{
+  "id": "exercises-acidbases8-1-4",
+  "level": "2",
+  "url": "sec-acidsbases8.html#exercises-acidbases8-1-4",
+  "type": "Exercise",
+  "number": "10.5.3",
+  "title": "",
+  "body": "       No    They are related by the addition\/removal of a proton. However, hydroxide is a strong base, not a weak base.   "
+},
+{
+  "id": "exercises-acidbases8-1-5",
+  "level": "2",
+  "url": "sec-acidsbases8.html#exercises-acidbases8-1-5",
+  "type": "Exercise",
+  "number": "10.5.4",
+  "title": "",
+  "body": "       Yes     "
+},
+{
+  "id": "exercises-acidbases8-1-6",
+  "level": "2",
+  "url": "sec-acidsbases8.html#exercises-acidbases8-1-6",
+  "type": "Exercise",
+  "number": "10.5.5",
+  "title": "",
+  "body": "       No    These compounds are related by the addition\/removal of a proton. However, HCl is a strong acid.   "
+},
+{
+  "id": "exercises-acidbases8-1-7",
+  "level": "2",
+  "url": "sec-acidsbases8.html#exercises-acidbases8-1-7",
+  "type": "Exercise",
+  "number": "10.5.6",
+  "title": "",
+  "body": "  \/      Yes     "
+},
+{
+  "id": "exercises-acidbases8-1-8",
+  "level": "2",
+  "url": "sec-acidsbases8.html#exercises-acidbases8-1-8",
+  "type": "Exercise",
+  "number": "10.5.7",
+  "title": "",
+  "body": "       No    These compounds are both weak acids. Neither is a base. Also neither has its conjugate base present.   "
+},
+{
+  "id": "exercises-acidbases8-2",
+  "level": "2",
+  "url": "sec-acidsbases8.html#exercises-acidbases8-2",
+  "type": "Exercise",
+  "number": "10.5.8",
+  "title": "",
+  "body": "  Create a drawing similar to the figure above that shows how a buffer can resist changes to pH caused by adding in strong base.          "
+},
+{
+  "id": "exercises-acidbases8-3-2",
+  "level": "2",
+  "url": "sec-acidsbases8.html#exercises-acidbases8-3-2",
+  "type": "Exercise",
+  "number": "10.5.9",
+  "title": "",
+  "body": "  How many moles of nitric acid could be added without exceeding the buffering capacity?      0.11 moles     "
+},
+{
+  "id": "exercises-acidbases8-3-3",
+  "level": "2",
+  "url": "sec-acidsbases8.html#exercises-acidbases8-3-3",
+  "type": "Exercise",
+  "number": "10.5.10",
+  "title": "",
+  "body": "  How many moles of sodium hydroxide could be added without exceeding the buffering capacity?      0.34 moles     "
+},
+{
+  "id": "exercises-acidbases8-3-4",
+  "level": "2",
+  "url": "sec-acidsbases8.html#exercises-acidbases8-3-4",
+  "type": "Exercise",
+  "number": "10.5.11",
+  "title": "",
+  "body": "  How many moles of calcium hydroxide could be added without exceeding the buffering capacity?      0.17 moles     "
+},
+{
+  "id": "sec-acidsbases9",
+  "level": "1",
+  "url": "sec-acidsbases9.html",
+  "type": "Section",
+  "number": "10.6",
+  "title": "Acid-base titrations",
+  "body": " Acid-base titrations   Summary:     Titrations are reactions used to determine the concentration of an unknown.    Mole-mole conversion factors from the balanced neutralization reaction     Acid-base titrations   An acid base titration is simply a solution reaction that is used to measure the concentration of an acid or base. If we begin with a known volume of solution with an unknown concentration of acid, we can determine its concentration by measuring the number of moles of base that we have to add to neutralize it. The easiest way to do that is to slowly add a solution of base of known concentration to the solution using a burette, which allows us to measure the volume of base needed. If we have the volume and concentration of the base, we can use this to determine the number of moles of base. From there, we can convert moles of base to moles of acid using the balanced chemical equation. If we know moles of acid and its volume (remember we need to know this when we start the titration), then we can divide them to determine the concentration.  Up to this point, the acid-base neutralization equations that we’ve been working with have had a 1:1 ratio of acid to base. With some acids and bases, this ratio may not be 1:1. Consider calcium hydroxide, . Each unit of calcium hydroxide contains 2 hydroxide ions. Each one of these bases must be neutralized by a separate hydrogen ion from the acid. Thus 2 acidic ions will be required to neutralize one calcium hydroxide. As with any stoichiometric calculation, we must ensure that we have a balanced equation first to give us the proper mole-mole ratios for our calculations.     7.50 mL of an HCl solution was neutralized by the addition of 14.30mL of 0.0980 M NaOH. What is the molarity of the HCl solution?     Write a neutralization equation for this reaction.               Figure out the number of moles of NaOH that was added to neutralize the HCl                Figure out the number of moles of HCl that were in the solution to begin with    0.0014014 moles (the same as the amount of NaOH because the ratio is 1:1 in the neutralization equation)      What is the molarity of the HCl solution?      Divide the moles of HCl by the volume of the HCl solution (measured in liters)    0.187 M         For the titration in question 1, what was the starting pH of the HCl solution? (Round to the nearest hundredths place)    The previous problem gives you the molarity of the HCl solution. Since HCl ionizes completely in water, this is the same concentration as the hydronium ion.    0.73        What is the molarity of a NaOH solution if 1.5 L of the solution was neutralized by the addition of 15.33mL of 6.00M HCl?      0.061 M        What was the starting pH of the NaOH solution in question 3? Round to the nearest hundredths place.    Remember that the concentration that you figured out in question 3 is the hydroxide ion concentration. Figure out the hydronium ion concentration using the Kw equation.    12.79        What is the molarity of a magnesium hydroxide solution if 20.00 mL of it was neutralized by the addition of 4.75 mL of 0.100M HCl?    Remember to determine the balanced equation first. The mole-mole ratio in this question is not 1:1!    0.0119 M       "
+},
+{
+  "id": "sec-acidsbases9-2",
+  "level": "2",
+  "url": "sec-acidsbases9.html#sec-acidsbases9-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-acidsbases9-4",
+  "level": "2",
+  "url": "sec-acidsbases9.html#sec-acidsbases9-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Acid-base titrations "
+},
+{
+  "id": "sec-acidsbases9-5",
+  "level": "2",
+  "url": "sec-acidsbases9.html#sec-acidsbases9-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "titration "
+},
+{
+  "id": "exercises-acidsbases9-1",
+  "level": "2",
+  "url": "sec-acidsbases9.html#exercises-acidsbases9-1",
+  "type": "Exercise",
+  "number": "10.6.1",
+  "title": "",
+  "body": "  7.50 mL of an HCl solution was neutralized by the addition of 14.30mL of 0.0980 M NaOH. What is the molarity of the HCl solution?     Write a neutralization equation for this reaction.               Figure out the number of moles of NaOH that was added to neutralize the HCl                Figure out the number of moles of HCl that were in the solution to begin with    0.0014014 moles (the same as the amount of NaOH because the ratio is 1:1 in the neutralization equation)      What is the molarity of the HCl solution?      Divide the moles of HCl by the volume of the HCl solution (measured in liters)    0.187 M      "
+},
+{
+  "id": "exercises-acidsbases9-2",
+  "level": "2",
+  "url": "sec-acidsbases9.html#exercises-acidsbases9-2",
+  "type": "Exercise",
+  "number": "10.6.2",
+  "title": "",
+  "body": "  For the titration in question 1, what was the starting pH of the HCl solution? (Round to the nearest hundredths place)    The previous problem gives you the molarity of the HCl solution. Since HCl ionizes completely in water, this is the same concentration as the hydronium ion.    0.73     "
+},
+{
+  "id": "exercises-acidsbases9-3",
+  "level": "2",
+  "url": "sec-acidsbases9.html#exercises-acidsbases9-3",
+  "type": "Exercise",
+  "number": "10.6.3",
+  "title": "",
+  "body": "  What is the molarity of a NaOH solution if 1.5 L of the solution was neutralized by the addition of 15.33mL of 6.00M HCl?      0.061 M     "
+},
+{
+  "id": "exercises-acidsbases9-4",
+  "level": "2",
+  "url": "sec-acidsbases9.html#exercises-acidsbases9-4",
+  "type": "Exercise",
+  "number": "10.6.4",
+  "title": "",
+  "body": "  What was the starting pH of the NaOH solution in question 3? Round to the nearest hundredths place.    Remember that the concentration that you figured out in question 3 is the hydroxide ion concentration. Figure out the hydronium ion concentration using the Kw equation.    12.79     "
+},
+{
+  "id": "exercises-acidsbases9-5",
+  "level": "2",
+  "url": "sec-acidsbases9.html#exercises-acidsbases9-5",
+  "type": "Exercise",
+  "number": "10.6.5",
+  "title": "",
+  "body": "  What is the molarity of a magnesium hydroxide solution if 20.00 mL of it was neutralized by the addition of 4.75 mL of 0.100M HCl?    Remember to determine the balanced equation first. The mole-mole ratio in this question is not 1:1!    0.0119 M     "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
   "type": "Appendix",
   "number": "A",
   "title": "Definitions",
-  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.       Chapter 3    Chapter 4    Chapter 5    Chapter 6    Chapter 7    Chapter 8    Chapter 9    Chapter 10   "
+  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.       Chapter 3    Chapter 4    Chapter 5    Chapter 6    Chapter 7    Chapter 8    Chapter 9    Chapter 10      Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
 },
 {
   "id": "backmatter-2-2",
@@ -4417,7 +4642,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 10 "
+  "body": "Chapter 10 Buffer: Buffering capacity: Titration: "
 },
 {
   "id": "backmatter-3",
