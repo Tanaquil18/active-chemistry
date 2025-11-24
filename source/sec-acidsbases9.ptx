@@ -96,7 +96,7 @@
   <!--<hint>--> 
   <!--</hint>-->
     <hint> 
-    Divide the moles of HCl by the volume of the HCl solution (measured in liters)
+    <p>Divide the moles of HCl by the volume of the HCl solution (measured in liters)</p>
   </hint> 
   <answer>
     <p>
