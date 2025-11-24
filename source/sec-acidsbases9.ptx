@@ -29,7 +29,7 @@
 		An acid base <term><xref ref="def-titration" text="custom">titration</xref></term> is simply a solution reaction that is used to measure the concentration of an acid or base. If we begin with a known volume of solution with an unknown concentration of acid, we can determine its concentration by measuring the number of moles of base that we have to add to neutralize it. The easiest way to do that is to slowly add a solution of base of known concentration to the solution using a burette, which allows us to measure the volume of base needed. If we have the volume and concentration of the base, we can use this to determine the number of moles of base. From there, we can convert moles of base to moles of acid using the balanced chemical equation. If we know moles of acid and its volume (remember we need to know this when we start the titration), then we can divide them to determine the concentration.
 	</p>
     <p>
-        	Up to this point, the acid-base neutralization equations that we’ve been working with have had a 1:1 ratio of acid to base.  With some acids and bases, this ratio may not be 1:1.  Consider calcium hydroxide (<m>Ca(OH)_2</m>).  Each unit of calcium hydroxide contains 2 hydroxide ions.  Each one of these bases must be neutralized by a separate hydrogen ion from the acid.  Thus 2 acidic <m>H^+</m> ions will be required to neutralize one calcium hydroxide.  As with any stoichiometric calculation, we must ensure that we have a balanced equation first to give us the proper mole-mole ratios for our calculations.
+        	Up to this point, the acid-base neutralization equations that we’ve been working with have had a 1:1 ratio of acid to base.  With some acids and bases, this ratio may not be 1:1.  Consider calcium hydroxide, <m>Ca(OH)_2</m>.  Each unit of calcium hydroxide contains 2 hydroxide ions.  Each one of these bases must be neutralized by a separate hydrogen ion from the acid.  Thus 2 acidic <m>H^+</m> ions will be required to neutralize one calcium hydroxide.  As with any stoichiometric calculation, we must ensure that we have a balanced equation first to give us the proper mole-mole ratios for our calculations.
     </p>
 
     <exercises xml:id="exercises-acidsbases9">
@@ -142,7 +142,7 @@
 
 <exercise>
   <statement>
-    <p>What was the starting pH of the NaOH solution in question 3?</p>
+    <p>What was the starting pH of the NaOH solution in question 3?  Round to the nearest hundredths place.</p>
   </statement>
   <hint>
     <p>
