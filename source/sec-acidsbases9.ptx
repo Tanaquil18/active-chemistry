@@ -30,30 +30,16 @@
 	</p>
 
     <exercises xml:id="exercises-acidsbases9">
-        <exercisegroup>
+        <exercise>
         
             <introduction>
                 <p>
-                    7.50 mL of an HCl solution was neutralized by the addition of 14.30mL of 0.0980 M NaOH
+                    7.50 mL of an HCl solution was neutralized by the addition of 14.30mL of 0.0980 M NaOH.  What is the molarity of the HCl solution?
                 </p>
             </introduction>
         
-<exercise>
-  
-    <p>What is the molarity of the HCl solution?</p>
 
-  <!--<hint>--> 
-  <!--</hint>-->
-    <hint> 
-    Divide the moles of HCl by the volume of the HCl solution (measured in liters)
-  </hint> 
-  <answer>
-    <p>
-        0.187 M
-    </p>
-  </answer>
-  <!-- <solution>--> 
-  <!-- </solution>-->  
+   
   <task>
  <statement>
     <p>Write a neutralization equation for this reaction.</p>
@@ -97,9 +83,26 @@
     </answer>
 </task>
 
+<task>
+    <statement>
+    <p>
+        What is the molarity of the HCl solution?
+    </p>
+  </statement>
 
-
-
+  <!--<hint>--> 
+  <!--</hint>-->
+    <hint> 
+    Divide the moles of HCl by the volume of the HCl solution (measured in liters)
+  </hint> 
+  <answer>
+    <p>
+        0.187 M
+    </p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</task>
 
 
 </exercise>
@@ -107,10 +110,11 @@
 
 <exercise>
   <statement>
-    <p>What was the starting pH of the HCl solution? (Round to the nearest hundredths place)</p>
+    <p>For the titration in question 1, what was the starting pH of the HCl solution? (Round to the nearest hundredths place)</p>
   </statement>
-  <!--<hint>--> 
-  <!--</hint>--> 
+  <hint>
+    The previous problem gives you the molarity of the HCl solution.  Since HCl ionizes completely in water, this is the same concentration as the hydronium ion. 
+  </hint> 
   <answer>
     <p>0.73</p>
   </answer>
@@ -118,8 +122,6 @@
   <!-- </solution>--> 
 </exercise>
 
-        
-        </exercisegroup>
         
 <exercise>
   <statement>
