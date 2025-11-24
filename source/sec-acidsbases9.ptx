@@ -40,7 +40,7 @@
         
 <exercise>
   <statement>
-    <p>What is the molarity of that HCl solution?</p>
+    <p>What is the molarity of the HCl solution?</p>
   </statement>
   <!--<hint>--> 
   <!--</hint>--> 
@@ -87,14 +87,7 @@
     </answer>
 </task>
 
-<task>
-<statement>
-    <p>What is the molarity of the beginning HCl solution</p>
-  </statement>
 
-  <!-- <solution>--> 
-  <!-- </solution>--> 
-</task>
 
 
   <hint> 
