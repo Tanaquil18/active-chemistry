@@ -109,6 +109,16 @@
 	<exercises>
 		<title>Exercises:</title>
 	
+<exercisegroup>
+
+	<introduction>
+		<p>
+			Fraction math. Do the following math problem without using a calculator
+		</p>
+	</introduction>
+
+	
+
 
 	
 
@@ -209,6 +219,9 @@
 					</p>
 				</answer>
 			</exercise>
+
+</exercisegroup>			
+
 			<exercise>
 				<statement>
 					<p>
