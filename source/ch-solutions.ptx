@@ -7,7 +7,10 @@
     <xi:include href="sec-solutions2.ptx" />
     <xi:include href="sec-solutions3.ptx" />
     <xi:include href="sec-solutions4.ptx" />
-  
+    <xi:include href="sec-solutions5.ptx" />
+    <xi:include href="sec-solutions6.ptx" />
+    <xi:include href="sec-solutions7.ptx" />
+    <xi:include href="sec-solutions8.ptx" />
     
 
 </chapter>
