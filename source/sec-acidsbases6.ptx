@@ -301,7 +301,7 @@
   <!--</hint>--> 
   <answer>
     <p>Ionic equation: <m>K^{+}(aq)+OH^{-}(aq)+K^{+}(aq)+H^{+}(aq)+CO_{3}^{2-}(aq)\rightarrow H_{2}O (l)+K^{+}(aq)+K^{+}(aq)+CO_{3}^{2-}(aq)</m></p>
-<p>(note: you could combine the two <m>K^{+}aq</m> ions in the reactants and products to be <m>2K^{+}aq</m>)</p>
+<p>(note: you could combine the two <m>K^{+}</m> ions in the reactants and products to be <m>2K^{+}</m>)</p>
 <p>Net ionic equation: <m>OH^{-}(aq)+H^{+}(aq)\rightarrow H_{2}O (l)</m></p>
 <p>Chemical equation: <m>KOH(aq)+KHCO_{3}(aq)\rightarrow H_{2}O (l)+K_{2}CO_{3}(aq)</m></p>
   </answer>
@@ -334,7 +334,7 @@
     <p>Ionic equation: <m>NH_{3}(aq)+Na^{+}(aq)+H^{+}(aq)+CO_{3}^{2-}(aq)\rightarrow NH_{4}^{+}(aq)+Na^{+}(aq)+CO_{3}^{2-}(aq)</m></p>
 <p>Net ionic equation:<m>NH_{3}(aq)+H^{+}(aq)\rightarrow NH_{4}^{+}(aq)</m></p>
 <p>Chemical equation: <m>NH_{3}(aq)+NaHCO_{3}(aq)\rightarrow NH_{4}NaCO_{3}(aq)</m></p>
-<p>(note: the <m>NH_{4}</m> and the Na can swap positions in the chemical formula, so it could be written as <m>NaNH_{4}CO_{3}</m> instead)</p>
+<p>(note: the <m>NH_{4}</m> and the <m>Na</m> can swap positions in the chemical formula, so it could be written as <m>NaNH_{4}CO_{3}</m> instead)</p>
   </answer>
   <!-- <solution>--> 
   <!-- </solution>--> 
