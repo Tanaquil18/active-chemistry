@@ -45,9 +45,12 @@
 	<p>
 		<me>pH = - \log\left( 1 \times 10^{- 7} \right) = 7</me>
 	</p>
-
+    <figure xml:id="phscale">
+        <caption>The pH scale</caption>
+        <image source='phscale.png'/>
+    </figure>
 	<p>
-		<image source='phscale.png'/>pH values lower than 7 are said to be acidic solutions. pH values above 7 are basic solutions. The reason why will be determined as a part of your exercises.
+		pH values lower than 7 are said to be acidic solutions. pH values above 7 are basic solutions. The reason why will be determined as a part of your exercises.
 	</p>
 
 	<p>
