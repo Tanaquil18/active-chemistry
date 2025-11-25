@@ -3849,8 +3849,8 @@ var ptx_lunr_docs = [
   "url": "sec-solutions1.html",
   "type": "Section",
   "number": "9.1",
-  "title": "Solutions 1",
-  "body": " Solutions 1    Solutions with covalent vs. ionic compounds   When we dissolve one substance into another to make a homogeneous mixture, we’ve made a solution . The substance that there is less of is called the solute and the substance that there is more of is called the solvent . When discussing preparing a solution, we generally state that the solute is dissolved in the solvent (ex. sodium chloride is dissolved into water—the sodium chloride is the solute and water is the solvent). For the most part in this course, we’re going to be considering cases where water is the solvent.  Some compounds are capable of dissolving in water, whereas others cannot. Why is it that some compounds are able to dissolve in water and others are not? There are a few considerations that we need to take into account to completely answer this question. Ultimately, though, a compound will dissolve if the bonds that the compound forms with water are stronger than the bonds that the compound and water both had in their previous state.  To understand this, we must first understand what happens when a compound does successfully dissolve in water. If the compound is an ionic compound, then the compound will break apart into its individual ions as we’ve learned previously . Each of these ions will form new bonds with the polar water molecules that surround them. Recall that if a molecule is polar, that it has a partially negatively charged end and a partially positively charged end. Thus the partially negatively charged end of water is attracted to cations from the ionic compound and the partially positively charged end of water is attracted to anions from the ionic compound. These types of interactions are called ion-dipole  interactions . Covalent compounds, on the other hand, do NOT break apart when dissolved in water. Instead the covalent compound separates from other identical molecules and forms new bonds with water using the intermolecular forces we learned about previously (dipole-dipole interactions, hydrogen bonding, and London dispersion forces).  Now that we understand what has to happen to dissolve a compound, let’s draw some parallels to reaction energy diagrams that we’ve learned about in Chapter 7. We saw that we can indicate the energy levels of the reactants and products, and that the transition state separates them. The same is true for a dissolving ‘reaction’ (we usually don’t actually consider this to be a reaction since no new compound forms). In order for our starting compounds (reactants) to dissolve in one another (products), bonds must be broken (transition state) so new bonds can form. If the energy of the products is lower than the energy of the reactants, then the compound will dissolve because the dissolved state is more stable than the starting point. If the energy of the starting compound and water is lower than the energy of them dissolved together, then the compound will not dissolve because the undissolved state is more stable.   Exercise 1:      Will the following compounds break apart into ions or remain intact when dissolved in water?                KBr                       Draw a reaction energy diagram for      A compound that will dissolve      A compound that won’t dissolve        What types of intermolecular forces would hold together the following covalent molecules?                  In the previous problem if you try to dissolve the compound in part a into water (part b)…      What new types of bonds would form between the compound in a and the compound in part b?      What types of bonds would you have to break (hint: think about 3a and 3b)      Draw a reaction energy diagram showing what would happen. (If you have to break strong bonds, then you go up a large amount to reach the transition state, but a small amount for weak bonds. If you form strong bonds, then you descend a large amount from the transition state, but for weak bonds then you only descend a small amount).      Based on this diagram, would this compound dissolve or not?        Was the compound is 3a polar or non-polar? Is water polar or non-polar? Do you think polar or non-polar covalent compounds are more likely to dissolve in water? Why?        Solubility and temperature effects    Solubility is the a term that describes the amount of one compound that can dissolve into water. For instance, at 20 degrees Celsius, the solubility of NaCl is approximately 35g\/100g water. This means that 100 g of water can dissolve up to 38 g of sodium chloride. If we try to dissolve 17 g of sodium chloride into 100 g of water, it will dissolve, forming a solution. We could still dissolve more sodium chloride into that solution because it is not yet saturated. A saturated solution is one where the maximum possible amount of solute has dissolved into water. In the example above where we tried to dissolve 17g of sodium chloride into 100 g of water, it was easy to determine that it wasn’t saturated because 17g NaCl\/100g water is clearly less than the solubility of 35g NaCl\/100g water since the amount of water is the same. However, could we dissolve 17.5 g of NaCl into 43 g of water??? To determine this we want to convert this ratio into one that has 100 g of water in it, allowing us to compare it to the solubility of NaCl in water. We do this as shown below:          Since 40.7 g is more than the solubility of 35g of NaCl in 100 g of water, this amount of sodium chloride would not completely dissolve and we’d end up with a saturated solution with some undissolved solid sodium chloride left over.  Changing the temperature often has an impact on how much of a compound can dissolve in water. The effect differs depending on whether the compound that is being dissolved is a solid or a gas. For most solids, the solubility of a solid increases as the temperature increases. Thus we can dissolve more solute at higher temperatures. If a saturated solution is prepared at high temperatures and the temperature is then decreased, we can end up in a situation where we have more solid dissolved in water than the solubility limit allows for and this is called a supersaturated solution . These solutions are unstable and will spontaneously eject solid from the solution causing it to crystallize and reform the solid.   The solubility of gases, on the other hand, decreases with increasing temperature . As the temperature rises, less gas can remain dissolved in water. This is part of the reason why opened soda remains carbonated in the refrigerator but rapidly goes flat if kept warm.   Exercise 2:      If the solubility of sodium nitrate is 88 g sodium nitrate\/100 g water, then would it be possible to dissolve the following?      75 g sodium nitrate in 100 g water      95 g sodium nitrate in 100 g water      44 g sodium nitrate in 50 g water      57 g sodium nitrate in 72 g water      5 g sodium nitrate in 9 g water        The solubility listed above is the solubility of sodium nitrate at 20 degrees Celsius. At 80 degrees Celsius the solubility of sodium nitrate is 148 g sodium nitrate\/100 g water.      How many grams of sodium nitrate could dissolve in 40.0 g of water at 80 degrees Celsius?      How many grams of sodium nitrate could dissolve in 40.0 g of water at 20 degrees Celsius      If you prepared the saturated solution in part a and then cooled it to 20 degrees Celsius, how much solid sodium nitrate would you expect to crystalize?       Key   Exercise 1:      Will the following compounds break apart into ions or remain intact when dissolved in water?      No      No      Yes      Yes      Yes      No        Draw a reaction energy diagram for      A compound that will dissolve         A blue line on a black background Description automatically generated      A compound that won’t dissolve       A blue line on a black background Description automatically generated      What types of intermolecular forces would hold together the following covalent molecules?      London dispersion      London dispersion, dipole-dipole, hydrogen bonds        In the previous problem if you try to dissolve the compound in part a into water (part b)…      London dispersion forces      London dispersion forces, dipole-dipole, hydrogen bonds            A blue line on a black background Description automatically generated       Will not dissolve        Non-polar, polar, water will dissolve polar things because it can make stronger bonds with polar solutes than it can with non-polar solutes, thus stabilizing the products more      Exercise 2:      If the solubility of sodium nitrate is 88 g sodium nitrate\/100 g water, then would it be possible to dissolve the following?      75 g sodium nitrate in 100 g water--yes      95 g sodium nitrate in 100 g water--no      44 g sodium nitrate in 50 g water--yes      57 g sodium nitrate in 72 g water--yes      5 g sodium nitrate in 9 g water--yes        The solubility listed above is the solubility of sodium nitrate at 20 degrees Celsius. At 80 degrees Celsius the solubility of sodium nitrate is 148 g sodium nitrate\/100 g water.      59.2 g      35.2 g      59.2-35.2=24.0 g       "
+  "title": "Solutions with covalent vs. ionic compounds",
+  "body": " Solutions with covalent vs. ionic compounds   Summary:     Solutions are homogenous mixtures where a solute is dissolved into a solvent    Ionic compounds dissociate into ions when dissolved in water    Covalent compounds remain intact when dissolved in water     Solutions with covalent vs. ionic compounds   "
 },
 {
   "id": "sec-solutions1-2",
@@ -3859,79 +3859,16 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-solutions1-4",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
   "body": "Solutions with covalent vs. ionic compounds "
-},
-{
-  "id": "sec-solutions1-3",
-  "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-3",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "solution solute solvent "
-},
-{
-  "id": "sec-solutions1-5",
-  "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-5",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "ion-dipole interactions "
-},
-{
-  "id": "sec-solutions1-9",
-  "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-9",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Solubility and temperature effects "
-},
-{
-  "id": "sec-solutions1-10",
-  "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-10",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Solubility saturated. "
-},
-{
-  "id": "sec-solutions1-13",
-  "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-13",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "supersaturated solution "
-},
-{
-  "id": "sec-solutions1-20",
-  "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-20",
-  "type": "Figure",
-  "number": "9.1.1",
-  "title": "",
-  "body": "  A blue line on a black background Description automatically generated  "
-},
-{
-  "id": "sec-solutions1-22",
-  "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-22",
-  "type": "Figure",
-  "number": "9.1.2",
-  "title": "",
-  "body": "  A blue line on a black background Description automatically generated  "
-},
-{
-  "id": "sec-solutions1-24-1",
-  "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-24-1",
-  "type": "Figure",
-  "number": "9.1.3",
-  "title": "",
-  "body": "  A blue line on a black background Description automatically generated  "
 },
 {
   "id": "sec-solutions2",
@@ -3939,8 +3876,8 @@ var ptx_lunr_docs = [
   "url": "sec-solutions2.html",
   "type": "Section",
   "number": "9.2",
-  "title": "Solutions 2",
-  "body": " Solutions 2    Measuring concentration with percent composition   When dealing with solutions, it is often very important to know how much solute is dissolved into a certain amount of volume of the solution. This quantity is called the concentration of the solution. We have several different ways of expressing concentration. The first way that we’ll learn about is percent composition. There are three different forms of percent composition, mass-mass percent composition (% m\/m), mass-volume percent composition (% m\/v), and volume-volume percent composition (% v\/v). The formulas for each is shown below:     with units of % m\/m     with units of % m\/v     with units of % v\/v    When calculating a percent composition, we simply have to use the formulas above, but we must make sure that the units that we’re using match the units in the formula…if they don’t we need to do some unit conversions first.  We can also use percent composition to figure out how much solute is dissolved in a certain volume (or mass) of solution as shown below:  How many grams of mL of ethanol are in a 250mL bottle that contains a 65% v\/v solution?    Create a conversion factor using the percent composition. Since the values are percents, the bottom will always have a value of 100:         Use dimensional analysis:          Exercise 3:      Calculate the mass-mass percent for the following solutions      3 g NaCl dissolved in 55 g solution      3g NaCl dissolved in 44 g of water (note that this is NOT the grams of solution!)      0.30kg of ethanol dissolved in 4300 g of solution        Calculate the mass-volume percent for the following solutions      3 g NaCl dissolved in 45 mL of solution      175 mg NaCl dissolved in 5.0 mL of solution        Calculate the volume-volume percent for the following solutions      32 mL of ethanol dissolved in 100 mL of solution      165 µL of ethanol dissolved in 2.50 mL of solution        How many grams of NaCl are in 35 mL of a 1.0 % m\/v solution?      How many moles of NaCl are in 1.0L of a 2.0 % m\/v solution?      Molarity   Chemists often use a different unit of concentration because it’s often helpful to know the number of moles of solute dissolved in solution (because knowing the number of moles is critical if we’re doing any calculations involving chemical reactions). This unit of concentration is molarity . Molarity has a symbol of capital M, which is a shorthand abbreviation for moles\/L. Thus a 3.0 M solution of sodium chloride has 3.0 moles of sodium chloride dissolved in 1 L of solution. This can be expressed as the following formula:     Thus, if 1.5 moles of solute is dissolved in 0.50 L of solution, the molarity is . We can also append the metric prefixes on molarity (ex. mM). The prefix pertains to the number of moles of solute. So mM means .  Using molarity as a conversion factor:  How many grams of sodium hydroxide are contained in a 150 mL of a 500.0 mM solution of sodium hydroxide.    Convert volume and molarity to their base units. Volume should be in liters and we want to remove prefixes from molarity            Write molarity as a conversion factor:           Use molarity to determine the number of moles of solute:         Convert from moles to grams with the molar mass        Exercise 4:      Calculate the molarity of the following solutions:      0.15 moles of NaCl dissolved in 0.37 L of solution      0.070 moles of NaCl dissolved in 175 mL of solution      17 g of NaCl dissolved in 570 mL of solution        How many moles of sodium chloride are needed to prepare 45 mL of a 3.0M solution?      How many grams of sodium chloride are needed to prepare 45 mL of a 3.0 M solution?      How many mg of sodium chloride are contained in 1.00 mL of a 175 mM solution of sodium chloride?     Key:   Exercise 3:      Calculate the mass-mass percent for the following solutions      5% m\/m      6% m\/m      7.0 % m\/m        Calculate the mass-volume percent for the following solutions      7% m\/v      3.5 % m\/v        Calculate the volume-volume percent for the following solutions      32% v\/v      6.60% v\/v        0.35 g      0.34 moles      Exercise 4:      Calculate the molarity of the following solutions:      0.41M      0.40 M      0.51 M        0.14 moles      7.9g      10.2 mg     "
+  "title": "Solubility",
+  "body": " Solubility   Summary:     Solutions are homogenous mixtures where a solute is dissolved into a solvent    Ionic compounds dissociate into ions when dissolved in water    Covalent compounds remain intact when dissolved in water     Solubility   "
 },
 {
   "id": "sec-solutions2-2",
@@ -3949,34 +3886,16 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Measuring concentration with percent composition "
+  "body": "Summary: "
 },
 {
-  "id": "sec-solutions2-3",
+  "id": "sec-solutions2-4",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-3",
+  "url": "sec-solutions2.html#sec-solutions2-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "concentration "
-},
-{
-  "id": "sec-solutions2-14",
-  "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-14",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Molarity "
-},
-{
-  "id": "sec-solutions2-15",
-  "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-15",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "molarity "
+  "body": "Solubility "
 },
 {
   "id": "sec-solutions3",
@@ -3984,8 +3903,8 @@ var ptx_lunr_docs = [
   "url": "sec-solutions3.html",
   "type": "Section",
   "number": "9.3",
-  "title": "Solutions 3",
-  "body": " Solutions 3    Measuring equivalents of charge in solution   In medicine, the concentration of some solutions is measured using units of equivalents (Eq) . Equivalents is a way of measuring the amount of charge in a sample of chemical. Equivalents can be calculated as follows:     So if you have 2 moles of sulfate ions, then you have of sulfate. We can speak about the equivalents of a single ion or about the equivalents from a compound. If we are concerned about an ionic compound, then we calculate the equivalents of charge for each of the ions and then add them together. See the example below:  Calculate the number of equivalents in 2 moles of potassium sulfate.    Figure out the chemical formula if not provided         Figure out the number of moles and charge for each of the ions                  Solve for the number of Eq of both ions then add them together:             If 5.0g of potassium phosphate is dissolved into 150mL of water, what is the concentration of potassium phosphate in mEq\/L.    Figure out the formula for the compound         Convert from grams to moles         Calculate the charge and moles of each ion            Calculate the Eq of each ion and then add them together               Convert from Eq to mEq         Convert from mL to L         Divide mEq by L        Exercise 1:      How many Eq of K + do you have if you have 0.150 moles of KCl      How many Eq of oxide are in 2.0 moles of       Calculate the number of mEq of calcium ions in 0.050 moles of       How many mEq of magnesium chloride in 0.077 L of 0.110 M magnesium chloride      If 0.011 moles of sodium carbonate is dissolved in 0.28 L of water, what is the concentration of the sodium carbonate in mEq\/L?      Calculate the concentration of sodium chloride in mEq\/L if 0.15 g is dissolved into 750mL      Dilution calculations   It is common for solutions to become diluted in science and medicine. Dilution is what happens when more solvent is added to an existing solution. The solute amount remains the same, but the amount of solvent increases, and thus the concentration of the solute in the new solution is lower than it was previously. When dilutions occur, it is helpful to be able to determine what the new concentration of the final solution will be. Likewise, if you are trying to use dilution to prepare a solution with a desired concentration, then you need to know how much of the original solution and solvent you should mix. To aid in these calculations we have the following formula:     The C’s are concentration and the V’s are volume. C 1 and V 1 represent the concentration of the starting solution and the volume of it that was diluted. C 2 and V 2 represent the concentration of the final diluted solution and the volume of the final diluted solution. The units on the volumes can be any volume units, as long as the units of V 1 and V 2 are the same. Likewise, the units on C 1 and C 2 can be any concentration unit, as long as the units are the same.   Exercise 2:      17mL of 2.0M sodium chloride is diluted to a final volume of 350mL. What is the concentration of the diluted solution?      28 mL of 2.0 % m\/v sodium hydroxide is diluted to a final volume of 2.0L. What is the concentration of the diluted solution?      75 mL of 150.0 mg\/mL aspirin is mixed with 155mL of water. What is the new concentration?      You are trying to prepare 3.0L of 0.050M NaOH by diluting a 2.0M solution of NaOH. How many liters of 2.0M NaOH do you need to dilute?      You are trying to prepare 3.0L of 15mM NaOH by diluting a 1.0M solution of NaOH. How many liters of 1.0M NaOH do you need to dilute? How many liters of water will you need to add to that? Don’t worry about significant figures for this problem.     Key:   Exercise 1:      0.150 Eq      4.0 Eq      100 mEq      34mEq      160 mEq\/L      6.8 mEq\/L      Exercise 2:      0.097M      0.028% m\/v      49 mg\/mL      0.075 L      0.045 L of 1M NaOH needs to be mixed with 2.955 L of water.     "
+  "title": "Measuring concentration with percent composition",
+  "body": " Measuring concentration with percent composition   Summary:     Solutions are homogenous mixtures where a solute is dissolved into a solvent    Ionic compounds dissociate into ions when dissolved in water    Covalent compounds remain intact when dissolved in water     Measuring concentration with percent composition   "
 },
 {
   "id": "sec-solutions3-2",
@@ -3994,34 +3913,16 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Measuring equivalents of charge in solution "
+  "body": "Summary: "
 },
 {
-  "id": "sec-solutions3-3",
+  "id": "sec-solutions3-4",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-3",
+  "url": "sec-solutions3.html#sec-solutions3-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "equivalents (Eq) "
-},
-{
-  "id": "sec-solutions3-38",
-  "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-38",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Dilution calculations "
-},
-{
-  "id": "sec-solutions3-39",
-  "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-39",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "diluted "
+  "body": "Measuring concentration with percent composition "
 },
 {
   "id": "sec-solutions4",
@@ -4029,8 +3930,8 @@ var ptx_lunr_docs = [
   "url": "sec-solutions4.html",
   "type": "Section",
   "number": "9.4",
-  "title": "Solutions 4e",
-  "body": " Solutions 4e    Molarity in reactions   We can do chemical reactions using reactants that are dissolved in solution. We’ve learned one example of this previously when we learned about precipitation reactions. In our next chapter, we will learn about acid-base reactions which often take place in solution as well. Because of this, it is important to be able to carry out calculations involving these reactions. Solution reactions are particularly important because of titrations , chemical reactions that are carried out to measure the amount (or concentration) of a molecule or ion in a solution. Titrations are very useful in chemistry, allowing chemists to measure the quantities such as the amount of pollutants in drinking water.  Thankfully, carrying out these sorts of calculations proceeds in a similar way as other reaction calculations that we’ve done previously. The difference is in the start point and end point. Instead of starting off with a mass of reactant, we will start off with a molarity and volume. We can use this information to calculate the number of moles of the reactant using dimensional analysis or the formula below:      Once we know the number of moles of reactant, we can change this to moles of another reactant or moles of product by using a mole-mole conversion factor derived from the balanced chemical equation. From there, the number of moles of that substance can be converted to mass using the molar mass or to molarity using the volume. See the figure and example below.  Example. If 23.5mL of 0.988 M NaOH is needed to neutralize (fully react with) 7.50 mL of HCl, then what is the molarity of that HCl solution?       We have molarity and volume of one component in a reaction and are being asked for the molarity of the other reactant. The first step is to figure out moles of NaOH.    Molarity x Liters= moles. Our volume is in mL. We need to convert this to L before using it:                We need to convert from moles of NaOH to moles of HCl using a mole-mole conversion factor         Molarity=moles\/Liters. We need to first change our volume to L, then use the equation.           Exercise 3:      Consider the reaction below. If 10.0 mL of 0.125 M lead (II) nitrate reacts with an excess of NaCl, how many g of lead (II) chloride would you expect?           Consider the reaction below. If 4.75 mL of 0.0500 M NaOH is needed to neutralize (completely react) with 20.00 mL of HCl, then what is the molarity of the HCl solution?           Consider the reaction below. If 27.75 mL of 0.1200 M NaOH is needed to neutralize (completely react) with 20.00 mL of  , then what is the molarity of the  solution?           A sample of water is contaminated with lead (II) nitrate. 10.0 L of the water is mixed with an excess of NaCl to precipitate the lead as lead (II) chloride according to the reaction below. 0.0751 g of lead (II) chloride is obtained. What was the concentration of the lead (II) nitrate in the water sample in units of µM?           3.5 L of 0.050 M iron (III) chloride reacts with an excess of sodium carbonate. How many grams of precipitate would you expect?      Osmosis and dialysis   If two solutions (or one solution and a pure solvent) are separated by a semi-permeable membrane, then dialysis and osmosis can occur. What is a semi-permeable membrane? It is a membrane that has very tiny holes in it that of a certain size. This allows very small molecules and ions to travel across the membrane (ex. water, small covalent molecules like glucose, and soluble salts can cross the membrane) while larger molecules and objects can’t (ex. proteins and blood cells cannot cross because they can’t fit through the tiny holes). Diffusion is a term that describes the movement of molecules in a solution. In diffusion, molecules generally move from an area with a high concentration to an area with low concentration.  Dialysis is a term that describes the diffusion of solute molecules across a semipermeable membrane from the side with a high concentration to an area with a low concentration. Osmosis describes the movement of water (the solvent) across the semi-permeable membrane, and will be discussed in a little bit.  As stated above, solute will move via diffusion from an area of low concentration to an area of high concentration. This will continue until the concentrations are the same on both sides of the membrane. So if two solutions, one containing 1.0 M NaCl and the other containing 0.50 M NaCl are separated by a semi-permeable membrane, then the NaCl will move from the side with 1.0M NaCl towards the side with 0.50M NaCl. If both sides have the same volume , then this will continue until the concentration on both sides is the average of the two starting concentrations, 0.75M NaCl (IMPORTANT NOTE: this is only the case if the volumes are the same on both sides of the membrane. In this class, we will not do the more complex calculations where the volumes are different on both sides of the membrane).  Osmosis is similar to dialysis, but it describes the movement of the solvent (water) instead of the solute. Similar to dialysis, osmosis is governed by diffusion and water will move from an area with a high concentration of water to a low concentration of water. Why am I emphasizing that the movement depends on the concentration of water? This is because concentrations usually focus on the concentration of the solute, rather than the solvent. How are we supposed to figure out the concentration of the water then? We can qualitatively determine the relative concentration by keeping in mind this rule: the concentration of solute and the concentration of solvent are inversely proportional…meaning that if the concentration of solute is high, then the concentration of solvent is low. Why is this? It’s because if there is a lot of solute, then it is taking up space in the solution that would otherwise have been occupied by solvent…thus there is less solvent in the same amount of space.  In osmosis, water will flow from the side with a low solute concentration to the side with a high solute concentration, because that is the same as saying that the water is flowing from the side with a high water concentration to the side with a low water concentration. So if two solutions, one containing 1.0 M NaCl and the other containing 0.50 M NaCl are separated by a semi-permeable membrane, then the water will move from the side with 0.5 M NaCl towards the side with 1.0M NaCl, the opposite direction of the solute movement. The water pressing up against the membrane as it tries to cross applies a force to the membrane called osmotic pressure . In extreme cases, this pressure can be so strong that it causes the semi-permeable membrane to break.  Our body’s cells are surrounded by a semi-permeable cell membrane. Thus dialysis and osmosis are important considerations in medicine. This is particularly true when administering fluids directly into the bloodstream (ex. IV fluids). Doctors and nurses need to make sure that the osmotic pressure of the fluid being administered balances the osmotic pressure inside of the patient’s cells. Solutions where the osmotic pressure is balanced with the pressure inside of a cell are called isotonic solutions. Two common isotonic solutions used in medicine are 0.9% m\/v sodium chloride and 5% w\/v glucose. Solutions that contain too little solute (and thus a higher than normal concentration of water) are called hypotonic solutions . These solutions will cause water to rush into cells, causing them to swell and, in severe cases, to burst. If the concentration of solute is higher than normal, then the solution is a hypertonic solution. If a hypertonic solution is administered, water will move out of blood cells, causing them to shrink and wrinkle in appearance, a phenomenon called crenation.  In medicine, blood dialysis is used when a patient has non-functional kidneys. Our kidneys normally filter toxins from our blood stream and help to maintain ion and water balance. When the kidneys don’t work, then the blood must be filtered artificially. In blood dialysis, the patient’s blood is removed from their body and passed over a semi-permeable membrane. On the other side of the membrane is an isotonic solution that is free from the toxins that are found in blood. The semipermeable membrane prevents large proteins and blood cells from leaving the blood. The toxins in the blood, however, can cross the membrane and flow from the area with high concentration (the blood) to the area with low concentration (the dialysis fluid on the other side of the membrane), thus eliminating them from the patient’s body.   Exercise 4:      Chamber A contains 2L of 3.0 M glucose and Chamber B contains 2L of 1.0 M glucose. These chambers are separated by a semipermeable membrane.      Which direction (A to B or B to A) will glucose flow?      What is this called?        Which direction will water flow?      What is this called        What will the final concentration of glucose be in both chambers?        Classify the following solutions as isotonic, hypertonic, or hypotonic with respect to blood      3% m\/v glucose      1.5 % m\/v NaCl      0.9 % m\/v NaCl      3.0 g of glucose dissolved in 75 mL of water        Let’s assume that a patient’s body contains 6.0L of blood and that their blood contains 150 µM of a particular toxin. If their blood is dialyzed against 6.0L of isotonic fluid, then what will the concentration of toxin be after the dialysis?      The dialysis is immediately repeated using a new batch of the isotonic fluid. What is the new concentration of toxin in the patient’s blood?      What if it is repeated a third time?       Key:   Exercise 3:      0.348 g      0.0119 M      0.08325 M      27.0 µM      26 g      Exercise 4:      Chamber A contains 2L of 3.0 M glucose and Chamber B contains 2L of 1.0 M glucose. These chambers are separated by a semipermeable membrane.      A to B      Dialysis        B to A      osmosis        2.0 M        Classify the following solutions as isotonic, hypertonic, or hypotonic with respect to blood      hypotonic      hypertonic      isotonic      hypotonic (4% m\/v)        75µM      38 µM      19 µM       "
+  "title": "Measuring concentration with molarity",
+  "body": " Measuring concentration with molarity   Summary:     Solutions are homogenous mixtures where a solute is dissolved into a solvent    Ionic compounds dissociate into ions when dissolved in water    Covalent compounds remain intact when dissolved in water     Measuring concentration with molarity   "
 },
 {
   "id": "sec-solutions4-2",
@@ -4039,52 +3940,124 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Molarity in reactions "
+  "body": "Summary: "
 },
 {
-  "id": "sec-solutions4-3",
+  "id": "sec-solutions4-4",
   "level": "2",
-  "url": "sec-solutions4.html#sec-solutions4-3",
+  "url": "sec-solutions4.html#sec-solutions4-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "titrations "
+  "body": "Measuring concentration with molarity "
 },
 {
-  "id": "sec-solutions4-26",
+  "id": "sec-solutions5",
+  "level": "1",
+  "url": "sec-solutions5.html",
+  "type": "Section",
+  "number": "9.5",
+  "title": "Measuring charge in solution with equivalents",
+  "body": " Measuring charge in solution with equivalents   Summary:     Solutions are homogenous mixtures where a solute is dissolved into a solvent    Ionic compounds dissociate into ions when dissolved in water    Covalent compounds remain intact when dissolved in water     Measuring charge in solution with equivalents   "
+},
+{
+  "id": "sec-solutions5-2",
   "level": "2",
-  "url": "sec-solutions4.html#sec-solutions4-26",
+  "url": "sec-solutions5.html#sec-solutions5-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Osmosis and dialysis "
+  "body": "Summary: "
 },
 {
-  "id": "sec-solutions4-27",
+  "id": "sec-solutions5-4",
   "level": "2",
-  "url": "sec-solutions4.html#sec-solutions4-27",
+  "url": "sec-solutions5.html#sec-solutions5-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Diffusion Dialysis Osmosis "
+  "body": "Measuring charge in solution with equivalents "
 },
 {
-  "id": "sec-solutions4-30",
+  "id": "sec-solutions6",
+  "level": "1",
+  "url": "sec-solutions6.html",
+  "type": "Section",
+  "number": "9.6",
+  "title": "Dilution calculations",
+  "body": " Dilution calculations   Summary:     Solutions are homogenous mixtures where a solute is dissolved into a solvent    Ionic compounds dissociate into ions when dissolved in water    Covalent compounds remain intact when dissolved in water     Dilution calculations   "
+},
+{
+  "id": "sec-solutions6-2",
   "level": "2",
-  "url": "sec-solutions4.html#sec-solutions4-30",
+  "url": "sec-solutions6.html#sec-solutions6-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "osmotic pressure "
+  "body": "Summary: "
 },
 {
-  "id": "sec-solutions4-31",
+  "id": "sec-solutions6-4",
   "level": "2",
-  "url": "sec-solutions4.html#sec-solutions4-31",
+  "url": "sec-solutions6.html#sec-solutions6-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "isotonic solutions. hypotonic solutions hypertonic solution. "
+  "body": "Dilution calculations "
+},
+{
+  "id": "sec-solutions7",
+  "level": "1",
+  "url": "sec-solutions7.html",
+  "type": "Section",
+  "number": "9.7",
+  "title": "Stoichiometry calculations with molarity",
+  "body": " Stoichiometry calculations with molarity   Summary:     Solutions are homogenous mixtures where a solute is dissolved into a solvent    Ionic compounds dissociate into ions when dissolved in water    Covalent compounds remain intact when dissolved in water     Stoichiometry calculations with molarity   "
+},
+{
+  "id": "sec-solutions7-2",
+  "level": "2",
+  "url": "sec-solutions7.html#sec-solutions7-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-solutions7-4",
+  "level": "2",
+  "url": "sec-solutions7.html#sec-solutions7-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Stoichiometry calculations with molarity "
+},
+{
+  "id": "sec-solutions8",
+  "level": "1",
+  "url": "sec-solutions8.html",
+  "type": "Section",
+  "number": "9.8",
+  "title": "Diffusion, dialysis, and osmosis",
+  "body": " Diffusion, dialysis, and osmosis   Summary:     Solutions are homogenous mixtures where a solute is dissolved into a solvent    Ionic compounds dissociate into ions when dissolved in water    Covalent compounds remain intact when dissolved in water     Diffusion, dialysis, and osmosis   "
+},
+{
+  "id": "sec-solutions8-2",
+  "level": "2",
+  "url": "sec-solutions8.html#sec-solutions8-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-solutions8-4",
+  "level": "2",
+  "url": "sec-solutions8.html#sec-solutions8-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Diffusion, dialysis, and osmosis "
 },
 {
   "id": "sec-acidsbases1",
@@ -4219,7 +4192,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.4",
   "title": "Conjugate acid \/ base pairs",
-  "body": " Conjugate acid \/ base pairs   Summary:     Acids become conjugate bases after they lose a hydrogen ion    Bases become conjugate acids after gaining a hydrogen ion    Conjugate acid \/ base pairs are compounds (or ions) that are related by the addition\/removal of a single ion.     Conjugate acid \/ base pairs   "
+  "body": " Conjugate acid \/ base pairs   Summary:     Acids become conjugate bases after they lose a hydrogen ion    Bases become conjugate acids after gaining a hydrogen ion    Conjugate acid \/ base pairs are compounds (or ions) that are related by the addition\/removal of a single ion.     Conjugate acid \/ base pairs   The dissociation of an acid or base is a reversible reaction (excepting strong acids and bases). If acetic acid functions as an acid, donating its H + to something else, then acetate results as a product. In the reverse reaction, that acetate ion would accept an H + once again becoming acetic acid. Thus acetate would be functioning as a base. Every acid produces a base after donating its H + . Likewise, every base produces an acid after accepting an H + , because the reverse reaction would have the product donating the H + that the base form had just received.  Every acid will therefore form a base in a chemical reaction. This is called the conjugate base of that acid. Together they form a conjugate acid-base pair , two molecules whose only difference is the presence or absence of an H + . Likewise every base will form a conjugate acid after accepting an H + in a reaction, and they together for a conjugate acid-base pair.  What about the chemical structure of a molecule make it into an acid or a base? Why is CH 4 not an acid while HCl is? The truth is that every compound with a hydrogen atom is potentially an acid, but some of them are so weak that we don’t consider them to be an acid (CH 4 is an example of this). The strength of an acid is related to the stability of its conjugate base. If the conjugate base is very stable, then it is easy for the acid to lose an H + and form its conjugate base. If the conjugate base is an anion that we’ve seen before (monoatomic or polyatomic), then it’s stable. In the case of , its conjugate base would be . This is unstable because it would put a negative charge on a carbon atom, something we’ve never seen before (reminder: carbon isn’t very electronegative and thus wouldn’t like to have excess electrons). Negative charges can exist on highly electronegative elements such as the halogens and oxygen. If a molecule has a positive charge and has a hydrogen atom, it can often act as an acid since losing the H + can stabilize the molecule by also removing the positive charge (ex.   In order for a molecule to act as a base, the molecule must have a lone pair of electrons in order to form a new bond with the H + that it would accept. In addition, the conjugate acid must be stable. Nitrogen and oxygen atoms often have lone pairs of electrons and are especially good at accepting H + . Also, molecules that have a negative charge and lone pairs of electrons are often good bases because if they accept an H + , the negative charge will get neutralized (ex. ).  "
 },
 {
   "id": "sec-acidsbases4-2",
@@ -4240,13 +4213,22 @@ var ptx_lunr_docs = [
   "body": "Conjugate acid \/ base pairs "
 },
 {
+  "id": "sec-acidsbases4-6",
+  "level": "2",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "conjugate base conjugate acid-base pair conjugate acid "
+},
+{
   "id": "sec-acidsbases5",
   "level": "1",
   "url": "sec-acidsbases5.html",
   "type": "Section",
   "number": "10.5",
   "title": "Water",
-  "body": " Water   Summary:     Water can act as an acid or a base in a reaction    There is a relationship between the amount of hydronium and hydroxide ions in an aqueous solution    We can use the Kw equation to determine the concentration of hydroxide and hydronium ions in a solution     Water can be an acid or a base   "
+  "body": " Water   Summary:     Water can act as an acid or a base in a reaction    There is a relationship between the amount of hydronium and hydroxide ions in an aqueous solution    We can use the Kw equation to determine the concentration of hydroxide and hydronium ions in a solution     Water can be an acid or a base   We already learned that acids donate H + or increase the concentration of H + in solution. This is a bit of an oversimplification. In water, H + essentially doesn’t exist, because it very rapidly undergoes a reaction with water that is shown below:     H 3 O + is a polyatomic ion called hydronium ion . Chemists will typically use H+ and H3O+ interchangeably, so just be aware that H + really means H 3 O + if the acid is in water. Another term to be aware of is that H + is sometimes called a “proton”. Why? Well most hydrogen atoms have 1 proton, no neutrons, and 1 electron…take away the electron to form H + and all you have leftover is 1 proton.  We’ve discussed the definition of an acid and a base and have seen examples of what happens when acids or bases are mixed with water. In this section, we’re going to have a bit more formal treatment of what happens when an acid or base is mixed with water. See the chart below:          What is being mixed with water  Water acts as a…  Water becomes…  Example reaction    Acid (Strong or weak)  Base  Hydronium ion     Strong Base  Acid  Hydroxide ion     Weak Base  Acid  Hydroxide ion       Note: when nitrogen containing bases are mixed with water, the product is a salt with hydroxide. The base accepts a proton from water and forms an ionic compound with the leftover hydroxide as shown in the table above and the additional reactions below:      So nitrogen containing bases that are aqueous can be written as salts with hydroxide. However, they are weak bases so the reactant form also remains. Either form is appropriate to write as shown in the table below:         Nitrogen containing base examples  Form 1  Form 2                    Since water can act both as an acid and a base, we can write the following reaction where one water is an acid and another is a base. This reaction is continually happening in a sample of liquid water:     So in a sample of water, there is always some hydronium ion and some hydroxide ion. If water is neutral (ie. not acidic or basic), then the concentration of hydroxide and hydronium ions are equal. If water is acidic (for instance, if an acid is added to water), then extra hydronium ion has been produced and the amount of hydronium ion exceeds the amount of hydroxide ion. If the water is basic, (for instance, if a base is added to water), then extra hydroxide ions have been produced and the amount of hydroxide exceeds the amount of hydronium ions. There is an inverse relationship between the amount of hydroxide and hydronium ions in solution. If we multiply their concentrations (measured in molarity), we get a constant, K w , which has a value of 1x10 -14 at 25 o C. This is shown by the equation below. In the equation, the brackets indicate that these are the concentrations of hydronium and hydroxide, measured in molarity. Note: it is crucial that you use the concentrations in molarity and not any other unit for this calculation. K w is a unitless value (even though it seems like it should have units of M 2 ) but the reason why is beyond the scope of this course.     This equation can be used to find the concentration of hydroxide or hydronium ion, if we’re given the concentration of the other one. It can also be used to find the concentration of hydronium and hydroxide ions in a neutral solution as shown below:  Since it’s neutral,   Therefore, becomes   So   "
 },
 {
   "id": "sec-acidsbases5-2",
@@ -4265,6 +4247,33 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "Water can be an acid or a base "
+},
+{
+  "id": "sec-acidsbases5-7",
+  "level": "2",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "hydronium ion "
+},
+{
+  "id": "sec-acidsbases5-9",
+  "level": "2",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-9",
+  "type": "Table",
+  "number": "10.5.1",
+  "title": "",
+  "body": "        What is being mixed with water  Water acts as a…  Water becomes…  Example reaction    Acid (Strong or weak)  Base  Hydronium ion     Strong Base  Acid  Hydroxide ion     Weak Base  Acid  Hydroxide ion     "
+},
+{
+  "id": "sec-acidsbases5-13",
+  "level": "2",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-13",
+  "type": "Table",
+  "number": "10.5.2",
+  "title": "",
+  "body": "       Nitrogen containing base examples  Form 1  Form 2                   "
 },
 {
   "id": "sec-acidsbases6",
