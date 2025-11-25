@@ -70,7 +70,7 @@
 	<p>
 		<me>H^{+}(aq) + OH^{-}(aq) \rightarrow H_{2}O(l)</me>
 	</p>
-<instruction>
+<assemblage>
 
 	<blockquote>
 			<p>
@@ -149,7 +149,7 @@
 		</li>
 
 	</ol></p>
-</instruction>
+</assemblage>
 
 	<p>
 		To write a neutralization reaction, like we just did above, we first split acid and base into their ions. Then we allowed the acid (H<sup>+</sup>) to react with the base (OH<sup>-</sup>) to form water. This results in ions being left over (the spectator ions). Those ions are
