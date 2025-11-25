@@ -4273,7 +4273,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.4",
   "title": "pH",
-  "body": " pH   Summary:     pH is a different way of expressing the concentration of hydronium ion in a solution    Neutral pH is 7. Acidic pH is less than 7. Basic pH is greater than 7.    Calculations involving pH involve logarithms\/power functions     pH   When scientists describe how acidic or basic a solution is, we could report the concentration of hydronium ion or hydroxide ion. However, because the numbers are so small and usually written in scientific notation, this becomes quite cumbersome. To solve this problem, we instead often transform the concentration of hydronium ion into a pH value using the formula below:     This version of the equation can be used to find the pH value from a concentration of hydronium ion (which MUST be molarity). We can figure out the pH of a neutral solution as shown:      pH values lower than 7 are said to be acidic solutions. pH values above 7 are basic solutions. The reason why will be determined as a part of your exercises.  In some cases, we’ll need to figure out the concentration of hydronium ion from a pH value. This requires rearrangement of the pH equation using algebra skills. The tricky part of this is that we need to ‘undo’ the log function. This is done by taking 10 and raising it to the power of everything on that side of the equation as shown below:              "
+  "body": " pH   Summary:     pH is a different way of expressing the concentration of hydronium ion in a solution    Neutral pH is 7. Acidic pH is less than 7. Basic pH is greater than 7.    Calculations involving pH involve logarithms\/power functions     pH   When scientists describe how acidic or basic a solution is, we could report the concentration of hydronium ion or hydroxide ion. However, because the numbers are so small and usually written in scientific notation, this becomes quite cumbersome. To solve this problem, we instead often transform the concentration of hydronium ion into a pH value using the formula below:     This version of the equation can be used to find the pH value from a concentration of hydronium ion (which MUST be molarity). We can figure out the pH of a neutral solution as shown:     pH values lower than 7 are said to be acidic solutions. pH values above 7 are basic solutions. The reason why will be determined as a part of your exercises.   The pH scale    In some cases, we’ll need to figure out the concentration of hydronium ion from a pH value. This requires rearrangement of the pH equation using algebra skills. The tricky part of this is that we need to ‘undo’ the log function. This is done by taking 10 and raising it to the power of everything on that side of the equation as shown below:              "
 },
 {
   "id": "sec-acidsbases7-2",
@@ -4294,13 +4294,22 @@ var ptx_lunr_docs = [
   "body": "pH "
 },
 {
+  "id": "phscale",
+  "level": "2",
+  "url": "sec-acidsbases7.html#phscale",
+  "type": "Figure",
+  "number": "10.4.1",
+  "title": "",
+  "body": " The pH scale   "
+},
+{
   "id": "sec-acidsbases8",
   "level": "1",
   "url": "sec-acidsbases8.html",
   "type": "Section",
   "number": "10.5",
   "title": "Buffers",
-  "body": " Buffers   Summary:     Buffers help solutions resist changes in pH    Buffers are mixtures of weak acids and weak bases    Every buffered solution has a buffering capacity that describes how much acid or base it can handle     Buffers    Buffers are substances that can be added to water to make the water resistant to changes in pH. A buffer consists of either a weak acid and its conjugate base or a weak base and its conjugate acid. How does this mixture of substances make the solution more resistant to changes in pH?  When a strong acid is added to water, it will form hydronium ions and the concentration of the hydronium ions formed will be the same as the concentration of the acid that was just added, because a strong acid completely dissociates upon addition to water. Likewise if a strong base is added to water, it will form the number of hydroxide ions that are contained in that substance that was added, again because a strong base will completely dissociate when added to water. The additional hydronium ion or hydroxide ion will then directly affect the pH of the solution.   When a buffer is present, the solution contains an additional solute that is an acid and another that is a base. These acids and bases are capable of reacting with any base or acid that might get added to the solution, helping to neutralize it. The picture below might help.  Every buffer has a buffering capacity . This is the amount of additional acid or base that can be added without exceeding the amount of buffering compounds. So if a buffered solution contains 0.1M weak base and 0.2M of its conjugate acid, then the solution could handle the addition of up to 0.1M hydronium ions before running out of weak base (because the weak base will react with the hydronium ions) and up to 0.2M hydroxide ions (because the hydroxide would react with the conjugate acid). Amounts of hydronium above 0.1M would exceed the buffering capacity of the solution as would addition of more than 0.2M hydroxide ion.     Which of the following mixtures of chemicals would make good buffers?          Yes        \/      Yes             No    They are related by the addition\/removal of a proton. However, hydroxide is a strong base, not a weak base.           Yes             No    These compounds are related by the addition\/removal of a proton. However, HCl is a strong acid.      \/      Yes             No    These compounds are both weak acids. Neither is a base. Also neither has its conjugate base present.       Create a drawing similar to the figure above that shows how a buffer can resist changes to pH caused by adding in strong base.             If a solution contains 0.11 moles of weak base and 0.34 moles of weak acid, then ...     How many moles of nitric acid could be added without exceeding the buffering capacity?      0.11 moles        How many moles of sodium hydroxide could be added without exceeding the buffering capacity?      0.34 moles        How many moles of calcium hydroxide could be added without exceeding the buffering capacity?      0.17 moles        "
+  "body": " Buffers   Summary:     Buffers help solutions resist changes in pH    Buffers are mixtures of weak acids and weak bases    Every buffered solution has a buffering capacity that describes how much acid or base it can handle     Buffers    Buffers are substances that can be added to water to make the water resistant to changes in pH. A buffer consists of either a weak acid and its conjugate base or a weak base and its conjugate acid. How does this mixture of substances make the solution more resistant to changes in pH?  When a strong acid is added to water, it will form hydronium ions and the concentration of the hydronium ions formed will be the same as the concentration of the acid that was just added, because a strong acid completely dissociates upon addition to water. Likewise if a strong base is added to water, it will form the number of hydroxide ions that are contained in that substance that was added, again because a strong base will completely dissociate when added to water. The additional hydronium ion or hydroxide ion will then directly affect the pH of the solution.  When a buffer is present, the solution contains an additional solute that is an acid and another that is a base. These acids and bases are capable of reacting with any base or acid that might get added to the solution, helping to neutralize it. The picture below might help.   How a buffer resists changes in pH from the addition of acid    Every buffer has a buffering capacity . This is the amount of additional acid or base that can be added without exceeding the amount of buffering compounds. So if a buffered solution contains 0.1M weak base and 0.2M of its conjugate acid, then the solution could handle the addition of up to 0.1M hydronium ions before running out of weak base (because the weak base will react with the hydronium ions) and up to 0.2M hydroxide ions (because the hydroxide would react with the conjugate acid). Amounts of hydronium above 0.1M would exceed the buffering capacity of the solution as would addition of more than 0.2M hydroxide ion.     Which of the following mixtures of chemicals would make good buffers?          Yes        \/      Yes             No    They are related by the addition\/removal of a proton. However, hydroxide is a strong base, not a weak base.           Yes             No    These compounds are related by the addition\/removal of a proton. However, HCl is a strong acid.      \/      Yes             No    These compounds are both weak acids. Neither is a base. Also neither has its conjugate base present.       Create a drawing similar to the figure above that shows how a buffer can resist changes to pH caused by adding in strong base.             If a solution contains 0.11 moles of weak base and 0.34 moles of weak acid, then ...     How many moles of nitric acid could be added without exceeding the buffering capacity?      0.11 moles        How many moles of sodium hydroxide could be added without exceeding the buffering capacity?      0.34 moles        How many moles of calcium hydroxide could be added without exceeding the buffering capacity?      0.17 moles        "
 },
 {
   "id": "sec-acidsbases8-2",
@@ -4330,9 +4339,18 @@ var ptx_lunr_docs = [
   "body": "Buffers "
 },
 {
-  "id": "sec-acidsbases8-8",
+  "id": "",
   "level": "2",
-  "url": "sec-acidsbases8.html#sec-acidsbases8-8",
+  "url": "sec-acidsbases8.html#",
+  "type": "Figure",
+  "number": "10.5.1",
+  "title": "",
+  "body": " How a buffer resists changes in pH from the addition of acid   "
+},
+{
+  "id": "sec-acidsbases8-9",
+  "level": "2",
+  "url": "sec-acidsbases8.html#sec-acidsbases8-9",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
