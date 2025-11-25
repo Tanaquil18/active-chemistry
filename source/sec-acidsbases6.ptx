@@ -179,6 +179,8 @@
 	<p>
 		Neutralization reactions can follow slightly different patterns when the base is NOT hydroxide. For instance, if the base is ammonia (<m>NH_{3}</m>), then we need to first recognize that this is a covalent compound, not an ionic compound. Thus it won’t split into ions in the first step. See the example below:
 	</p>
+<example>
+	
 
 	<p>
 		If we react <m>NaHSO_{4}(aq)</m>with <m>HCl\ (aq)</m>, after step one, we’d have <m>Na^{+}(aq) + H_{2}PO_{4}^{-}(aq) + H^{+}(aq) + Cl^{-}(aq)</m>. In step 2, the HCl is identified as the acid since it has an H<sup>+</sup> ion; therefore the sodium dihydrogen phosphate must be the base. At this point the acidic <m>H^{+}</m>ion will react with the basic <m>H_{2}PO_{4}^{-}</m> to form <m>H_{3}PO_{4}</m>. This leaves a left over <m>Na^{+}(aq) + Cl^{-}(aq).</m> We can then write the equation in the following ways:
@@ -207,7 +209,8 @@
 	<p>
 		<me>NaH_{2}PO_{4}(aq) + HCl(aq) \rightarrow H_{3}PO_{4}(aq) + NaCl(aq)</me>
 	</p>
-
+</example>
+<example>
 	<p>
 		If we react <m>NH_{3}(aq)\ </m>with <m>HCl\ (aq)</m>, after step one, we’d have <m>NH_{3}(aq) + H^{+}(aq) + Cl^{-}(aq)</m>. At this point the acidic <m>H^{+}</m>ion will react with the basic <m>NH_{3}</m> to form <m>NH_{4}^{+}</m>. The product would then contain <m>NH_{4}^{+}\ (aq)</m> and the left over <m>Cl^{-}(aq).</m> We can then write the equation in the following ways:
 	</p>
@@ -235,7 +238,7 @@
 	<p>
 		<me>NH_{3}(aq) + HCl(aq) \rightarrow NH_{4}Cl(aq)</me>
 	</p>
-
+</example>
 	<p>
 		As a final nuance, we can also have cases where polyatomic ions can act as acids. In those cases, the polyatomic ion will have “hydrogen” as a part of its name. This hydrogen will be lost to the base. Therefore, this polyatomic ion must be broken apart by losing its H<sup>+</sup>. See the example below:
 	</p>
