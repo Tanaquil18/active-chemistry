@@ -148,15 +148,20 @@
   <!-- </solution>--> 
 </exercise>
 
-<exercisegroup>
+<!-- <exercisegroup> -->
 
-	<introduction>
+	<!-- <introduction> -->
+		<!-- <p> -->
+			<!-- <p>If 1.00 g of HCl is added to 2.0 L water, what is the new pH?</p> -->
+		<!-- </p> -->
+	<!-- </introduction> -->
+
+	<exercise>
+			<introduction>
 		<p>
 			<p>If 1.00 g of HCl is added to 2.0 L water, what is the new pH?</p>
 		</p>
 	</introduction>
-
-	<exercise>
 		<task>
 			<statement>
 				<p>
@@ -193,15 +198,18 @@
 		</task>
 	</exercise>
 
-</exercisegroup>
+<!-- </exercisegroup> -->
 
-<exercisegroup>
+<!-- <exercisegroup> -->
+	<!-- <introduction> -->
+			<!-- <p>If 1.00g of NaOH is added to 0.59 L of water, what is the new pH?</p> -->
+	<!-- </introduction> -->
 
-	<introduction>
-			<p>If 1.00g of NaOH is added to 0.59 L of water, what is the new pH?</p>
-	</introduction>
 
 	<exercise>
+			<introduction>
+			<p>If 1.00g of NaOH is added to 0.59 L of water, what is the new pH?</p>
+	</introduction>
 		<task>
 			<statement>
     <p>Step 1:  How many moles of NaOH was added?  How many moles of hydroxide was added?  How much hydroxide ion is present in the water (you can ignore the 1x10-7 M hydroxide that was already there...for these problems it is an insignificant amount)</p>
@@ -252,7 +260,7 @@
 		</task>
 	</exercise>
 
-</exercisegroup>
+<!-- </exercisegroup> -->
 
 <exercise>
   <statement>
