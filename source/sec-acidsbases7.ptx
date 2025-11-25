@@ -49,10 +49,13 @@
 	<p>
 		pH values lower than 7 are said to be acidic solutions. pH values above 7 are basic solutions. The reason why will be determined as a part of your exercises.
 	</p>
-    <figure xml:id="phscale">
+    <assemblage>
+		
+	<figure xml:id="phscale">
         <caption>The pH scale</caption>
         <image source='phscale.png'/>
     </figure>
+	</assemblage>
 	<p>
 		In some cases, we’ll need to figure out the concentration of hydronium ion from a pH value. This requires rearrangement of the pH equation using algebra skills. The tricky part of this is that we need to ‘undo’ the log function. This is done by taking 10 and raising it to the power of everything on that side of the equation as shown below:
 	</p>
