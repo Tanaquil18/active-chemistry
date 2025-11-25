@@ -31,4 +31,20 @@
 		<term>Conjugate acid / base pairs</term>
     </p>
 
+	<p>
+		The dissociation of an acid or base is a reversible reaction (excepting strong acids and bases). If acetic acid functions as an acid, donating its H<sup>+</sup> to something else, then acetate results as a product. In the reverse reaction, that acetate ion would accept an H<sup>+</sup> once again becoming acetic acid. Thus acetate would be functioning as a base. Every acid produces a base after donating its H<sup>+</sup>. Likewise, every base produces an acid after accepting an H<sup>+</sup>, because the reverse reaction would have the product donating the H<sup>+</sup> that the base form had just received.
+	</p>
+
+	<p>
+		Every acid will therefore form a base in a chemical reaction. This is called the <term>conjugate base</term> of that acid. Together they form a <term>conjugate acid-base pair</term>, two molecules whose only difference is the presence or absence of an H<sup>+</sup>. Likewise every base will form a <term>conjugate acid</term> after accepting an H<sup>+</sup> in a reaction, and they together for a conjugate acid-base pair.
+	</p>
+
+	<p>
+		What about the chemical structure of a molecule make it into an acid or a base? Why is CH<sub>4</sub> not an acid while HCl is? The truth is that every compound with a hydrogen atom is potentially an acid, but some of them are so weak that we don’t consider them to be an acid (CH<sub>4</sub> is an example of this). The strength of an acid is related to the stability of its conjugate base. If the conjugate base is very stable, then it is easy for the acid to lose an H<sup>+</sup> and form its conjugate base. If the conjugate base is an anion that we’ve seen before (monoatomic or polyatomic), then it’s stable. In the case of <m>CH_{4}</m>, its conjugate base would be <m>CH_{3}^{-}</m>. This is unstable because it would put a negative charge on a carbon atom, something we’ve never seen before (reminder: carbon isn’t very electronegative and thus wouldn’t like to have excess electrons). Negative charges can exist on highly electronegative elements such as the halogens and oxygen. If a molecule has a positive charge and has a hydrogen atom, it can often act as an acid since losing the H<sup>+</sup> can stabilize the molecule by also removing the positive charge (ex. <m>NH_{4}^{+}\ is\ an\ acid\ because\ losing\ H^{+}\ results\ in\ NH_{3}\ which\ is\ stable)</m>
+	</p>
+
+	<p>
+		In order for a molecule to act as a base, the molecule must have a lone pair of electrons in order to form a new bond with the H<sup>+</sup> that it would accept. In addition, the conjugate acid must be stable. Nitrogen and oxygen atoms often have lone pairs of electrons and are especially good at accepting H<sup>+</sup>. Also, molecules that have a negative charge and lone pairs of electrons are often good bases because if they accept an H<sup>+</sup>, the negative charge will get neutralized (ex. <m>OH^{-}\ is\ a\ good\ base\ because\ if\ it\ accepts\ an\ H^{+}\ the\ conjugate\ acid\ is\ water,\ which\ is\ very\ stable</m>).
+	</p>
+
     </section>

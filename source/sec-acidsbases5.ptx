@@ -31,4 +31,127 @@
 		<term>Water can be an acid or a base</term>
     </p>
 
+	<p>
+		We already learned that acids donate H<sup>+</sup> or increase the concentration of H<sup>+</sup> in solution. This is a bit of an oversimplification. In water, H<sup>+</sup> essentially doesn’t exist, because it very rapidly undergoes a reaction with water that is shown below:
+	</p>
+
+	<p>
+		<me>H^{+} + H_{2}O \rightarrow H_{3}O^{+}</me>
+	</p>
+
+	<p>
+		H<sub>3</sub>O<sup>+</sup> is a polyatomic ion called <term>hydronium ion</term>. Chemists will typically use H+ and H3O+ interchangeably, so just be aware that H<sup>+</sup> really means H<sub>3</sub>O<sup>+</sup> if the acid is in water. Another term to be aware of is that H<sup>+</sup> is sometimes called a “proton”. Why? Well most hydrogen atoms have 1 proton, no neutrons, and 1 electron…take away the electron to form H<sup>+</sup> and all you have leftover is 1 proton.
+	</p>
+
+	<p>
+		We’ve discussed the definition of an acid and a base and have seen examples of what happens when acids or bases are mixed with water. In this section, we’re going to have a bit more formal treatment of what happens when an acid or base is mixed with water. See the chart below:
+	</p>
+
+	<table>
+		<title></title>
+<col width="17%" />
+<col width="13%" />
+<col width="19%" />
+<col width="50%" />
+		<tabular>
+		<row header="yes">
+			<cell halign="center"><term>What is being mixed with water</term></cell>
+			<cell halign="center"><term>Water acts as a…</term></cell>
+			<cell halign="center"><term>Water becomes…</term></cell>
+			<cell halign="center"><term>Example reaction</term></cell>
+		</row>
+		<row class="odd">
+			<cell halign="center">Acid (Strong or weak)</cell>
+			<cell halign="center">Base</cell>
+			<cell halign="center">Hydronium ion</cell>
+			<cell halign="center"><me>HBr(g) + H_{2}O(l) \rightarrow H_{3}O^{+}(aq) + Br^{-}(aq)</me></cell>
+		</row>
+		<row class="even">
+			<cell halign="center">Strong Base</cell>
+			<cell halign="center">Acid</cell>
+			<cell halign="center">Hydroxide ion</cell>
+			<cell halign="center"><me>NaOH(s) + HOH(l) \rightarrow Na^{+}(aq) + OH^{-}(aq) + HOH(l)</me></cell>
+		</row>
+		<row class="odd">
+			<cell halign="center">Weak Base</cell>
+			<cell halign="center">Acid</cell>
+			<cell halign="center">Hydroxide ion</cell>
+			<cell halign="center"><me>NH_{3}(g) + H_{2}O(l) \rightarrow OH^{-}(aq) + NH_{4}^{+}(aq) \rightarrow NH_{4}OH(aq)</me></cell>
+		</row>
+		</tabular>
+	</table>
+
+	<p>
+		<em>Note: when nitrogen containing bases are mixed with water, the product is a salt with hydroxide. The base accepts a proton from water and forms an ionic compound with the leftover hydroxide as shown in the table above and the additional reactions below:</em>
+	</p>
+
+	<p>
+		<me>NH_{2}CH_{3}(aq) + H_{2}O(l) \rightarrow NH_{3}CH_{3}^{+}(aq) + OH^{-}(aq) \rightarrow NH_{3}CH_{3}OH(aq)</me>
+	</p>
+
+	<p>
+		So nitrogen containing bases that are aqueous can be written as salts with hydroxide. However, they are weak bases so the reactant form also remains. Either form is appropriate to write as shown in the table below:
+	</p>
+
+	<table>
+		<title></title>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+		<tabular>
+		<row header="yes">
+			<cell halign="left"><term>Nitrogen containing base examples</term></cell>
+			<cell halign="left"><term>Form 1</term></cell>
+			<cell halign="left"><term>Form 2</term></cell>
+		</row>
+		<row class="odd">
+			<cell halign="left"><me>NH_{3}</me></cell>
+			<cell halign="left"><me>NH_{3}(aq)</me></cell>
+			<cell halign="left"><me>NH_{4}OH(aq)</me></cell>
+		</row>
+		<row class="even">
+			<cell halign="left"><me>NH_{2}CH_{3}</me></cell>
+			<cell halign="left"><me>NH_{2}CH_{3}(aq)</me></cell>
+			<cell halign="left"><me>NH_{3}CH_{3}OH(aq)</me></cell>
+		</row>
+		<row class="odd">
+			<cell halign="left"><me>NH\left( CH_{3} \right)_{2}</me></cell>
+			<cell halign="left"><me>NH\left( CH_{3} \right)_{2}(aq)</me></cell>
+			<cell halign="left"><me>NH_{2}\left( CH_{3} \right)_{2}OH(aq)</me></cell>
+		</row>
+		</tabular>
+	</table>
+
+	<p>
+		Since water can act both as an acid and a base, we can write the following reaction where one water is an acid and another is a base. This reaction is continually happening in a sample of liquid water:
+	</p>
+
+	<p>
+		<me>H_{2}O + H_{2}O \rightarrow H_{3}O^{+} + OH^{-}</me>
+	</p>
+
+	<p>
+		So in a sample of water, there is always some hydronium ion and some hydroxide ion. If water is neutral (ie. not acidic or basic), then the concentration of hydroxide and hydronium ions are equal. If water is acidic (for instance, if an acid is added to water), then extra hydronium ion has been produced and the amount of hydronium ion exceeds the amount of hydroxide ion. If the water is basic, (for instance, if a base is added to water), then extra hydroxide ions have been produced and the amount of hydroxide exceeds the amount of hydronium ions. There is an inverse relationship between the amount of hydroxide and hydronium ions in solution. If we multiply their concentrations (measured in molarity), we get a constant, K<sub>w</sub>, which has a value of 1x10<sup>-14</sup> at 25<sup>o</sup>C. This is shown by the equation below. In the equation, the brackets indicate that these are the concentrations of hydronium and hydroxide, measured in molarity. <em>Note: it is crucial that you use the concentrations in molarity and not any other unit for this calculation.</em> K<sub>w</sub> is a unitless value (even though it seems like it should have units of M<sup>2</sup>) but the reason why is beyond the scope of this course.
+	</p>
+
+	<p>
+		<me>\left\lbrack H_{3}O^{+} \right\rbrack \times \left\lbrack OH^{-} \right\rbrack = 1 \times 10^{- 14} = K_{w}</me>
+	</p>
+
+	<p>
+		This equation can be used to find the concentration of hydroxide or hydronium ion, if we’re given the concentration of the other one. It can also be used to find the concentration of hydronium and hydroxide ions in a neutral solution as shown below:
+	</p>
+
+	<p>
+		Since it’s neutral, <m>\left\lbrack H_{3}O^{+} \right\rbrack = \lbrack OH^{-}\rbrack</m>
+	</p>
+
+	<p>
+		Therefore, <m>\left\lbrack H_{3}O^{+} \right\rbrack \times \left\lbrack OH^{-} \right\rbrack = 1 \times 10^{- 14}</m> becomes <m>\left\lbrack H_{3}O^{+} \right\rbrack^{2} = 1 \times 10^{- 14}</m>
+	</p>
+
+	<p>
+		So <m>\left\lbrack H_{3}O^{+} \right\rbrack = \sqrt{1 \times 10^{- 14}} = 1 \times 10^{- 7}M</m>
+	</p>
+
     </section>
