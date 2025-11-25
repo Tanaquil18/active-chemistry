@@ -36,7 +36,7 @@
 <col width="33%" />
 <col width="33%" />
 		<tabular>
-		<row header="yes">
+		<row header="yes" bottom="major">
 			<cell halign="left">Name</cell>
 			<cell halign="left">Definition of an acid</cell>
 			<cell halign="left">Definition of a base</cell>
@@ -71,8 +71,8 @@
 	</p>
 
 	<figure>
-	<image source="media/image1.png"/>
-		<caption>Green letters on a black background Description automatically generated</caption>
+	<image source="Hydronium-formation.png"/>
+		<caption>A lone pair of electrons on water forms a covalent bond with a <m>H^+</m> ion to form a hydronium ion.</caption>
 </figure>
 
 	<p>
