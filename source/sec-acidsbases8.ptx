@@ -40,9 +40,12 @@
 	</p>
 
 	<p>
-		<image source='buffer.png'/> When a buffer is present, the solution contains an additional solute that is an acid and another that is a base. These acids and bases are capable of reacting with any base or acid that might get added to the solution, helping to neutralize it. The picture below might help.
+		When a buffer is present, the solution contains an additional solute that is an acid and another that is a base. These acids and bases are capable of reacting with any base or acid that might get added to the solution, helping to neutralize it. The picture below might help.
 	</p>
-
+  <figure xml:id="">
+    <caption>How a buffer resists changes in pH from the addition of acid</caption>
+    <image source='buffer.png'/> 
+  </figure>
 	<p>
 		Every buffer has a <term><xref ref="def-bufferingcapacity" text="custom">buffering capacity</xref></term>. This is the amount of additional acid or base that can be added without exceeding the amount of buffering compounds. So if a buffered solution contains 0.1M weak base and 0.2M of its conjugate acid, then the solution could handle the addition of up to 0.1M hydronium ions before running out of weak base (because the weak base will react with the hydronium ions) and up to 0.2M hydroxide ions (because the hydroxide would react with the conjugate acid). Amounts of hydronium above 0.1M would exceed the buffering capacity of the solution as would addition of more than 0.2M hydroxide ion.
 	</p>
