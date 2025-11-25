@@ -4087,157 +4087,193 @@ var ptx_lunr_docs = [
   "body": "isotonic solutions. hypotonic solutions hypertonic solution. "
 },
 {
-  "id": "sec-acids-bases1",
+  "id": "sec-acidsbases1",
   "level": "1",
-  "url": "sec-acids-bases1.html",
+  "url": "sec-acidsbases1.html",
   "type": "Section",
   "number": "10.1",
-  "title": "Acids and Bases 1",
-  "body": " Acids and Bases 1   What is an acid\/base?   There are multiple definitions of acids and bases which all generally say the same things, but with different ways of looking at it. These definitions are summarized in the table below:         Name  Definition of an acid  Definition of a base    Arrhenius definition  Produces H +  Produces OH -    Brønstead-Lowry definition  Donates H +  Accepts H +     Compounds like HCl are acids because they are ionic compounds and when we place them into water, the ions will dissociate producing H + and Cl - . Because HCl produces H + in water, it fits the definition of an Arrhenius acid. However, H + doesn’t exist for very long in water. It rapidly reacts with water to product hydronium ion , H 3 O + . Thus the HCl actually donated an H + to water in this reaction, fitting the Brønstead-Lowry definition of an acid             Green letters on a black background Description automatically generated   Sodium hydroxide fits the definition of a base. When it is dissolved in water, it quickly dissociates into ions, Na + and OH - . As a result, it fits the definition of an Arrhenius base since the concentration of hydroxide increases. It also fits the definition of a Brønstead-Lowry base, but this takes a bit more effort to see. This is because the hydroxide that is produced can accept a H + forming water.           Acids and bases don’t just react with water, they can be mixed allowing them to react with one another. In these cases, often the Brønstead-Lowry definition is easier to use to identify an acid from a base. Consider the reaction shown below:     In this reaction, the NH 3 (ammonia) accepts an H + from CH 3 CO 2 H (acetic acid). Thus ammonia is acting as a base and acetic acid is an acid because it donates an H + .  What about the chemical structure of a molecule make it into an acid or a base? Why is CH 4 not an acid while HCl is? Hold that question for now. It will be discussed more in the conjugate acids and bases section later in this lesson.   Exercise 1:      Identify the acid and base in the following reactions                     C is the reverse reaction of B. The nitrogen containing compound in b was a\/an _______(acid\/base). In the reverse reaction, the nitrogen compound was a\/an ______(acid\/base). Explain why this makes sense                       Compare your answers in E and F, focusing on water. What interesting property does water possess?          Draw the Lewis structure of hydronium ion.      Naming acids and bases   We already know how to name the common bases that we’ll see in this chapter. Most of the bases we’ll be discussing are ionic compounds that contain the hydroxide ion. We’ll be naming those compounds in the same way that we’ve named them in the past. There is one additional base that we’ll frequently encounter in this chapter, NH 3 , which is called ammonia (you should learn this). We’ll learn about other nitrogen containing bases in later chapters as well as how to name them.  Naming acids follows different rules than we’ve used previously. When naming acids, it depends on if the acid is 1) composed of two elements, 2) contains a polyatomic ion, or 3) is an organic acid (more on these in a later chapter). Acids that contain only two elements include HCl, HBr, and HI. For these acids, we name them by starting with the name of the anion (ex. HCl—we start with chloride). We then drop the -ide ending and replace it with “-ic acid”. Lastly we add “hydro-“ as a prefix. So, HCl is hydrochloric acid.  If the acid contains a polyatomic ion, then we name the anion and drop the -ate ending from the name (we won’t worry about polyatomic ions with other endings). We then add on “ic-acid” and in some cases instead add “-uric acid” or “-oric acid” (if the name of the polyatomic ion ends in an “f” sound; ex. -fate or -phate).  Additionally, some acids are polyprotic acids, meaning that they have more than one H+ that can be donated to a base. Phosphoric acid, for example, is the acid produced from the phosphate ion, . The acid thus must have 3 H + added to fully neutralize the 3 - charge, giving the formula H 3 PO 4 . Previously, we learned that there are other forms of the phosphate anion that has one or two H + s added on. and are called hydrogen phosphate and dihydrogen phosphate respectively. These are also acids since they have one or more H + s to donate, but since they are also polyatomic ions, their name is simply the name of the polyatomic ion.  To figure out the formula for an acid, we need to know the anion that it is paired with, both its formula and its charge. We then only need to pair it with the appropriate number of H + ions in order to have the number of positive and negative charges be equal.   Exercise 2:      What is the name of the following acids?      HBr      HI      HNO 3      H 3 PO 4      H 2 SO 4             What is the name of the following bases?      KOH      Sr(OH) 2      NH 3            is listed as an acid in problem 1g and a base in problem 2d. How can it be both?          What is the correct chemical formula for the following acids or bases?      Calcium hydroxide      Carbonic acid      Acetic acid      Hydrochloric acid      Magnesium hydroxide      Cesium hydroxide        What is the correct acid name if H + is added to the following polyatomic ions to turn them into acids:      Citrate      Aspartate      Oxalate        Strengths of acids and bases   When an acid or base is dissolved into water, the compound dissociates into ions (or produces ions in other cases). This process can be written as a chemical reaction. See the example below:     In a previous chapter, we learned that all chemical reactions are reversible and we learned about equilibrium. The same is true for the dissociation of an acid or base in water. Some of these dissociation reactions have equilibriums that lie so far towards the products that they are nearly irreversible reactions. When these acids\/bases dissolve into water, they very nearly completely dissociate into their ions. These compounds are said to be strong acids and strong bases. There is a list of strong acids and strong bases that you need to memorize:  Strong acids: .  Strong bases: group I and II metals paired with hydroxide in an ionic compound (ex. NaOH)   Weak acids and weak bases are ones where the compound dissociates into ions when put into water, but not completely. There is still a measurable amount of the starting compound left over. This is because the reverse reaction still occurs to an appreciable extent. These weak acids and bases partially dissociate into ions when dissolved. Thankfully there is no list of weak acids\/bases that you need to memorize. All you need to know is that if you’re dealing with an acid or base that isn’t a strong acid or base, that it will be a weak one instead.   Exercise 3:      Write the list of strong acids that you need to know.      Try to figure out a mneumonic device to help you remember this list. Share it with a classmate.        Label the following compounds as strong or weak bases      Fe(OH) 2      Ca(OH) 2      KOH      Sr(OH) 2      Mn(OH) 3             Write a reaction equation for phosphoric acid losing…      One proton      Two protons      Three protons        Consider the acid base reaction shown below:         If the following reaction is at equilibrium, which way will the reaction shift if…      More   is added      More   is added      More   is added      HCl is added (think about what HCl forms when dissolved into water)     Key:   Exercise 1:      Identify the acid and base in the following reactions                     Base, acid; once a base takes up an H+ it now has an extra one that it can donate                       Water can be both an acid and a base          Structure is in the reading      Exercise 2:      What is the name of the following acids?      Hydrobromic acid      Hydroiodic acid      Nitric acid      Phosphoric acid      Sulfuric acid      Hydrogen carbonate or bicarbonate        What is the name of the following bases?      Potassium hydroxide      Strontium hydroxide      Ammonia      Hydrogen carbonate or bicarbonate      It can accept another H+ becoming carbonic acid; it can also donate an H+ become carbonate          What is the correct chemical formula for the following acids or bases?           Carbonic acid       Acetic acid       Hydrochloric acid HCl      Magnesium hydroxide       Cesium hydroxide CsOH        What is the correct acid name if H + is added to the following ions to turn them into acids:      Citric acid      Aspartic acid      Oxalic acid        Exercise 3:      Write the list of strong acids that you need to know.      .     Try to figure out a mneumonic device to help you remember this list. Share it with a classmate.        Label the following compounds as strong or weak bases      Weak base      Strong base      Strong base      Strong base      Weak base             Write a reaction equation for phosphoric acid losing…                       Consider the acid base reaction shown below:         If the following reaction is at equilibrium, which way will the reaction shift if…      More   is added; to the right      More   is added; to the left      More   is added; to the left      HCl is added (think about what HCl forms when dissolved into water); to the left     "
+  "title": "What are acids and bases?",
+  "body": " What are acids and bases?   Summary:     Acids donate ions to other things and increase the amount of in a solution    Bases accept ions and increase the amount of in a solution     What are acids and bases?   There are multiple definitions of acids and bases which all generally say the same things, but with different ways of looking at it. These definitions are summarized in the table below:         Name  Definition of an acid  Definition of a base    Arrhenius definition  Produces H +  Produces OH -    Brønstead-Lowry definition  Donates H +  Accepts H +     Compounds like HCl are acids because they are ionic compounds and when we place them into water, the ions will dissociate producing H + and Cl - . Because HCl produces H + in water, it fits the definition of an Arrhenius acid. However, H + doesn’t exist for very long in water. It rapidly reacts with water to produce hydronium ion , H 3 O + . Thus the HCl actually donated an H + to water in this reaction, fitting the Brønstead-Lowry definition of an acid             A lone pair of electrons on water forms a covalent bond with a ion to form a hydronium ion.   Sodium hydroxide fits the definition of a base. When it is dissolved in water, it quickly dissociates into ions, Na + and OH - . As a result, it fits the definition of an Arrhenius base since the concentration of hydroxide increases. It also fits the definition of a Brønstead-Lowry base, but this takes a bit more effort to see. This is because the hydroxide that is produced can accept a H + forming water.           Acids and bases don’t just react with water, they can be mixed allowing them to react with one another. In these cases, often the Brønstead-Lowry definition is easier to use to identify an acid from a base. Consider the reaction shown below:     In this reaction, the NH 3 (ammonia) accepts an H + from CH 3 CO 2 H (acetic acid). Thus ammonia is acting as a base and acetic acid is an acid because it donates an H + .  What about the chemical structure of a molecule make it into an acid or a base? Why is CH 4 not an acid while HCl is? Hold that question for now. It will be discussed more in the conjugate acids and bases section later in this lesson.  "
 },
 {
-  "id": "sec-acids-bases1-2",
+  "id": "sec-acidsbases1-2",
   "level": "2",
-  "url": "sec-acids-bases1.html#sec-acids-bases1-2",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "What is an acid\/base? "
+  "body": "Summary: "
 },
 {
-  "id": "sec-acids-bases1-4",
+  "id": "sec-acidsbases1-4",
   "level": "2",
-  "url": "sec-acids-bases1.html#sec-acids-bases1-4",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "What are acids and bases? "
+},
+{
+  "id": "sec-acidsbases1-6",
+  "level": "2",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-6",
   "type": "Table",
   "number": "10.1.1",
   "title": "",
   "body": "       Name  Definition of an acid  Definition of a base    Arrhenius definition  Produces H +  Produces OH -    Brønstead-Lowry definition  Donates H +  Accepts H +    "
 },
 {
-  "id": "sec-acids-bases1-5",
+  "id": "sec-acidsbases1-7",
   "level": "2",
-  "url": "sec-acids-bases1.html#sec-acids-bases1-5",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-7",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "hydronium ion "
 },
 {
-  "id": "sec-acids-bases1-9",
+  "id": "sec-acidsbases1-11",
   "level": "2",
-  "url": "sec-acids-bases1.html#sec-acids-bases1-9",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-11",
   "type": "Figure",
   "number": "10.1.2",
   "title": "",
-  "body": "  Green letters on a black background Description automatically generated  "
+  "body": "  A lone pair of electrons on water forms a covalent bond with a ion to form a hydronium ion.  "
 },
 {
-  "id": "sec-acids-bases1-20",
+  "id": "sec-acidsbases2",
+  "level": "1",
+  "url": "sec-acidsbases2.html",
+  "type": "Section",
+  "number": "10.2",
+  "title": "Naming acids and bases",
+  "body": " Naming acids and bases   Summary:     Acid naming rules    Bases naming rules     Naming acids and bases   We already know how to name the common bases that we’ll see in this chapter. Most of the bases we’ll be discussing are ionic compounds that contain the hydroxide ion. We’ll be naming those compounds in the same way that we’ve named them in the past. There is one additional base that we’ll frequently encounter in this chapter, NH 3 , which is called ammonia (you should learn this). We’ll learn about other nitrogen containing bases in later chapters as well as how to name them.  Naming acids follows different rules than we’ve used previously. When naming acids, it depends on if the acid is 1) composed of two elements, 2) contains a polyatomic ion, or 3) is an organic acid (more on these in a later chapter). Acids that contain only two elements include HCl, HBr, and HI. For these acids, we name them by starting with the name of the anion (ex. HCl—we start with chloride). We then drop the -ide ending and replace it with “-ic acid”. Lastly we add “hydro-“ as a prefix. So, HCl is hydrochloric acid.  If the acid contains a polyatomic ion, then we name the anion and drop the -ate ending from the name (we won’t worry about polyatomic ions with other endings). We then add on “ic-acid” and in some cases instead add “-uric acid” or “-oric acid” (if the name of the polyatomic ion ends in an “f” sound; ex. -fate or -phate).  Additionally, some acids are polyprotic acids, meaning that they have more than one H+ that can be donated to a base. Phosphoric acid, for example, is the acid produced from the phosphate ion, . The acid thus must have 3 H + added to fully neutralize the 3 - charge, giving the formula H 3 PO 4 . Previously, we learned that there are other forms of the phosphate anion that has one or two H + s added on. and are called hydrogen phosphate and dihydrogen phosphate respectively. These are also acids since they have one or more H + s to donate, but since they are also polyatomic ions, their name is simply the name of the polyatomic ion.  To figure out the formula for an acid, we need to know the anion that it is paired with, both its formula and its charge. We then only need to pair it with the appropriate number of H + ions in order to have the number of positive and negative charges be equal.  "
+},
+{
+  "id": "sec-acidsbases2-2",
   "level": "2",
-  "url": "sec-acids-bases1.html#sec-acids-bases1-20",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-acidsbases2-4",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Naming acids and bases "
 },
 {
-  "id": "sec-acids-bases1-28",
+  "id": "sec-acidsbases3",
+  "level": "1",
+  "url": "sec-acidsbases3.html",
+  "type": "Section",
+  "number": "10.3",
+  "title": "Strengths of acids and bases",
+  "body": " Strengths of acids and bases   Summary:     Strong acids and bases completely break into ions in solution    Weak acids and bases partially break into ions in solution    There is a finite list of strong acids and strong bases that you must memorize.     Strengths of acids and bases   When an acid or base is dissolved into water, the compound dissociates into ions (or produces ions in other cases). This process can be written as a chemical reaction. See the example below:     In a previous chapter, we learned that all chemical reactions are reversible and we learned about equilibrium. The same is true for the dissociation of an acid or base in water. Some of these dissociation reactions have equilibriums that lie so far towards the products that they are nearly irreversible reactions. When these acids\/bases dissolve into water, they very nearly completely dissociate into their ions. These compounds are said to be strong acids and strong bases. There is a list of strong acids and strong bases that you need to memorize:  Strong acids: .  Strong bases: group I and II metals paired with hydroxide in an ionic compound (ex. NaOH)   Weak acids and weak bases are ones where the compound dissociates into ions when put into water, but not completely. There is still a measurable amount of the starting compound left over. This is because the reverse reaction still occurs to an appreciable extent. These weak acids and bases partially dissociate into ions when dissolved. Thankfully there is no list of weak acids\/bases that you need to memorize. All you need to know is that if you’re dealing with an acid or base that isn’t a strong acid or base, that it will be a weak one instead.  "
+},
+{
+  "id": "sec-acidsbases3-2",
   "level": "2",
-  "url": "sec-acids-bases1.html#sec-acids-bases1-28",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-acidsbases3-4",
+  "level": "2",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Strengths of acids and bases "
 },
 {
-  "id": "sec-acids-bases1-31",
+  "id": "sec-acidsbases3-7",
   "level": "2",
-  "url": "sec-acids-bases1.html#sec-acids-bases1-31",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-7",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "strong acids strong bases. "
 },
 {
-  "id": "sec-acids-bases1-34",
+  "id": "sec-acidsbases3-10",
   "level": "2",
-  "url": "sec-acids-bases1.html#sec-acids-bases1-34",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-10",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Weak acids weak bases "
 },
 {
-  "id": "sec-acids-bases2",
+  "id": "sec-acidsbases4",
   "level": "1",
-  "url": "sec-acids-bases2.html",
+  "url": "sec-acidsbases4.html",
   "type": "Section",
-  "number": "10.2",
-  "title": "Acids and Bases 2",
-  "body": " Acids and Bases 2    Conjugate acid\/base pairs   The dissociation of an acid or base is a reversible reaction (excepting strong acids and bases). If acetic acid functions as an acid, donating its H + to something else, then acetate results as a product. In the reverse reaction, that acetate ion would accept an H + once again becoming acetic acid. Thus acetate would be functioning as a base. Every acid produces a base after donating its H + . Likewise, every base produces an acid after accepting an H + , because the reverse reaction would have the product donating the H + that the base form had just received.  Every acid will therefore form a base in a chemical reaction. This is called the conjugate base of that acid. Together they form a conjugate acid-base pair , two molecules whose only difference is the presence or absence of an H + . Likewise every base will form a conjugate acid after accepting an H + in a reaction, and they together for a conjugate acid-base pair.  What about the chemical structure of a molecule make it into an acid or a base? Why is CH 4 not an acid while HCl is? The truth is that every compound with a hydrogen atom is potentially an acid, but some of them are so weak that we don’t consider them to be an acid (CH 4 is an example of this). The strength of an acid is related to the stability of its conjugate base. If the conjugate base is very stable, then it is easy for the acid to lose an H + and form its conjugate base. If the conjugate base is an anion that we’ve seen before (monoatomic or polyatomic), then it’s stable. In the case of , its conjugate base would be . This is unstable because it would put a negative charge on a carbon atom, something we’ve never seen before (reminder: carbon isn’t very electronegative and thus wouldn’t like to have excess electrons). Negative charges can exist on highly electronegative elements such as the halogens and oxygen. If a molecule has a positive charge and has a hydrogen atom, it can often act as an acid since losing the H + can stabilize the molecule by also removing the positive charge (ex.   In order for a molecule to act as a base, the molecule must have a lone pair of electrons in order to form a new bond with the H + that it would accept. In addition, the conjugate acid must be stable. Nitrogen and oxygen atoms often have lone pairs of electrons and are especially good at accepting H + . Also, molecules that have a negative charge and lone pairs of electrons are often good bases because if they accept an H + , the negative charge will get neutralized (ex. ).   Exercise 4:      For the following pairs of compounds, identify them as a conjugate acid-base pair or not a conjugate acid-base pair                                      For the following pairs of compounds, the first compound is a reactant and the second compound is a product. Identify the first compound as an acid or base and the 2 nd compound as a conjugate acid or conjugate base.            \/        \/        \/       \/        Which of the following compounds is likely to be a good acid, a good base, or neither and why?                                      Water as an acid and base   We already learned that acids donate H + or increase the concentration of H + in solution. This is a bit of an oversimplification. In water, H + essentially doesn’t exist, because it very rapidly undergoes a reaction with water that is shown below:     H 3 O + is a polyatomic ion called hydronium ion . Chemists will typically use H+ and H3O+ interchangeably, so just be aware that H + really means H 3 O + if the acid is in water. Another term to be aware of is that H + is sometimes called a “proton”. Why? Well most hydrogen atoms have 1 proton, no neutrons, and 1 electron…take away the electron to form H + and all you have leftover is 1 proton.  We’ve discussed the definition of an acid and a base and have seen examples of what happens when acids or bases are mixed with water. In this section, we’re going to have a bit more formal treatment of what happens when an acid or base is mixed with water. See the chart below:          What is being mixed with water  Water acts as a…  Water becomes…  Example reaction    Acid (Strong or weak)  Base  Hydronium ion     Strong Base  Acid  Hydroxide ion     Weak Base  Acid  Hydroxide ion       Note: when nitrogen containing bases are mixed with water, the product is a salt with hydroxide. The base accepts a proton from water and forms an ionic compound with the leftover hydroxide as shown in the table above and the additional reactions below:      So nitrogen containing bases that are aqueous can be written as salts with hydroxide. However, they are weak bases so the reactant form also remains. Either form is appropriate to write as shown in the table below:         Nitrogen containing base examples  Form 1  Form 2                    Since water can act both as an acid and a base, we can write the following reaction where one water is an acid and another is a base. This reaction is continually happening in a sample of liquid water:     So in a sample of water, there is always some hydronium ion and some hydroxide ion. If water is neutral (ie. not acidic or basic), then the concentration of hydroxide and hydronium ions are equal. If water is acidic (for instance, if an acid is added to water), then extra hydronium ion has been produced and the amount of hydronium ion exceeds the amount of hydroxide ion. If the water is basic, (for instance, if a base is added to water), then extra hydroxide ions have been produced and the amount of hydroxide exceeds the amount of hydronium ions. There is an inverse relationship between the amount of hydroxide and hydronium ions in solution. If we multiply their concentrations (measured in molarity), we get a constant, K w , which has a value of 1x10 -14 at 25 o C. This is shown by the equation below. In the equation, the brackets indicate that these are the concentrations of hydronium and hydroxide, measured in molarity. Note: it is crucial that you use the concentrations in molarity and not any other unit for this calculation. K w is a unitless value (even though it seems like it should have units of M 2 ) but the reason why is beyond the scope of this course.     This equation can be used to find the concentration of hydroxide or hydronium ion, if we’re given the concentration of the other one. It can also be used to find the concentration of hydronium and hydroxide ions in a neutral solution as shown below:  Since it’s neutral,   Therefore, becomes   So    Exercise 1:     Write the equation for adding the following compounds to water:    Ca(OH) 2     H 2 SO 4 (write the reaction for it losing only one proton)    H 2 SO 4 (write the reaction for it losing two protons)    NH 2 CH 2 CH 3       Determine the concentration of hydronium ion if the concentration of hydroxide is:    3.3 x 10 -9 M    0.0003 M    0.01 M      Look at your answers in #2. What happens to the hydronium concentration as the hydroxide concentration rises?    Determine the concentration of hydroxide ion if the concentration of hydronium is:    3.3 x 10 -9 M    0.0003 M    0.01 M      Look at your answers in #2 and #4. What do you notice?    Look at your answers in #4. What happens to the hydroxide concentration as the hydronium concentration rises?    At 0 o C, the value of K w is 1.14 x 10 -15 . What is the concentration of hydronium ion in neutral water at 0 o C?    Key:   Exercise 4:      For the following pairs of compounds, identify them as a conjugate acid-base pair or not a conjugate acid-base pair      ; yes      ; no      ; yes      ; yes      ; no      ; yes        For the following pairs of compounds, the first compound is a reactant and the second compound is a product. Identify the first compound as an acid or base and the 2 nd compound as a conjugate acid or conjugate base.       base\/conjugate acid       \/   base\/conjugate acid       \/   base\/conjugate acid       \/   acid\/conjugate base      \/  base\/conjugate acid        Which of the following compounds is likely to be a good acid, a good base, or neither and why?       acid       base       neither       acid       base       base        Exercise 1:     Write the equation for adding the following compounds to water:                          Determine the concentration of hydronium ion if the concentration of hydroxide is:    3.0 x 10 -6 M    3 x 10 -11 M    1x10 -12 M      It decreases    Determine the concentration of hydroxide ion if the concentration of hydronium is:    3.0 x 10 -6 M    3 x 10 -11 M    1x10 -12 M      The values are the same for the same starting concentrations    It decreases    3.38 x 10 -8 M    "
+  "number": "10.4",
+  "title": "Conjugate acid \/ base pairs",
+  "body": " Conjugate acid \/ base pairs   Summary:     Acids become conjugate bases after they lose a hydrogen ion    Bases become conjugate acids after gaining a hydrogen ion    Conjugate acid \/ base pairs are compounds (or ions) that are related by the addition\/removal of a single ion.     Conjugate acid \/ base pairs   "
 },
 {
-  "id": "sec-acids-bases2-2",
+  "id": "sec-acidsbases4-2",
   "level": "2",
-  "url": "sec-acids-bases2.html#sec-acids-bases2-2",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Conjugate acid\/base pairs "
+  "body": "Summary: "
 },
 {
-  "id": "sec-acids-bases2-4",
+  "id": "sec-acidsbases4-4",
   "level": "2",
-  "url": "sec-acids-bases2.html#sec-acids-bases2-4",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "conjugate base conjugate acid-base pair conjugate acid "
+  "body": "Conjugate acid \/ base pairs "
 },
 {
-  "id": "sec-acids-bases2-9",
+  "id": "sec-acidsbases5",
+  "level": "1",
+  "url": "sec-acidsbases5.html",
+  "type": "Section",
+  "number": "10.5",
+  "title": "Water",
+  "body": " Water   Summary:     Water can act as an acid or a base in a reaction    There is a relationship between the amount of hydronium and hydroxide ions in an aqueous solution    We can use the Kw equation to determine the concentration of hydroxide and hydronium ions in a solution     Water can be an acid or a base   "
+},
+{
+  "id": "sec-acidsbases5-2",
   "level": "2",
-  "url": "sec-acids-bases2.html#sec-acids-bases2-9",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Water as an acid and base "
+  "body": "Summary: "
 },
 {
-  "id": "sec-acids-bases2-12",
+  "id": "sec-acidsbases5-4",
   "level": "2",
-  "url": "sec-acids-bases2.html#sec-acids-bases2-12",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "hydronium ion "
-},
-{
-  "id": "sec-acids-bases2-14",
-  "level": "2",
-  "url": "sec-acids-bases2.html#sec-acids-bases2-14",
-  "type": "Table",
-  "number": "10.2.1",
-  "title": "",
-  "body": "        What is being mixed with water  Water acts as a…  Water becomes…  Example reaction    Acid (Strong or weak)  Base  Hydronium ion     Strong Base  Acid  Hydroxide ion     Weak Base  Acid  Hydroxide ion     "
-},
-{
-  "id": "sec-acids-bases2-18",
-  "level": "2",
-  "url": "sec-acids-bases2.html#sec-acids-bases2-18",
-  "type": "Table",
-  "number": "10.2.2",
-  "title": "",
-  "body": "       Nitrogen containing base examples  Form 1  Form 2                   "
+  "body": "Water can be an acid or a base "
 },
 {
   "id": "sec-acidsbases6",
   "level": "1",
   "url": "sec-acidsbases6.html",
   "type": "Section",
-  "number": "10.3",
+  "number": "10.6",
   "title": "Neutralization reactions",
-  "body": " Neutralization reactions   Summary:     Neutralization reactions involve an acid reacting with a base    Neutralization reactions involve ions.    Ionic equations can be used to represent neutalization reactions     Neutralization reactions for monoprotic acids and bases   The other class of reaction that we’ve seen before in this chapter is a neutralization reaction. Here we’ll cover it in more detail. If the neutralization reaction is between a strong acid and strong base, then the products will be water and a salt as shown in the equations below:  Chemical equation:     Ionic equation:     Net ionic equation:     Any neutralization reaction involving a strong acid reacting with a strong base will have an ionic equation of:      Steps to writing a neutralization reaction     Break the reactants into their ions     is a covalent compound and thus won’t break apart into ions. There is no hydroxide it can lose.      Identify the acid and the base    When identifying the acid and the base, H + will always be an acid and OH - will always be a base (in your class, at least)    If the acid is a polyatomic ion (ie. one of the polyatomic ions with “hydrogen” in the name, then break off the hydrogen ion (example: breaks into and ))      React the acid and the base. H + and OH - will combine together (if present) to form water, but in some cases the base may be something other than hydroxide. In those cases, have the hydrogen ion react with whatever other base is present.    Look at what ions you have left over (and what new ion you may have formed)    Write these ions in the products (if you’re being asked for an ionic equation)    Delete any ions that didn’t change in the reaction (if you’re being asked for a net ionic equation)    Combine the ions together to form an ionic compound (if you’re being asked for the chemical equation)      To write a neutralization reaction, like we just did above, we first split acid and base into their ions. Then we allowed the acid (H + ) to react with the base (OH - ) to form water. This results in ions being left over (the spectator ions). Those ions are    Combined together to form the chemical equation,    Left alone as separate ions (to form the ionic equation), or    Deleted in both the reactants and products to form the net ionic equation    Neutralization reactions can follow slightly different patterns when the base is NOT hydroxide. For instance, if the base is ammonia ( ), then we need to first recognize that this is a covalent compound, not an ionic compound. Thus it won’t split into ions in the first step. See the example below:  If we react with , after step one, we’d have . In step 2, the HCl is identified as the acid since it has an H + ion; therefore the sodium dihydrogen phosphate must be the base. At this point the acidic ion will react with the basic to form . This leaves a left over We can then write the equation in the following ways:  Ionic equation:     Net ionic equation (get rid of the spectator ions):     Chemical equation (combine the ions in the products together to make a compound):     If we react with , after step one, we’d have . At this point the acidic ion will react with the basic to form . The product would then contain and the left over We can then write the equation in the following ways:  Ionic equation:     Net ionic equation (get rid of the chloride spectator ion):     Chemical equation (combine the ions in the products together to make a compound):     As a final nuance, we can also have cases where polyatomic ions can act as acids. In those cases, the polyatomic ion will have “hydrogen” as a part of its name. This hydrogen will be lost to the base. Therefore, this polyatomic ion must be broken apart by losing its H + . See the example below:  Write a chemical equation, ionic equation, and net ionic equation for the reaction between sodium hydrogen phosphate and potassium hydroxide.    Start by writing the formulas of the compounds and then breaking them apart into their ions    Sodium hydrogen phosphate:   Potassium hydroxide:     The base is the potassium hydroxide, thus the hydrogen phosphate is acting as an acid. It must be further broken apart into and .    React the acid and the base. In this case we have H + and OH - that will combine to form water. This leaves behind and .    We can now write the ionic equation,       net ionic equation,     and chemical equation     (note the strange ionic compound in the product with two different cations…that’s okay!...also their order in the formula doesn’t matter)  "
+  "body": " Neutralization reactions   Summary:     Neutralization reactions involve an acid reacting with a base    Neutralization reactions involve ions.    Ionic equations can be used to represent neutalization reactions     Neutralization reactions for monoprotic acids and bases   The other class of reaction that we’ve seen before in this chapter is a neutralization reaction. Here we’ll cover it in more detail. If the neutralization reaction is between a strong acid and strong base, then the products will be water and a salt as shown in the equations below:  Chemical equation:     Ionic equation:     Net ionic equation:     Any neutralization reaction involving a strong acid reacting with a strong base will have an ionic equation of:       Steps to writing a neutralization reaction     Break the reactants into their ions     is a covalent compound and thus won’t break apart into ions. There is no hydroxide it can lose.      Identify the acid and the base    When identifying the acid and the base, H + will always be an acid and OH - will always be a base (in your class, at least)    If the acid is a polyatomic ion (ie. one of the polyatomic ions with “hydrogen” in the name, then break off the hydrogen ion (example: breaks into and ))      React the acid and the base. H + and OH - will combine together (if present) to form water, but in some cases the base may be something other than hydroxide. In those cases, have the hydrogen ion react with whatever other base is present.    Look at what ions you have left over (and what new ion you may have formed)    Write these ions in the products (if you’re being asked for an ionic equation)    Delete any ions that didn’t change in the reaction (if you’re being asked for a net ionic equation)    Combine the ions together to form an ionic compound (if you’re being asked for the chemical equation)       To write a neutralization reaction, like we just did above, we first split acid and base into their ions. Then we allowed the acid (H + ) to react with the base (OH - ) to form water. This results in ions being left over (the spectator ions). Those ions are    Combined together to form the chemical equation,    Left alone as separate ions (to form the ionic equation), or    Deleted in both the reactants and products to form the net ionic equation    Neutralization reactions can follow slightly different patterns when the base is NOT hydroxide. For instance, if the base is ammonia ( ), then we need to first recognize that this is a covalent compound, not an ionic compound. Thus it won’t split into ions in the first step. See the example below:   If we react with , after step one, we’d have . At this point the acidic ion will react with the basic to form . The product would then contain and the left over We can then write the equation in the following ways:  Ionic equation:     Net ionic equation (get rid of the chloride spectator ion):     Chemical equation (combine the ions in the products together to make a compound):      As a final nuance, we can also have cases where polyatomic ions can act as acids. In those cases, the polyatomic ion will have “hydrogen” as a part of its name. This hydrogen will be lost to the base. Therefore, this polyatomic ion must be broken apart by losing its H + . See the example below:   If we react with , after step one, we’d have . In step 2, the HCl is identified as the acid since it has an H + ion; therefore the sodium dihydrogen phosphate must be the base. At this point the acidic ion will react with the basic to form . This leaves a left over We can then write the equation in the following ways:  Ionic equation:        Net ionic equation (get rid of the spectator ions):     Chemical equation (combine the ions in the products together to make a compound):         Potassium hydroxide and hydrobromic acid      Ionic equation:  Net ionic equation:  Chemical equation:        Nitric acid and sodium hydroxide      Ionic equation:  Net ionic equation:  Chemical equation:        Ammonia and hydroiodic acid      Ionic equation:  Net ionic equation:  Chemical equation:        Potassium hydroxide and potassium hydrogen carbonate      Ionic equation:  (note: you could combine the two ions in the reactants and products to be )  Net ionic equation:  Chemical equation:        Nitric acid and sodium hydrogen carbonate      Ionic equation:  Net ionic equation:  Chemical equation:        Ammonia and sodium hydrogen carbonate      Ionic equation:  Net ionic equation:  Chemical equation:  (note: the and the can swap positions in the chemical formula, so it could be written as instead)       "
 },
 {
   "id": "sec-acidsbases6-2",
@@ -4258,13 +4294,85 @@ var ptx_lunr_docs = [
   "body": "Neutralization reactions for monoprotic acids and bases "
 },
 {
+  "id": "sec-acidsbases6-18",
+  "level": "2",
+  "url": "sec-acidsbases6.html#sec-acidsbases6-18",
+  "type": "Example",
+  "number": "10.6.1",
+  "title": "",
+  "body": " If we react with , after step one, we’d have . At this point the acidic ion will react with the basic to form . The product would then contain and the left over We can then write the equation in the following ways:  Ionic equation:     Net ionic equation (get rid of the chloride spectator ion):     Chemical equation (combine the ions in the products together to make a compound):     "
+},
+{
+  "id": "sec-acidsbases6-20",
+  "level": "2",
+  "url": "sec-acidsbases6.html#sec-acidsbases6-20",
+  "type": "Example",
+  "number": "10.6.2",
+  "title": "",
+  "body": " If we react with , after step one, we’d have . In step 2, the HCl is identified as the acid since it has an H + ion; therefore the sodium dihydrogen phosphate must be the base. At this point the acidic ion will react with the basic to form . This leaves a left over We can then write the equation in the following ways:  Ionic equation:        Net ionic equation (get rid of the spectator ions):     Chemical equation (combine the ions in the products together to make a compound):     "
+},
+{
+  "id": "exercises-acidsbases6-1",
+  "level": "2",
+  "url": "sec-acidsbases6.html#exercises-acidsbases6-1",
+  "type": "Exercise",
+  "number": "10.6.1",
+  "title": "",
+  "body": "  Potassium hydroxide and hydrobromic acid      Ionic equation:  Net ionic equation:  Chemical equation:     "
+},
+{
+  "id": "exercises-acidsbases6-2",
+  "level": "2",
+  "url": "sec-acidsbases6.html#exercises-acidsbases6-2",
+  "type": "Exercise",
+  "number": "10.6.2",
+  "title": "",
+  "body": "  Nitric acid and sodium hydroxide      Ionic equation:  Net ionic equation:  Chemical equation:     "
+},
+{
+  "id": "exercises-acidsbases6-3",
+  "level": "2",
+  "url": "sec-acidsbases6.html#exercises-acidsbases6-3",
+  "type": "Exercise",
+  "number": "10.6.3",
+  "title": "",
+  "body": "  Ammonia and hydroiodic acid      Ionic equation:  Net ionic equation:  Chemical equation:     "
+},
+{
+  "id": "exercises-acidsbases6-4",
+  "level": "2",
+  "url": "sec-acidsbases6.html#exercises-acidsbases6-4",
+  "type": "Exercise",
+  "number": "10.6.4",
+  "title": "",
+  "body": "  Potassium hydroxide and potassium hydrogen carbonate      Ionic equation:  (note: you could combine the two ions in the reactants and products to be )  Net ionic equation:  Chemical equation:     "
+},
+{
+  "id": "exercises-acidsbases6-5",
+  "level": "2",
+  "url": "sec-acidsbases6.html#exercises-acidsbases6-5",
+  "type": "Exercise",
+  "number": "10.6.5",
+  "title": "",
+  "body": "  Nitric acid and sodium hydrogen carbonate      Ionic equation:  Net ionic equation:  Chemical equation:     "
+},
+{
+  "id": "exercises-acidsbases6-6",
+  "level": "2",
+  "url": "sec-acidsbases6.html#exercises-acidsbases6-6",
+  "type": "Exercise",
+  "number": "10.6.6",
+  "title": "",
+  "body": "  Ammonia and sodium hydrogen carbonate      Ionic equation:  Net ionic equation:  Chemical equation:  (note: the and the can swap positions in the chemical formula, so it could be written as instead)     "
+},
+{
   "id": "sec-acidsbases7",
   "level": "1",
   "url": "sec-acidsbases7.html",
   "type": "Section",
-  "number": "10.4",
+  "number": "10.7",
   "title": "pH",
-  "body": " pH   Summary:     pH is a different way of expressing the concentration of hydronium ion in a solution    Neutral pH is 7. Acidic pH is less than 7. Basic pH is greater than 7.    Calculations involving pH involve logarithms\/power functions     pH   When scientists describe how acidic or basic a solution is, we could report the concentration of hydronium ion or hydroxide ion. However, because the numbers are so small and usually written in scientific notation, this becomes quite cumbersome. To solve this problem, we instead often transform the concentration of hydronium ion into a pH value using the formula below:     This version of the equation can be used to find the pH value from a concentration of hydronium ion (which MUST be molarity). We can figure out the pH of a neutral solution as shown:     pH values lower than 7 are said to be acidic solutions. pH values above 7 are basic solutions. The reason why will be determined as a part of your exercises.   The pH scale    In some cases, we’ll need to figure out the concentration of hydronium ion from a pH value. This requires rearrangement of the pH equation using algebra skills. The tricky part of this is that we need to ‘undo’ the log function. This is done by taking 10 and raising it to the power of everything on that side of the equation as shown below:              "
+  "body": " pH   Summary:     pH is a different way of expressing the concentration of hydronium ion in a solution    Neutral pH is 7. Acidic pH is less than 7. Basic pH is greater than 7.    Calculations involving pH involve logarithms\/power functions     pH   When scientists describe how acidic or basic a solution is, we could report the concentration of hydronium ion or hydroxide ion. However, because the numbers are so small and usually written in scientific notation, this becomes quite cumbersome. To solve this problem, we instead often transform the concentration of hydronium ion into a pH value using the formula below:     This version of the equation can be used to find the pH value from a concentration of hydronium ion (which MUST be molarity). We can figure out the pH of a neutral solution as shown:     pH values lower than 7 are said to be acidic solutions. pH values above 7 are basic solutions. The reason why will be determined as a part of your exercises.   The pH scale    In some cases, we’ll need to figure out the concentration of hydronium ion from a pH value. This requires rearrangement of the pH equation using algebra skills. The tricky part of this is that we need to ‘undo’ the log function. This is done by taking 10 and raising it to the power of everything on that side of the equation as shown below:                 If the concentration of hydronium ion is 0.0044M, calculate the pH of the solution      2.4        If the concentration of hydroxide ion is 0.0044M, calculate the pH of the solution.    Use the Kw equation to find the hydronium ion concentration first.    11.6        If the pH of a solution is 4.3, calculate the hydronium ion concentration and the hydroxide ion concentration. Which is greater?    Use the reverse pH equation to get the hydronium ion concentration. You can then get the hydroxide concentration using the Kw equation.    [hydronium]= , [hydroxide]= , hydronium ion concentration is higher        Repeat the same calculations, but at a pH value of 9.2.      [hydronium]= , [hydroxide]= , hydroxide ion concentration is higher        Compare the results of the last two problems. If the pH is greater than 7, is the hydronium or hydroxide ion concentration bigger? What about below pH 7?      The hydronium ion concentration is greater than the hydroxide ion concentration below pH 7. Above pH 7, the reverse is true.              If 1.00 g of HCl is added to 2.0 L water, what is the new pH?     Step 1: How many moles of HCl was added? How many moles of hydronium was added? How much hydronium ion is present in the water (you can ignore the hydronium that was already there...for these problems it is an insignificant amount)    0.0274 moles hydronium      Step 2: Calculate the molarity of hydronium ion      0.014 M        Step 3: Calculate the pH      1.9              If 1.00g of NaOH is added to 0.59 L of water, what is the new pH?     Step 1: How many moles of NaOH was added? How many moles of hydroxide was added? How much hydroxide ion is present in the water (you can ignore the 1x10-7 M hydroxide that was already there...for these problems it is an insignificant amount)      0.0250 moles hydroxide        Step 2: Calculate the molarity of hydroxide ion      0.042 M        Step 3: Calculate the molarity of the hydronium ion             Step 4: Calculate the pH      13          Calculate the pH of neutral water at 0 degrees Celsius where the value of Kw is at that temperature.      7.47       "
 },
 {
   "id": "sec-acidsbases7-2",
@@ -4289,16 +4397,88 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases7.html#phscale",
   "type": "Figure",
-  "number": "10.4.1",
+  "number": "10.7.1",
   "title": "",
   "body": " The pH scale   "
+},
+{
+  "id": "exercises-acidsbases7-1",
+  "level": "2",
+  "url": "sec-acidsbases7.html#exercises-acidsbases7-1",
+  "type": "Exercise",
+  "number": "10.7.1",
+  "title": "",
+  "body": "  If the concentration of hydronium ion is 0.0044M, calculate the pH of the solution      2.4     "
+},
+{
+  "id": "exercises-acidsbases7-2",
+  "level": "2",
+  "url": "sec-acidsbases7.html#exercises-acidsbases7-2",
+  "type": "Exercise",
+  "number": "10.7.2",
+  "title": "",
+  "body": "  If the concentration of hydroxide ion is 0.0044M, calculate the pH of the solution.    Use the Kw equation to find the hydronium ion concentration first.    11.6     "
+},
+{
+  "id": "exercises-acidsbases7-3",
+  "level": "2",
+  "url": "sec-acidsbases7.html#exercises-acidsbases7-3",
+  "type": "Exercise",
+  "number": "10.7.3",
+  "title": "",
+  "body": "  If the pH of a solution is 4.3, calculate the hydronium ion concentration and the hydroxide ion concentration. Which is greater?    Use the reverse pH equation to get the hydronium ion concentration. You can then get the hydroxide concentration using the Kw equation.    [hydronium]= , [hydroxide]= , hydronium ion concentration is higher     "
+},
+{
+  "id": "exercises-acidsbases7-4",
+  "level": "2",
+  "url": "sec-acidsbases7.html#exercises-acidsbases7-4",
+  "type": "Exercise",
+  "number": "10.7.4",
+  "title": "",
+  "body": "  Repeat the same calculations, but at a pH value of 9.2.      [hydronium]= , [hydroxide]= , hydroxide ion concentration is higher     "
+},
+{
+  "id": "exercises-acidsbases7-5",
+  "level": "2",
+  "url": "sec-acidsbases7.html#exercises-acidsbases7-5",
+  "type": "Exercise",
+  "number": "10.7.5",
+  "title": "",
+  "body": "  Compare the results of the last two problems. If the pH is greater than 7, is the hydronium or hydroxide ion concentration bigger? What about below pH 7?      The hydronium ion concentration is greater than the hydroxide ion concentration below pH 7. Above pH 7, the reverse is true.     "
+},
+{
+  "id": "exercises-acidsbases7-6",
+  "level": "2",
+  "url": "sec-acidsbases7.html#exercises-acidsbases7-6",
+  "type": "Exercise",
+  "number": "10.7.6",
+  "title": "",
+  "body": "  If 1.00 g of HCl is added to 2.0 L water, what is the new pH?     Step 1: How many moles of HCl was added? How many moles of hydronium was added? How much hydronium ion is present in the water (you can ignore the hydronium that was already there...for these problems it is an insignificant amount)    0.0274 moles hydronium      Step 2: Calculate the molarity of hydronium ion      0.014 M        Step 3: Calculate the pH      1.9      "
+},
+{
+  "id": "exercises-acidsbases7-7",
+  "level": "2",
+  "url": "sec-acidsbases7.html#exercises-acidsbases7-7",
+  "type": "Exercise",
+  "number": "10.7.7",
+  "title": "",
+  "body": "  If 1.00g of NaOH is added to 0.59 L of water, what is the new pH?     Step 1: How many moles of NaOH was added? How many moles of hydroxide was added? How much hydroxide ion is present in the water (you can ignore the 1x10-7 M hydroxide that was already there...for these problems it is an insignificant amount)      0.0250 moles hydroxide        Step 2: Calculate the molarity of hydroxide ion      0.042 M        Step 3: Calculate the molarity of the hydronium ion             Step 4: Calculate the pH      13      "
+},
+{
+  "id": "exercises-acidsbases7-8",
+  "level": "2",
+  "url": "sec-acidsbases7.html#exercises-acidsbases7-8",
+  "type": "Exercise",
+  "number": "10.7.8",
+  "title": "",
+  "body": "  Calculate the pH of neutral water at 0 degrees Celsius where the value of Kw is at that temperature.      7.47     "
 },
 {
   "id": "sec-acidsbases8",
   "level": "1",
   "url": "sec-acidsbases8.html",
   "type": "Section",
-  "number": "10.5",
+  "number": "10.8",
   "title": "Buffers",
   "body": " Buffers   Summary:     Buffers help solutions resist changes in pH    Buffers are mixtures of weak acids and weak bases    Every buffered solution has a buffering capacity that describes how much acid or base it can handle     Buffers    Buffers are substances that can be added to water to make the water resistant to changes in pH. A buffer consists of either a weak acid and its conjugate base or a weak base and its conjugate acid. How does this mixture of substances make the solution more resistant to changes in pH?  When a strong acid is added to water, it will form hydronium ions and the concentration of the hydronium ions formed will be the same as the concentration of the acid that was just added, because a strong acid completely dissociates upon addition to water. Likewise if a strong base is added to water, it will form the number of hydroxide ions that are contained in that substance that was added, again because a strong base will completely dissociate when added to water. The additional hydronium ion or hydroxide ion will then directly affect the pH of the solution.  When a buffer is present, the solution contains an additional solute that is an acid and another that is a base. These acids and bases are capable of reacting with any base or acid that might get added to the solution, helping to neutralize it. The picture below might help.   How a buffer resists changes in pH from the addition of acid    Every buffer has a buffering capacity . This is the amount of additional acid or base that can be added without exceeding the amount of buffering compounds. So if a buffered solution contains 0.1M weak base and 0.2M of its conjugate acid, then the solution could handle the addition of up to 0.1M hydronium ions before running out of weak base (because the weak base will react with the hydronium ions) and up to 0.2M hydroxide ions (because the hydroxide would react with the conjugate acid). Amounts of hydronium above 0.1M would exceed the buffering capacity of the solution as would addition of more than 0.2M hydroxide ion.     Which of the following mixtures of chemicals would make good buffers?          Yes        \/      Yes             No    They are related by the addition\/removal of a proton. However, hydroxide is a strong base, not a weak base.           Yes             No    These compounds are related by the addition\/removal of a proton. However, HCl is a strong acid.      \/      Yes             No    These compounds are both weak acids. Neither is a base. Also neither has its conjugate base present.       Create a drawing similar to the figure above that shows how a buffer can resist changes to pH caused by adding in strong base.             If a solution contains 0.11 moles of weak base and 0.34 moles of weak acid, then ...     How many moles of nitric acid could be added without exceeding the buffering capacity?      0.11 moles        How many moles of sodium hydroxide could be added without exceeding the buffering capacity?      0.34 moles        How many moles of calcium hydroxide could be added without exceeding the buffering capacity?      0.17 moles        "
 },
@@ -4334,7 +4514,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases8.html#",
   "type": "Figure",
-  "number": "10.5.1",
+  "number": "10.8.1",
   "title": "",
   "body": " How a buffer resists changes in pH from the addition of acid   "
 },
@@ -4352,7 +4532,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases8.html#exercises-acidbases8-1-2",
   "type": "Exercise",
-  "number": "10.5.1",
+  "number": "10.8.1",
   "title": "",
   "body": "       Yes     "
 },
@@ -4361,7 +4541,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases8.html#exercises-acidbases8-1-3",
   "type": "Exercise",
-  "number": "10.5.2",
+  "number": "10.8.2",
   "title": "",
   "body": "  \/      Yes     "
 },
@@ -4370,7 +4550,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases8.html#exercises-acidbases8-1-4",
   "type": "Exercise",
-  "number": "10.5.3",
+  "number": "10.8.3",
   "title": "",
   "body": "       No    They are related by the addition\/removal of a proton. However, hydroxide is a strong base, not a weak base.   "
 },
@@ -4379,7 +4559,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases8.html#exercises-acidbases8-1-5",
   "type": "Exercise",
-  "number": "10.5.4",
+  "number": "10.8.4",
   "title": "",
   "body": "       Yes     "
 },
@@ -4388,7 +4568,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases8.html#exercises-acidbases8-1-6",
   "type": "Exercise",
-  "number": "10.5.5",
+  "number": "10.8.5",
   "title": "",
   "body": "       No    These compounds are related by the addition\/removal of a proton. However, HCl is a strong acid.   "
 },
@@ -4397,7 +4577,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases8.html#exercises-acidbases8-1-7",
   "type": "Exercise",
-  "number": "10.5.6",
+  "number": "10.8.6",
   "title": "",
   "body": "  \/      Yes     "
 },
@@ -4406,7 +4586,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases8.html#exercises-acidbases8-1-8",
   "type": "Exercise",
-  "number": "10.5.7",
+  "number": "10.8.7",
   "title": "",
   "body": "       No    These compounds are both weak acids. Neither is a base. Also neither has its conjugate base present.   "
 },
@@ -4415,7 +4595,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases8.html#exercises-acidbases8-2",
   "type": "Exercise",
-  "number": "10.5.8",
+  "number": "10.8.8",
   "title": "",
   "body": "  Create a drawing similar to the figure above that shows how a buffer can resist changes to pH caused by adding in strong base.          "
 },
@@ -4424,7 +4604,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases8.html#exercises-acidbases8-3-2",
   "type": "Exercise",
-  "number": "10.5.9",
+  "number": "10.8.9",
   "title": "",
   "body": "  How many moles of nitric acid could be added without exceeding the buffering capacity?      0.11 moles     "
 },
@@ -4433,7 +4613,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases8.html#exercises-acidbases8-3-3",
   "type": "Exercise",
-  "number": "10.5.10",
+  "number": "10.8.10",
   "title": "",
   "body": "  How many moles of sodium hydroxide could be added without exceeding the buffering capacity?      0.34 moles     "
 },
@@ -4442,7 +4622,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases8.html#exercises-acidbases8-3-4",
   "type": "Exercise",
-  "number": "10.5.11",
+  "number": "10.8.11",
   "title": "",
   "body": "  How many moles of calcium hydroxide could be added without exceeding the buffering capacity?      0.17 moles     "
 },
@@ -4451,7 +4631,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-acidsbases9.html",
   "type": "Section",
-  "number": "10.6",
+  "number": "10.9",
   "title": "Acid-base titrations",
   "body": " Acid-base titrations   Summary:     Titrations are reactions used to determine the concentration of an unknown.    Mole-mole conversion factors from the balanced neutralization reaction     Acid-base titrations   An acid base titration is simply a solution reaction that is used to measure the concentration of an acid or base. If we begin with a known volume of solution with an unknown concentration of acid, we can determine its concentration by measuring the number of moles of base that we have to add to neutralize it. The easiest way to do that is to slowly add a solution of base of known concentration to the solution using a burette, which allows us to measure the volume of base needed. If we have the volume and concentration of the base, we can use this to determine the number of moles of base. From there, we can convert moles of base to moles of acid using the balanced chemical equation. If we know moles of acid and its volume (remember we need to know this when we start the titration), then we can divide them to determine the concentration.  Up to this point, the acid-base neutralization equations that we’ve been working with have had a 1:1 ratio of acid to base. With some acids and bases, this ratio may not be 1:1. Consider calcium hydroxide, . Each unit of calcium hydroxide contains 2 hydroxide ions. Each one of these bases must be neutralized by a separate hydrogen ion from the acid. Thus 2 acidic ions will be required to neutralize one calcium hydroxide. As with any stoichiometric calculation, we must ensure that we have a balanced equation first to give us the proper mole-mole ratios for our calculations.     7.50 mL of an HCl solution was neutralized by the addition of 14.30mL of 0.0980 M NaOH. What is the molarity of the HCl solution?     Write a neutralization equation for this reaction.               Figure out the number of moles of NaOH that was added to neutralize the HCl                Figure out the number of moles of HCl that were in the solution to begin with    0.0014014 moles (the same as the amount of NaOH because the ratio is 1:1 in the neutralization equation)      What is the molarity of the HCl solution?      Divide the moles of HCl by the volume of the HCl solution (measured in liters)    0.187 M         For the titration in question 1, what was the starting pH of the HCl solution? (Round to the nearest hundredths place)    The previous problem gives you the molarity of the HCl solution. Since HCl ionizes completely in water, this is the same concentration as the hydronium ion.    0.73        What is the molarity of a NaOH solution if 1.5 L of the solution was neutralized by the addition of 15.33mL of 6.00M HCl?      0.061 M        What was the starting pH of the NaOH solution in question 3? Round to the nearest hundredths place.    Remember that the concentration that you figured out in question 3 is the hydroxide ion concentration. Figure out the hydronium ion concentration using the Kw equation.    12.79        What is the molarity of a magnesium hydroxide solution if 20.00 mL of it was neutralized by the addition of 4.75 mL of 0.100M HCl?    Remember to determine the balanced equation first. The mole-mole ratio in this question is not 1:1!    0.0119 M       "
 },
@@ -4487,7 +4667,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases9.html#exercises-acidsbases9-1",
   "type": "Exercise",
-  "number": "10.6.1",
+  "number": "10.9.1",
   "title": "",
   "body": "  7.50 mL of an HCl solution was neutralized by the addition of 14.30mL of 0.0980 M NaOH. What is the molarity of the HCl solution?     Write a neutralization equation for this reaction.               Figure out the number of moles of NaOH that was added to neutralize the HCl                Figure out the number of moles of HCl that were in the solution to begin with    0.0014014 moles (the same as the amount of NaOH because the ratio is 1:1 in the neutralization equation)      What is the molarity of the HCl solution?      Divide the moles of HCl by the volume of the HCl solution (measured in liters)    0.187 M      "
 },
@@ -4496,7 +4676,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases9.html#exercises-acidsbases9-2",
   "type": "Exercise",
-  "number": "10.6.2",
+  "number": "10.9.2",
   "title": "",
   "body": "  For the titration in question 1, what was the starting pH of the HCl solution? (Round to the nearest hundredths place)    The previous problem gives you the molarity of the HCl solution. Since HCl ionizes completely in water, this is the same concentration as the hydronium ion.    0.73     "
 },
@@ -4505,7 +4685,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases9.html#exercises-acidsbases9-3",
   "type": "Exercise",
-  "number": "10.6.3",
+  "number": "10.9.3",
   "title": "",
   "body": "  What is the molarity of a NaOH solution if 1.5 L of the solution was neutralized by the addition of 15.33mL of 6.00M HCl?      0.061 M     "
 },
@@ -4514,7 +4694,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases9.html#exercises-acidsbases9-4",
   "type": "Exercise",
-  "number": "10.6.4",
+  "number": "10.9.4",
   "title": "",
   "body": "  What was the starting pH of the NaOH solution in question 3? Round to the nearest hundredths place.    Remember that the concentration that you figured out in question 3 is the hydroxide ion concentration. Figure out the hydronium ion concentration using the Kw equation.    12.79     "
 },
@@ -4523,7 +4703,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-acidsbases9.html#exercises-acidsbases9-5",
   "type": "Exercise",
-  "number": "10.6.5",
+  "number": "10.9.5",
   "title": "",
   "body": "  What is the molarity of a magnesium hydroxide solution if 20.00 mL of it was neutralized by the addition of 4.75 mL of 0.100M HCl?    Remember to determine the balanced equation first. The mole-mole ratio in this question is not 1:1!    0.0119 M     "
 },
@@ -4534,7 +4714,7 @@ var ptx_lunr_docs = [
   "type": "Appendix",
   "number": "A",
   "title": "Definitions",
-  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.       Chapter 3    Chapter 4    Chapter 5    Chapter 6    Chapter 7    Chapter 8    Chapter 9    Chapter 10      Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
+  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.       Chapter 3    Chapter 4    Chapter 5    Chapter 6    Chapter 7    Chapter 8    Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
 },
 {
   "id": "backmatter-2-2",
@@ -4624,7 +4804,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 10 Buffer: Buffering capacity: Titration: "
+  "body": "Chapter 10 Hydronium ion: Buffer: Buffering capacity: Titration: "
 },
 {
   "id": "backmatter-3",
