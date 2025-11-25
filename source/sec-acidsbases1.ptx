@@ -26,4 +26,85 @@
 		<term>What are acids and bases?</term>
     </p>
 
+<p>
+		There are multiple definitions of acids and bases which all generally say the same things, but with different ways of looking at it. These definitions are summarized in the table below:
+	</p>
+
+	<table>
+		<title></title>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+		<tabular>
+		<row header="yes">
+			<cell halign="left">Name</cell>
+			<cell halign="left">Definition of an acid</cell>
+			<cell halign="left">Definition of a base</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">Arrhenius definition</cell>
+			<cell halign="left">Produces H<sup>+</sup></cell>
+			<cell halign="left">Produces OH<sup>-</sup></cell>
+		</row>
+		<row class="even">
+			<cell halign="left">Brønstead-Lowry definition</cell>
+			<cell halign="left">Donates H<sup>+</sup></cell>
+			<cell halign="left">Accepts H<sup>+</sup></cell>
+		</row>
+		</tabular>
+	</table>
+
+	<p>
+		Compounds like HCl are acids because they are ionic compounds and when we place them into water, the ions will dissociate producing H<sup>+</sup> and Cl<sup>-</sup>. Because HCl produces H<sup>+</sup> in water, it fits the definition of an Arrhenius acid. However, H<sup>+</sup> doesn’t exist for very long in water. It rapidly reacts with water to produce <term><xref ref="def-hydroniumion" text="custom">hydronium ion</xref></term>, H<sub>3</sub>O<sup>+</sup>. Thus the HCl actually donated an H<sup>+</sup> to water in this reaction, fitting the Brønstead-Lowry definition of an acid
+	</p>
+
+	<p>
+		<me>HCl \rightarrow H^{+} + Cl^{-}</me>
+	</p>
+
+	<p>
+		<me>H^{+} + H_{2}O \rightarrow H_{3}O^{+}</me>
+	</p>
+
+	<p>
+		<me>HCl + H_{2}O \rightarrow H_{3}O^{+} + Cl^{-}</me>
+	</p>
+
+	<figure>
+	<image source="media/image1.png"/>
+		<caption>Green letters on a black background Description automatically generated</caption>
+</figure>
+
+	<p>
+		Sodium hydroxide fits the definition of a base. When it is dissolved in water, it quickly dissociates into ions, Na<sup>+</sup> and OH<sup>-</sup>. As a result, it fits the definition of an Arrhenius base since the concentration of hydroxide increases. It also fits the definition of a Brønstead-Lowry base, but this takes a bit more effort to see. This is because the hydroxide that is produced can accept a H<sup>+</sup> forming water.
+	</p>
+
+	<p>
+		<me>NaOH \rightarrow Na^{+} + OH^{-}</me>
+	</p>
+
+	<p>
+		<me>OH^{-} + HOH \rightarrow HOH + OH^{-}\ </me>
+	</p>
+
+	<p>
+		<me>(Note\ how\ the\ black\ H^{+}\ is\ accepted\ by\ the\ red\ hydroxide\ from\ water)</me>
+	</p>
+
+	<p>
+		Acids and bases don’t just react with water, they can be mixed allowing them to react with one another. In these cases, often the Brønstead-Lowry definition is easier to use to identify an acid from a base. Consider the reaction shown below:
+	</p>
+
+	<p>
+		<me>NH_{3}(aq) + CH_{3}CO_{2}H(aq) \rightarrow NH_{4}^{+}(aq) + CH_{3}CO_{2}^{-}(aq)</me>
+	</p>
+
+	<p>
+		In this reaction, the NH<sub>3</sub> (ammonia) accepts an H<sup>+</sup> from CH<sub>3</sub>CO<sub>2</sub>H (acetic acid). Thus ammonia is acting as a base and acetic acid is an acid because it donates an H<sup>+</sup>.
+	</p>
+
+	<p>
+		What about the chemical structure of a molecule make it into an acid or a base? Why is CH<sub>4</sub> not an acid while HCl is? Hold that question for now. It will be discussed more in the conjugate acids and bases section later in this lesson.
+	</p>
+
     </section>

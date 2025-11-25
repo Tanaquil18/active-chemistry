@@ -364,6 +364,18 @@
     </p>
     <p>
       <term>Chapter 10</term>
+      
+      <p>
+        <definition xml:id="def-hydroniumion">
+        <statement>
+          <p>
+            <term>Hydronium ion:</term> A cation that forms when acids react with water.  It has the formula <m>H_3O^+</m>
+          </p>
+        </statement>
+      </definition>
+      </p>
+
+
       <p>
         <definition xml:id="def-buffer">
         <statement>
