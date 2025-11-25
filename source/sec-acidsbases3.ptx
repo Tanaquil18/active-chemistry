@@ -31,4 +31,29 @@
 		<term>Strengths of acids and bases</term>
     </p>
 
+	<p>
+		When an acid or base is dissolved into water, the compound dissociates into ions (or produces ions in other cases). This process can be written as a chemical reaction. See the example below:
+	</p>
+
+	<p>
+		<me>H_{2}SO_{4} + H_{2}O \rightarrow H_{3}O^{+} + HSO_{4}^{-}</me>
+	</p>
+
+	<p>
+		In a previous chapter, we learned that all chemical reactions are reversible and we learned about equilibrium. The same is true for the dissociation of an acid or base in water. Some of these dissociation reactions have equilibriums that lie so far towards the products that they are nearly irreversible reactions. When these acids/bases dissolve into water, they very nearly completely dissociate into their ions. These compounds are said to be <term>strong acids</term> and <term>strong bases.</term> There is a list of strong acids and strong bases that you need to memorize:
+	</p>
+
+	<p>
+		Strong acids: <m>HCl,\ HBr,\ HI,\ HNO_{3},\ H_{2}SO_{4}</m>.
+	</p>
+
+	<p>
+		Strong bases: group I and II metals paired with hydroxide in an ionic compound (ex. NaOH)
+	</p>
+
+	<p>
+		<term>Weak acids</term> and <term>weak bases</term> are ones where the compound dissociates into ions when put into water, but not completely. There is still a measurable amount of the starting compound left over. This is because the reverse reaction still occurs to an appreciable extent. These weak acids and bases partially dissociate into ions when dissolved. Thankfully there is no list of weak acids/bases that you need to memorize. All you need to know is that if you’re dealing with an acid or base that isn’t a strong acid or base, that it will be a weak one instead.
+	</p>
+
+
     </section>

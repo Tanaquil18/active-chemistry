@@ -27,4 +27,25 @@
 		<term>Naming acids and bases</term>
     </p>
 
+	<p>
+		We already know how to name the common bases that we’ll see in this chapter. Most of the bases we’ll be discussing are ionic compounds that contain the hydroxide ion. We’ll be naming those compounds in the same way that we’ve named them in the past. There is one additional base that we’ll frequently encounter in this chapter, NH<sub>3</sub>, which is called ammonia (you should learn this). We’ll learn about other nitrogen containing bases in later chapters as well as how to name them.
+	</p>
+
+	<p>
+		Naming acids follows different rules than we’ve used previously. When naming acids, it depends on if the acid is 1) composed of two elements, 2) contains a polyatomic ion, or 3) is an organic acid (more on these in a later chapter). Acids that contain only two elements include HCl, HBr, and HI. For these acids, we name them by starting with the name of the anion (ex. HCl—we start with chloride). We then drop the -ide ending and replace it with “-ic acid”. Lastly we add “hydro-“ as a prefix. So, HCl is hydrochloric acid.
+	</p>
+
+	<p>
+		If the acid contains a polyatomic ion, then we name the anion and drop the -ate ending from the name (we won’t worry about polyatomic ions with other endings). We then add on “ic-acid” and in some cases instead add “-uric acid” or “-oric acid” (if the name of the polyatomic ion ends in an “f” sound; ex. -fate or -phate).
+	</p>
+
+	<p>
+		Additionally, some acids are polyprotic acids, meaning that they have more than one H+ that can be donated to a base. Phosphoric acid, for example, is the acid produced from the phosphate ion, <m>PO_{4}^{3 -}</m>. The acid thus must have 3 H<sup>+</sup> added to fully neutralize the 3<sup>-</sup> charge, giving the formula H<sub>3</sub>PO<sub>4</sub>. Previously, we learned that there are other forms of the phosphate anion that has one or two H<sup>+</sup>s added on. <m>HPO_{4}^{2 -}\ </m>and <m>H_{2}PO_{4}^{-}</m> are called hydrogen phosphate and dihydrogen phosphate respectively. These are also acids since they have one or more H<sup>+</sup>s to donate, but since they are also polyatomic ions, their name is simply the name of the polyatomic ion.
+	</p>
+
+	<p>
+		To figure out the formula for an acid, we need to know the anion that it is paired with, both its formula and its charge. We then only need to pair it with the appropriate number of H<sup>+</sup> ions in order to have the number of positive and negative charges be equal.
+	</p>
+
+
     </section>
