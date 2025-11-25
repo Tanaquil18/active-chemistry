@@ -74,4 +74,197 @@
 	</p>
 
 
+<exercises xml:id="exercises-acidsbases7">
+	<exercise>
+  <statement>
+    <p>If the concentration of hydronium ion is 0.0044M, calculate the pH of the solution</p>
+  </statement>
+  <!-- <hint> -->
+	
+  <!-- </hint>  -->
+  <answer>
+    <p>2.4</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+	
+	<exercise>
+  <statement>
+    <p>If the concentration of hydroxide ion is 0.0044M, calculate the pH of the solution.</p>
+  </statement>
+  <hint>
+		<p>
+		Use the Kw equation to find the hydronium ion concentration first.
+	</p> 
+  </hint> 
+  <answer>
+    <p>11.6</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>If the pH of a solution is 4.3, calculate the hydronium ion concentration and the hydroxide ion concentration.  Which is greater?</p>
+  </statement>
+  <hint> 
+<p>
+	Use the reverse pH equation to get the hydronium ion concentration.  You can then get the hydroxide concentration using the Kw equation.
+</p>
+  </hint> 
+  <answer>
+    <p>[hydronium]=<m>5.0\times10^{-5}M </m>, [hydroxide]=<m>2.0\times10^{-10}M</m>, hydronium ion concentration is higher</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>Repeat the same calculations, but at a pH value of 9.2.</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>[hydronium]=<m>6.3\times10^{-10}M</m>, [hydroxide]=<m>1.6\times10^{-5}M</m>, hydroxide ion concentration is higher</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>Compare the results of the last two problems.  If the pH is greater than 7, is the hydronium or hydroxide ion concentration bigger?  What about below pH 7?</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>The hydronium ion concentration is greater than the hydroxide ion concentration below pH 7.  Above pH 7, the reverse is true.</p>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercisegroup>
+
+	<introduction>
+		<p>
+			<p>If 1.00 g of HCl is added to 2.0 L water, what is the new pH?</p>
+		</p>
+	</introduction>
+
+	<exercise>
+		<task>
+			<statement>
+				<p>
+					Step 1:  How many moles of HCl was added?  How many moles of hydronium was added?  How much hydronium ion is present in the water (you can ignore the <m>1\times 10^{-7} M</m> hydronium that was already there...for these problems it is an insignificant amount)
+				</p>
+			</statement>
+			  <answer>
+   				 <p>0.0274 moles hydronium</p>
+  			</answer>
+		</task>
+		<task>
+			<statement>
+    <p>Step 2:  Calculate the molarity of hydronium ion</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>0.014 M</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+		</task>
+		<task>
+ <statement>
+    <p>Step 3: Calculate the pH</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>1.9</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+		</task>
+	</exercise>
+
+</exercisegroup>
+
+<exercisegroup>
+
+	<introduction>
+			<p>If 1.00g of NaOH is added to 0.59 L of water, what is the new pH?</p>
+	</introduction>
+
+	<exercise>
+		<task>
+			<statement>
+    <p>Step 1:  How many moles of NaOH was added?  How many moles of hydroxide was added?  How much hydroxide ion is present in the water (you can ignore the 1x10-7 M hydroxide that was already there...for these problems it is an insignificant amount)</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>0.0250 moles hydroxide</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+		</task>
+		<task>
+			<statement>
+    <p>Step 2:  Calculate the molarity of hydroxide ion</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>0.042 M</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+		</task>
+		<task>
+ <statement>
+    <p>Step 3:  Calculate the molarity of the hydronium ion</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>2.4\times10^{-13}M</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+		</task>
+		<task>
+ <statement>
+    <p>Step 4: Calculate the pH</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>13</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+		</task>
+	</exercise>
+
+</exercisegroup>
+
+<exercise>
+  <statement>
+    <p>Calculate the pH of neutral water at 0 degrees Celsius where the value of Kw is <m>1.14\times10^{-15}</m> at that temperature.</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>7.47</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+</exercises>
+
     </section>
