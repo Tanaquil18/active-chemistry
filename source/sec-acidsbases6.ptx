@@ -179,37 +179,7 @@
 	<p>
 		Neutralization reactions can follow slightly different patterns when the base is NOT hydroxide. For instance, if the base is ammonia (<m>NH_{3}</m>), then we need to first recognize that this is a covalent compound, not an ionic compound. Thus it won’t split into ions in the first step. See the example below:
 	</p>
-<example>
-	
 
-	<p>
-		If we react <m>NaHSO_{4}(aq)</m>with <m>HCl\ (aq)</m>, after step one, we’d have <m>Na^{+}(aq) + H_{2}PO_{4}^{-}(aq) + H^{+}(aq) + Cl^{-}(aq)</m>. In step 2, the HCl is identified as the acid since it has an H<sup>+</sup> ion; therefore the sodium dihydrogen phosphate must be the base. At this point the acidic <m>H^{+}</m>ion will react with the basic <m>H_{2}PO_{4}^{-}</m> to form <m>H_{3}PO_{4}</m>. This leaves a left over <m>Na^{+}(aq) + Cl^{-}(aq).</m> We can then write the equation in the following ways:
-	</p>
-
-	<p>
-		Ionic equation:
-	</p>
-
-	<p>
-		<me>Na^{+}(aq) + H_{2}PO_{4}^{-}(aq) + H^{+}(aq) + Cl^{-}(aq) \rightarrow H_{3}PO_{4}(aq) + Na^{+}(aq) + Cl^{-}(aq)</me>
-	</p>
-
-	<p>
-		Net ionic equation (get rid of the spectator ions):
-	</p>
-
-	<p>
-		<me>H_{2}PO_{4}^{-}(aq) + H^{+}(aq) \rightarrow H_{3}PO_{4}(aq)</me>
-	</p>
-
-	<p>
-		Chemical equation (combine the ions in the products together to make a compound):
-	</p>
-
-	<p>
-		<me>NaH_{2}PO_{4}(aq) + HCl(aq) \rightarrow H_{3}PO_{4}(aq) + NaCl(aq)</me>
-	</p>
-</example>
 <example>
 	<p>
 		If we react <m>NH_{3}(aq)\ </m>with <m>HCl\ (aq)</m>, after step one, we’d have <m>NH_{3}(aq) + H^{+}(aq) + Cl^{-}(aq)</m>. At this point the acidic <m>H^{+}</m>ion will react with the basic <m>NH_{3}</m> to form <m>NH_{4}^{+}</m>. The product would then contain <m>NH_{4}^{+}\ (aq)</m> and the left over <m>Cl^{-}(aq).</m> We can then write the equation in the following ways:
@@ -242,70 +212,36 @@
 	<p>
 		As a final nuance, we can also have cases where polyatomic ions can act as acids. In those cases, the polyatomic ion will have “hydrogen” as a part of its name. This hydrogen will be lost to the base. Therefore, this polyatomic ion must be broken apart by losing its H<sup>+</sup>. See the example below:
 	</p>
+<example>
+	
 
 	<p>
-		Write a chemical equation, ionic equation, and net ionic equation for the reaction between sodium hydrogen phosphate and potassium hydroxide.
-	</p>
-
-	<p><ol>
-		<li>
-			<p>
-				Start by writing the formulas of the compounds and then breaking them apart into their ions
-			</p>
-		</li>
-
-	</ol></p>
-
-	<p>
-		Sodium hydrogen phosphate: <m>2Na^{+}(aq)\ and\ HPO_{4}^{2 -}(aq)</m>
+		If we react <m>NaHSO_{4}(aq)</m>with <m>HCl\ (aq)</m>, after step one, we’d have <m>Na^{+}(aq) + H_{2}PO_{4}^{-}(aq) + H^{+}(aq) + Cl^{-}(aq)</m>. In step 2, the HCl is identified as the acid since it has an H<sup>+</sup> ion; therefore the sodium dihydrogen phosphate must be the base. At this point the acidic <m>H^{+}</m>ion will react with the basic <m>H_{2}PO_{4}^{-}</m> to form <m>H_{3}PO_{4}</m>. This leaves a left over <m>Na^{+}(aq) + Cl^{-}(aq).</m> We can then write the equation in the following ways:
 	</p>
 
 	<p>
-		Potassium hydroxide: <m>K^{+}(aq)\ and\ OH^{-}(aq)</m>
-	</p>
-
-	<p><ol>
-		<li>
-			<p>
-				The base is the potassium hydroxide, thus the hydrogen phosphate is acting as an acid. It must be further broken apart into <m>H^{+}</m> and <m>PO_{4}^{3 -}</m>.
-			</p>
-		</li>
-
-		<li>
-			<p>
-				React the acid and the base. In this case we have H<sup>+</sup> and OH<sup>-</sup> that will combine to form water. This leaves behind <m>2Na^{+},\ K^{+},</m> and <m>PO_{4}^{3 -}</m>.
-			</p>
-		</li>
-
-		<li>
-			<p>
-				We can now write the ionic equation,
-			</p>
-		</li>
-
-	</ol></p>
-
-	<p>
-		<me>K^{+}(aq) + OH^{-}(aq) + 2Na^{+}(aq) + H^{+}(aq) + PO_{4}^{3 -}(aq) \rightarrow H_{2}O\ (l) + 2Na^{+}(aq) + K^{+}(aq) + PO_{4}^{3 -}(aq)</me>
+		Ionic equation:
 	</p>
 
 	<p>
-		net ionic equation,
+		<me>Na^{+}(aq) + H_{2}PO_{4}^{-}(aq) + H^{+}(aq) + Cl^{-}(aq) \rightarrow H_{3}PO_{4}(aq) + Na^{+}(aq) + Cl^{-}(aq)</me>
 	</p>
 
 	<p>
-		<me>OH^{-}(aq) + H^{+}(aq) \rightarrow H_{2}O\ (l)</me>
+		Net ionic equation (get rid of the spectator ions):
 	</p>
 
 	<p>
-		and chemical equation
+		<me>H_{2}PO_{4}^{-}(aq) + H^{+}(aq) \rightarrow H_{3}PO_{4}(aq)</me>
 	</p>
 
 	<p>
-		<me>KOH(aq) + Na_{2}HPO_{4}(aq) \rightarrow H_{2}O\ (l) + Na_{2}KPO_{4}(aq)</me>
+		Chemical equation (combine the ions in the products together to make a compound):
 	</p>
 
 	<p>
-		(note the strange ionic compound in the product with two different cations…that’s okay!...also their order in the formula doesn’t matter)
+		<me>NaH_{2}PO_{4}(aq) + HCl(aq) \rightarrow H_{3}PO_{4}(aq) + NaCl(aq)</me>
 	</p>
+</example>
+
 </section>
