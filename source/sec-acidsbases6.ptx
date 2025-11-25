@@ -255,9 +255,9 @@
   <!--<hint>--> 
   <!--</hint>--> 
   <answer>
-    <p>Ionic equation: <m>K^{+}aq+OH^{-}aq+H^{+}aq+Br^{-}aq\rightarrowH_{2}Ol+K^{+}aq+Br^{-}aq </m></p>
-<p> Net ionic equation: <m>OH^{-}aq+H^{+}aq\rightarrowH_{2}Ol</m></p>
-<p>Chemical equation: <m>KOHaq+HBraq\rightarrowH_{2}Ol+KBr(aq)</m></p>
+    <p>Ionic equation: <m>K^{+}(aq)+OH^{-}(aq)+H^{+}(aq)+Br^{-}(aq)\rightarrow H_{2}O(l)+K^{+}(aq)+Br^{-}(aq) </m></p>
+<p> Net ionic equation: <m>OH^{-}(aq)+H^{+}(aq)\rightarrow H_{2}O(l)</m></p>
+<p>Chemical equation: <m>KOH(aq)+HBr(aq)\rightarrow H_{2}O(l)+KBr(aq)</m></p>
   </answer>
   <!-- <solution>--> 
   <!-- </solution>--> 
@@ -270,9 +270,9 @@
   <!--<hint>--> 
   <!--</hint>--> 
   <answer>
-    <p>Ionic equation:<m> H^{+}aq+NO_{3}^{-}aq+Na^{+}aq+OH^{-}aq\rightarrowH_{2}Ol+Na^{+}aq+NO_{3}^{-}aq</m></p>
-<p>Net ionic equation: <m>H^{+}aq+OH^{-}aq\rightarrowH_{2}Ol</m></p>
-<p>Chemical equation: <m>HNO_{3}aq+NaOHaq\rightarrowH_{2}Ol+NaNO_{3}(aq)</m></p>
+    <p>Ionic equation:<m> H^{+}(aq)+NO_{3}^{-}(aq)+Na^{+}(aq)+OH^{-}(aq)\rightarrow H_{2}O(l)+Na^{+}(aq)+NO_{3}^{-}(aq)</m></p>
+<p>Net ionic equation: <m>H^{+}(aq)+OH^{-}(aq)\rightarrow H_{2}O(l)</m></p>
+<p>Chemical equation: <m>HNO_{3}(aq)+NaOH(aq)\rightarrow H_{2}O(l)+NaNO_{3}(aq)</m></p>
   </answer>
   <!-- <solution>--> 
   <!-- </solution>--> 
@@ -285,9 +285,9 @@
   <!--<hint>--> 
   <!--</hint>--> 
   <answer>
-    <p>Ionic equation: <m>NH_{3}aq+H^{+}aq+I^{-}aq\rightarrowNH_{4}^{+}aq+I^{-}aq</m></p>
-<p>Net ionic equation: <m>NH_{3}aq+H^{+}aq\rightarrowNH_{4}^{+}aq</m></p>
-<p>Chemical equation: <m>NH_{3}aq+HIaq\rightarrowNH_{4}I(aq)</m></p>
+    <p>Ionic equation: <m>NH_{3}(aq)+H^{+}(aq)+I^{-}(aq)\rightarrow NH_{4}^{+}(aq)+I^{-}(aq)</m></p>
+<p>Net ionic equation: <m>NH_{3}(aq)+H^{+}(aq)\rightarrow NH_{4}^{+}(aq)</m></p>
+<p>Chemical equation: <m>NH_{3}(aq)+HI(aq)\rightarrow NH_{4}I(aq)</m></p>
   </answer>
   <!-- <solution>--> 
   <!-- </solution>--> 
@@ -300,10 +300,10 @@
   <!--<hint>--> 
   <!--</hint>--> 
   <answer>
-    <p>Ionic equation: <m>K^{+}aq+OH^{-}aq+K^{+}aq+H^{+}aq+CO_{3}^{2-}aq\rightarrowH_{2}O l+K^{+}aq+K^{+}aq+CO_{3}^{2-}(aq)</m></p>
+    <p>Ionic equation: <m>K^{+}(aq)+OH^{-}(aq)+K^{+}(aq)+H^{+}(aq)+CO_{3}^{2-}(aq)\rightarrow H_{2}O (l)+K^{+}(aq)+K^{+}(aq)+CO_{3}^{2-}(aq)</m></p>
 <p>(note: you could combine the two <m>K^{+}aq</m> ions in the reactants and products to be <m>2K^{+}aq</m>)</p>
-<p>Net ionic equation: <m>OH^{-}aq+H^{+}aq\rightarrowH_{2}O l</m></p>
-<p>Chemical equation: <m>KOHaq+KHCO_{3}aq\rightarrowH_{2}O l+K_{2}CO_{3}(aq)</m></p>
+<p>Net ionic equation: <m>OH^{-}(aq)+H^{+}(aq)\rightarrow H_{2}O (l)</m></p>
+<p>Chemical equation: <m>KOH(aq)+KHCO_{3}(aq)\rightarrow H_{2}O (l)+K_{2}CO_{3}(aq)</m></p>
   </answer>
   <!-- <solution>--> 
   <!-- </solution>--> 
@@ -316,9 +316,9 @@
   <!--<hint>--> 
   <!--</hint>--> 
   <answer>
-    <p>Ionic equation: <m>H^{+}aq+NO_{3}^{-}aq+Na^{+}aq+HCO_{3}^{-}aq\rightarrowH_{2}CO_{3}aq+Na^{+}aq+NO_{3}^{-}aq</m></p>
-<p>Net ionic equation: <m>H^{+}aq+HCO_{3}^{-}aq\rightarrowH_{2}CO_{3}aq</m></p>
-<p>Chemical equation: <m>HNO_{3}aq+NaHCO_{3}aq\rightarrowH_{2}CO_{3}aq+NaNO_{3}(aq)</m></p>
+    <p>Ionic equation: <m>H^{+}(aq)+NO_{3}^{-}(aq)+Na^{+9}(aq)+HCO_{3}^{-}(aq)\rightarrow H_{2}CO_{3}(aq)+Na^{+}(aq)+NO_{3}^{-}(aq)</m></p>
+<p>Net ionic equation: <m>H^{+}(aq)+HCO_{3}^{-}(aq)\rightarrow H_{2}CO_{3}(aq)</m></p>
+<p>Chemical equation: <m>HNO_{3}(aq)+NaHCO_{3}(aq)\rightarrow H_{2}CO_{3}(aq)+NaNO_{3}(aq)</m></p>
   </answer>
   <!-- <solution>--> 
   <!-- </solution>--> 
@@ -331,9 +331,9 @@
   <!--<hint>--> 
   <!--</hint>--> 
   <answer>
-    <p>Ionic equation: <m>NH_{3}aq+Na^{+}aq+H^{+}aq+CO_{3}^{2-}aq\rightarrowNH_{4}^{+}aq+Na^{+}aq+CO_{3}^{2-}aq</m></p>
-<p>Net ionic equation:<m>NH_{3}aq+H^{+}aq\rightarrowNH_{4}^{+}aq</m></p>
-<p>Chemical equation: <m>NH_{3}aq+NaHCO_{3}aq\rightarrowNH_{4}NaCO_{3}aq</m></p>
+    <p>Ionic equation: <m>NH_{3}(aq)+Na^{+}(aq)+H^{+}(aq)+CO_{3}^{2-}(aq)\rightarrow NH_{4}^{+}(aq)+Na^{+}(aq)+CO_{3}^{2-}(aq)</m></p>
+<p>Net ionic equation:<m>NH_{3}(aq)+H^{+}(aq)\rightarrow NH_{4}^{+}(aq)</m></p>
+<p>Chemical equation: <m>NH_{3}(aq)+NaHCO_{3}(aq)\rightarrow NH_{4}NaCO_{3}(aq)</m></p>
 <p>(note: the <m>NH_{4}</m> and the Na can swap positions in the chemical formula, so it could be written as <m>NaNH_{4}CO_{3}</m> instead)</p>
   </answer>
   <!-- <solution>--> 
