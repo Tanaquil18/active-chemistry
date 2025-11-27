@@ -6,7 +6,11 @@
     <xi:include href="sec-atoms1.ptx" />
     <xi:include href="sec-atoms2.ptx" />
     <xi:include href="sec-atoms3.ptx" />
+    <xi:include href="sec-atoms4.ptx" />
+    <xi:include href="sec-atoms5.ptx" />
+    <xi:include href="sec-atoms6.ptx" />
+     <xi:include href="sec-atoms7.ptx" />
+    <xi:include href="sec-atoms8.ptx" />
 
-    
 
 </chapter>

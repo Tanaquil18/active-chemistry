@@ -6,7 +6,11 @@
     <xi:include href="sec-matter1.ptx" />
     <xi:include href="sec-matter2.ptx" />
     <xi:include href="sec-matter3.ptx" />
-
-    
+    <xi:include href="sec-matter4.ptx" />
+    <xi:include href="sec-matter5.ptx" />
+    <xi:include href="sec-matter6.ptx" />
+    <xi:include href="sec-matter7.ptx" />
+    <xi:include href="sec-matter8.ptx" />
+    <xi:include href="sec-matter9.ptx" />    
 
 </chapter>
