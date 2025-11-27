@@ -1123,7 +1123,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.1",
   "title": "Basics of Matter",
-  "body": " Basics of Matter   Summary:     How matter is classified    Mixtures vs. pure substances    Homogenous vs. heterogeneous mixtures      Relationship between elements and compounds    Idea of an atom    Law of constant composition      States of matter    Properties of solids, liquids, and gases    Odd-ball cases       Section 1: Classification of matter   There are different ways to classify matter, but this diagram is one that that can help you compartmentalize your knowledge throughout the course. The diagram strives to classify matter according to its complexity and arrangement. This sort of classification has historical importance to chemistry because it what allowed scientists to begin to gain an understanding of what matter is made of. For instance, it is essential to know what an element is in order to understand that a compound is made up of elements.  The highest classes of matter on the chart are mixtures  Matter that consists of multiple pure substances. The pure substances can be separated by physical processes. and pure substances  Matter that cannot be separated into different components by physical processes. . The difference between these terms is that mixtures consist of multiple substances, while pure substances are only one. The difference between these can be obvious, but that isn’t always the case. For instance, you can clearly see that a glass of sand and water contains multiple substances because we can see the sand and the water and they clearly appear to be different. In the case of salt water, it would be difficult to determine whether it’s a mixture of substances (water and salt) by simply looking at it. Sugar, is a pure substance, but brass is not…so how do we know that something is a pure substance or a mixture?  This is not as straightforward as it might initially seem, but we can come up with rules to help us out. A mixture contains two different substances AND those substances can be separated by physical processes  Physical processes are ones that don’t change the identity of a substance. . A physical process is a one that doesn’t need other substances to be added. Also a physical process will preserve the identity and characteristics of each of the components. Easy examples are boiling and freezing a liquid. The identity of that liquid is the same if it’s a solid, liquid, or gas despite it having somewhat different characteristics. Other examples of physical processes include filtering, cutting, sorting, etc. Sand and water can be separated by filtration, a physical process, and therefore sandy water is classified as a mixture. In the example of salt water we know that it is a mixture because we can separate it into its components (salt and water) by boiling the water and taking advantage of the fact that salt and water have different physical properties  Physical properties are properties of a material that can be discovered while preserving the identity of the substance . A physical property is a property (like boiling point, freezing point, size, color, etc.) that can be observed without altering the chemical identity of a substance.  Within the category of mixtures, we have homogenous mixtures  Homogeneous mixtures consist of two or more pure substances that are mixed in a uniform manner. and heterogenous mixtures  Heterogeneous mixtures consist of two or more pure substances that are mixed in a non-uniform manner . The difference between these terms deals with the arrangement of the components. If the components are evenly distributed throughout the mixture, then we have a homogeneous mixture. If the arrangement is not uniform, then it’s a heterogeneous mixture. Heterogeneous mixtures are sometimes obvious, like sand in water; if you let it sit for a little while the sand settles to the bottom. Sometimes heterogeneous mixtures are not immediately identifiable as such. Consider blood; it initially looks like a uniform red liquid. However, if you let it sit for a little while, the cells in the blood will soon settle to the bottom of the container, similar to sand in water.  In a homogeneous mixture, the various substances are evenly distributed, even at a microscopic level. Because of this, you will not see the various particles that make up a homogeneous mixture. Solutions  A homogeneous mixture where one pure substance is dissolved into another are homogeneous mixtures where one substance (the solute  The lesser component of a solution is called the solute ) is dissolved in a larger amount of the second substance (the solvent  The major component of a solution is called the solvent ). The solvent and the solute can be the same state of matter or different states. For instance, oxygen gas can be dissolved in water, forming a solution. Salt can also be dissolved in water. Gases can be dissolved in one another (for example, air is a solution where small amounts of oxygen gas, carbon dioxide, etc. are dissolved in the solvent of nitrogen gas). There are also solutions made of metals, and these are called alloys  Homogeneous mixtures of metals are called alloys . Bronze is a mixture of zinc and copper where the two substances have so fully dispersed that the mixture is now uniform. Homogenous mixtures can still be separated by physical processes, but they often require more effort (ex. many heterogeneous mixtures can be separated by filtration, whereas a homogenous mixture may require boiling, condensing, or melting).  Pure substances, on the other hand, cannot be separated by physical processes. If you boil pure liquid water, it will be entirely converted into water vapor. If you condense the water vapor it will entirely turn back into liquid water. In both cases, there isn’t any substance that is separated from the water or water vapor by carrying out these physical processes; the substance remains unchanged. Physical processes cannot change the composition of a pure substance. The discovery of pure substances and their further classification into elements and compounds was essential to our understanding of the composition of the world around us. This will be further explored in the next section.   Exercise 1: Classification of matter     Identify the following as being a mixture or pure substance    Soda    Wood    Air    Oxygen gas    Iron    Table salt    A DNA molecule      Identify the following mixtures as homogeneous or heterogeneous    Wood    Soda    Steel    Bronze    Granite    Fog      Which of the following properties are physical properties?    A piece of wood can be cut in half    That apple is red    1 gram of sugar can be dissolved into a liter of water    Sugar can be set on fire    An iron fence rusts when exposed to water    Lead can be removed from water by filtration    A plate is brittle       Section 2: Relationship between elements and compounds   Pure substances can be subdivided into elements  Elements are pure substances that cannot be broken down further by chemical processes and compounds  Compounds are pure substances that consist of two or more elements. They can only be separated into their component elements by chemical processes. . The distinction between elements and compounds depends on whether they can be broken down into simpler units by chemical processes  A chemical process is a reaction that changes the identity of a substance . A chemical process is a reaction that often (but not always) involves the addition of one or more additional reactants and always results in the chemical identity of the starting substance changing. Chemical processes may result in a significant change in the appearance of the starting substance or evolution of a gas, but in other cases there may be little obvious indication that a reaction has occurred (that’s a subject that is covered in other classes like organic chemistry in much more detail). If a pure substance can be broken down into simpler units by a chemical process, then we’re dealing with a compound. If it can’t, then we’re dealing with an element.  We now know of the existence of over 100 different elements. Each element can be found arranged in the periodic table  An organized table that displays the elements and additional information about each one. (more about the periodic table in a later chapter). If you can find a substance in the periodic table, then it’s an element. The cells in the periodic table contain information about each element. For right now, we’ll focus on the name each element as well as its element symbol  An abbreviation for an element consisting of one or more letters , a short abbreviation that is used to represent that element (example: H is the element symbol for hydrogen). Many of these element symbols make sense with the English name of the element. Other element symbols are derived from the Latin name of the element (example: sodium is called natrium in Latin and its symbol is Na).  What then is the relationship between an element and a compound. This relationship was one of the key discoveries in chemistry, and its discovery opened up our understanding of the foundational composition of all matter. One of these early insights came from the discovery of the Law of constant composition  The law of constant composition states that the ratio of elements in a compound is always a constant . This law states that compounds always have the same ratio of elements. For instance, water always has a ratio of 1 gram of hydrogen for every 8 grams of oxygen. Methane, another compound, always has a ratio of 1 gram of hydrogen for every 3 grams of carbon. This discovery showed scientists that compounds were comprised of elements in very specific ratios.  The next key discovery came from comparing the ratios of elements in one compound to the ratios found in other compounds where both compounds consisted of the same elements. For instance, methane has a 1:3 ratio between the mass of hydrogen and the mass of carbon as stated in the previous paragraph. Ethane is another compound made of carbon and hydrogen, but the ratio between hydrogen and carbon is 1:4. If we divide these two ratios we get a ratio of 4:3, meaning that ethane contains 4\/3 as much carbon as methane. This can be done for many other pairs of compounds that contain only carbon and hydrogen. If we do this, we get other ratios like 1:2, 1:3, or 3:2. In every case, we begin to see that when we divide the ratios of carbon and hydrogen between two compounds, we always get ratios of integers ! This is known as the Law of multiple proportions  The law of multiple proportions states that if you divide the ratios of elements for two different compounds that contain the same elements, you will always get a ratio of integers . The realization that there are integer relationships between the composition of different compounds means that the carbon and hydrogen in these compounds occurs in discrete countable units . These discrete countable units are called atoms  The smallest unit of an element. .  Thanks to the Law of constant composition and the law of multiple proportions, we now know that all compounds are comprised of atoms of various elements that are combined together a specific ratio. This ratio can be written as a chemical formula  A way of showing how many atoms of a given element make up a single unit of a chemical compound . The formula for a compound is written by listing the element symbol followed by a subscript number indicating the number of atoms of that element that comprise the compound’s formula unit (please note, that if there is only one atom of a particular type that the number 1 is NOT written). So Na 2 SO 4 has 2 sodium atoms, one sulfur atom, and 4 oxygen atoms in every unit of that compound.   Exercise 2: Relationship between elements and compounds     Explain the Law of constant composition in your own words.    Identify the following as elements or compounds    Sugar    DNA    Gold    Antimony    NaF    CCl 4       What is the ratio of chlorine to carbon in CCl 4 ? How many of each type of atom are in this compound?    What is the ratio of carbon to chlorine in C 2 Cl 6 ? How many of each atom type are in this compound?    Divide the ratios of chlorine to carbon that you got in problems 3 and 4. What ratio do you get? Is this consistent with the Law of multiple proportions? Explain.    Look up the formula for sucrose (table sugar). Do the same for insulin (a peptide hormone)? How many of each type of atom are in these molecules?     Section 3: States of matter   The states of matter  Three different forms that matter can adopt while preserving its identity. The states of matter are solid, liquid, and gas. are solids, liquids, and gases. When a substance undergoes a change in its state, it still retains its same chemical identity, and thus state changes are reversible. Water still has its same chemical formula and identity regardless of whether it is ice, liquid water, or water vapor. Each of these states has different properties, but they are properties of that state, not of water itself.  The properties that define a solid  A state of matter that has a fixed shape and a fixed volume are that it has a fixed shape and volume. Solids do not flow. They can change shape but require some outside force to cause this to happen (like bending a nail with a hammer). On a microscopic scale, the reason for these properties is that the particles that make up the solid are held together by forces that are so strong that the particles can’t move past one another. As a result, the arrangement of the particles is fixed, and the shape of the substance as a whole remains fixed.   Liquids  A state of matter that can flow and has a fixed volume but a variable shape. It will take on the shape of its container , on the other hand, have a fixed volume, but not a fixed shape. They will take on the shape of their container. Liquids can flow and move in response to gravity. On a microscopic scale, the reason for these properties is that the attractive forces between the particles are strong enough to maintain contact between the particles but weak enough that the particles can move past one another. As a result, the entire liquid is capable of movement and flow. At the same time, the attraction between the particles ensures that they never fully separate, so the volume remains fixed regardless of the shape.   Gases  A state of matter that has a variable shape and volume. A gas will take on the shape and volume of its container have neither a fixed shape nor a fixed volume. A gas will always fill up the entirety of the container that it is placed in. Gases can flow like liquids, but their component particles have enough energy that they can flow in all directions, completely filling up their container. The microscopic reason for these properties is that the particles in a gas are moving so rapidly past one another that they don’t interact at all (in actuality, there are very small interactions between gas particles, but chemists often ignore this). As a result a gas will always spread out to occupy the entirety of its container, meaning that a gas will not have a fixed shape nor a fixed volume.  The reason for the differences between the states of matter is that the particles that make them up have different amounts of kinetic energy  Energy of motion . Kinetic energy is the energy of motion and is affected by both the mass of an object and its velocity (ex. a baseball thrown by a toddler will hurt a lot less than by one thrown by a professional pitcher due to the difference in velocity and hence the difference in kinetic energy). The particles in a gas are moving much faster than those in a liquid; the particles in a liquid are moving much faster than those in a solid. Because of this, we can conclude that the particles in a gas have more kinetic energy than those in a liquid and that those in a liquid have more have more kinetic energy than those in a solid. So in order to turn a solid into a liquid ( melting  The process of converting a substance from a solid to a liquid ), we have to add energy to the substance by heating it. The same is true for turning a liquid into a gas ( boiling  The process of converting a substance from a liquid to a gas. or vaporizing  Same as boiling ). If we want to turn a gas into a liquid ( condensing  The process of converting a gas into a liquid ) we have to remove kinetic energy from the substance by cooling it. The same is true for freezing  The process of converting a liquid into a solid a substance (the process of turning a liquid into a solid).   Exercise 3: States of matter     If kinetic energy is added to water, it will eventually turn into a ________ (solid\/gas). Select one.    Sometimes substances can resemble multiple states of matter (ex. jello). What properties of jello resemble solid? Which ones are like a liquid?    Even some substances that appear to be solid can have properties of other states. Some people would argue that glass is actually a liquid. Skim the following article and explain what properties glass has that makes people think it’s a liquid and why it has this strange behavior. Article link: https:\/\/www.livescience.com\/chemistry\/is-glass-a-liquid-or-a-solid         Key:   Exercise 1:      Mixture    Mixture    Mixture    Pure substance    Pure substance    Pure substance    Pure substance        Heterogeneous    Homogeneous    Homogeneous    Homogeneous    Heterogeneous    Heterogeneous      J    Physical    Physical    Physical    Not physical (chemical)    Not physical (chemical)    Physical    Physical      Exercise 2:    Every chemical compound consists of a particular and unvarying ratio of different atoms    J    Compound    Compound    Element    Element    Compound    Compound      4:1 ratio, 4 chlorines, 1 carbon    3:1 ratio (or 6:2), 6 chlorines, 2 carbons    4:3 or 3:4 Yes. Both of these are ratios of integers    12 carbons, 22 hydrogens, 11 oxygens (sucrose)    256 carbons, 381 hydrogens, 65 nitrogens, 77 oxygens, and 6 sulfurs (insulin)  Exercise 3:    Gas    Solid: fixed volume; fixed shape (if it doesn’t move) Liquid: shape isn’t fixed; slowly flows to take the shape of its container    Bottom of old glass can be bulged; this gives the impression that the glass flows down over time; glass does flow, but not that fast; flow of glass is due to disordered molecular structure that makes it easier for parts to flow past one another    "
+  "body": " Basics of Matter   Summary:   "
 },
 {
   "id": "sec-matter1-2",
@@ -1135,211 +1135,13 @@ var ptx_lunr_docs = [
   "body": "Summary: "
 },
 {
-  "id": "sec-matter1-4",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Section 1: Classification of matter "
-},
-{
-  "id": "sec-matter1-6",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-6",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "mixtures pure substances "
-},
-{
-  "id": "sec-matter1-7",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-7",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "physical processes physical properties . "
-},
-{
-  "id": "sec-matter1-8",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-8",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "homogenous mixtures heterogenous mixtures "
-},
-{
-  "id": "sec-matter1-9",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-9",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Solutions solute solvent alloys "
-},
-{
-  "id": "sec-matter1-11",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-11",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Exercise 1: Classification of matter "
-},
-{
-  "id": "sec-matter1-13",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-13",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Section 2: Relationship between elements and compounds "
-},
-{
-  "id": "sec-matter1-14",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-14",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "elements compounds . chemical processes "
-},
-{
-  "id": "sec-matter1-15",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-15",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "periodic table element symbol "
-},
-{
-  "id": "sec-matter1-16",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-16",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Law of constant composition "
-},
-{
-  "id": "sec-matter1-17",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-17",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Law of multiple proportions . atoms "
-},
-{
-  "id": "sec-matter1-18",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-18",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "chemical formula . "
-},
-{
-  "id": "sec-matter1-19",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-19",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Exercise 2: Relationship between elements and compounds "
-},
-{
-  "id": "sec-matter1-21",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-21",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Section 3: States of matter "
-},
-{
-  "id": "sec-matter1-22",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-22",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "states of matter "
-},
-{
-  "id": "sec-matter1-23",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-23",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "solid "
-},
-{
-  "id": "sec-matter1-24",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-24",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Liquids "
-},
-{
-  "id": "sec-matter1-25",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-25",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Gases "
-},
-{
-  "id": "sec-matter1-26",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-26",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "kinetic energy melting boiling vaporizing condensing freezing "
-},
-{
-  "id": "sec-matter1-27",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-27",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Exercise 3: States of matter "
-},
-{
-  "id": "sec-matter1-29",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-29",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": ""
-},
-{
-  "id": "sec-matter1-30",
-  "level": "2",
-  "url": "sec-matter1.html#sec-matter1-30",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Key: "
-},
-{
   "id": "sec-matter2",
   "level": "1",
   "url": "sec-matter2.html",
   "type": "Section",
   "number": "3.2",
-  "title": "Basics of Energy",
-  "body": " Basics of Energy    Summary:     Energy, heat, and temperature    What is meant by all 3 terms    Converting between different units of energy    Converting between different units of temperature      Energy in food    Calculating how many Calories are in a serving of food      Light and electromagnetic radiation    Wavelength and frequency    Energy    Relative position of types of light on the electromagnetic spectrum       Section 1: Energy, heat and temperature   You just learned about kinetic energy, but was is energy itself? In order to understand energy, we must first define work  Applying a force to an object over some distance . Work is when a force is applied to an object over some distance. Energy  The capacity of an object to do work or produce heat or light is a property of an object or substance that describes its ability to do work, or to produce light or heat. Energy is a very important consideration in chemistry. It influences the properties of matter, including its state and temperature. Additionally, energy may be released or consumed by reactions. All reactions require energy input to occur, and some require so much energy that they won’t occur unless the reaction is heated or there is a spark (ex. a mixture of hydrogen gas and oxygen gas will not react with one another unless the reaction is provided with a flame or spark to get it going).  Energy can be subdivided into two classes: kinetic energy  Energy of motion and potential energy  Stored energy . Kinetic energy is energy of motion or vibration. Potential energy is stored energy that could potentially be converted into kinetic energy. A classic physics example is that a boulder sitting on a small hill has a small amount of potential energy compared to the same boulder sitting on top of a mountain. Due to the height difference, the boulder would speed up more if it were pushed off the mountain than a small hill. Once the boulder is pushed, the potential energy gets converted into kinetic energy. In chemistry, we’re not usually thinking about boulders rolling down hills. Instead, energy is stored in the form of bonds  Forces that hold atoms or molecules together that join atoms and molecules together. When this energy is released, the motion of the atoms or molecules increases.  The movement of atoms and molecules, including rotations and vibrations, is chemical kinetic energy. When we measure temperature  Quantification of the amount of kinetic energy contained in the molecules of an object what we are measuring is the amount of chemical kinetic energy in a substance. As energy is added to a substance, the temperature generally increases, and this is due to increased motion of the particles that make it up.  Both energy and temperature are quantifiable in chemistry. The SI units of energy are joules. In this course, due to its focus on health sciences, we will more commonly use the unit of calorie (1 calorie = 4.184 joules). The unit calories (abbreviate cal) can use the metric prefixes that you’ve previously learned with the most commonly version being a kilocalorie, or kcal. A calorie is defined as the amount of energy that will raise the temperature of 1g of water by 1 degree Celsius. When we’re dealing with the energy content of food, we often use units of Calories (note that it is now capitalized). 1 Calorie is equivalent to 1kcal or 1000 calories.  For temperature, we have 2 units that are commonly used by society (Fahrenheit and Celsius) and another that is used extensively in science (Kelvin). Fahrenheit is related to Celsius by the following formula:     In this formula, the 1.8 and 32 are EXACT numbers. Kelvin is a temperature scale that has its zero point at absolute zero (ie. the coldest possible temperature where there is no motion). To convert from Celsius to Kelvin, we use the following formula:     Kelvin will always have a positive value, and for this reason, it often must be used as the unit of temperature in scientific formulas. Using these two formulae, we can easily convert between different temperature units by using some algebra skills:  Example: Express the temperature in Celsius and Kelvin.    We have a formula to convert between Fahrenheit and Celsius and another formula to go from Celsius to Kelvin. Let’s determine Celsius first, then Kelvin.    Let’s plug in the temperature in Fahrenheit and then rearrange the equation to solve for Celsius:           (Subtract 32 from both sides)      (Divide both sides by 1.8)   (Round to correct number of significant figures)       Now take the temperature in Celsius and plug it into the formula to solve for Kelvin:           (Round to the correct number of significant figures)     With 3 different temperature scales, it’s important to have an idea of how hot values are in each of them. You should know the following values in each unit of temperature:          Reference point  Fahrenheit  Celsius  Kelvin    Freezing point of water  32  0  273.15    Body temperature  ~98.6  ~37  ~310    Boiling point of water  212  100  373.15      Exercise 1: Energy, heat and Temperature     Do the following conversions:    17.4 J = ? kJ    16.3 J= ? cal    16.3 J= ? Cal    763 cal=? Cal    45 degrees F= ? degrees C    17 degrees C= ? degrees F    172.22 Kelvin= ? degrees C    72 degrees F = ? Kelvin      If an object with a mass of 32kg has 72 kJ of potential energy and 65 kJ is converted into kinetic energy, how much potential energy does the object still have?    Which of the following temperatures corresponds to a patient with a fever?    37 degrees C    40 degrees C    98 degrees C    25 degrees C      Which of the following represents kinetic energy vs. potential energy?    A chemical bond linking two atoms    An atom vibrating    A molecule rotating    A person standing at the top of a staircase    A rock rolling down a hill    A car driving    The fuel in the gas tank of a car       Section 2: Food energy   When we buy food at the grocery store, it has the amount of energy that our bodies can obtain from digestion printed on the label in the form of Calories (note: that it is capitalized). This value is obtained by calculating the amount of carbohydrates, fats, and proteins in the food. Carbohydrates and proteins both contain 4 Calories of energy for every gram. Fats, on the other hand, have more energy, containing 9 Calories in every gram (consider the 4 and 9 to be exact numbers, even though they are technically measured). If we know how many grams of carbohydrates, proteins, and fat are in a serving of food, we can calculate how many Calories it contains. See the example below:  A serving of food contains 3.0 g of carbohydrates, 5.0 g of fat, and 17 g of protein. How many Calories are in a serving?    We want to determine how many Calories come from each class of biomolecule and then add those values together to get the total.    We need to use dimensional analysis:    Carbohydrates:     Fat:     Protein:       Then add:        Exercise 2: Food energy     A serving of food has 10.0g protein, 25g carbohydrates, and 3.0 grams of fat per serving. How many Calories are in that serving? How many calories are in that serving?    A serving of food contains 17 g of fat and 45 g of carbohydrates. Are most of the Calories in that serving due to fat or carbohydrates? Explain.    A soda contains 38 g of carbohydrates per serving. A single bottle of soda contains 2.5 servings. If you consume 3 bottles of soda in a day, how many Calories are you ingesting?     Section 3: Electromagnetic radiation   When we are talking about energy in chemistry, one common way in which energy can be released or taken up by matter is in the form of electromagnetic radiation  A form of energy that can travel through space as a wave of electrical and magnetic fields . Electromagnetic radiation is a form of energy that can travel through space as both a wave and a particle called a photon  A massless particle of electromagnetic radiation. They are the smallest unit of electromagnetic radiation. . We all experience electromagnetic radiation. Visible light is one form of electromagnetic radiation. However, even blind people are able to experience non-visible forms of electromagnetic radiation such as infrared rays (think about how light from the sun makes things hot…a lot of this is due to infrared radiation). There are several different forms of electromagnetic radiation: gamma rays, x-rays, ultraviolet rays, visible light, infrared rays, microwaves, and radio waves.  Electromagnetic radiation exists as a wave. Waves can be depicted graphically as shown below. Note the definition of a wavelength  The distance between two identical points of a wave. depicted in the drawing below. A wavelength is the distance between two identical points on different parts of the same wave. The list of forms of electromagnetic radiation listed in the paragraph above (gamma rays, x-rays, UV rays, visible light, infrared rays, microwaves, and radio waves) are arranged in order of increasing wavelengths. Radio waves have the longest wavelengths (meters or even kilometers long) and gamma rays have the shortest wavelengths (<0.01 nanometers).      The wavelength of electromagnetic radiation is related to two other properties: energy and frequency  The number of waves that pass a certain point in a specific amount of time (usually 1 second) . The shorter the wavelength, the more energy that the electromagnetic radiation has. You can try to understand this by thinking about trying to vibrate a stretched out spring…you don’t have to use much energy to get the spring to vibrate slowly (long wavelengths), but you have to expend a lot of energy to get the spring to vibrate quickly (short wavelengths). An in-class demonstration can be helpful here. Frequency refers to the number of waves that pass a certain point every second. Electromagnetic radiation, regardless of the type, travels with the same speed (known as the speed of light). If the waves are spaced close together, then more waves will pass by every second compared to a case where the waves are further apart. As a result, light with a long wavelength will have low frequencies. The exercises below will help you to visualize this.   Exercise 3: Electromagnetic radiation     Draw a wave with 5 wavelengths    Draw another wave with 5 shorter wavelengths and another with 5 longer wavelengths on the same sheet of paper, draw them one above the other in a stack of sorts    Hold a pencil or pen above them as a line of reference and drag your paper underneath. Which wave that you drew has waves pass the line provided by the pen\/pencil fastest.    Do longer wavelengths or shorter wavelengths of light have greater frequencies?      If light has a wavelength of 22 cm, how many meters is the wavelength?    What forms of electromagnetic radiation have energies greater than visible light? Less than visible light?    What forms of electromagnetic radiation have wavelengths longer than visible light? Shorter than visible light? Longer than microwaves? Shorter than x-rays?    What forms of electromagnetic radiation have frequencies greater than UV rays? Lower than infrared rays?        Key:   Exercise 1:      0.0174 kJ    3.90 cal    0.00390 Cal    0.763 Cal    7.2 degrees C    63 degrees F    -100.93 degrees C    295 K      7 kJ    40 degrees C      Potential    Kinetic    Kinetic    Potential    Kinetic    Kinetic    Potential      Exercise 2:    170 Cal, 170000 cal    153 Cal from fat, 180 Cal from carbohydrates; Carbohydrates contribute more    1100 Cal    Exercise 3:               A black background with a black square Description automatically generated with medium confidence      Shorter wavelengths have greater frequencies      0.22m    UV, x-rays, and gamma rays have greater energies; infrared, microwaves, and radio waves have lower energies    Longer than visible light: infrared, microwaves, and radio waves    Shorter than visible lights: UV, x-rays, gamma rays  Longer than microwaves: radio waves  Shorter than x-rays: gamma rays    Greater than UV rays: x-rays and gamma rays    Lower than infrared: microwaves and radio waves  "
+  "title": "Basics of Matter2",
+  "body": " Basics of Matter2   Summary:   "
 },
 {
   "id": "sec-matter2-2",
@@ -1351,166 +1153,13 @@ var ptx_lunr_docs = [
   "body": "Summary: "
 },
 {
-  "id": "sec-matter2-4",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Section 1: Energy, heat and temperature "
-},
-{
-  "id": "sec-matter2-5",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-5",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "work Energy "
-},
-{
-  "id": "sec-matter2-6",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-6",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "kinetic energy potential energy bonds "
-},
-{
-  "id": "sec-matter2-7",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-7",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "temperature "
-},
-{
-  "id": "sec-matter2-29",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-29",
-  "type": "Table",
-  "number": "3.2.1",
-  "title": "",
-  "body": "        Reference point  Fahrenheit  Celsius  Kelvin    Freezing point of water  32  0  273.15    Body temperature  ~98.6  ~37  ~310    Boiling point of water  212  100  373.15    "
-},
-{
-  "id": "sec-matter2-30",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-30",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Exercise 1: Energy, heat and Temperature "
-},
-{
-  "id": "sec-matter2-32",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-32",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Section 2: Food energy "
-},
-{
-  "id": "sec-matter2-36",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-36",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Exercise 2: Food energy "
-},
-{
-  "id": "sec-matter2-38",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-38",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Section 3: Electromagnetic radiation "
-},
-{
-  "id": "sec-matter2-39",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-39",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "electromagnetic radiation photon "
-},
-{
-  "id": "sec-matter2-40",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-40",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "wavelength "
-},
-{
-  "id": "sec-matter2-41",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-41",
-  "type": "Figure",
-  "number": "3.2.2",
-  "title": "",
-  "body": "   "
-},
-{
-  "id": "sec-matter2-42",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-42",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "frequency "
-},
-{
-  "id": "sec-matter2-43",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-43",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Exercise 3: Electromagnetic radiation "
-},
-{
-  "id": "sec-matter2-45",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-45",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": ""
-},
-{
-  "id": "sec-matter2-46",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-46",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Key: "
-},
-{
-  "id": "sec-matter2-53-1",
-  "level": "2",
-  "url": "sec-matter2.html#sec-matter2-53-1",
-  "type": "Figure",
-  "number": "3.2.3",
-  "title": "",
-  "body": "  A black background with a black square Description automatically generated with medium confidence  "
-},
-{
   "id": "sec-matter3",
   "level": "1",
   "url": "sec-matter3.html",
   "type": "Section",
   "number": "3.3",
-  "title": "Changes in Temperature and\/or State",
-  "body": " Changes in Temperature and\/or State   Summary:     Heating and cooling    How to do calculations involving heating or cooling a substance when it does NOT change state    Uses specific heat      State changes    How to do calculations involving heating or cooling a substance when it is undergoing a change in state    Uses heat of fusion or heat of vaporization      Multistep calculations    How to do multistep calculations involving heating or cooling a substance that involve changes in state and temperature    These calculations are simply the other two types added together       Section 1: Heating and cooling   We all know that if you heat up ice it will melt. If you heat water, it will warm up and eventually will start to boil. As chemists, we can predict how much energy is needed for each of these processes. We can also predict what the effect of adding a certain amount of energy to a substance will have on its state and temperature.  When we add or remove energy from an object, this is called heat  The transfer of energy between two different objects . Addition of heat to an object causes the temperature to rise whereas the movement of heat from an object to its surroundings causes its temperature to fall. Our convention for specifying whether or not heat is moving into or from an object is to change the sign on the heat value. A negative heat value implies that the object is losing energy to its surroundings whereas a positive value indicates that heat is being transferred into the object. I like to think of the object of interest as being selfish and lazy. If heat is added, then the object is happy (plus sign) because it’s gaining. Conversely, if the object is losing heat, then that’s a negative experience as far as the object is concerned.  We can predict the relationship between the amount of heat added or removed and a corresponding temperature change by using a quantity known as specific heat  The amount of heat needed to raise 1 g of a substance by 1 degree Kelvin (or Celsius) . The specific heat of a substance is a constant that describes how much heat is required to cause a temperature change of 1 degree Kelvin to 1 g of that substance. You’ve already encountered the specific heat of water when we learned about calories (remember that 1.00 calories is the amount of heat required to raise the temperature of 1 g of water by 1 degree Celsius or Kelvin). Specific heat values differ between materials and also between different states of matter (ice, water, and water vapor each have different specific heat values).  Specific heat has units of . We can use specific heat as a conversion factor in calculations. We can use specific heat to calculate the amount of heat added or removed from an object if we are given the mass and temperature change. Alternatively, we can predict a temperature change if we are given the mass and amount of heat added or removed. We can also calculate the specific heat of a substance if we are given the heat, mass, and temperature change. See the examples below:  Substance E has a specific heat of 4.03 cal\/(g K). If 25 g of substance E begins at a temperature of 42.0 degrees C and 403 calories of heat is added, what will its new temperature be?    What are we being asked for: We’re asked to find the final temperature. The specific heat can be used to determine the temperature change.    Find the path: The specific heat has units of temperature in it, but also mass (grams) and heat (cal) that need to be eliminated. We’re provided the mass in grams and the heat in cal and should be able to use those values to cancel out all of the unwanted units.    Calculate:    Temperature change:   Remember that Kelvin and Celsius degrees have the same magnitude (ie. an increase of 1 degree Celsius is the same as an increase of 1 degree Kelvin) so the increase is also 4.0 degrees Celsius  New temperature: 42.0 degrees C + 4.0 degrees C = 46.0 degrees C   Exercise 1: Heating and cooling     Write a formula to calculate specific heat that includes heat (abbreviated q), mass (m), and temperature change ( ). Pay attention to the units on specific heat to guide you. If needed, how would you calculate the change in temperature? Write a version of the equation that includes the starting and ending temperatures (T 1 and T 2 ) instead of the change in temperature.    Determine the specific heat of an object if 35 cal of heat causes 22 g of the substance to increase in temperature by 4 degrees Kelvin.    Determine the specific heat of an object if 35 cal of heat causes 22 g of the substance to increase in temperature from 50.0 K to 52.1 K.    Substance X has a specific heat of 2.3 cal\/(g K). If 5.0 g of substance X receives 87 cal of heat, what is the temperature change?    Substance Y has a specific heat of 1.7 cal\/(g K). If 5.0 g of substance Y receives 87 cal of heat, what is the temperature change? Compare your answers in questions 4 and 5. Does a smaller specific heat result in a bigger or smaller temperature change when the same amount of heat is applied?    How many Calories must be removed from water to cool 17kg of it from 40.0 degrees Celsius to 37 degrees Celsius? (This is basically the same as cooling a small child who has a fever)    A 40.0g block of metal with a specific heat of 0.75 cal\/(g K) and a temperature of 75 degrees Celsius is put into 200.0 g of water at 25 degrees Celsius. What will the final temperature of the water and metal be? How much heat was transferred from the metal to the water?    The same amount of heat was added to the water as was lost by the metal. Start with your equation for specific heat and rearrange it so that you have heat= something    You have two of these equations, one for the water and one for the metal. Set them equal to one another since the heat transferred was the same (but make sure to add a negative sign to the side that corresponds to the metal, because it lost heat).    Plug in your values for the starting temperatures and specific heats and solve for the end temperature    Use the equation you made in part a to solve for the heat transferred      A 40.0g block of metal with a temperature of 75 degrees Celsius is put into 200.0 g of water at 25 degrees Celsius. The final temperature of the water and the metal is 70. degrees Celsius. What is the specific heat of the metal?    Use a similar procedure to the last problem. This time you have different information and a different unknown. Plug your values in and solve for the specific heat of the metal       Section 2: State changes   When a substance is undergoing a change in state (ex. liquid to gas) heat input or removal is often required. However, during the process of the state change, the temperature of the substance doesn’t change . For example, when ice is melting, it remains at a temperature of 0 degrees Celsius until the solid has been fully converted into liquid. Once this happens, further heating will result in a temperature increase. Since there is no change in temperature involved in a state change, we need a different constant to predict how much heat will be required for these processes. For melting and for freezing, we use a constant called the heat of fusion  The amount of energy that is needed to melt 1 g of a solid into a liquid . It tells us how much energy input (or release) is required to melt (or freeze) 1 g of a substance. For changes from liquid to gas (or vice-versa) a similar constant is used that is called the heat of vaporization  The amount of energy that is needed to boil 1 g of a liquid into a gas . For changes from a solid directly to a gas (or vice-versa) a constant called the heat of sublimation  The amount of energy that is needed to sublimate 1g of a solid into a gas can be used.        The heat of fusion of water is 80. cal\/g. A hamburger contains 600. Calories. How many grams of ice could be melted at 0 degrees Celsius using the energy contained in the hamburger?    What we’re being asked for: We want the number of grams of ice that could be melted. There is a g unit in the heat of fusion; we just need to get rid of cal.    See the path: We need to get rid of cal in the heat of fusion, but we only have the 600 Calories (capitalized). If we turn the Calories into calories, then they can cancel out the units in the heat of fusion, leaving us grams.    Calculate:        Exercise 2: State changes     Come up with a formula for heat of fusion (H fusion ) that has the terms heat (q) and mass (m) in it. Would you expect the formulae for heat of vaporization and heat of sublimation to be the same or different…explain.    How much energy is needed to vaporize 23 g of water at 100. degrees Celsius? Assume that the heat of vaporization of water is 539 cal\/g.    72 cal is enough energy to melt _________g of ice at 0 degrees Celsius. Assume the heat of fusion is 80. cal\/g    Removing 72 cal from water at 0 degrees C is sufficient to freeze _________g of water into ice. Solve this one without a calculator using previous results from this exercise.     Consider the following diagram. Which portions of the graph correspond to melting and which parts correspond to boiling?     Consider the following cooling curve. Which letter represents the cooling of liquid water? Which letter(s) represent parts of the curve where liquid water is present?     Section 3: Multistep problems   Using the knowledge and skills that you practiced above we can now set about solving multistep problems that involve state changes and temperature changes. The key things to remember is that we are simply going to use the methods we’ve already learned. In order to do this, we need to treat each section of a multistep problem as its own calculation. For instance, if heat is being added to ice that is at -20 degrees C, resulting in the ice melting and becoming water at 50 degrees C, then we have to consider the following steps:    The warming of the ice to 0 degrees C    The melting of the ice at 0 degrees C    The warming of the water to 50 degrees C    42 g of ice at -20. degrees C is warmed up until it completely boils away at 100. degrees C. How much energy was added to the water throughout this process.    What are we being asked for: Find the heat for the entire process.    Find the path: We need the sum of the heats from each of the individual steps. The steps are:    Heating the ice from -20 degrees to 0 degrees C    Melting the ice at 0 degrees C    Warming the water from 0 to 100 degrees C    Boiling the water at 100 degrees C      Steps a and c are temperature increases and will use the specific heat of ice and water respectively. Steps b and d are melting and boiling and will use the heat of fusion and heat of vaporization of water respectively. We need all of those values:    Specific heat of ice: 0.490 cal\/(g K)    Specific heat of water: 1.00 cal\/(g K)    Heat of fusion of water: 80. cal\/g    Heat of vaporization of water: 539 cal\/g      Calculate:     =411.6 cal (should be rounded to tens place; but we won’t yet)   =4200 cal (should be rounded to hundreds place; but we won’t yet)   3360 cal (should be rounded to hundreds place; but we won’t yet)   =22638 cal (should be rounded to thousands place; but we won’t yet)     We use the addition rule for significant figures; we should be rounding to the thousands place.  Final answer 31000 cal (should be positive because heat was added)   Exercise 3: Multistep problems     How much heat is needed to heat 72g of water from 72 degrees Celsius and have it completely boil away at 100 degrees Celsius?    What steps are involved in this problem?    Identify each step as either a temperature change or a state change    For each of the steps, what constant do you need? A specific heat value? A heat of formation? A heat of fusion?    Do the calculations for each of the individual steps    Add the results together and round to the correct number of significant figures      Is 42000 calories enough energy to completely melt 110g of ice that begins at -30. degrees C?    What is the heat released from 205 g of steam when it begins at 100 degrees C, condenses, and eventually freezes at zero degrees C?    A patient with a mass of 75kg has a fever of 41.0 degrees C. How much ice would be needed to cool the patient to 37.0 degrees C. Assume that the patient’s body has a specific heat of 0.83 cal\/(g K) and that the water from the ice will end up with a final temperature of 37 degrees C.        Key:   Exercise 1:          0.4 cal\/(g K)    0.76 cal\/(g K)    7.6 K    10. K; smaller specific heat gives a greater temperature change    51 Cal                32 degrees C    1300 cal      45 cal\/(g K)    Exercise 2:     ; Heat of vaporization and sublimation have the same formula    12000 cal    0.90g    0.90g (freezing and melting are reversible and take the same amount of energy)    B: melting; D: boiling    C; B,C,and D have liquid water    Exercise 3:    41000 cal    A heating step and a boiling step    Temperature change and state change respectively    Specific heat of water and heat of vaporization of water                         Yes; 10400 cal needed    -147000 cal    2100 g    "
+  "title": "Basics of Matter3",
+  "body": " Basics of Matter3   Summary:   "
 },
 {
   "id": "sec-matter3-2",
@@ -1522,103 +1171,112 @@ var ptx_lunr_docs = [
   "body": "Summary: "
 },
 {
-  "id": "sec-matter3-4",
-  "level": "2",
-  "url": "sec-matter3.html#sec-matter3-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Section 1: Heating and cooling "
+  "id": "sec-matter4",
+  "level": "1",
+  "url": "sec-matter4.html",
+  "type": "Section",
+  "number": "3.4",
+  "title": "Basics of Matter4",
+  "body": " Basics of Matter4   Summary:   "
 },
 {
-  "id": "sec-matter3-6",
+  "id": "sec-matter4-2",
   "level": "2",
-  "url": "sec-matter3.html#sec-matter3-6",
+  "url": "sec-matter4.html#sec-matter4-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "heat . "
+  "body": "Summary: "
 },
 {
-  "id": "sec-matter3-7",
-  "level": "2",
-  "url": "sec-matter3.html#sec-matter3-7",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "specific heat "
+  "id": "sec-matter5",
+  "level": "1",
+  "url": "sec-matter5.html",
+  "type": "Section",
+  "number": "3.5",
+  "title": "Basics of Matter5",
+  "body": " Basics of Matter5   Summary:   "
 },
 {
-  "id": "sec-matter3-14",
+  "id": "sec-matter5-2",
   "level": "2",
-  "url": "sec-matter3.html#sec-matter3-14",
+  "url": "sec-matter5.html#sec-matter5-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Exercise 1: Heating and cooling "
+  "body": "Summary: "
 },
 {
-  "id": "sec-matter3-16",
-  "level": "2",
-  "url": "sec-matter3.html#sec-matter3-16",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Section 2: State changes "
+  "id": "sec-matter6",
+  "level": "1",
+  "url": "sec-matter6.html",
+  "type": "Section",
+  "number": "3.6",
+  "title": "Basics of Matter6",
+  "body": " Basics of Matter6   Summary:   "
 },
 {
-  "id": "sec-matter3-17",
+  "id": "sec-matter6-2",
   "level": "2",
-  "url": "sec-matter3.html#sec-matter3-17",
+  "url": "sec-matter6.html#sec-matter6-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "heat of fusion heat of vaporization heat of sublimation "
+  "body": "Summary: "
 },
 {
-  "id": "sec-matter3-23",
-  "level": "2",
-  "url": "sec-matter3.html#sec-matter3-23",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Exercise 2: State changes "
+  "id": "sec-matter7",
+  "level": "1",
+  "url": "sec-matter7.html",
+  "type": "Section",
+  "number": "3.7",
+  "title": "Basics of Matter7",
+  "body": " Basics of Matter7   Summary:   "
 },
 {
-  "id": "sec-matter3-25",
+  "id": "sec-matter7-2",
   "level": "2",
-  "url": "sec-matter3.html#sec-matter3-25",
+  "url": "sec-matter7.html#sec-matter7-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Section 3: Multistep problems "
+  "body": "Summary: "
 },
 {
-  "id": "sec-matter3-40",
-  "level": "2",
-  "url": "sec-matter3.html#sec-matter3-40",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Exercise 3: Multistep problems "
+  "id": "sec-matter8",
+  "level": "1",
+  "url": "sec-matter8.html",
+  "type": "Section",
+  "number": "3.8",
+  "title": "Basics of Matter8",
+  "body": " Basics of Matter8   Summary:   "
 },
 {
-  "id": "sec-matter3-42",
+  "id": "sec-matter8-2",
   "level": "2",
-  "url": "sec-matter3.html#sec-matter3-42",
+  "url": "sec-matter8.html#sec-matter8-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": ""
+  "body": "Summary: "
 },
 {
-  "id": "sec-matter3-43",
+  "id": "sec-matter9",
+  "level": "1",
+  "url": "sec-matter9.html",
+  "type": "Section",
+  "number": "3.9",
+  "title": "Basics of Matter9",
+  "body": " Basics of Matter9   Summary:   "
+},
+{
+  "id": "sec-matter9-2",
   "level": "2",
-  "url": "sec-matter3.html#sec-matter3-43",
+  "url": "sec-matter9.html#sec-matter9-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Key: "
+  "body": "Summary: "
 },
 {
   "id": "sec-atoms1",
@@ -1627,7 +1285,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.1",
   "title": "Atoms and the Periodic Table",
-  "body": " Atoms and the Periodic Table   Summary:     Atoms and subatomic particles    Mass, charge, and location of protons, neutrons, and electrons      Atomic number and mass number    What is the meaning of these numbers    Using these numbers and the charge to determine the number of protons, neutrons, and electrons in an atom      Periodic table    How is it arranged?    Groups vs. periods    Information in a square    Information from the location of an element in the periodic table       Sections 1: Atoms and subatomic particles   All chemicals are made up of elements that are combined together. The smallest unit of an element that possesses the properties of that element is called an atom  The smallest unit of an element. . Atoms are incredibly small with sizes of approximately 0.1 nm. Numerous discoveries in physics and chemistry in the late 1800s and early 1900s revealed to scientists that there are smaller components that make up atoms which are called subatomic particles  Particles that make up an atom . The first particle to be discovered was the electron  A negatively charged particle found in the electron cloud of an atom. They have mass, but their mass is often rounded to 0 amu. . Scientists showed that electrons could be moved by electric fields, and this property was called charge. The charge of an electron was assigned a value of -1, with the understanding that like charges repel and opposite charges attract. Electrons were also found to have mass, but only a tiny percentage of the mass of an atom. Because of this, the mass of an electron is often rounded to 0 atomic mass units (amu)  Atomic mass units are units of mass that are used for very small masses like the mass of an atom. . Other important observations about electrons were that electrons could be deflected by atoms, implying that the outer part of atoms has a negative charge. This, coupled with the observation that electrons could be removed from atoms relatively easily, lead to our current understanding that electrons exist on the outside of atoms.  The next particle to be discovered were protons  Positively charged particles found in the nucleus of an atom. They have a mass of approximately 1 amu. . Scientists learned that protons had considerably more mass than electrons and were assigned a mass of approximately 1 atomic mass unit (atomic mass units are a relative scale of masses that are used primarily to describe the mass of subatomic particles). Additionally, protons were shown to have a charge of +1. Protons thus attract electrons and help to hold electrons in atoms. Additionally, it was revealed that when atoms are bombarded with positively charged particles similar to protons, that they often just passed through the atom and were only occasionally deflected. This was very different behavior than was observed for electrons. This lead to the understanding that protons occur in a small part of the atom near its center, called the nucleus  The small dense collection of protons and neutrons that is found at the center of an atom . Later experiments showed that the nucleus of an atom has protons and another subatomic particle called a neutron  An uncharged particle found in the nucleus of an atom. They have a mass of approximately 1 amu. . Neutrons have similar masses as protons (approximately 1 amu) but do not have any charge.   Exercise 1: Atoms and subatomic particles     Is most of the mass of the atom found in the nucleus or the electron cloud that surrounds it?    If an atom had 17 protons, 17 electrons, and 10 neutrons…    What would the mass of the atom be    How many positively charged particles are in the atom?    How many negatively charged particles are in the atom?    What is the sum of the positive and negative charges in the atom (ie. what is the net charge of the atom)?    Answer a-d for an atom with 35 protons, 34 electrons and 36 neutrons.      If the number of electrons in an atom is greater than the number of protons, then the atom will have a net ____________(positive\/negative) charge.    If an atom has a mass of 17 and contains 8 protons, how many electrons would be present if the net charge on the atom is -2?     Section 2: Atomic number and mass number   To describe the number of subatomic particles in an atom, chemists use two different numbers, atomic number and mass number. Atomic number  The number of protons in an atom. is ALWAYS equal to the number of protons in an atom. If the atom has a net charge of zero, then the atomic number will also be equal to the number of electrons. Every atom of a given element will ALWAYS have the same atomic number. The atomic number is also unique for each atom; no two elements have the same atomic number. Thus different elements can be distinguished by their number of protons.  The mass number  The sum of the number of protons and neutrons in an atom. of an atom is the sum of the number of protons and neutrons in an atom. Since protons and neutrons both have masses of approximately 1 amu, and electrons have masses of approximately 0 amu, only the protons and neutrons are counted for the mass number. For a given element, every atom will have the same number of protons, as stated in the paragraph above. However, atoms of the same element may have different numbers of neutrons. Atoms of the same element that have different masses (and thus different numbers of neutrons) are called isotopes  Atoms of an element that have different mass numbers . Isotopes are important in chemistry and physics not just because they have different masses, but because they may have different properties. For instance, some isotopes of an element may be stable while others may undergo radioactive decay (Chapter 5). Isotopes are often specified in one of three ways:    By writing the element name followed by a hyphen and then the mass number (ex. carbon-14)    By writing the mass number as a superscript prior to the element symbol (ex. 14 C).    By writing the mass number as a superscript prior to the element symbol along with the atomic number as a subscript prior to the element symbol (ex. )     Exercise 2: Atomic number and mass number     Come up with a formula to calculate the mass number (abbreviated A) from the number of protons and the number of neutrons    Modify your formula to calculate the mass number (A) from the atomic number (abbreviated Z) and the number of neutrons    Rearrange your equation from part a above to solve for the number of neutrons if you are given the mass number and atomic number      Why aren’t electrons counted when calculating the mass number of an isotope?    If an atom has an atomic number of 17 and a mass number of 35, how many neutrons are in the atom?    If the atom is neutral, how many electrons are in the atom?    If the atom has a charge of +3, how many electrons are in the atom?      If an atom has 32 protons, 33 electrons, and 42 neutrons, what is its mass number and charge?    What is the atomic number of an atom that contains 47 protons and 45 electrons?    An isotope with 42 neutrons and a charge of +3 has a mass number of 102. How many electron and protons are in the atom?     Section 3: Periodic table of elements   Since each atom has its own atomic number, we can arrange the elements in order of increasing atomic number. If this is done AND atoms with similar reactivity properties are placed in the same column, then the result is the modern periodic table. The periodic table was first introduced by Dmitri Mendeleev in the mid 1800s. He arranged elements by increasing mass (rather than by atomic number) and also strove to group elements with similar reactivities (similar to our current periodic table). One of the most impressive findings of his initial periodic table was that is predicted the existence of elements that were not yet known to chemists, but that are known now. Additionally, the position of elements within the periodic table allows scientists to predict how atoms will behave in certain reactions. Finally, the periodic table was useful in showing that there are patterns that predict when certain reactivity properties will occur. This pattern would later prove valuable in helping chemists understand the subatomic structural details of atoms and how it relates to reactivity (more on this in later chapters).  The periodic table contains information about every known element in squares throughout the table. The number at the top of the square is the atomic number of the element. The element name and element symbol are often given below the atomic number. In many cases, the element symbol is similar to the element name in English. In other cases, the element symbol reflects the Latin name of the element (ex. Iron’s symbol is Fe, reflecting the name ferrum in Latin). Below the element symbol is another number called the atomic mass, which will be covered in the next section. It is important to be able to distinguish between the atomic mass of an element and the mass number of an isotope.  The elements within the periodic table are organized into rows and columns. The rows are called periods  Rows in the periodic table and the columns are called groups  Columns in the periodic table. Elements in the same group usually have similar chemical and physical properties. . The periods and numbers are assigned numbers. The groups in the periodic table are numbered 1-18 left to right but are sometimes numbered in a different way in which the 8 tall column are numbered followed by the letter A, thus skipping over the shorter columns. So group 1 is also called 1A, group 2 is called 2A, and group 13 (the next tall column) is also known as group 3A. The tall “A” columns in the periodic table are referred to as the main group elements. The short columns that separate groups 2A and 3A are referred to as the transition metals. Below the periodic table are two additional rows of elements called the lanthanides and actinides, respectively. These rows would occur between groups 2 and 3 in the periodic table, but are often dropped to the bottom to save space and make sure that the periodic table isn’t too long. Since the elements in the lanthanides and actinides are relatively rare, we will not be discussing them much in this class.   Exercise 3: Periodic table of elements     What element is in…    group 2, period 3    group 4A, period 4    group 15, period 5    group 8A, period 2      What are the symbols for the following elements? (you don’t need to have these memorized, but you should become familiar with the element symbols on this list because of how frequently they come up)    Carbon    Nitrogen    Oxygen    Hydrogen    Sodium    Potassium    Phosphorous    Copper    Chlorine    Iodine    Magnesium    Manganese (note the similar names of K and L)      Name 3 elements that you’d expect to have similar properties to:    Fluorine    Neon    Sodium      What is the atomic number of sodium?    How many protons does sodium have?      How many protons, neutrons and electrons are in…    Chlorine-35     121 I     57 Fe 3+ (the 3+ written as a superscript after the element symbol indicates the charge of +3)     16 O 2-      (this atom is called an alpha particle; it’s a form of radiation that you’ll learn about in Chapter 5)      The elements sodium, calcium, copper, zinc, lead, gold, mercury, tin, aluminum, cobalt, tungsten are all metals. The elements carbon, oxygen, sulfur, chlorine, neon, radon, and iodine are all non-metals. Where do metals usually occur in the periodic table? How about non-metals?    Metals are shiny, silver in color (usually), good conductors of heat and electricity, and they’re ductile and malleable. Define ductile and malleable.        Key:   Exercise 1:    Nucleus--protons and neutrons are there; they have significant amounts of mass compared to electrons      27    17    17    0 (17+(-17))    Mass=71, 35 + charges, 34 – charges, +1 charge      Negative    10 electrons    Exercise 2:    A=#p+#n    A=Z+#n    #n=A-Z      They have masses of ~0    18      17    14    74, -1    47    60 protons, 57 electrons    Exercise 3:        Mg    Ge    Sb    Ne          C    N    O    H    Na    K    P    Cu    Cl    I    Mg    Mn          Cl, Br, I, At    He, Xe, Ar, Kr, Rn    Li, K, Cs, Rb, Fr, (H is okay…but hydrogen is “weird”)      11      11          17 p, 18 n, 17 e    53 p, 68 n, 53 e    26 p, 31 n, 23 e    8 p, 8 n, 10 e    2 p, 2 n, 0 e      Metals are to the left and down; non-metals to the upper right    You can find this…I believe in you 😊    "
+  "body": " Atoms and the Periodic Table   Summary:   "
 },
 {
   "id": "sec-atoms1-2",
@@ -1639,130 +1297,13 @@ var ptx_lunr_docs = [
   "body": "Summary: "
 },
 {
-  "id": "sec-atoms1-4",
-  "level": "2",
-  "url": "sec-atoms1.html#sec-atoms1-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Sections 1: Atoms and subatomic particles "
-},
-{
-  "id": "sec-atoms1-5",
-  "level": "2",
-  "url": "sec-atoms1.html#sec-atoms1-5",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "atom . subatomic particles . electron atomic mass units (amu) . "
-},
-{
-  "id": "sec-atoms1-6",
-  "level": "2",
-  "url": "sec-atoms1.html#sec-atoms1-6",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "protons . nucleus neutron . "
-},
-{
-  "id": "sec-atoms1-7",
-  "level": "2",
-  "url": "sec-atoms1.html#sec-atoms1-7",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Exercise 1: Atoms and subatomic particles "
-},
-{
-  "id": "sec-atoms1-9",
-  "level": "2",
-  "url": "sec-atoms1.html#sec-atoms1-9",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Section 2: Atomic number and mass number "
-},
-{
-  "id": "sec-atoms1-10",
-  "level": "2",
-  "url": "sec-atoms1.html#sec-atoms1-10",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Atomic number "
-},
-{
-  "id": "sec-atoms1-11",
-  "level": "2",
-  "url": "sec-atoms1.html#sec-atoms1-11",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "mass number isotopes . "
-},
-{
-  "id": "sec-atoms1-13",
-  "level": "2",
-  "url": "sec-atoms1.html#sec-atoms1-13",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Exercise 2: Atomic number and mass number "
-},
-{
-  "id": "sec-atoms1-15",
-  "level": "2",
-  "url": "sec-atoms1.html#sec-atoms1-15",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Section 3: Periodic table of elements "
-},
-{
-  "id": "sec-atoms1-18",
-  "level": "2",
-  "url": "sec-atoms1.html#sec-atoms1-18",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "periods groups . "
-},
-{
-  "id": "sec-atoms1-19",
-  "level": "2",
-  "url": "sec-atoms1.html#sec-atoms1-19",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Exercise 3: Periodic table of elements "
-},
-{
-  "id": "sec-atoms1-21",
-  "level": "2",
-  "url": "sec-atoms1.html#sec-atoms1-21",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": ""
-},
-{
-  "id": "sec-atoms1-22",
-  "level": "2",
-  "url": "sec-atoms1.html#sec-atoms1-22",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Key: "
-},
-{
   "id": "sec-atoms2",
   "level": "1",
   "url": "sec-atoms2.html",
   "type": "Section",
   "number": "4.2",
-  "title": "Atomic mass and atomic orbitals",
-  "body": " Atomic mass and atomic orbitals   Summary:     Atomic mass    What is a weighted average    How do we calculate atomic mass      Electron shells    What’s the evidence for electron shells?    How many electrons can be fit into each shell      Orbitals    Shapes of orbitals    How many orbitals of each type are there    What orbitals are in which electron shells       Section 1: Atomic mass   At the bottom of a square in the periodic table is the value of the atomic mass  The weighted average of the masses of the isotopes found in nature. The weighting is based on the natural abundance of each isotope. in units of amu. Look at this number for carbon (12.011). This number is clearly different than the mass number since it is not an integer. However the calculation used to determine the atomic mass of an element relies on the mass numbers of the naturally occurring isotopes. To calculate atomic mass, we calculate the weighted average  A way of averaging that takes into account how frequently a value occurs in the sampling. of the various isotopes that are found in nature.  What is a weighted average? It’s a way of averaging that takes into account how frequently each isotope occurs in nature. For instance, if a class of 5 students had the following exam scores: 90, 80, 90, 90, 90 you wouldn’t simply average 80 and 90 to find the average. Instead you would add up each of the numbers (90+80+90+90+90=440) and then divide by 5. Another way of doing this is to weight each of the scores by writing how frequently it occurs:     Since 90 occurred 4 times we can multiply it by 4 and then add 80 rather than adding 90 four times. Alternatively, you could reach the same result by knowing that 20% of the class got an 80 and 80% of the class scored a 90. To use the percentages, we can assume that we have any class size, but assuming a class size of 100 people makes the calculation easiest. If we had 100 students in the class, then 20 of them would have a score of 80 and 80 of them would have a score of 90. We would multiply each score by the values of these percentages and then divide the result by the number of students that we assumed were in the class (100). The calculation would look like this and gives the exact same result:     When we calculate the atomic mass, we do a similar thing. Similar to the example above we have percent abundances for each element (ex. 20% of the isotope in the name have a certain mass number). To use percentages in a weighted average we assume that if we had 100 isotopes that that the value of the percentage is how many isotopes would have that mass. If we multiply each mass number by its percent occurrence, add then together, and then divide by 100, then we get the atomic mass. See below:  If an element has the following isotopes that are found in nature, calculate the atomic mass of the element:         Mass number  Percent abundance  Number of isotopes with that mass in a group of 100 isotopes    44  15.5  15.5    46  34.5  34.5    47  50.0  50.0     We calculate that atomic mass by taking each mass number and multiplying it by the number of isotopes of that mass that we’d expect in a group of 100 isotopes. After that we add the masses together and then divide by the total number of isotopes that we’re averaging (100).          Calculate the atomic mass of an element with the following isotopes…Round your answer to the tenths place:          Mass number  Percent abundance    72  3.1    73  44.9    74  52.0       Chlorine has two major isotopes, one with a mass of 35 and the other with a mass of 37. Based on the atomic mass of chlorine, which isotope is more abundant? Explain.    Calculate the atomic mass of an element with the following isotopes. Round your answer to the tenths place:          Mass number  Percent abundance    101  12.0    103  38.5    104  40.5    106  9.0      Section 2: Electron shells   We’ve learned that electrons can be found in atoms and that they exist outside of the nucleus. This fact makes them the most important subatomic particle when we’re trying to understand the reactivity properties of an atom. Why? If two atoms are going to interact with one another, their electrons are going to be the type of subatomic particle that will first interact between the atoms. In order to be able to make sense of the reactivity properties of atoms, we need to understand how electrons are arranged around an atom.  Niels Bohr came up with the first model of the atom that sought to explain where the atoms are around the nucleus. His model sought to do two things: 1. To explain why negatively charged electrons don’t fall into the positively charge nucleus and 2. why hydrogen is able to emit light with very specific amounts of energy. His model proposed the idea that the electrons in an atom are placed into orbits around the nucleus (similar to satellites around Earth). If the electrons move fast enough, then they will never fall into the nucleus. Also, if we know the mass of an electron and its velocity we can calculate the amount of energy that an electron has in its orbit. Electrons in different orbits would have different velocities and thus different amounts of energy. The observation that hydrogen emits light with specific energies could be explained if electrons hopped from one orbit to another, giving off their excess energy as light.    A diagram of a group of blue dots and red dots AI-generated content may be incorrect.   How many electrons can each shell hold? Lower shell numbers are closer to the nucleus, and thus have less room for electrons than higher numbered shells. Each shell is capable of holding a certain number of electrons, and this is given by the equation:     So the first shell can hold , the 2 nd can hold , and so on.   Exercise 3: Electron shells     Electrons in ___________ (inner\/outer) shells are more easily removed from an atom.    Electrons in the 1 st shell are ________________(closer\/farther) from the nucleus than electrons in the 3 rd shell.    Explain the discovery that led scientists to develop the model of electron shells.    Determine the number of electrons in the 1 st , 2 nd , 3 rd , and 4 th shells.     Section 3: Orbitals   It was later revealed that the Bohr model was sufficient in some ways. Electron shells could explain the structure of a hydrogen atom, but failed to explain the experimental data for any other element. The reason for this is that once you have more than one electron, they begin to interact with one another. This necessitated the inclusion of orbitals  Regions of an atom where there is a high probability of finding an electron , which are regions within a shell that electrons can occupy. The idea of electron shells didn’t go away; instead the theory was modified to say that shells are more complex than originally thought. Orbitals exist within each shell and define regions where electrons are likely to be.  There are different types of orbitals, and each type is a set of different shapes that electrons can occupy. The orbital sets are given the letters: s, p, d, and f (see the following link to see their shapes: https:\/\/www.sciencefacts.net\/wp-content\/uploads\/2021\/11\/Atomic-Orbital.jpg ). S-orbitals are spherical in shape and occur around the nucleus. P-orbitals come in sets of 3, and each member of the set looks like a dumbbell or infinity symbol. D-orbitals come in sets of 5, with most of them looking like clovers. F-orbitals come in sets of 7 and have even more complicated shapes. You should be able to recognize and draw the s, p, and d orbital shapes and you should know how many come in a set.  So how do orbitals relate to shells? First of all, you need to know that orbitals can hold 2 electrons. The s-orbital comes in groups of 1, and thus that single orbital in the set can hold 2 electrons. Each of the p-orbitals in a set of 3 can hold 2 electrons, for a total of 6 electrons. Each of the d-orbitals holds 2 electrons and since they come in sets of 5, a set of d-orbitals holds 10 electrons. Now let’s go back to the shells. The first shell holds 2 electrons based on the formula given above. The only set of orbitals that can give two electrons is the s-orbital. So the first shell only contains one s-orbital and it is designated as the 1s orbital (meaning first shell s-orbital). The second shell contains 8 electrons. No set of orbitals by itself can give us 8 electrons, but the combination of a set of s-orbitals and p-orbitals can together hold 8 electrons (2 electrons from the s-orbital and 6 from the three p-orbitals). So the 2 nd shell has a 2s orbital and three 2p orbitals. In order to get 18 electrons for the third shell, we need a 3s orbital, three 3p orbitals, and five 3d orbitals. For the fourth shell a 4s orbital, three 4p orbitals, five 4d orbitals, and seven 4f orbitals are required. Hopefully you’re noticing a pattern. The 5 th shell and up should require additional orbital types, but there are no known elements that require orbitals beyond the f-orbitals. The table below summarizes this information.          Shell  Number of electrons  Orbital types  Number of electrons in the set of orbitals    1  2  1s  2    2  8  2s  2      2p, 2p, 2p  6    3  18  3s  2      3p, 3p, 3p  6      3d, 3d, 3d, 3d, 3d  10    4  32  4s  2      4p, 4p, 4p  6      4d, 4d, 4d, 4d, 4d  10      4f, 4f, 4f, 4f, 4f, 4f, 4f  14    5  50  5s  2      5p, 5p, 5p  6      5d, 5d, 5d, 5d, 5d  10      5f, 5f, 5f, 5f, 5f, 5f, 5f  14      ?, ?, ?, ?, ?, ?, ?, ?, ? ***  18?      ***there’s no element that requires these, but we can hypothesize that there would be 9 orbitals of this type       Exercise 3: Electron shells and orbitals     Without consulting the table above, what orbitals are in the first shell, 2 nd shell, 3 rd shell, and 4 th shell?    How many electrons are in the 3 rd shell? How many orbitals are needed to hold that number of electrons? How can you get that number of orbitals by combining together different orbital sets?    How many electrons can a single 4p orbital hold? How many electrons can the set of 4p orbitals hold? How many electrons can a single 5d orbital hold? How about the set of 5d orbitals?    Which orbital type has a shape similar to a ball? An hour-glass? A four-leaf clover?    For the table above, make a 6 th row and fill in the missing information.            Key:   Exercise 1:    73.5 amu    Chlorine-35; the atomic mass is closer to 35 than to 37    103.4 amu    Exercise 2:    Inner    Closer    When we measure the amount of energy that is required to remove electrons from an atom we see groups of electrons that require similar energies to remove. However different groups of electrons have different energies, implying that these groups are closer\/further from the nucleus.    2, 8, 18, 32    Exercise 3:    See table in text    18 electrons, 9 orbitals, 1 s-orbital, 3 p-orbitals, and 5 d-orbitals    2, 6, 2, 10    S-orbital, p-orbital, d-orbital              6  72  6s  2      6p  6      6d  10      6f  14      ??  18?      ??  22?     E3          A black background with a black square Description automatically generated with medium confidence     Shorter wavelengths have greater frequencies      0.22m    UV, x-rays, and gamma rays have greater energies; infrared, microwaves, and radiowaves have lower energies    Longer than visible light: infrared, microwaves, and radio waves    Shorter than visible lights: UV, x-rays, gamma rays  Longer than microwaves: radio waves  Shorter than x-rays: gamma rays    Greater than UV rays: x-rays and gamma rays    Lower than infrared: microwaves and radio waves  "
+  "title": "Atoms and the Periodic Table",
+  "body": " Atoms and the Periodic Table   Summary:   "
 },
 {
   "id": "sec-atoms2-2",
@@ -1774,157 +1315,13 @@ var ptx_lunr_docs = [
   "body": "Summary: "
 },
 {
-  "id": "sec-atoms2-4",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Section 1: Atomic mass "
-},
-{
-  "id": "sec-atoms2-5",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-5",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "atomic mass weighted average "
-},
-{
-  "id": "sec-atoms2-12",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-12",
-  "type": "Table",
-  "number": "4.2.1",
-  "title": "",
-  "body": "       Mass number  Percent abundance  Number of isotopes with that mass in a group of 100 isotopes    44  15.5  15.5    46  34.5  34.5    47  50.0  50.0    "
-},
-{
-  "id": "sec-atoms2-17",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-17",
-  "type": "Table",
-  "number": "4.2.2",
-  "title": "",
-  "body": "      Mass number  Percent abundance    72  3.1    73  44.9    74  52.0    "
-},
-{
-  "id": "sec-atoms2-19",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-19",
-  "type": "Table",
-  "number": "4.2.3",
-  "title": "",
-  "body": "      Mass number  Percent abundance    101  12.0    103  38.5    104  40.5    106  9.0    "
-},
-{
-  "id": "sec-atoms2-20",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-20",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Section 2: Electron shells "
-},
-{
-  "id": "sec-atoms2-23",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-23",
-  "type": "Figure",
-  "number": "4.2.4",
-  "title": "",
-  "body": "  A diagram of a group of blue dots and red dots AI-generated content may be incorrect.  "
-},
-{
-  "id": "sec-atoms2-27",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-27",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Exercise 3: Electron shells "
-},
-{
-  "id": "sec-atoms2-29",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-29",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Section 3: Orbitals "
-},
-{
-  "id": "sec-atoms2-30",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-30",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "orbitals , "
-},
-{
-  "id": "sec-atoms2-33",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-33",
-  "type": "Table",
-  "number": "4.2.5",
-  "title": "",
-  "body": "        Shell  Number of electrons  Orbital types  Number of electrons in the set of orbitals    1  2  1s  2    2  8  2s  2      2p, 2p, 2p  6    3  18  3s  2      3p, 3p, 3p  6      3d, 3d, 3d, 3d, 3d  10    4  32  4s  2      4p, 4p, 4p  6      4d, 4d, 4d, 4d, 4d  10      4f, 4f, 4f, 4f, 4f, 4f, 4f  14    5  50  5s  2      5p, 5p, 5p  6      5d, 5d, 5d, 5d, 5d  10      5f, 5f, 5f, 5f, 5f, 5f, 5f  14      ?, ?, ?, ?, ?, ?, ?, ?, ? ***  18?    "
-},
-{
-  "id": "sec-atoms2-36",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-36",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Exercise 3: Electron shells and orbitals "
-},
-{
-  "id": "sec-atoms2-38",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-38",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": ""
-},
-{
-  "id": "sec-atoms2-39",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-39",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Key: "
-},
-{
-  "id": "sec-atoms2-46",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-46",
-  "type": "Table",
-  "number": "4.2.6",
-  "title": "",
-  "body": "        6  72  6s  2      6p  6      6d  10      6f  14      ??  18?      ??  22?    "
-},
-{
-  "id": "sec-atoms2-48-1-1-1-1-2-1",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-48-1-1-1-1-2-1",
-  "type": "Figure",
-  "number": "4.2.7",
-  "title": "",
-  "body": "  A black background with a black square Description automatically generated with medium confidence  "
-},
-{
   "id": "sec-atoms3",
   "level": "1",
   "url": "sec-atoms3.html",
   "type": "Section",
   "number": "4.3",
-  "title": "Electron arrangement",
-  "body": " Electron arrangement   Summary:     Electron configuration of an atom    Periodic table is arranged into blocks corresponding to the type of orbitals being filled      Valence electrons    How to figure out the number of valence electrons in an atom    Stable configurations       Section 1: Electron configurations and valence electrons   Now that we know where we can put electrons in an atom, we can start to fill these orbitals with the number of electrons that an atom has. In general the order that we fill will proceed from the lowest shell number to the highest because lower shell numbers have lower energy than higher shell numbers (making filling them preferable…here’s an analogy, is it easier to put a bowling ball on the floor at the bottom of a set of stairs or to carry it up and put it on the top step…similarly nature prefers lower energy states to higher states.  Way number 1 to figure out the filling order:    Make a diagram listing all of the possible orbitals as shown below (one of the exercises will have you practice making this drawing)          Begin drawing diagonal lines starting at the top. The order that you draw through the diagonal lines is the order that the orbitals get filled          Figure out the order: 1s<2s<2p<3s<3p<4s<3d<4p<5s<4d<5p<6s…    Before I show you the other way to find the orbital filling order, it’ll be helpful to start filling these orbitals with electrons. We have to remember that each orbital holds 2 electrons and that s-orbitals come in groups of 1, p’s in groups of 3, d’s in groups of 5, and f’s in groups of 7. This means that s-orbitals hold up to 2 electrons, p’s up to 6, d’s up to 10, and f’s up to 14. We’ll start simple with hydrogen. A neutral hydrogen atom only has one electron (given by it’s atomic number of 1). That electron will be placed in the lowest energy orbital (the 1s). We denote the number of electrons in a set of orbitals with a superscript after the orbital. So hydrogen has the electron configuration . For an atom of helium, we have two electrons. The 1s orbital can hold two electrons, so it’s configuration is . For lithium, we have 3 electrons, this additional electron needs to go into the next lowest orbital so its configuration is . Similarly beryllium is . After this, we have boron, carbon, nitrogen, oxygen, fluorine, and neon with electron configurations of , , , and respectively. With larger and larger elements, the electron configurations get longer and longer to write out. Thankfully we have an abbreviated way of accomplishing this which is shown in the box below, along with another way of figuring out the orbital filling order:  The position of an element in the periodic table can tell us the orbital and shell numbers that are being filled as shown below:      Using this diagram we can fill the electron configuration of any atom. In the first row, we’re crossing the s-block, so those electrons go into the 1s orbital. The first two elements in the 2 nd row will have additional electrons in their 2s orbital (because they are in the s-block) then the next 6 will have their additional electrons put in the 2p orbitals. Next comes 3s and 3p with the elements in the 3 rd row. In the 4 th row, we cross the s block (4s), then the d-block (3d; note that the d shell number is always one less than the row number), then the 4p. To abbreviate long electron configurations, the noble-gas shorthand is used. When doing this, we proceed BACKWARDS to the nearest noble gas and write its symbol in brackets to indicate that this element has the same electron configuration as that noble gas, plus the extra orbitals that we’ll soon indicate. We then add on the additional orbitals and electrons from the row that the element we’re interested is in. So for potassium (K), if we back up to the nearest noble gas, we find argon. The additional electrons for potassium are in the 4 th row. There is only 1 additional electron in the s-block so the electron configuration is . Similarly, for cadmium, we’d back up to find krypton. The additional electrons (12 of them) are in the 5 th row and we have to cross the s and d blocks. So the electron configuration would be .   Exercise 1: Electron configurations     Recreate the drawing in the table above that illustrates the orbital filling order. Then do it a second time on a clean sheet of paper, trying to create it from memory.    Try to add more arrows than the arrows shown in the diagram provided. What orbital gets filled after the 6d orbital      What orbital gets filled after the:    3s    2p    5s    4p    4d      Write the electron configuration for the following atoms in both long form and using the noble gas shorthand    P    Se    Ni    Al    Mg       Section 2: Valence electrons   The noble gas shorthand does a good job of emphasizing the electrons that are in the outermost shell (highest number shell) of the atom. These electrons are called valence electrons  Electrons that are in the outermost (or highest energy) electron shell of an atom. . They are very important because if two atoms come together to react with one another, the outer most electrons are the ones that are going to be controlling how they interact. We can find the number of electrons from the electron configuration quite easily. Take carbon for example. Its electron configuration is or . There are 4 electrons in the 2 nd shell (the highest numbered shell for carbon), so it has 4 valence electrons. Silicon, which is in the same group and has similar reactivity properties has the electron configuration and thus also has 4 valence electrons. We can figure out the number of valence electrons from the electron configuration, but we can figure them out even easier for the main group elements (ie. those elements in the tall columns) by simply looking at the main group number. Carbon is in group 4A and thus has 4 valence electrons. Fluorine is in group 7A and thus has 7 valence electrons.  Thus, every element in a particular group (at least in the main group; we won’t worry about the transition metals for this part) of the periodic table will have the same number of valence electrons. Recall that elements in the same group in the periodic table have similar chemical and physical properties. The reason for this is that every element in a group has the name number of valence electrons. This can also highlight particularly stable and unstable arrangements of electrons. Answer the exercise questions to shed some light on this.   Exercise 2: Valence electrons     How many valence electrons do the following elements have?    Mg    H    S    Br    Xe      The noble gases are in group 8A. The noble gases are known for being very stable; it’s extremely difficult to make them react with anything else.    How many valence electrons do the noble gases have (with the exception of helium)?    This number of valence electrons is therefore particularly __________ (stable\/unstable).      The alkali metals are in group 1. They react violently when placed into water.    How many valence electrons do they have?    Is this number of electrons stable or unstable?    If sodium loses one electron:    What would its electron configuration be?    How many valence electrons would it now have?    Would you expect it to be more stable or less stable?    What would the charge be on the new sodium ion?        The halogens are in group 7A. They react violently with many compounds, especially metals.    How many valence electrons do they have?    Is this number of electrons stable or unstable?    If chlorine gains one electron:    What would its electron configuration be?    How many valence electrons would it now have?    Would you expect it to be more stable or less stable?    What would the charge be on the new chlorine ion?        Exercise 3:    7p      3p    3s    4d    5s    5p                                   Exercise 2:         2    1    6    7    8        8    Stable        1    Unstable      [Ne] or     8    More stable    +1          7    Unstable      [Ar] or     8    More stable    -1        "
+  "title": "Atoms and the Periodic Table",
+  "body": " Atoms and the Periodic Table   Summary:   "
 },
 {
   "id": "sec-atoms3-2",
@@ -1936,76 +1333,94 @@ var ptx_lunr_docs = [
   "body": "Summary: "
 },
 {
-  "id": "sec-atoms3-4",
+  "id": "sec-atoms4",
+  "level": "1",
+  "url": "sec-atoms4.html",
+  "type": "Section",
+  "number": "4.4",
+  "title": "Atoms and the Periodic Table",
+  "body": " Atoms and the Periodic Table   Summary:   "
+},
+{
+  "id": "sec-atoms4-2",
   "level": "2",
-  "url": "sec-atoms3.html#sec-atoms3-4",
+  "url": "sec-atoms4.html#sec-atoms4-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Section 1: Electron configurations and valence electrons "
+  "body": "Summary: "
 },
 {
-  "id": "sec-atoms3-8",
-  "level": "2",
-  "url": "sec-atoms3.html#sec-atoms3-8",
-  "type": "Figure",
-  "number": "4.3.1",
-  "title": "",
-  "body": "   "
+  "id": "sec-atoms5",
+  "level": "1",
+  "url": "sec-atoms5.html",
+  "type": "Section",
+  "number": "4.5",
+  "title": "Atoms and the Periodic Table",
+  "body": " Atoms and the Periodic Table   Summary:   "
 },
 {
-  "id": "sec-atoms3-10",
+  "id": "sec-atoms5-2",
   "level": "2",
-  "url": "sec-atoms3.html#sec-atoms3-10",
-  "type": "Figure",
-  "number": "4.3.2",
-  "title": "",
-  "body": "   "
-},
-{
-  "id": "sec-atoms3-14",
-  "level": "2",
-  "url": "sec-atoms3.html#sec-atoms3-14",
-  "type": "Figure",
-  "number": "4.3.3",
-  "title": "",
-  "body": "   "
-},
-{
-  "id": "sec-atoms3-16",
-  "level": "2",
-  "url": "sec-atoms3.html#sec-atoms3-16",
+  "url": "sec-atoms5.html#sec-atoms5-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Exercise 1: Electron configurations "
+  "body": "Summary: "
 },
 {
-  "id": "sec-atoms3-18",
+  "id": "sec-atoms6",
+  "level": "1",
+  "url": "sec-atoms6.html",
+  "type": "Section",
+  "number": "4.6",
+  "title": "Atoms and the Periodic Table",
+  "body": " Atoms and the Periodic Table   Summary:   "
+},
+{
+  "id": "sec-atoms6-2",
   "level": "2",
-  "url": "sec-atoms3.html#sec-atoms3-18",
+  "url": "sec-atoms6.html#sec-atoms6-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Section 2: Valence electrons "
+  "body": "Summary: "
 },
 {
-  "id": "sec-atoms3-19",
+  "id": "sec-atoms7",
+  "level": "1",
+  "url": "sec-atoms7.html",
+  "type": "Section",
+  "number": "4.7",
+  "title": "Atoms and the Periodic Table",
+  "body": " Atoms and the Periodic Table   Summary:   "
+},
+{
+  "id": "sec-atoms7-2",
   "level": "2",
-  "url": "sec-atoms3.html#sec-atoms3-19",
+  "url": "sec-atoms7.html#sec-atoms7-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "valence electrons "
+  "body": "Summary: "
 },
 {
-  "id": "sec-atoms3-21",
+  "id": "sec-atoms8",
+  "level": "1",
+  "url": "sec-atoms8.html",
+  "type": "Section",
+  "number": "4.8",
+  "title": "Atoms and the Periodic Table",
+  "body": " Atoms and the Periodic Table   Summary:   "
+},
+{
+  "id": "sec-atoms8-2",
   "level": "2",
-  "url": "sec-atoms3.html#sec-atoms3-21",
+  "url": "sec-atoms8.html#sec-atoms8-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Exercise 2: Valence electrons "
+  "body": "Summary: "
 },
 {
   "id": "sec-nuclear1",
