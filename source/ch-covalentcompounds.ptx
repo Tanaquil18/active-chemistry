@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-covalentcompounds" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Ionic Compounds</title>
+
+    <xi:include href="sec-covcompounds1.ptx" />
+    <xi:include href="sec-covcompounds2.ptx" />
+    <xi:include href="sec-covcompounds3.ptx" />
+    <xi:include href="sec-covcompounds4.ptx" />
+    <xi:include href="sec-covcompounds5.ptx" />
+    <xi:include href="sec-covcompounds6.ptx" />
+    <xi:include href="sec-covcompounds7.ptx" />
+    <xi:include href="sec-covcompounds8.ptx" />
+    <xi:include href="sec-covcompounds9.ptx" />
+
+    
+
+</chapter>

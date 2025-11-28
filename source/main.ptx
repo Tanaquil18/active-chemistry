@@ -17,7 +17,8 @@
     <xi:include href="./ch-matter-energy.ptx" />
     <xi:include href="./ch-atoms.ptx" />
     <xi:include href="./ch-nuclear-chemistry.ptx" />
-    <xi:include href="./ch-compounds.ptx" />
+    <xi:include href="./ch-ioniccompounds.ptx" />
+     <xi:include href="./ch-covalentcompounds.ptx" />
     <xi:include href="./ch-chemical-reactions.ptx" />
     <xi:include href="./ch-gases.ptx" />
     <xi:include href="./ch-solutions.ptx" />

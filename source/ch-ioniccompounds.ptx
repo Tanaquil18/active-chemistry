@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-ioniccompounds" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Ionic Compounds</title>
+
+    <xi:include href="sec-ioncompounds1.ptx" />
+    <xi:include href="sec-ioncompounds2.ptx" />
+    <xi:include href="sec-ioncompounds3.ptx" />
+    <xi:include href="sec-ioncompounds4.ptx" />
+    <xi:include href="sec-ioncompounds5.ptx" />
+
+    
+
+</chapter>

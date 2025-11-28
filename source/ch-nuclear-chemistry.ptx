@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="ch-nuclear-chemistry" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Atoms and Atomic Structure</title>
+    <title>Nuclear Chemistry</title>
 
     <xi:include href="sec-nuclear1.ptx" />
     <xi:include href="sec-nuclear2.ptx" />
+    <xi:include href="sec-nuclear3.ptx" />
+    <xi:include href="sec-nuclear4.ptx" />
+    <xi:include href="sec-nuclear5.ptx" />
+    <xi:include href="sec-nuclear6.ptx" />
 
 
     
