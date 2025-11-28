@@ -7,7 +7,14 @@
     <xi:include href="sec-rxns2.ptx" />
     <xi:include href="sec-rxns3.ptx" />
     <xi:include href="sec-rxns4.ptx" />
-  
+      <xi:include href="sec-rxns5.ptx" />
+    <xi:include href="sec-rxns6.ptx" />
+    <xi:include href="sec-rxns7.ptx" />
+    <xi:include href="sec-rxns8.ptx" />
+    <xi:include href="sec-rxns9.ptx" />
+    <xi:include href="sec-rxns10.ptx" />
+    <xi:include href="sec-rxns11.ptx" />
+
     
 
 </chapter>

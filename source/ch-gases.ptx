@@ -7,7 +7,14 @@
     <xi:include href="sec-gas2.ptx" />
     <xi:include href="sec-gas3.ptx" />
     <xi:include href="sec-gas4.ptx" />
-  
+    <xi:include href="sec-gas5.ptx" />
+    <xi:include href="sec-gas6.ptx" />
+    <xi:include href="sec-gas7.ptx" />
+    <xi:include href="sec-gas8.ptx" />
+    <xi:include href="sec-gas9.ptx" />
+    <xi:include href="sec-gas10.ptx" />
+    <xi:include href="sec-gas11.ptx" />
+    <xi:include href="sec-gas12.ptx" /> 
     
 
 </chapter>
