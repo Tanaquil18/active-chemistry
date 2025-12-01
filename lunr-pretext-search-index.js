@@ -808,7 +808,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.2",
   "title": "Scientific notation",
-  "body": " Scientific notation   Summary:     Scientific notation    Know how to convert between standard and scientific notation    Remember that a positive power is associated with a large number (greater than 10) and a negative power is associated with a small number (less than 1)      Correct use of a calculator    Use the correct scientific notation button on your calculator to avoid errors    Know when to use parentheses       Section 3: Scientific notation   In chemistry, we frequently have to make use of very large numbers (e.g. when we’re discussing numbers of atoms) as well as very small numbers (e.g. the weight of an atom). We have a couple of strategies that make this much more palatable for us. One such strategy is to have different units of measurement for discussing large numbers vs. small numbers. The other common approach is to use scientific notation. Ultimately scientific notation is required, even if we use different units, because we still need to use very large (or small) numbers to express the relationship between these different units. For example, if we are talking about the distance across an atom, a common unit of measurement is an Angstrom. A hydrogen atom has a diameter of approximately 1.1 Angstroms. But how many inches is that? In order to convert between units of Angstroms and inches we'd have to know that 1 Angstrom = 0.00000000394 inches. Working with that number is obviously obnoxious, requiring us to count exactly how many zeroes there are. To get around this, we like to use scientific notation.   a number in scientific notation, identifying coefficient, power, and base   To write a number in scientific notation, we combine a coefficient The coefficient is the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal. with a base The base follows the coefficient in scientific notation. It is multiplied by the base. It is always 10 raised to some integer power. . The coefficient is always a number that is greater than or equal to 1 and less than 10, and is written as a decimal. The coefficient is then multiplied by the base which is 10 raised to some power.    number in scientific notation and moving the decimal point to get expanded form    number in scientific notation and moving the decimal point to get expanded form    A positive power makes the coefficient larger by moving the decimal in the coefficient to the right by the number of digit places given by the number in the power. Conversely, a negative power makes the coefficient smaller by moving the decimal in the coefficient to the left by the number of digit places given by the number in the power.  We also have to be able to take a number that is written in standard notation and rewrite it in scientific notation. To do this, we move the decimal point in the direction that will result in a coefficient that has a value between 1 and 10. We count the number of digit places that we moved the decimal and that becomes the value in the power. If we moved the decimal to the left, then the power remains positive. If the decimal had to be moved to the right, then the value in the power becomes negative.     a number in scientific notation, identifying coefficient, power, and base    number in scientific notation and moving the decimal point to get expanded form    One of the things that often confuses students about scientific notation is remembering when to move the decimal to the right or the left. These rules can be summed up by remembering the simple rule that big numbers have positive powers and small numbers have negative powers. Remembering this rule can help you determine for yourself whether you should move the decimal right or left.   Exercise 3: Scientific notation     Do the following math problems       Write the following numbers in scientific notation.    3,001.002    5,000,005    10,055,057,001    0.000 057 8    0.08    0.000 000 007 044      Write the following numbers in standard notation.                                      Do the following math problems using your calculator. You probably have a SCI and DEC button or mode on your calculator. If you need help figuring out how to do these on your calculator, please reach out to your instructor or find an online tutorial that is specific to your calculator model.    Write the following numbers in scientific notation.    3,001.002    5,000,005    10,055,057,001    0.000 0578    0.08    0.000 000 007 044      Write the following numbers in standard notation.                                       Section 4: Scientific notation and calculators   Doing multi-step calculations often leads to errors. These errors often result from incorrect calculator usage. It is important to make sure that you are correctly inputting scientific notation into your calculator. Often the correct way to do this is using the EE button on your calculator. If, on the other hand, you input scientific notation using the times button and then your exponent button, you may inadvertently input the incorrect math problem. See the example below:     4.1 EE 3 “divided by” 3.3 EE 10 =   4.1 “times” 10 ^ 3 “divided by” 3.3 “times” 10 ^ 10  This incorrect input above is actually calculating the following:   Another way that you can correctly input scientific notation is to put parentheses around each of your scientific notation inputs. This allows you to input the scientific notation using whichever method you’d prefer.  ( 4.1 “times” 10 ^ 3 ) “divided by” ( 3.3 “times” 10 ^ 10)  Another important calculator rule to remember is that when we write complex fractions, all of the operations in the numerator and denominator respectively are carried out before the division step. This is correctly input into a calculator by remembering to put parentheses around both the numerator and denominator. See the example below:     ( 7 “plus” 3 ) “divided by” ( 5.5 EE 3 “plus” 100 ) =    Exercise 4: Scientific notation and calculators .     Complete the following problems using your calculator.                          Exercise 3:                                                                              Exercise 3, problem 2: Same as problem 1  Exercise 4:                            "
+  "body": " Scientific notation   Summary:     Scientific notation    Know how to convert between standard and scientific notation    Remember that a positive power is associated with a large number (greater than 10) and a negative power is associated with a small number (less than 1)      Correct use of a calculator    Use the correct scientific notation button on your calculator to avoid errors    Know when to use parentheses       Scientific notation   In chemistry, we frequently have to make use of very large numbers (e.g. when we’re discussing numbers of atoms) as well as very small numbers (e.g. the weight of an atom). We have a couple of strategies that make this much more palatable for us. One such strategy is to have different units of measurement for discussing large numbers vs. small numbers. The other common approach is to use scientific notation. Ultimately scientific notation is required, even if we use different units, because we still need to use very large (or small) numbers to express the relationship between these different units. For example, if we are talking about the distance across an atom, a common unit of measurement is an Angstrom. A hydrogen atom has a diameter of approximately 1.1 Angstroms. But how many inches is that? In order to convert between units of Angstroms and inches we'd have to know that 1 Angstrom = 0.00000000394 inches. Working with that number is obviously obnoxious, requiring us to count exactly how many zeroes there are. To get around this, we like to use scientific notation.   a number in scientific notation, identifying coefficient, power, and base   To write a number in scientific notation, we combine a coefficient with a base . The coefficient is always a number that is greater than or equal to 1 and less than 10, and is written as a decimal. The coefficient is then multiplied by the base which is 10 raised to some power.    number in scientific notation and moving the decimal point to get expanded form    number in scientific notation and moving the decimal point to get expanded form    A positive power makes the coefficient larger by moving the decimal in the coefficient to the right by the number of digit places given by the number in the power. Conversely, a negative power makes the coefficient smaller by moving the decimal in the coefficient to the left by the number of digit places given by the number in the power.  We also have to be able to take a number that is written in standard notation and rewrite it in scientific notation. To do this, we move the decimal point in the direction that will result in a coefficient that has a value between 1 and 10. We count the number of digit places that we moved the decimal and that becomes the value in the power. If we moved the decimal to the left, then the power remains positive. If the decimal had to be moved to the right, then the value in the power becomes negative.     a number in scientific notation, identifying coefficient, power, and base    number in scientific notation and moving the decimal point to get expanded form    One of the things that often confuses students about scientific notation is remembering when to move the decimal to the right or the left. These rules can be summed up by remembering the simple rule that big numbers have positive powers and small numbers have negative powers. Remembering this rule can help you determine for yourself whether you should move the decimal right or left.   Scientific notation and calculators   Doing multi-step calculations often leads to errors. These errors often result from incorrect calculator usage. It is important to make sure that you are correctly inputting scientific notation into your calculator. Often the correct way to do this is using the EE button on your calculator. If, on the other hand, you input scientific notation using the times button and then your exponent button, you may inadvertently input the incorrect math problem. See the example below:     4.1 EE 3 “divided by” 3.3 EE 10 =   4.1 “times” 10 ^ 3 “divided by” 3.3 “times” 10 ^ 10  This incorrect input above is actually calculating the following:   Another way that you can correctly input scientific notation is to put parentheses around each of your scientific notation inputs. This allows you to input the scientific notation using whichever method you’d prefer.  ( 4.1 “times” 10 ^ 3 ) “divided by” ( 3.3 “times” 10 ^ 10)  Another important calculator rule to remember is that when we write complex fractions, all of the operations in the numerator and denominator respectively are carried out before the division step. This is correctly input into a calculator by remembering to put parentheses around both the numerator and denominator. See the example below:     ( 7 “plus” 3 ) “divided by” ( 5.5 EE 3 “plus” 100 ) =      Write the following numbers in scientific notation without using a calculator.     3,001.002             5,000,005             10,055,057,001             0.000 057 8             0.08             0.000 000 007 044              Write the following numbers in standard notation without using a calculator.                                                                              Do the math problems in questions 1 and 2 above using your calculator. You probably have a SCI and DEC button or mode on your calculator. If you need help figuring out how to do these on your calculator, please reach out to your instructor or find an online tutorial that is specific to your calculator model.      Same answers as above        Complete the following problems using your calculator.                                                     "
 },
 {
   "id": "sec-math2-2",
@@ -826,7 +826,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Section 3: Scientific notation "
+  "body": "Scientific notation "
 },
 {
   "id": "sec-math2-7",
@@ -844,25 +844,160 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Exercise 3: Scientific notation "
+  "body": "Scientific notation and calculators "
 },
 {
-  "id": "sec-math2-17",
+  "id": "exercises-math2-1-2",
   "level": "2",
-  "url": "sec-math2.html#sec-math2-17",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-math2.html#exercises-math2-1-2",
+  "type": "Exercise",
+  "number": "2.2.1",
   "title": "",
-  "body": "Section 4: Scientific notation and calculators "
+  "body": "  3,001.002          "
 },
 {
-  "id": "sec-math2-28",
+  "id": "exercises-math2-1-3",
   "level": "2",
-  "url": "sec-math2.html#sec-math2-28",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-math2.html#exercises-math2-1-3",
+  "type": "Exercise",
+  "number": "2.2.2",
   "title": "",
-  "body": "Exercise 4: Scientific notation and calculators "
+  "body": "  5,000,005          "
+},
+{
+  "id": "exercises-math2-1-4",
+  "level": "2",
+  "url": "sec-math2.html#exercises-math2-1-4",
+  "type": "Exercise",
+  "number": "2.2.3",
+  "title": "",
+  "body": "  10,055,057,001          "
+},
+{
+  "id": "exercises-math2-1-5",
+  "level": "2",
+  "url": "sec-math2.html#exercises-math2-1-5",
+  "type": "Exercise",
+  "number": "2.2.4",
+  "title": "",
+  "body": "  0.000 057 8          "
+},
+{
+  "id": "exercises-math2-1-6",
+  "level": "2",
+  "url": "sec-math2.html#exercises-math2-1-6",
+  "type": "Exercise",
+  "number": "2.2.5",
+  "title": "",
+  "body": "  0.08          "
+},
+{
+  "id": "exercises-math2-1-7",
+  "level": "2",
+  "url": "sec-math2.html#exercises-math2-1-7",
+  "type": "Exercise",
+  "number": "2.2.6",
+  "title": "",
+  "body": "  0.000 000 007 044          "
+},
+{
+  "id": "exercises-math2-2-2",
+  "level": "2",
+  "url": "sec-math2.html#exercises-math2-2-2",
+  "type": "Exercise",
+  "number": "2.2.7",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math2-2-3",
+  "level": "2",
+  "url": "sec-math2.html#exercises-math2-2-3",
+  "type": "Exercise",
+  "number": "2.2.8",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math2-2-4",
+  "level": "2",
+  "url": "sec-math2.html#exercises-math2-2-4",
+  "type": "Exercise",
+  "number": "2.2.9",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math2-2-5",
+  "level": "2",
+  "url": "sec-math2.html#exercises-math2-2-5",
+  "type": "Exercise",
+  "number": "2.2.10",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math2-2-6",
+  "level": "2",
+  "url": "sec-math2.html#exercises-math2-2-6",
+  "type": "Exercise",
+  "number": "2.2.11",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math2-2-7",
+  "level": "2",
+  "url": "sec-math2.html#exercises-math2-2-7",
+  "type": "Exercise",
+  "number": "2.2.12",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math2-3",
+  "level": "2",
+  "url": "sec-math2.html#exercises-math2-3",
+  "type": "Exercise",
+  "number": "2.2.13",
+  "title": "",
+  "body": "  Do the math problems in questions 1 and 2 above using your calculator. You probably have a SCI and DEC button or mode on your calculator. If you need help figuring out how to do these on your calculator, please reach out to your instructor or find an online tutorial that is specific to your calculator model.      Same answers as above     "
+},
+{
+  "id": "exercises-math2-4-2",
+  "level": "2",
+  "url": "sec-math2.html#exercises-math2-4-2",
+  "type": "Exercise",
+  "number": "2.2.14",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math2-4-3",
+  "level": "2",
+  "url": "sec-math2.html#exercises-math2-4-3",
+  "type": "Exercise",
+  "number": "2.2.15",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math2-4-4",
+  "level": "2",
+  "url": "sec-math2.html#exercises-math2-4-4",
+  "type": "Exercise",
+  "number": "2.2.16",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math2-4-5",
+  "level": "2",
+  "url": "sec-math2.html#exercises-math2-4-5",
+  "type": "Exercise",
+  "number": "2.2.17",
+  "title": "",
+  "body": "           "
 },
 {
   "id": "sec-math3",
