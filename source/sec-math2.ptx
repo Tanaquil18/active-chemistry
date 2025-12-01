@@ -53,7 +53,7 @@
 		
 	</ol></p>
 <p>
-		<term>Section 3: Scientific notation</term>
+		<term>Scientific notation</term>
 	</p>
 
 	<p>
@@ -70,7 +70,7 @@
         To get around this, we like to use scientific notation.
 	</p>
     
-    <image source="exp-power-base">
+    <image source="sci-note1.png">
         <shortdescription>a number in scientific notation, identifying coefficient, power, and base</shortdescription>
     </image>
 
