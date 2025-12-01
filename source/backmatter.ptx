@@ -305,7 +305,7 @@
         </definition>
       </p>
       <p>
-        <definition xml:id="def-base1">
+        <definition xml:id="def-basesci">
           <statement>
             <p>
               <term>Base:</term> follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.

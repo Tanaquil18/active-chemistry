@@ -75,7 +75,7 @@
     </image>
 
     <p>
-		To write a number in scientific notation, we combine a <term><xref ref="def-coefficient" text="custom">coefficient</xref></term> with a <term><xref ref="def-base" text="custom">base</xref></term>. The coefficient is always a number that is greater than or equal to 1 and less than 10, and is written as a decimal. The coefficient is then multiplied by the base which is 10 raised to some power. 
+		To write a number in scientific notation, we combine a <term><xref ref="def-coefficient" text="custom">coefficient</xref></term> with a <term><xref ref="def-basesci" text="custom">base</xref></term>. The coefficient is always a number that is greater than or equal to 1 and less than 10, and is written as a decimal. The coefficient is then multiplied by the base which is 10 raised to some power. 
 	</p>
 
     <sidebyside widths="45% 45%">
