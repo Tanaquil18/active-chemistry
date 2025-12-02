@@ -9,118 +9,60 @@
 
 	<p><ol>
 		
-		<li>
-			<p>
-				Algebra review
-			</p>
 		
-			<p><ol>
 				<li>
 					<p>
 						Use opposite operations to isolate your variable of interest
 					</p>
 				</li>
+				<li>
+					<p>
+						Work through the order of operations backwards
+					</p>
+				</li>
 		
-			</ol></p>
-		</li>
+		
 
 	</ol></p>
 <p>
-		<term>Section 5: Algebra review</term>
+		<term>Algebra review</term>
 	</p>
 
 	<p>
-		The final part of this math review is a brief review of algebra. We use algebra to rearrange mathematical expressions to solve for some unknown. There are two things to remember when doing algebraic rearrangements. First, our goal is to isolate the variable of interest, remembering that it must be in the numerator if we’re dealing with fractions. Second, the way in which we will isolate the variable is by carrying out . See the examples below:
+		The final part of this math review is a brief review of algebra. We use algebra to rearrange mathematical expressions to solve for some unknown. There are two things to remember when doing algebraic rearrangements. First, our goal is to isolate the variable of interest, remembering that <em>it must be in the numerator</em> if we’re dealing with fractions. Second, the way in which we will isolate the variable is by carrying out opposite operations on both sides of the equation.  Some useful reminders:
 	</p>
-
-	<p>
-		<em><term>Exercise 5: Algebra review.</term></em>
-	</p>
-
-	<p><ol>
+<p>
+	<ol>
 		<li>
 			<p>
-				For the following problems, solve for the value of c. In some cases your solution will be an expression rather than a number. Write out all of your steps
+				Addition and subtraction are opposite operations; multiplication and division are opposite operations
 			</p>
+			<ol>
+				<li>
+					<p>
+						Example: <m>32=x-3</m> to isolate x we must add three to both sides because addition is the opposite operation for subtraction <m>\rightarrow 32+3=x-3+3 \rightarrow 35=x</m>
+					</p>
+				</li>
+				<li>
+					<p>
+						Example: <m>32=\frac{x}{2}</m> to isolate x we must multiply both sides by 2 because multiplication is the opposite operation for division <m>\rightarrow 32\times 2=\frac{x}{2}\times 2 \rightarrow 64=x</m>
+					</p>
+				</li>
+			</ol>
 		</li>
-
-	</ol></p>
-
-	<p><ol>
 		<li>
 			<p>
-				<m>\frac{3}{5} \times c = \frac{9}{10}</m>
+				If there are multiple quantities that must be moved, work in the direction of the reverse of the order of operations
 			</p>
+			<ol>
+				<li>
+					<p>
+						Example: <m>3x+5=14</m> We have to use two reverse operations (subtraction and division) to isolate x, but which do we do first?  If we were computing the left side of the equation, we'd first multiply 3 times x and then add 5.  When isolating x, we must go in the reverse order of operations.  So in this case we need to undo the addition of 5 before undoing the multiplication by 3.  So the first thing we do is subtract 5 from both sides. Then we can divide by 3. <m>\rightarrow 3x+5-5=14-5 \rightarrow 3x\div3=9\div3 \rightarrow x=3</m>
+					</p>
+				</li>
+			</ol>
 		</li>
+	</ol>
+</p>
 
-		<li>
-			<p>
-				<m>\frac{9}{5}c + 50 = 105</m>
-			</p>
-		</li>
-
-		<li>
-			<p>
-				<m>\frac{P}{c} = \frac{T}{X}</m>
-			</p>
-		</li>
-
-		<li>
-			<p>
-				<m>\frac{c + 3}{4} = \frac{7}{4} + 1</m>
-			</p>
-		</li>
-
-		<li>
-			<p>
-				<m>c \times \left( \frac{5km}{hr} \right) = 100km</m>
-			</p>
-		</li>
-
-	</ol></p>
-
-
-    <p>
-		Exercise 5:
-	</p>
-
-	<p><ol>
-		<li>
-		
-		</li>
-
-	</ol></p>
-
-	<p><ol>
-		<li>
-			<p>
-				3/2
-			</p>
-		</li>
-
-		<li>
-			<p>
-				275/9
-			</p>
-		</li>
-
-		<li>
-			<p>
-				<m>\frac{PX}{T}</m>
-			</p>
-		</li>
-
-		<li>
-			<p>
-				8
-			</p>
-		</li>
-
-		<li>
-			<p>
-				20 hr
-			</p>
-		</li>
-
-	</ol></p>
 </section>
