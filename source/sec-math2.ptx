@@ -127,7 +127,7 @@
 	</p>
 
 	<p>
-		Doing multi-step calculations often leads to errors. These errors often result from incorrect calculator usage. It is important to make sure that you are correctly inputting scientific notation into your calculator. Often the correct way to do this is using the EE button on your calculator. If, on the other hand, you input scientific notation using the times button and then your exponent button, you may inadvertently input the incorrect math problem. See the example below:
+		Doing multi-step calculations often leads to errors. These errors often result from incorrect calculator usage. It is important to make sure that you are correctly inputting scientific notation into your calculator. Often the correct way to do this is using the EE button on your calculator. If, on the other hand, you input scientific notation using the times button and then your exponent button (which is typically either a "^" or a <m>y^x</m> button), you may inadvertently input the incorrect math problem. See the example below:
 	</p>
 
 	<p>
@@ -135,11 +135,11 @@
 	</p>
 
 	<p>
-		 4.1 EE 3 “divided by” 3.3 EE 10 = <m>1.2 \times 10^{- 7}</m>
+		 Correct input: 4.1 EE 3 “divided by” 3.3 EE 10 = <m>1.2 \times 10^{- 7}</m>
 	</p>
 
 	<p>
-		 4.1 “times” 10 ^ 3 “divided by” 3.3 “times” 10 ^ 10
+		 Incorrect input: 4.1 “times” 10 ^ 3 “divided by” 3.3 “times” 10 ^ 10
 	</p>
 
 	<p>
