@@ -86,7 +86,7 @@
 		</li>
     </ol></p>
     <p>
-		<term>Section 1: Significant Figures</term>
+		<term>Significant Figures</term>
 	</p>
 
 	<p>
@@ -94,11 +94,7 @@
 	</p>
 
 	<p>
-		To understand how precisely we know a quantity, we will first discuss the difference between <term>exact</term><fn>	<p>
-		An exact number is one that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.
-	</p></fn> and <term>measured</term><fn>	<p>
-		A measured number is a number that exists because of some measurement. Measured numbers have a finite number of significant figures.
-	</p></fn> numbers. Exact numbers are discrete things that can be counted (ex. 3 eggs), quantities that are exact definitions (ex. there are 12 inches in one foot), or desired values (ex. the established dosage for a pharmaceutical is 10 mg/kg/day). Measured numbers are any quantity that had to be measured. They are also found when we are equating units that occur in different systems of measurement (ex. 2.54 cm=1 inch; 1 inch is very close to 2.54 cm, but an inch is not defined as being exactly 2.54 cm).
+		To understand how precisely we know a quantity, we will first discuss the difference between <term><xref ref="def-exact" text="custom">exact</xref></term> and <term><xref ref="def-measured" text="custom">measured</xref></term> numbers. Exact numbers are discrete things that can be counted (ex. 3 eggs), quantities that are exact definitions (ex. there are 12 inches in one foot), or desired values (ex. the established dosage for a pharmaceutical is 10 mg/kg/day). Measured numbers are any quantity that had to be measured. They are also found when we are equating units that occur in different systems of measurement (ex. 2.54 cm=1 inch; 1 inch is very close to 2.54 cm, but an inch is not defined as being exactly 2.54 cm).
 	</p>
 
 	<p>
@@ -106,39 +102,51 @@
 	</p>
 
 	<p>
-		This brings us to the concept of <term>significant figures</term><fn>	<p>
-		Significant figures are those digits in a number that convey information about its value and its precision.
-	</p></fn>. Significant figures are those digits in a number that reveal the level of precision. We have to worry about the number of significant figures when we’re dealing with measured numbers, since those values are only known to a certain degree of precision. If a stopwatch at the end of a race reads 9.81 seconds, then that measurement has 3 significant figures (the 9, 8, and 1 are each significant). In that case, the time was measured to the hundredths place, but not to the thousandths place and the reported value should reflect that. Exact numbers, on the other hand, have an infinite number of significant figures because of their infinite precision.
+		This brings us to the concept of <term><xref ref="def-significantfigures" text="custom">significant figures</xref></term>. Significant figures are those digits in a number that reveal the level of precision. We have to worry about the number of significant figures when we’re dealing with measured numbers, since those values are only known to a certain degree of precision. If a stopwatch at the end of a race reads 9.81 seconds, then that measurement has 3 significant figures (the 9, 8, and 1 are each significant). In that case, the time was measured to the hundredths place, but not to the thousandths place and the reported value should reflect that. Exact numbers, on the other hand, have an infinite number of significant figures because of their infinite precision.
 	</p>
 
 	<p>
 		In a measured numbers, there are some simple rules to remember in order to identify which digits are significant. First of all, non-zero digits are always significant when the number is written in standard notation (more on scientific notation in just a little bit). The complication comes from zeros in measured numbers.
 	</p>
-
-	<p>
-		There are three rules to remember with zeros:
-	</p>
+<assemblage xml:id="assemblage-significantfigures">
+	<title>Rules for significant digits</title>
 
 	<p><ol>
 		<li>
 			<p>
-				When zeros are to the far left of the number, they are never significant
+				All non-zero digits are significant.
 			</p>
 		</li>
-
 		<li>
 			<p>
-				Zeros in between non-zero digits are always significant
+				Zeroes are sometimes significant
 			</p>
-		</li>
+			<ol>
+				<li>
+					<p>
+						When zeros are to the far left of the number, they are never significant
+					</p>
+				</li>
 
-		<li>
-			<p>
-				Zeros to the far right of a number are significant ONLY if there is a decimal point written in the number.
-			</p>
+				<li>
+					<p>
+						Zeros in between non-zero digits are always significant
+					</p>
+				</li>
+
+				<li>
+					<p>
+						Zeros to the far right of a number are significant ONLY if there is a decimal point written in the number.
+					</p>
+				</li>
+			</ol>
 		</li>
+		
 
 	</ol></p>
+
+</assemblage>
+	
 
 	<blockquote>
 			<p>
@@ -183,140 +191,8 @@
 		The last rule for significant figures has to deal with scientific notation. In scientific notation, the power and the base are NOT significant. The only significant figures come from the coefficient portion, and it obeys the rules covered previously, including the rules about zeros. So <m>4.0010 \times 10^{10}</m> has 5 significant figures (4.0010; the 10 to the 10<sup>th</sup> power is not significant). Sometimes we HAVE to write a number in scientific notation to convey the correct number of significant figures. For instance, if you measured as distance of 300 cm to 2 significant figures, you can’t indicate that by writing 300 cm (1 significant figure) or 300. cm (2 significant figures). You can show it by writing <m>3.0 \times 10^{2}</m>cm.
 	</p>
 
-	<p>
-		<em><term>Exercise 1: Significant figures</term></em>
-	</p>
-
-	<blockquote>
-			<p>
-		<em>Complete the following problems</em>
-	</p>
-	</blockquote>
-
-	<p><ol>
-		<li>
-			<p>
-				Determine if the following numbers are exact or measured.
-			</p>
-		
-			<p><ol>
-				<li>
-					<p>
-						12 cows
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						4.73 feet
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						42 minutes
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						23 dozen eggs
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						10 mm in a centimeter
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						12 inches in a foot
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						1.057 quarts in a liter
-					</p>
-				</li>
-		
-			</ol></p>
-		</li>
-
-		<li>
-			<p>
-				How many significant figures are in the following numbers?
-			</p>
-		
-			<p><ol>
-				<li>
-					<p>
-						4.33
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						17.04
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						0.0053020
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						500
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						1000000.
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						5.620 x 10<sup>23</sup>
-					</p>
-				</li>
-		
-			</ol></p>
-		</li>
-
-		<li>
-			<p>
-				Rewrite the following numbers with the indicated number of significant figures.
-			</p>
-		
-			<p><ol>
-				<li>
-					<p>
-						9.9800 (4 significant figures)
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						2.80 x 10<sup>4</sup> (4 significant figures)
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						52000 (3 significant figures)
-					</p>
-				</li>
-		
-			</ol></p>
-		</li>
-
-	</ol></p>
+<exercises xml:id="exercises-math4">
+	
+</exercises>
 
 </section>
