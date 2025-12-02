@@ -101,73 +101,299 @@
 
 	</ol></p>
 
-    <p>
-		<em><term>Exercise 3: Significant figures in calculations</term></em>
-	</p>
 
-	<p><ol>
-		<li>
+
+
+
+	
+  <exercises xml:id="exercises-math6">
+	<exercisegroup>
+	
+		<introduction>
 			<p>
-				<em>Do the following calculations. Assume that each of the numbers is a measured number unless otherwise stated.</em>
+				Rewrite (round if necessary) the following numbers to have the indicated number of significant figures.
 			</p>
-		</li>
+		</introduction>
+	<exercise>
+  <statement>
+    <p>9.9800  (4 significant figures)</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>9.980</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
 
-	</ol></p>
+<exercise>
+  <statement>
+    <p>9.9800  (3 significant figures)</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>9.98</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
 
-	<p><ol>
-		<li>
-			<p>
-				5.55-1
-			</p>
-		</li>
+<exercise>
+  <statement>
+    <p>9.9800  (7 significant figures)</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>9.980000</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
 
-		<li>
-			<p>
-				4.888+0.01
-			</p>
-		</li>
+<exercise>
+  <statement>
+    <p>9.9800  (2 significant figures)</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>10.</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
 
-		<li>
-			<p>
-				9.999/4.33
-			</p>
-		</li>
+<exercise>
+  <statement>
+    <p><m>2.80\times10^{4}</m> (4 significant figures)</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>2.800\times10^{4}</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
 
-		<li>
-			<p>
-				22.1 x 44.44
-			</p>
-		</li>
+<exercise>
+  <statement>
+    <p>52000 (3 significant figures)</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>5.20\times10^{4}</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
 
-	</ol></p>
 
-	<p><ol>
-		<li>
-			<p>
-				<em>Do the following calculations. Assume that each of the numbers is a measured number unless otherwise stated. Show each of your steps and circle the digit that should be rounded to after each step.</em>
-			</p>
-		
-			<p><ol>
-				<li>
-					<p>
-						(97+32) x 1.8
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						(9.80 x 0.0010 / 4.533) + 0.045
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						<m>\frac{1.1 \times 10^{6} + 5.12}{17.55 + 3.077}</m> (hint: you may want to write the scientific notation in standard notation to help you out)
-					</p>
-				</li>
-		
-			</ol></p>
-		</li>
+	
+	</exercisegroup>
+	
+<exercisegroup>
 
-	</ol></p>
+	<introduction>
+		<p>
+			Do the following calculations.  Assume that each of the numbers is a measured number unless otherwise stated.
+		</p>
+	</introduction>
+
+<exercise>
+  <statement>
+    <p><m>5.55-1.00</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>4.55</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>5.55-1.0</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>4.6</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>5.55-1</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>5</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>7.5\times3.6</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>27</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>7.5\times3.600</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>27</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>7.500\times3.600</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>27.00</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>4.888+0.01</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>4.90</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>9.999/4.33</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>2.31</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>220.1 x 440.</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>9.68\times10^{4}</m> (must be written in scientific notation)</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>220.1 x 440 (assume that 440 is an exact number)</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>9.684\times10^{4}</m> or <m>96840</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+
+</exercisegroup>
+
+<exercisegroup>
+
+	<introduction>
+		<p>
+			Do the following calculations.  Assume that each of the numbers is a measured number unless otherwise stated.  Show each of your steps and circle the digit that should be rounded to after each step.
+		</p>
+	</introduction>
+<exercise>
+  <statement>
+    <p><m>97+32\times1.8</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>230</p>
+	<image source="sigfiganswer1.png">
+		<shortdescription>A picture showing how to track significant digits in a calculation</shortdescription>
+	</image>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>\frac{9.80\times0.0010}{4.533}+0.04</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>0.047</p>
+		<image source="sigfiganswer2.png">
+		<shortdescription>A picture showing how to track significant digits in a calculation</shortdescription>
+	</image>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>\frac{1.1\times10^{6}+5.12}{17.55+3.077}</m> (hint: you may want to write the scientific notation in standard notation to help you out)</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>53000</p>
+		<image source="sigfiganswer3.png">
+		<shortdescription>A picture showing how to track significant digits in a calculation</shortdescription>
+	</image>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+
+
+</exercisegroup>
+  </exercises>
 </section>
