@@ -88,6 +88,96 @@
 </p>
 
 <exercises xml:id="exercises-math3">
+	<exercisegroup>
 	
+		<introduction>
+			<p>
+				For the following problems, solve for the value of c.  In some cases your solution will be an expression rather than a number.  Write out all of your steps
+			</p>
+		</introduction>
+	<exercise>
+  <statement>
+    <p><m>c+7=10</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>c=3</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>\frac{3}{5}\timesc=\frac{9}{10}</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>c=\frac{3}{2}</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>\frac{9}{5}c+50=105</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>c=\frac{275}{9}</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>\frac{P}{c}=\frac{T}{X}</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>c=\frac{PX}{T}</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>\frac{c+3}{4}=\frac{7}{4}+1</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>c=8</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>c\times\frac{5km}{hr}=100km</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p><m>c=20hr</m></p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+		
+	
+	</exercisegroup>
+ 
+
+
+
 </exercises>
 </section>
