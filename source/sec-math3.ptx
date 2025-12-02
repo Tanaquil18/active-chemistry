@@ -57,7 +57,7 @@
 			<ol>
 				<li>
 					<p>
-						<p>Example: <m>3x+5=14</m></p><p>We have to use two reverse operations (subtraction and division) to isolate x, but which do we do first?  If we were computing the left side of the equation, we'd first multiply 3 times x and then add 5.  When isolating x, we must go in the reverse order of operations.  So in this case we need to undo the addition of 5 before undoing the multiplication by 3.  So the first thing we do is subtract 5 from both sides. Then we can divide by 3.</p><p><m>3x+5=14 \rightarrow \\3x+5-5=14-5 \rightarrow \\3x=9 \rightarrow \\3x\div3=9\div3 \rightarrow \\x=3</m></p>
+						<p>Example: <m>3x+5=14</m></p><p>We have to use two reverse operations (subtraction and division) to isolate x, but which do we do first?  If we were computing the left side of the equation, we'd first multiply 3 times x and then add 5.  When isolating x, we must go in the reverse order of operations.  So in this case we need to undo the addition of 5 before undoing the multiplication by 3.  So the first thing we do is subtract 5 from both sides. Then we can divide by 3.</p><p><m>3x+5=14 \rightarrow \newline 3x+5-5=14-5 \rightarrow \newline 3x=9 \rightarrow \newline 3x\div3=9\div3 \rightarrow \newline x=3</m></p>
 					</p>
 				</li>
 				<li>
