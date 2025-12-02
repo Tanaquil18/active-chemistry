@@ -102,7 +102,55 @@
 	</ol></p>
 
 <p>
-	
+	<p>
+		<term>Section 3: Significant figures in calculations</term>
+	</p>
+
+	<p>
+		What do we do if we have to do calculations that involve measured numbers? For instance, what if three different students measure the orange arrow above and we are asked to compute the average of those measurements? For instance, if the three students measured the line to be 0.92 cm, 0.94 cm, and 0.95 cm, then the average from your calculator would be 0.9366666666…cm. Do we know the average that precisely? In order to do figure out the number of significant figures in this case, we have to learn rules for significant figures in calculations as well as how to round.
+	</p>
+
+	<p>
+		We’ll start with rounding. If your calculator were to display the answer to a calculation as 9.874030234 and you have to round it to 3 significant figures, your first step is to identify the first 3 significant figures in the number, starting from the left (in this case 9.87). You then look at the next digit to the right (in this case a 4). If that digit is 0-4, you don’t round up the figures that you are keeping. If it is 5-9, then you round up the rightmost kept significant figure. In this case, since the digit is a 4, we would not round up the 7 in 9.87…so the final rounded number should be 9.87. In contrast, if we were trying to round 9.9987 to 4 significant figures, then we’d keep the 9.998, look at the next digit (which is a 7). This would cause us to round up the 8, which would result in an answer of 9.999.
+	</p>
+
+	<p>
+		The rules for calculations are divided into 3 parts: rules for addition/subtraction, rules for multiplication, and rules for logarithms and exponents. In this chapter, we’ll cover the first two sets of rules only. The rule for logarithms and exponents will be covered in a later chapter.
+	</p>
+
+	<p>
+		The multiplication/division rule is the most common that we use in this class. <em>The rule states that the answer should have the same number of significant figures as the starting value that had the fewest.</em> Thus, if we multiply the measured numbers of 4.5, 0.3, and 9.888, we get a calculator answer of 13.3488. This should be rounded to 1 significant figure because our starting values had 2, 1, and 4 significant figures respectively and the rule states that our answer should have the same number of significant figures as our starting value that had the least (in this case 1). So our final reported value should be 10.
+	</p>
+
+	<p>
+		When adding and subtracting, the number of significant figures does not matter. What matters is the digit place of the most precise significant figure in each number. What do I mean by the most precise significant figure…consider the measured number 4.432 ft. In this case the 2 is the most precise significant figure because it represents the smallest level of detail. <em>When adding or subtracting the rule states that the final answer’s most precise significant figure should be in the same digit place as the starting value with the least most precise significant figure</em> (that’s a mouthful…but it’s easy to demonstrate).
+	</p>
+
+	<p>
+		If you were adding the following measured numbers: 0.34, 0.0002, and 15.3 our calculator would display 15.6402. The question is then how should we round this number? The most precise significant figures in each of our starting numbers are 4, 2, and 3 respectively (each is highlighted in yellow). The 4 is in the hundredths place, the 2 in the ten thousandths, and the 3 in the tenths. Out of those options, the tenths place is the least significant place and so our final number will be rounded to the tenths place, giving us 15.6. This is easily demonstrated by lining the values up vertically and rounding the final answer to the most significant digit <image source="sigfigadding.png"/>place that is furthest to the left.
+	</p>
+
+	<p>
+		What if a calculation requires both addition and multiplication? In that case, the best practice is to save the rounding for the very end. Do NOT round along the way or you may introduce errors. What you need to do is think about what the rounding would look like after each step in order and then round the final answer based on that. For instance, if you were averaging the measurements 9.87, 9.99, and 9.64 grams, you would need to add them and then divide by 3. If you add them you get 29.5 on most calculators, but you should be thinking about what place that should be rounded to…in this case the hundredths place. That number 29.5 (or 29.50) would then be divided by 3. In this case, 3 is an exact number with an infinite number of significant figures because you are averaging <em>exactly</em> 3 numbers. You calculator might display 9.83333333. The question is how many significant figures should we keep? The addition step should have given us 4 significant figures. The division step involved a number with 4 significant figures and another with an infinite number. Thus our final answer should have 4 significant figures (9.833 grams).
+	</p>
+
+	<p>
+		A helpful way for keeping track of this is to circle the digit place that should be rounded to after each step in the calculation (even though we won’t round until the end. This can help you keep track of how many significant figures each number has (or which digit place the most precise digit is in) for each number along the way. See the example below:
+	</p>
+
+
+
+	<figure>
+	<image source="sigfigmulti.png"/>
+		<caption>	<p>
+		Compute the following and round to the correct number of significant figures. Assume each number shown in the original calculation is a measured number.
+	</p>
+
+	<p>
+		<me>(0.995 + 1.0) \times 22.0 \div 4.30 = ?</me>
+	</p></caption>
+</figure>
+
 </p>
 
 
