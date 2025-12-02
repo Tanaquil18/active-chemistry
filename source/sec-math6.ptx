@@ -101,9 +101,8 @@
 
 	</ol></p>
 
-<p>
 	<p>
-		<term>Section 3: Significant figures in calculations</term>
+		<term>Significant figures in calculations</term>
 	</p>
 
 	<p>
@@ -127,9 +126,11 @@
 	</p>
 
 	<p>
-		If you were adding the following measured numbers: 0.34, 0.0002, and 15.3 our calculator would display 15.6402. The question is then how should we round this number? The most precise significant figures in each of our starting numbers are 4, 2, and 3 respectively (each is highlighted in yellow). The 4 is in the hundredths place, the 2 in the ten thousandths, and the 3 in the tenths. Out of those options, the tenths place is the least significant place and so our final number will be rounded to the tenths place, giving us 15.6. This is easily demonstrated by lining the values up vertically and rounding the final answer to the most significant digit <image source="sigfigadding.png"/>place that is furthest to the left.
+		If you were adding the following measured numbers: 0.34, 0.0002, and 15.3 our calculator would display 15.6402. The question is then how should we round this number? The most precise significant figures in each of our starting numbers are 4, 2, and 3 respectively (each is highlighted in yellow). The 4 is in the hundredths place, the 2 in the ten thousandths, and the 3 in the tenths. Out of those options, the tenths place is the least significant place and so our final number will be rounded to the tenths place, giving us 15.6. This is easily demonstrated by lining the values up vertically and rounding the final answer to the most significant digit place that is furthest to the left.
 	</p>
-
+<p>
+  <image source="sigfigadding.png" width="30%"/>
+</p>
 	<p>
 		What if a calculation requires both addition and multiplication? In that case, the best practice is to save the rounding for the very end. Do NOT round along the way or you may introduce errors. What you need to do is think about what the rounding would look like after each step in order and then round the final answer based on that. For instance, if you were averaging the measurements 9.87, 9.99, and 9.64 grams, you would need to add them and then divide by 3. If you add them you get 29.5 on most calculators, but you should be thinking about what place that should be rounded to…in this case the hundredths place. That number 29.5 (or 29.50) would then be divided by 3. In this case, 3 is an exact number with an infinite number of significant figures because you are averaging <em>exactly</em> 3 numbers. You calculator might display 9.83333333. The question is how many significant figures should we keep? The addition step should have given us 4 significant figures. The division step involved a number with 4 significant figures and another with an infinite number. Thus our final answer should have 4 significant figures (9.833 grams).
 	</p>
@@ -140,18 +141,19 @@
 
 
 
-	<figure>
-	<image source="sigfigmulti.png"/>
-		<caption>	<p>
+	<assemblage>
+	
+	<p>
 		Compute the following and round to the correct number of significant figures. Assume each number shown in the original calculation is a measured number.
 	</p>
 
 	<p>
 		<me>(0.995 + 1.0) \times 22.0 \div 4.30 = ?</me>
-	</p></caption>
-</figure>
+	</p>
+  <image source="sigfigmulti.png"/>
+</assemblage>
 
-</p>
+
 
 
 
