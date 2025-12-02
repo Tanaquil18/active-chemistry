@@ -188,11 +188,216 @@
 	</ol></p>
 
 	<p>
-		The last rule for significant figures has to deal with scientific notation. In scientific notation, the power and the base are NOT significant. The only significant figures come from the coefficient portion, and it obeys the rules covered previously, including the rules about zeros. So <m>4.0010 \times 10^{10}</m> has 5 significant figures (4.0010; the 10 to the 10<sup>th</sup> power is not significant). Sometimes we HAVE to write a number in scientific notation to convey the correct number of significant figures. For instance, if you measured as distance of 300 cm to 2 significant figures, you can’t indicate that by writing 300 cm (1 significant figure) or 300. cm (2 significant figures). You can show it by writing <m>3.0 \times 10^{2}</m>cm.
+		The last rule for significant figures has to deal with scientific notation. In scientific notation, the power and the base are NOT significant. <em>The only significant figures come from the coefficient portion, and it obeys the rules covered previously, including the rules about zeros.</em> So <m>4.0010 \times 10^{10}</m> has 5 significant figures (4.0010; the 10 to the 10<sup>th</sup> power is not significant). Sometimes we HAVE to write a number in scientific notation to convey the correct number of significant figures. For instance, if you measured as distance of 300 cm to 2 significant figures, you can’t indicate that by writing 300 cm (1 significant figure) or 300. cm (2 significant figures). You can show it by writing <m>3.0 \times 10^{2}</m>cm.
 	</p>
+	
 
 <exercises xml:id="exercises-math4">
+	<exercisegroup>
 	
+		<introduction>
+			<p>
+				Determine if the following numbers are exact or measured
+			</p>
+		</introduction>
+	<exercise>
+  <statement>
+    <p>12 cows in a pasture</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>Exact</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>A person is 4.73 feet tall</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>Measured</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>The winner finished in 42 minutes 11.3 seconds</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>Measured</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>I counted 3 dozen eggs</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>Exact</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>There are 10 mm in a centimeter</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>Exact</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>There are 12 inches in a foot</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>Exact</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>There are 1.057 quarts in a liter</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>Measured</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+	
+	</exercisegroup>
+	
+<exercisegroup>
+
+	<introduction>
+		<p>
+			How many significant figures are in the following numbers?
+		</p>
+	</introduction>
+
+<exercise>
+  <statement>
+    <p>4.33</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>3</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>17.04</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>4</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>0.0053020</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>5</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>500</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>1</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p>1 000 000.</p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>7</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>5.620\times10^{23}</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>4</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+<exercise>
+  <statement>
+    <p><m>2.01\times10^{-11}</m></p>
+  </statement>
+  <!--<hint>--> 
+  <!--</hint>--> 
+  <answer>
+    <p>3</p>
+  </answer>
+  <!-- <solution>--> 
+  <!-- </solution>--> 
+</exercise>
+
+</exercisegroup>
+
+
+
+
+
 </exercises>
 
 </section>
