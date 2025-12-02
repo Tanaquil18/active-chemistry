@@ -184,10 +184,19 @@ eBookConfig.enable_chatcodes =  false;
 <div class="toc-title-box"><a href="sec-math2.html" class="internal"><span class="codenumber">2.2</span> <span class="title">Scientific notation</span></a></div>
 <ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sec-math2.html#exercises-math2" class="internal"><span class="codenumber">2.2</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-math3.html" class="internal"><span class="codenumber">2.3</span> <span class="title">Algebra review</span></a></div></li>
-<li class="toc-item toc-section active"><div class="toc-title-box"><a href="sec-math4.html" class="internal"><span class="codenumber">2.4</span> <span class="title">Significant figures</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-math3.html" class="internal"><span class="codenumber">2.3</span> <span class="title">Algebra review</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sec-math3.html#exercises-math3" class="internal"><span class="codenumber">2.3</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-section contains-active">
+<div class="toc-title-box"><a href="sec-math4.html" class="internal"><span class="codenumber">2.4</span> <span class="title">Significant figures</span></a></div>
+<ul class="structural toc-item-list active"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sec-math4.html#exercises-math4" class="internal"><span class="codenumber">2.4</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-math5.html" class="internal"><span class="codenumber">2.5</span> <span class="title">Analog vs. digital measurements</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-math6.html" class="internal"><span class="codenumber">2.6</span> <span class="title">Significant figures in calculations</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-math6.html" class="internal"><span class="codenumber">2.6</span> <span class="title">Significant figures in calculations</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sec-math6.html#exercises-math6" class="internal"><span class="codenumber">2.6</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-math7.html" class="internal"><span class="codenumber">2.7</span> <span class="title">Mental math</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-math8.html" class="internal"><span class="codenumber">2.8</span> <span class="title">Conversion factors</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-math9.html" class="internal"><span class="codenumber">2.9</span> <span class="title">Dimensional analysis</span></a></div></li>
@@ -423,205 +432,224 @@ eBookConfig.enable_chatcodes =  false;
 <div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-3" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="para" id="sec-math4-4">
-<dfn class="terminology">Section 1: Significant Figures</dfn><div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-4" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<dfn class="terminology">Significant Figures</dfn><div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-4" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="para" id="sec-math4-5">In chemistry, we use math a lot. The numbers that we use in our calculations often describe measurements or numbers of things, such as numbers of molecules. This then raises an important consideration for us, namely how precisely do we know the numbers in our calculations? For instance, if I’m measuring the length of a piece of string, do I know its length precisely to the nearest inch, or to the nearest millimeter, or to the nearest nanometer? The answer to that question depends on the tools that were used to make the measurement and their level of precision. Obviously, you won’t be able to tell how many nanometers long a piece of string is by using a typical ruler; another much more expensive measuring device would likely be required.<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-5" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="para" id="sec-math4-6">To understand how precisely we know a quantity, we will first discuss the difference between <dfn class="terminology">exact</dfn><details class="ptx-footnote" aria-live="polite" id="sec-math4-6-2"><summary class="ptx-footnote__number" title="Footnote 2.4.1"><sup> 1 </sup></summary><div class="ptx-footnote__contents" id="sec-math4-6-2"><div class="para" id="sec-math4-6-2-1">An exact number is one that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-6-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div></div></details> and <dfn class="terminology">measured</dfn><details class="ptx-footnote" aria-live="polite" id="sec-math4-6-4"><summary class="ptx-footnote__number" title="Footnote 2.4.2"><sup> 2 </sup></summary><div class="ptx-footnote__contents" id="sec-math4-6-4"><div class="para" id="sec-math4-6-4-1">A measured number is a number that exists because of some measurement. Measured numbers have a finite number of significant figures.<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-6-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div></div></details> numbers. Exact numbers are discrete things that can be counted (ex. 3 eggs), quantities that are exact definitions (ex. there are 12 inches in one foot), or desired values (ex. the established dosage for a pharmaceutical is 10 mg/kg/day). Measured numbers are any quantity that had to be measured. They are also found when we are equating units that occur in different systems of measurement (ex. 2.54 cm=1 inch; 1 inch is very close to 2.54 cm, but an inch is not defined as being exactly 2.54 cm).<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-6" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="sec-math4-6">To understand how precisely we know a quantity, we will first discuss the difference between <dfn class="terminology"><a href="backmatter-2.html#def-exact" class="xref" data-knowl="./knowl/xref/def-exact.html" data-reveal-label="Reveal" data-close-label="Close" title="Definition A.0.31">exact</a></dfn> and <dfn class="terminology"><a href="backmatter-2.html#def-measured" class="xref" data-knowl="./knowl/xref/def-measured.html" data-reveal-label="Reveal" data-close-label="Close" title="Definition A.0.32">measured</a></dfn> numbers. Exact numbers are discrete things that can be counted (ex. 3 eggs), quantities that are exact definitions (ex. there are 12 inches in one foot), or desired values (ex. the established dosage for a pharmaceutical is 10 mg/kg/day). Measured numbers are any quantity that had to be measured. They are also found when we are equating units that occur in different systems of measurement (ex. 2.54 cm=1 inch; 1 inch is very close to 2.54 cm, but an inch is not defined as being exactly 2.54 cm).<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-6" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="para" id="sec-math4-7">Exact numbers are known to an infinite level of precision. If you have 3 eggs, you don’t have 3.0000001 eggs…you have exactly 3.00000000… (keeps on going…) eggs. If the dosage of drug that you are supposed to give to a patient is 10mg/kg/day, the desired dose is not higher or lower than that…it is exactly that value. Measured numbers, on the other hand, are known only to a certain level of precision. A race may have taken exactly 9.813453223 (feel free to add other random digits on the end) seconds, but if I am using a stop watch that only measures hundredths of a second, then my measured value would be 9.81 seconds. Because of this, measured numbers always have a certain amount of uncertainty associated with them. How then do we communicate the level of certainty with which we know a number?<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-7" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="para" id="sec-math4-8">This brings us to the concept of <dfn class="terminology">significant figures</dfn><details class="ptx-footnote" aria-live="polite" id="sec-math4-8-2"><summary class="ptx-footnote__number" title="Footnote 2.4.3"><sup> 3 </sup></summary><div class="ptx-footnote__contents" id="sec-math4-8-2"><div class="para" id="sec-math4-8-2-1">Significant figures are those digits in a number that convey information about its value and its precision.<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-8-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div></div></details>. Significant figures are those digits in a number that reveal the level of precision. We have to worry about the number of significant figures when we’re dealing with measured numbers, since those values are only known to a certain degree of precision. If a stopwatch at the end of a race reads 9.81 seconds, then that measurement has 3 significant figures (the 9, 8, and 1 are each significant). In that case, the time was measured to the hundredths place, but not to the thousandths place and the reported value should reflect that. Exact numbers, on the other hand, have an infinite number of significant figures because of their infinite precision.<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-8" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="sec-math4-8">This brings us to the concept of <dfn class="terminology"><a href="backmatter-2.html#def-significantfigures" class="xref" data-knowl="./knowl/xref/def-significantfigures.html" data-reveal-label="Reveal" data-close-label="Close" title="Definition A.0.33">significant figures</a></dfn>. Significant figures are those digits in a number that reveal the level of precision. We have to worry about the number of significant figures when we’re dealing with measured numbers, since those values are only known to a certain degree of precision. If a stopwatch at the end of a race reads 9.81 seconds, then that measurement has 3 significant figures (the 9, 8, and 1 are each significant). In that case, the time was measured to the hundredths place, but not to the thousandths place and the reported value should reflect that. Exact numbers, on the other hand, have an infinite number of significant figures because of their infinite precision.<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-8" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="para" id="sec-math4-9">In a measured numbers, there are some simple rules to remember in order to identify which digits are significant. First of all, non-zero digits are always significant when the number is written in standard notation (more on scientific notation in just a little bit). The complication comes from zeros in measured numbers.<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-9" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="para" id="sec-math4-10">There are three rules to remember with zeros:<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-10" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<article class="assemblage assemblage-like" id="assemblage-significantfigures"><h3 class="heading"><span class="title">Rules for significant digits.</span></h3>
+<div class="para logical" id="assemblage-significantfigures-2">
+<ol class="decimal" id="assemblage-significantfigures-2-1">
+<li id="assemblage-significantfigures-2-1-1">
+<div class="para" id="assemblage-significantfigures-2-1-1-1">All non-zero digits are significant.<div class="autopermalink" data-description="Paragraph"><a href="#assemblage-significantfigures-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="para logical" id="sec-math4-11">
-<ol class="decimal" id="sec-math4-11-1">
-<li id="sec-math4-11-1-1">
-<div class="para" id="sec-math4-11-1-1-1">When zeros are to the far left of the number, they are never significant<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-11-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 1"><a href="#sec-math4-11-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+<div class="autopermalink" data-description="Item 1"><a href="#assemblage-significantfigures-2-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
 </li>
-<li id="sec-math4-11-1-2">
-<div class="para" id="sec-math4-11-1-2-1">Zeros in between non-zero digits are always significant<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-11-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<li id="assemblage-significantfigures-2-1-2">
+<div class="para" id="assemblage-significantfigures-2-1-2-1">Zeroes are sometimes significant<div class="autopermalink" data-description="Paragraph"><a href="#assemblage-significantfigures-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 2"><a href="#sec-math4-11-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+<ol class="lower-alpha lower-alpha-level-1" id="assemblage-significantfigures-2-1-2-2">
+<li id="assemblage-significantfigures-2-1-2-2-1">
+<div class="para" id="assemblage-significantfigures-2-1-2-2-1-1">When zeros are to the far left of the number, they are never significant<div class="autopermalink" data-description="Paragraph"><a href="#assemblage-significantfigures-2-1-2-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 2.a"><a href="#assemblage-significantfigures-2-1-2-2-1" title="Copy heading and permalink for Item 2.a" aria-label="Copy heading and permalink for Item 2.a">🔗</a></div>
 </li>
-<li id="sec-math4-11-1-3">
-<div class="para" id="sec-math4-11-1-3-1">Zeros to the far right of a number are significant ONLY if there is a decimal point written in the number.<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-11-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<li id="assemblage-significantfigures-2-1-2-2-2">
+<div class="para" id="assemblage-significantfigures-2-1-2-2-2-1">Zeros in between non-zero digits are always significant<div class="autopermalink" data-description="Paragraph"><a href="#assemblage-significantfigures-2-1-2-2-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 3"><a href="#sec-math4-11-1-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
+<div class="autopermalink" data-description="Item 2.b"><a href="#assemblage-significantfigures-2-1-2-2-2" title="Copy heading and permalink for Item 2.b" aria-label="Copy heading and permalink for Item 2.b">🔗</a></div>
+</li>
+<li id="assemblage-significantfigures-2-1-2-2-3">
+<div class="para" id="assemblage-significantfigures-2-1-2-2-3-1">Zeros to the far right of a number are significant ONLY if there is a decimal point written in the number.<div class="autopermalink" data-description="Paragraph"><a href="#assemblage-significantfigures-2-1-2-2-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 2.c"><a href="#assemblage-significantfigures-2-1-2-2-3" title="Copy heading and permalink for Item 2.c" aria-label="Copy heading and permalink for Item 2.c">🔗</a></div>
 </li>
 </ol>
-<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-11" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="autopermalink" data-description="Item 2"><a href="#assemblage-significantfigures-2-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#assemblage-significantfigures-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<blockquote class="blockquote" id="sec-math4-12">
-<div class="para" id="sec-math4-12-1">Some examples of this:<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-12-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="autopermalink" data-description="Assemblage: Rules for significant digits"><a href="#assemblage-significantfigures" title="Copy heading and permalink for Assemblage: Rules for significant digits" aria-label="Copy heading and permalink for Assemblage: Rules for significant digits">🔗</a></div></article><blockquote class="blockquote" id="sec-math4-11">
+<div class="para" id="sec-math4-11-1">Some examples of this:<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-11-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Quotation"><a href="#sec-math4-12" title="Copy heading and permalink for Quotation" aria-label="Copy heading and permalink for Quotation">🔗</a></div>
+<div class="autopermalink" data-description="Quotation"><a href="#sec-math4-11" title="Copy heading and permalink for Quotation" aria-label="Copy heading and permalink for Quotation">🔗</a></div>
 </blockquote>
-<div class="para logical" id="sec-math4-13">
-<ol class="decimal" id="sec-math4-13-1">
-<li id="sec-math4-13-1-1">
-<div class="para" id="sec-math4-13-1-1-1">0.0034 (none of these zeros are significant because of rule 1)<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-13-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para logical" id="sec-math4-12">
+<ol class="decimal" id="sec-math4-12-1">
+<li id="sec-math4-12-1-1">
+<div class="para" id="sec-math4-12-1-1-1">0.0034 (none of these zeros are significant because of rule 1)<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-12-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 1"><a href="#sec-math4-13-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+<div class="autopermalink" data-description="Item 1"><a href="#sec-math4-12-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
 </li>
-<li id="sec-math4-13-1-2">
-<div class="para" id="sec-math4-13-1-2-1">3001 (the zeros are significant because of rule 2)<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-13-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<li id="sec-math4-12-1-2">
+<div class="para" id="sec-math4-12-1-2-1">3001 (the zeros are significant because of rule 2)<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-12-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 2"><a href="#sec-math4-13-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+<div class="autopermalink" data-description="Item 2"><a href="#sec-math4-12-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
 </li>
-<li id="sec-math4-13-1-3">
-<div class="para" id="sec-math4-13-1-3-1">400.0 (all of these zeros are significant because of rule 3)<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-13-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<li id="sec-math4-12-1-3">
+<div class="para" id="sec-math4-12-1-3-1">400.0 (all of these zeros are significant because of rule 3)<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-12-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 3"><a href="#sec-math4-13-1-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
+<div class="autopermalink" data-description="Item 3"><a href="#sec-math4-12-1-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
 </li>
-<li id="sec-math4-13-1-4">
-<div class="para" id="sec-math4-13-1-4-1">300 (none of these zeros are significant because of rule 3)<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-13-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<li id="sec-math4-12-1-4">
+<div class="para" id="sec-math4-12-1-4-1">300 (none of these zeros are significant because of rule 3)<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-12-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 4"><a href="#sec-math4-13-1-4" title="Copy heading and permalink for Item 4" aria-label="Copy heading and permalink for Item 4">🔗</a></div>
+<div class="autopermalink" data-description="Item 4"><a href="#sec-math4-12-1-4" title="Copy heading and permalink for Item 4" aria-label="Copy heading and permalink for Item 4">🔗</a></div>
 </li>
-<li id="sec-math4-13-1-5">
-<div class="para" id="sec-math4-13-1-5-1">300. (all of these zeros are significant because of rule 3; notice the decimal has been purposely included)<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-13-1-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<li id="sec-math4-12-1-5">
+<div class="para" id="sec-math4-12-1-5-1">300. (all of these zeros are significant because of rule 3; notice the decimal has been purposely included)<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-12-1-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 5"><a href="#sec-math4-13-1-5" title="Copy heading and permalink for Item 5" aria-label="Copy heading and permalink for Item 5">🔗</a></div>
-</li>
-</ol>
-<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-13" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="para" id="sec-math4-14">The last rule for significant figures has to deal with scientific notation. In scientific notation, the power and the base are NOT significant. The only significant figures come from the coefficient portion, and it obeys the rules covered previously, including the rules about zeros. So <span class="process-math">\(4.0010 \times 10^{10}\)</span> has 5 significant figures (4.0010; the 10 to the 10th power is not significant). Sometimes we HAVE to write a number in scientific notation to convey the correct number of significant figures. For instance, if you measured as distance of 300 cm to 2 significant figures, you can’t indicate that by writing 300 cm (1 significant figure) or 300. cm (2 significant figures). You can show it by writing <span class="process-math">\(3.0 \times 10^{2}\)</span>cm.<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-14" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="para" id="sec-math4-15">
-<em class="emphasis"><dfn class="terminology">Exercise 1: Significant figures</dfn></em><div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-15" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<blockquote class="blockquote" id="sec-math4-16">
-<div class="para" id="sec-math4-16-1">
-<em class="emphasis">Complete the following problems</em><div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-16-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Quotation"><a href="#sec-math4-16" title="Copy heading and permalink for Quotation" aria-label="Copy heading and permalink for Quotation">🔗</a></div>
-</blockquote>
-<div class="para logical" id="sec-math4-17">
-<ol class="decimal" id="sec-math4-17-1">
-<li id="sec-math4-17-1-1">
-<div class="para" id="sec-math4-17-1-1-1">Determine if the following numbers are exact or measured.<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="para logical" id="sec-math4-17-1-1-2">
-<ol class="lower-alpha lower-alpha-level-1" id="sec-math4-17-1-1-2-1">
-<li id="sec-math4-17-1-1-2-1-1">
-<div class="para" id="sec-math4-17-1-1-2-1-1-1">12 cows<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-1-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 1.a"><a href="#sec-math4-17-1-1-2-1-1" title="Copy heading and permalink for Item 1.a" aria-label="Copy heading and permalink for Item 1.a">🔗</a></div>
-</li>
-<li id="sec-math4-17-1-1-2-1-2">
-<div class="para" id="sec-math4-17-1-1-2-1-2-1">4.73 feet<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-1-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 1.b"><a href="#sec-math4-17-1-1-2-1-2" title="Copy heading and permalink for Item 1.b" aria-label="Copy heading and permalink for Item 1.b">🔗</a></div>
-</li>
-<li id="sec-math4-17-1-1-2-1-3">
-<div class="para" id="sec-math4-17-1-1-2-1-3-1">42 minutes<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-1-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 1.c"><a href="#sec-math4-17-1-1-2-1-3" title="Copy heading and permalink for Item 1.c" aria-label="Copy heading and permalink for Item 1.c">🔗</a></div>
-</li>
-<li id="sec-math4-17-1-1-2-1-4">
-<div class="para" id="sec-math4-17-1-1-2-1-4-1">23 dozen eggs<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-1-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 1.d"><a href="#sec-math4-17-1-1-2-1-4" title="Copy heading and permalink for Item 1.d" aria-label="Copy heading and permalink for Item 1.d">🔗</a></div>
-</li>
-<li id="sec-math4-17-1-1-2-1-5">
-<div class="para" id="sec-math4-17-1-1-2-1-5-1">10 mm in a centimeter<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-1-2-1-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 1.e"><a href="#sec-math4-17-1-1-2-1-5" title="Copy heading and permalink for Item 1.e" aria-label="Copy heading and permalink for Item 1.e">🔗</a></div>
-</li>
-<li id="sec-math4-17-1-1-2-1-6">
-<div class="para" id="sec-math4-17-1-1-2-1-6-1">12 inches in a foot<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-1-2-1-6-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 1.f"><a href="#sec-math4-17-1-1-2-1-6" title="Copy heading and permalink for Item 1.f" aria-label="Copy heading and permalink for Item 1.f">🔗</a></div>
-</li>
-<li id="sec-math4-17-1-1-2-1-7">
-<div class="para" id="sec-math4-17-1-1-2-1-7-1">1.057 quarts in a liter<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-1-2-1-7-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 1.g"><a href="#sec-math4-17-1-1-2-1-7" title="Copy heading and permalink for Item 1.g" aria-label="Copy heading and permalink for Item 1.g">🔗</a></div>
+<div class="autopermalink" data-description="Item 5"><a href="#sec-math4-12-1-5" title="Copy heading and permalink for Item 5" aria-label="Copy heading and permalink for Item 5">🔗</a></div>
 </li>
 </ol>
-<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-1-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-12" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 1"><a href="#sec-math4-17-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
-</li>
-<li id="sec-math4-17-1-2">
-<div class="para" id="sec-math4-17-1-2-1">How many significant figures are in the following numbers?<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="sec-math4-13">The last rule for significant figures has to deal with scientific notation. In scientific notation, the power and the base are NOT significant. <em class="emphasis">The only significant figures come from the coefficient portion, and it obeys the rules covered previously, including the rules about zeros.</em> So <span class="process-math">\(4.0010 \times 10^{10}\)</span> has 5 significant figures (4.0010; the 10 to the 10th power is not significant). Sometimes we HAVE to write a number in scientific notation to convey the correct number of significant figures. For instance, if you measured as distance of 300 cm to 2 significant figures, you can’t indicate that by writing 300 cm (1 significant figure) or 300. cm (2 significant figures). You can show it by writing <span class="process-math">\(3.0 \times 10^{2}\)</span>cm.<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-13" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="para logical" id="sec-math4-17-1-2-2">
-<ol class="lower-alpha lower-alpha-level-1" id="sec-math4-17-1-2-2-1">
-<li id="sec-math4-17-1-2-2-1-1">
-<div class="para" id="sec-math4-17-1-2-2-1-1-1">4.33<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-2-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<section class="exercises" id="exercises-math4"><h3 class="heading hide-type">
+<span class="type">Exercises</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">Exercises</span>
+</h3>
+<div class="exercisegroup" id="exercises-math4-1">
+<h4 class="heading"><span class="title">Exercise Group.</span></h4>
+<div class="introduction" id="exercises-math4-1-1"><div class="para" id="exercises-math4-1-1-1">Determine if the following numbers are exact or measured<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div></div>
+<div class="exercisegroup-exercises">
+<article class="exercise exercise-like" id="exercises-math4-1-2"><h5 class="heading"><span class="codenumber">1<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h5>
+<div class="para" id="exercises-math4-1-2-1-1">12 cows in a pasture<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-1-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 2.a"><a href="#sec-math4-17-1-2-2-1-1" title="Copy heading and permalink for Item 2.a" aria-label="Copy heading and permalink for Item 2.a">🔗</a></div>
-</li>
-<li id="sec-math4-17-1-2-2-1-2">
-<div class="para" id="sec-math4-17-1-2-2-1-2-1">17.04<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-2-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="solutions"><details id="exercises-math4-1-2-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period heading-divison-mark heading-divison-mark__period">.</span></summary><div class="answer solution-like knowl__content">
+<div class="para" id="exercises-math4-1-2-2-1">Exact<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-1-2-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 2.b"><a href="#sec-math4-17-1-2-2-1-2" title="Copy heading and permalink for Item 2.b" aria-label="Copy heading and permalink for Item 2.b">🔗</a></div>
-</li>
-<li id="sec-math4-17-1-2-2-1-3">
-<div class="para" id="sec-math4-17-1-2-2-1-3-1">0.0053020<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-2-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="autopermalink" data-description="Answer 2.4.1.1"><a href="#exercises-math4-1-2-2" title="Copy heading and permalink for Answer 2.4.1.1" aria-label="Copy heading and permalink for Answer 2.4.1.1">🔗</a></div>
+</div></details></div>
+<div class="autopermalink" data-description="Exercise 2.4.1"><a href="#exercises-math4-1-2" title="Copy heading and permalink for Exercise 2.4.1" aria-label="Copy heading and permalink for Exercise 2.4.1">🔗</a></div></article><article class="exercise exercise-like" id="exercises-math4-1-3"><h5 class="heading"><span class="codenumber">2<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h5>
+<div class="para" id="exercises-math4-1-3-1-1">A person is 4.73 feet tall<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-1-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 2.c"><a href="#sec-math4-17-1-2-2-1-3" title="Copy heading and permalink for Item 2.c" aria-label="Copy heading and permalink for Item 2.c">🔗</a></div>
-</li>
-<li id="sec-math4-17-1-2-2-1-4">
-<div class="para" id="sec-math4-17-1-2-2-1-4-1">500<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-2-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="solutions"><details id="exercises-math4-1-3-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period heading-divison-mark heading-divison-mark__period">.</span></summary><div class="answer solution-like knowl__content">
+<div class="para" id="exercises-math4-1-3-2-1">Measured<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-1-3-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 2.d"><a href="#sec-math4-17-1-2-2-1-4" title="Copy heading and permalink for Item 2.d" aria-label="Copy heading and permalink for Item 2.d">🔗</a></div>
-</li>
-<li id="sec-math4-17-1-2-2-1-5">
-<div class="para" id="sec-math4-17-1-2-2-1-5-1">1000000.<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-2-2-1-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="autopermalink" data-description="Answer 2.4.2.1"><a href="#exercises-math4-1-3-2" title="Copy heading and permalink for Answer 2.4.2.1" aria-label="Copy heading and permalink for Answer 2.4.2.1">🔗</a></div>
+</div></details></div>
+<div class="autopermalink" data-description="Exercise 2.4.2"><a href="#exercises-math4-1-3" title="Copy heading and permalink for Exercise 2.4.2" aria-label="Copy heading and permalink for Exercise 2.4.2">🔗</a></div></article><article class="exercise exercise-like" id="exercises-math4-1-4"><h5 class="heading"><span class="codenumber">3<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h5>
+<div class="para" id="exercises-math4-1-4-1-1">The winner finished in 42 minutes 11.3 seconds<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-1-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 2.e"><a href="#sec-math4-17-1-2-2-1-5" title="Copy heading and permalink for Item 2.e" aria-label="Copy heading and permalink for Item 2.e">🔗</a></div>
-</li>
-<li id="sec-math4-17-1-2-2-1-6">
-<div class="para" id="sec-math4-17-1-2-2-1-6-1">5.620 x 1023<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-2-2-1-6-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="solutions"><details id="exercises-math4-1-4-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period heading-divison-mark heading-divison-mark__period">.</span></summary><div class="answer solution-like knowl__content">
+<div class="para" id="exercises-math4-1-4-2-1">Measured<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-1-4-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 2.f"><a href="#sec-math4-17-1-2-2-1-6" title="Copy heading and permalink for Item 2.f" aria-label="Copy heading and permalink for Item 2.f">🔗</a></div>
-</li>
-</ol>
-<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-2-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="autopermalink" data-description="Answer 2.4.3.1"><a href="#exercises-math4-1-4-2" title="Copy heading and permalink for Answer 2.4.3.1" aria-label="Copy heading and permalink for Answer 2.4.3.1">🔗</a></div>
+</div></details></div>
+<div class="autopermalink" data-description="Exercise 2.4.3"><a href="#exercises-math4-1-4" title="Copy heading and permalink for Exercise 2.4.3" aria-label="Copy heading and permalink for Exercise 2.4.3">🔗</a></div></article><article class="exercise exercise-like" id="exercises-math4-1-5"><h5 class="heading"><span class="codenumber">4<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h5>
+<div class="para" id="exercises-math4-1-5-1-1">I counted 3 dozen eggs<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-1-5-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 2"><a href="#sec-math4-17-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
-</li>
-<li id="sec-math4-17-1-3">
-<div class="para" id="sec-math4-17-1-3-1">Rewrite the following numbers with the indicated number of significant figures.<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="solutions"><details id="exercises-math4-1-5-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period heading-divison-mark heading-divison-mark__period">.</span></summary><div class="answer solution-like knowl__content">
+<div class="para" id="exercises-math4-1-5-2-1">Exact<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-1-5-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="para logical" id="sec-math4-17-1-3-2">
-<ol class="lower-alpha lower-alpha-level-1" id="sec-math4-17-1-3-2-1">
-<li id="sec-math4-17-1-3-2-1-1">
-<div class="para" id="sec-math4-17-1-3-2-1-1-1">9.9800 (4 significant figures)<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-3-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="autopermalink" data-description="Answer 2.4.4.1"><a href="#exercises-math4-1-5-2" title="Copy heading and permalink for Answer 2.4.4.1" aria-label="Copy heading and permalink for Answer 2.4.4.1">🔗</a></div>
+</div></details></div>
+<div class="autopermalink" data-description="Exercise 2.4.4"><a href="#exercises-math4-1-5" title="Copy heading and permalink for Exercise 2.4.4" aria-label="Copy heading and permalink for Exercise 2.4.4">🔗</a></div></article><article class="exercise exercise-like" id="exercises-math4-1-6"><h5 class="heading"><span class="codenumber">5<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h5>
+<div class="para" id="exercises-math4-1-6-1-1">There are 10 mm in a centimeter<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-1-6-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 3.a"><a href="#sec-math4-17-1-3-2-1-1" title="Copy heading and permalink for Item 3.a" aria-label="Copy heading and permalink for Item 3.a">🔗</a></div>
-</li>
-<li id="sec-math4-17-1-3-2-1-2">
-<div class="para" id="sec-math4-17-1-3-2-1-2-1">2.80 x 104 (4 significant figures)<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-3-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="solutions"><details id="exercises-math4-1-6-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period heading-divison-mark heading-divison-mark__period">.</span></summary><div class="answer solution-like knowl__content">
+<div class="para" id="exercises-math4-1-6-2-1">Exact<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-1-6-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 3.b"><a href="#sec-math4-17-1-3-2-1-2" title="Copy heading and permalink for Item 3.b" aria-label="Copy heading and permalink for Item 3.b">🔗</a></div>
-</li>
-<li id="sec-math4-17-1-3-2-1-3">
-<div class="para" id="sec-math4-17-1-3-2-1-3-1">52000 (3 significant figures)<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-3-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="autopermalink" data-description="Answer 2.4.5.1"><a href="#exercises-math4-1-6-2" title="Copy heading and permalink for Answer 2.4.5.1" aria-label="Copy heading and permalink for Answer 2.4.5.1">🔗</a></div>
+</div></details></div>
+<div class="autopermalink" data-description="Exercise 2.4.5"><a href="#exercises-math4-1-6" title="Copy heading and permalink for Exercise 2.4.5" aria-label="Copy heading and permalink for Exercise 2.4.5">🔗</a></div></article><article class="exercise exercise-like" id="exercises-math4-1-7"><h5 class="heading"><span class="codenumber">6<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h5>
+<div class="para" id="exercises-math4-1-7-1-1">There are 12 inches in a foot<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-1-7-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 3.c"><a href="#sec-math4-17-1-3-2-1-3" title="Copy heading and permalink for Item 3.c" aria-label="Copy heading and permalink for Item 3.c">🔗</a></div>
-</li>
-</ol>
-<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17-1-3-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="solutions"><details id="exercises-math4-1-7-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period heading-divison-mark heading-divison-mark__period">.</span></summary><div class="answer solution-like knowl__content">
+<div class="para" id="exercises-math4-1-7-2-1">Exact<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-1-7-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 3"><a href="#sec-math4-17-1-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
-</li>
-</ol>
-<div class="autopermalink" data-description="Paragraph"><a href="#sec-math4-17" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="autopermalink" data-description="Answer 2.4.6.1"><a href="#exercises-math4-1-7-2" title="Copy heading and permalink for Answer 2.4.6.1" aria-label="Copy heading and permalink for Answer 2.4.6.1">🔗</a></div>
+</div></details></div>
+<div class="autopermalink" data-description="Exercise 2.4.6"><a href="#exercises-math4-1-7" title="Copy heading and permalink for Exercise 2.4.6" aria-label="Copy heading and permalink for Exercise 2.4.6">🔗</a></div></article><article class="exercise exercise-like" id="exercises-math4-1-8"><h5 class="heading"><span class="codenumber">7<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h5>
+<div class="para" id="exercises-math4-1-8-1-1">There are 1.057 quarts in a liter<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-1-8-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Section 2.4: Significant figures"><a href="#sec-math4" title="Copy heading and permalink for Section 2.4: Significant figures" aria-label="Copy heading and permalink for Section 2.4: Significant figures">🔗</a></div></section></div>
+<div class="solutions"><details id="exercises-math4-1-8-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period heading-divison-mark heading-divison-mark__period">.</span></summary><div class="answer solution-like knowl__content">
+<div class="para" id="exercises-math4-1-8-2-1">Measured<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-1-8-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Answer 2.4.7.1"><a href="#exercises-math4-1-8-2" title="Copy heading and permalink for Answer 2.4.7.1" aria-label="Copy heading and permalink for Answer 2.4.7.1">🔗</a></div>
+</div></details></div>
+<div class="autopermalink" data-description="Exercise 2.4.7"><a href="#exercises-math4-1-8" title="Copy heading and permalink for Exercise 2.4.7" aria-label="Copy heading and permalink for Exercise 2.4.7">🔗</a></div></article>
+</div>
+<div class="autopermalink" data-description="Exercise Group 2.4.1–7"><a href="#exercises-math4-1" title="Copy heading and permalink for Exercise Group 2.4.1–7" aria-label="Copy heading and permalink for Exercise Group 2.4.1–7">🔗</a></div>
+</div>
+<div class="exercisegroup" id="exercises-math4-2">
+<h4 class="heading"><span class="title">Exercise Group.</span></h4>
+<div class="introduction" id="exercises-math4-2-1"><div class="para" id="exercises-math4-2-1-1">How many significant figures are in the following numbers?<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div></div>
+<div class="exercisegroup-exercises">
+<article class="exercise exercise-like" id="exercises-math4-2-2"><h5 class="heading"><span class="codenumber">8<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h5>
+<div class="para" id="exercises-math4-2-2-1-1">4.33<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-2-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="solutions"><details id="exercises-math4-2-2-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period heading-divison-mark heading-divison-mark__period">.</span></summary><div class="answer solution-like knowl__content">
+<div class="para" id="exercises-math4-2-2-2-1">3<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-2-2-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Answer 2.4.8.1"><a href="#exercises-math4-2-2-2" title="Copy heading and permalink for Answer 2.4.8.1" aria-label="Copy heading and permalink for Answer 2.4.8.1">🔗</a></div>
+</div></details></div>
+<div class="autopermalink" data-description="Exercise 2.4.8"><a href="#exercises-math4-2-2" title="Copy heading and permalink for Exercise 2.4.8" aria-label="Copy heading and permalink for Exercise 2.4.8">🔗</a></div></article><article class="exercise exercise-like" id="exercises-math4-2-3"><h5 class="heading"><span class="codenumber">9<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h5>
+<div class="para" id="exercises-math4-2-3-1-1">17.04<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-2-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="solutions"><details id="exercises-math4-2-3-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period heading-divison-mark heading-divison-mark__period">.</span></summary><div class="answer solution-like knowl__content">
+<div class="para" id="exercises-math4-2-3-2-1">4<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-2-3-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Answer 2.4.9.1"><a href="#exercises-math4-2-3-2" title="Copy heading and permalink for Answer 2.4.9.1" aria-label="Copy heading and permalink for Answer 2.4.9.1">🔗</a></div>
+</div></details></div>
+<div class="autopermalink" data-description="Exercise 2.4.9"><a href="#exercises-math4-2-3" title="Copy heading and permalink for Exercise 2.4.9" aria-label="Copy heading and permalink for Exercise 2.4.9">🔗</a></div></article><article class="exercise exercise-like" id="exercises-math4-2-4"><h5 class="heading"><span class="codenumber">10<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h5>
+<div class="para" id="exercises-math4-2-4-1-1">0.0053020<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-2-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="solutions"><details id="exercises-math4-2-4-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period heading-divison-mark heading-divison-mark__period">.</span></summary><div class="answer solution-like knowl__content">
+<div class="para" id="exercises-math4-2-4-2-1">5<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-2-4-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Answer 2.4.10.1"><a href="#exercises-math4-2-4-2" title="Copy heading and permalink for Answer 2.4.10.1" aria-label="Copy heading and permalink for Answer 2.4.10.1">🔗</a></div>
+</div></details></div>
+<div class="autopermalink" data-description="Exercise 2.4.10"><a href="#exercises-math4-2-4" title="Copy heading and permalink for Exercise 2.4.10" aria-label="Copy heading and permalink for Exercise 2.4.10">🔗</a></div></article><article class="exercise exercise-like" id="exercises-math4-2-5"><h5 class="heading"><span class="codenumber">11<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h5>
+<div class="para" id="exercises-math4-2-5-1-1">500<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-2-5-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="solutions"><details id="exercises-math4-2-5-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period heading-divison-mark heading-divison-mark__period">.</span></summary><div class="answer solution-like knowl__content">
+<div class="para" id="exercises-math4-2-5-2-1">1<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-2-5-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Answer 2.4.11.1"><a href="#exercises-math4-2-5-2" title="Copy heading and permalink for Answer 2.4.11.1" aria-label="Copy heading and permalink for Answer 2.4.11.1">🔗</a></div>
+</div></details></div>
+<div class="autopermalink" data-description="Exercise 2.4.11"><a href="#exercises-math4-2-5" title="Copy heading and permalink for Exercise 2.4.11" aria-label="Copy heading and permalink for Exercise 2.4.11">🔗</a></div></article><article class="exercise exercise-like" id="exercises-math4-2-6"><h5 class="heading"><span class="codenumber">12<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h5>
+<div class="para" id="exercises-math4-2-6-1-1">1 000 000.<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-2-6-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="solutions"><details id="exercises-math4-2-6-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period heading-divison-mark heading-divison-mark__period">.</span></summary><div class="answer solution-like knowl__content">
+<div class="para" id="exercises-math4-2-6-2-1">7<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-2-6-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Answer 2.4.12.1"><a href="#exercises-math4-2-6-2" title="Copy heading and permalink for Answer 2.4.12.1" aria-label="Copy heading and permalink for Answer 2.4.12.1">🔗</a></div>
+</div></details></div>
+<div class="autopermalink" data-description="Exercise 2.4.12"><a href="#exercises-math4-2-6" title="Copy heading and permalink for Exercise 2.4.12" aria-label="Copy heading and permalink for Exercise 2.4.12">🔗</a></div></article><article class="exercise exercise-like" id="exercises-math4-2-7"><h5 class="heading"><span class="codenumber">13<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h5>
+<div class="para" id="exercises-math4-2-7-1-1">
+<span class="process-math">\(5.620\times10^{23}\)</span><div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-2-7-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="solutions"><details id="exercises-math4-2-7-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period heading-divison-mark heading-divison-mark__period">.</span></summary><div class="answer solution-like knowl__content">
+<div class="para" id="exercises-math4-2-7-2-1">4<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-2-7-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Answer 2.4.13.1"><a href="#exercises-math4-2-7-2" title="Copy heading and permalink for Answer 2.4.13.1" aria-label="Copy heading and permalink for Answer 2.4.13.1">🔗</a></div>
+</div></details></div>
+<div class="autopermalink" data-description="Exercise 2.4.13"><a href="#exercises-math4-2-7" title="Copy heading and permalink for Exercise 2.4.13" aria-label="Copy heading and permalink for Exercise 2.4.13">🔗</a></div></article><article class="exercise exercise-like" id="exercises-math4-2-8"><h5 class="heading"><span class="codenumber">14<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h5>
+<div class="para" id="exercises-math4-2-8-1-1">
+<span class="process-math">\(2.01\times10^{-11}\)</span><div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-2-8-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="solutions"><details id="exercises-math4-2-8-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period heading-divison-mark heading-divison-mark__period">.</span></summary><div class="answer solution-like knowl__content">
+<div class="para" id="exercises-math4-2-8-2-1">3<div class="autopermalink" data-description="Paragraph"><a href="#exercises-math4-2-8-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Answer 2.4.14.1"><a href="#exercises-math4-2-8-2" title="Copy heading and permalink for Answer 2.4.14.1" aria-label="Copy heading and permalink for Answer 2.4.14.1">🔗</a></div>
+</div></details></div>
+<div class="autopermalink" data-description="Exercise 2.4.14"><a href="#exercises-math4-2-8" title="Copy heading and permalink for Exercise 2.4.14" aria-label="Copy heading and permalink for Exercise 2.4.14">🔗</a></div></article>
+</div>
+<div class="autopermalink" data-description="Exercise Group 2.4.8–14"><a href="#exercises-math4-2" title="Copy heading and permalink for Exercise Group 2.4.8–14" aria-label="Copy heading and permalink for Exercise Group 2.4.8–14">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Exercises 2.4"><a href="#exercises-math4" title="Copy heading and permalink for Exercises 2.4" aria-label="Copy heading and permalink for Exercises 2.4">🔗</a></div></section><div class="autopermalink" data-description="Section 2.4: Significant figures"><a href="#sec-math4" title="Copy heading and permalink for Section 2.4: Significant figures" aria-label="Copy heading and permalink for Section 2.4: Significant figures">🔗</a></div></section></div>
 <div id="ptx-content-footer" class="ptx-content-footer">
 <a class="previous-button button" href="sec-math3.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="sec-math5.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
 </div></main>

@@ -1006,7 +1006,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.3",
   "title": "Algebra review",
-  "body": " Algebra review   Summary:     Algebra review    Use opposite operations to isolate your variable of interest       Section 5: Algebra review   The final part of this math review is a brief review of algebra. We use algebra to rearrange mathematical expressions to solve for some unknown. There are two things to remember when doing algebraic rearrangements. First, our goal is to isolate the variable of interest, remembering that it must be in the numerator if we’re dealing with fractions. Second, the way in which we will isolate the variable is by carrying out . See the examples below:   Exercise 5: Algebra review.     For the following problems, solve for the value of c. In some cases your solution will be an expression rather than a number. Write out all of your steps                               Exercise 5:        3\/2    275\/9         8    20 hr    "
+  "body": " Algebra review   Summary:     Use opposite operations to isolate your variable of interest    Work through the order of operations backwards     Algebra review   The final part of this math review is a brief review of algebra. We use algebra to rearrange mathematical expressions to solve for some unknown. There are two things to remember when doing algebraic rearrangements. First, our goal is to isolate the variable of interest, remembering that it must be in the numerator if we’re dealing with fractions. Second, the way in which we will isolate the variable is by carrying out opposite operations on both sides of the equation. Some useful reminders:     Addition and subtraction are opposite operations; multiplication and division are opposite operations     Example:  To isolate x we must add three to both sides because addition is the opposite operation for subtraction      Example:  To isolate x we must multiply both sides by 2 because multiplication is the opposite operation for division       If there are multiple quantities that must be moved, work in the direction of the reverse of the order of operations     Example: We have to use two reverse operations (subtraction and division) to isolate x, but which do we do first? If we were computing the left side of the equation, we'd first multiply 3 times x and then add 5. When isolating x, we must go in the reverse order of operations. So in this case we need to undo the addition of 5 before undoing the multiplication by 3. So the first thing we do is subtract 5 from both sides. Then we can divide by 3.      Example: If we were computing the left side of the equation, we'd first add 5 to x and then divide the sum by 2. The reverse order would have us first multiply both sides of the equation by two and then subtract 5 from both sides.       If the unknown is in the denominator of a fraction, you need to move it to the numerator (NOTE: Everything else should first be moved to the other side other than the fraction with your unknown ). You can do this by either multiplying both sides by the unknown or by taking the reciprocal (ie. flipping) of both sides of the equation.     Example (Method 1): solve for x in the following equation Multiply both sides of the equation by x to get it in the numerator. Then move the 4 and the \"a\" to the other side of the equation by dividing and multiplying, respectively.      Example (Method 2): solve for x in the following equation Take the reciprocal of both sides of the equation (ie. flip the fractions on both sides). Then move the 2 to the other side of the equation by multiplying both sides by 2.           For the following problems, solve for the value of c. In some cases your solution will be an expression rather than a number. Write out all of your steps                                                                             "
 },
 {
   "id": "sec-math3-2",
@@ -1024,16 +1024,61 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Section 5: Algebra review "
+  "body": "Algebra review "
 },
 {
-  "id": "sec-math3-6",
+  "id": "exercises-math3-1-2",
   "level": "2",
-  "url": "sec-math3.html#sec-math3-6",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-math3.html#exercises-math3-1-2",
+  "type": "Exercise",
+  "number": "2.3.1",
   "title": "",
-  "body": "Exercise 5: Algebra review. "
+  "body": "           "
+},
+{
+  "id": "exercises-math3-1-3",
+  "level": "2",
+  "url": "sec-math3.html#exercises-math3-1-3",
+  "type": "Exercise",
+  "number": "2.3.2",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math3-1-4",
+  "level": "2",
+  "url": "sec-math3.html#exercises-math3-1-4",
+  "type": "Exercise",
+  "number": "2.3.3",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math3-1-5",
+  "level": "2",
+  "url": "sec-math3.html#exercises-math3-1-5",
+  "type": "Exercise",
+  "number": "2.3.4",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math3-1-6",
+  "level": "2",
+  "url": "sec-math3.html#exercises-math3-1-6",
+  "type": "Exercise",
+  "number": "2.3.5",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math3-1-7",
+  "level": "2",
+  "url": "sec-math3.html#exercises-math3-1-7",
+  "type": "Exercise",
+  "number": "2.3.6",
+  "title": "",
+  "body": "           "
 },
 {
   "id": "sec-math4",
@@ -1042,7 +1087,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.4",
   "title": "Significant figures",
-  "body": " Significant figures   Summary:     Significant figures    Exact numbers have infinite significant figures    Measured numbers have finite numbers of significant figures    All non-zero numbers are significant    Zeroes    Between non-zero digits are always significant    To the left of the non-zero digits are never significant    To the right of the non-zero digits are significant ONLY if there is a decimal point        Scientific notation    All digits in the coefficient are significant    Digits in the base and power are never significant         Section 1: Significant Figures   In chemistry, we use math a lot. The numbers that we use in our calculations often describe measurements or numbers of things, such as numbers of molecules. This then raises an important consideration for us, namely how precisely do we know the numbers in our calculations? For instance, if I’m measuring the length of a piece of string, do I know its length precisely to the nearest inch, or to the nearest millimeter, or to the nearest nanometer? The answer to that question depends on the tools that were used to make the measurement and their level of precision. Obviously, you won’t be able to tell how many nanometers long a piece of string is by using a typical ruler; another much more expensive measuring device would likely be required.  To understand how precisely we know a quantity, we will first discuss the difference between exact  An exact number is one that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures. and measured  A measured number is a number that exists because of some measurement. Measured numbers have a finite number of significant figures. numbers. Exact numbers are discrete things that can be counted (ex. 3 eggs), quantities that are exact definitions (ex. there are 12 inches in one foot), or desired values (ex. the established dosage for a pharmaceutical is 10 mg\/kg\/day). Measured numbers are any quantity that had to be measured. They are also found when we are equating units that occur in different systems of measurement (ex. 2.54 cm=1 inch; 1 inch is very close to 2.54 cm, but an inch is not defined as being exactly 2.54 cm).  Exact numbers are known to an infinite level of precision. If you have 3 eggs, you don’t have 3.0000001 eggs…you have exactly 3.00000000… (keeps on going…) eggs. If the dosage of drug that you are supposed to give to a patient is 10mg\/kg\/day, the desired dose is not higher or lower than that…it is exactly that value. Measured numbers, on the other hand, are known only to a certain level of precision. A race may have taken exactly 9.813453223 (feel free to add other random digits on the end) seconds, but if I am using a stop watch that only measures hundredths of a second, then my measured value would be 9.81 seconds. Because of this, measured numbers always have a certain amount of uncertainty associated with them. How then do we communicate the level of certainty with which we know a number?  This brings us to the concept of significant figures  Significant figures are those digits in a number that convey information about its value and its precision. . Significant figures are those digits in a number that reveal the level of precision. We have to worry about the number of significant figures when we’re dealing with measured numbers, since those values are only known to a certain degree of precision. If a stopwatch at the end of a race reads 9.81 seconds, then that measurement has 3 significant figures (the 9, 8, and 1 are each significant). In that case, the time was measured to the hundredths place, but not to the thousandths place and the reported value should reflect that. Exact numbers, on the other hand, have an infinite number of significant figures because of their infinite precision.  In a measured numbers, there are some simple rules to remember in order to identify which digits are significant. First of all, non-zero digits are always significant when the number is written in standard notation (more on scientific notation in just a little bit). The complication comes from zeros in measured numbers.  There are three rules to remember with zeros:    When zeros are to the far left of the number, they are never significant    Zeros in between non-zero digits are always significant    Zeros to the far right of a number are significant ONLY if there is a decimal point written in the number.     Some examples of this:     0.0034 (none of these zeros are significant because of rule 1)    3001 (the zeros are significant because of rule 2)    400.0 (all of these zeros are significant because of rule 3)    300 (none of these zeros are significant because of rule 3)    300. (all of these zeros are significant because of rule 3; notice the decimal has been purposely included)    The last rule for significant figures has to deal with scientific notation. In scientific notation, the power and the base are NOT significant. The only significant figures come from the coefficient portion, and it obeys the rules covered previously, including the rules about zeros. So has 5 significant figures (4.0010; the 10 to the 10 th power is not significant). Sometimes we HAVE to write a number in scientific notation to convey the correct number of significant figures. For instance, if you measured as distance of 300 cm to 2 significant figures, you can’t indicate that by writing 300 cm (1 significant figure) or 300. cm (2 significant figures). You can show it by writing cm.   Exercise 1: Significant figures     Complete the following problems      Determine if the following numbers are exact or measured.    12 cows    4.73 feet    42 minutes    23 dozen eggs    10 mm in a centimeter    12 inches in a foot    1.057 quarts in a liter      How many significant figures are in the following numbers?    4.33    17.04    0.0053020    500    1000000.    5.620 x 10 23       Rewrite the following numbers with the indicated number of significant figures.    9.9800 (4 significant figures)    2.80 x 10 4 (4 significant figures)    52000 (3 significant figures)      "
+  "body": " Significant figures   Summary:     Significant figures    Exact numbers have infinite significant figures    Measured numbers have finite numbers of significant figures    All non-zero numbers are significant    Zeroes    Between non-zero digits are always significant    To the left of the non-zero digits are never significant    To the right of the non-zero digits are significant ONLY if there is a decimal point        Scientific notation    All digits in the coefficient are significant    Digits in the base and power are never significant         Significant Figures   In chemistry, we use math a lot. The numbers that we use in our calculations often describe measurements or numbers of things, such as numbers of molecules. This then raises an important consideration for us, namely how precisely do we know the numbers in our calculations? For instance, if I’m measuring the length of a piece of string, do I know its length precisely to the nearest inch, or to the nearest millimeter, or to the nearest nanometer? The answer to that question depends on the tools that were used to make the measurement and their level of precision. Obviously, you won’t be able to tell how many nanometers long a piece of string is by using a typical ruler; another much more expensive measuring device would likely be required.  To understand how precisely we know a quantity, we will first discuss the difference between exact and measured numbers. Exact numbers are discrete things that can be counted (ex. 3 eggs), quantities that are exact definitions (ex. there are 12 inches in one foot), or desired values (ex. the established dosage for a pharmaceutical is 10 mg\/kg\/day). Measured numbers are any quantity that had to be measured. They are also found when we are equating units that occur in different systems of measurement (ex. 2.54 cm=1 inch; 1 inch is very close to 2.54 cm, but an inch is not defined as being exactly 2.54 cm).  Exact numbers are known to an infinite level of precision. If you have 3 eggs, you don’t have 3.0000001 eggs…you have exactly 3.00000000… (keeps on going…) eggs. If the dosage of drug that you are supposed to give to a patient is 10mg\/kg\/day, the desired dose is not higher or lower than that…it is exactly that value. Measured numbers, on the other hand, are known only to a certain level of precision. A race may have taken exactly 9.813453223 (feel free to add other random digits on the end) seconds, but if I am using a stop watch that only measures hundredths of a second, then my measured value would be 9.81 seconds. Because of this, measured numbers always have a certain amount of uncertainty associated with them. How then do we communicate the level of certainty with which we know a number?  This brings us to the concept of significant figures . Significant figures are those digits in a number that reveal the level of precision. We have to worry about the number of significant figures when we’re dealing with measured numbers, since those values are only known to a certain degree of precision. If a stopwatch at the end of a race reads 9.81 seconds, then that measurement has 3 significant figures (the 9, 8, and 1 are each significant). In that case, the time was measured to the hundredths place, but not to the thousandths place and the reported value should reflect that. Exact numbers, on the other hand, have an infinite number of significant figures because of their infinite precision.  In a measured numbers, there are some simple rules to remember in order to identify which digits are significant. First of all, non-zero digits are always significant when the number is written in standard notation (more on scientific notation in just a little bit). The complication comes from zeros in measured numbers.   Rules for significant digits    All non-zero digits are significant.    Zeroes are sometimes significant    When zeros are to the far left of the number, they are never significant    Zeros in between non-zero digits are always significant    Zeros to the far right of a number are significant ONLY if there is a decimal point written in the number.        Some examples of this:     0.0034 (none of these zeros are significant because of rule 1)    3001 (the zeros are significant because of rule 2)    400.0 (all of these zeros are significant because of rule 3)    300 (none of these zeros are significant because of rule 3)    300. (all of these zeros are significant because of rule 3; notice the decimal has been purposely included)    The last rule for significant figures has to deal with scientific notation. In scientific notation, the power and the base are NOT significant. The only significant figures come from the coefficient portion, and it obeys the rules covered previously, including the rules about zeros. So has 5 significant figures (4.0010; the 10 to the 10 th power is not significant). Sometimes we HAVE to write a number in scientific notation to convey the correct number of significant figures. For instance, if you measured as distance of 300 cm to 2 significant figures, you can’t indicate that by writing 300 cm (1 significant figure) or 300. cm (2 significant figures). You can show it by writing cm.     Determine if the following numbers are exact or measured     12 cows in a pasture      Exact        A person is 4.73 feet tall      Measured        The winner finished in 42 minutes 11.3 seconds      Measured        I counted 3 dozen eggs      Exact        There are 10 mm in a centimeter      Exact        There are 12 inches in a foot      Exact        There are 1.057 quarts in a liter      Measured         How many significant figures are in the following numbers?     4.33      3        17.04      4        0.0053020      5        500      1        1 000 000.      7             4             3        "
 },
 {
   "id": "sec-math4-2",
@@ -1060,7 +1105,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Section 1: Significant Figures "
+  "body": "Significant Figures "
 },
 {
   "id": "sec-math4-6",
@@ -1081,13 +1126,130 @@ var ptx_lunr_docs = [
   "body": "significant figures "
 },
 {
-  "id": "sec-math4-15",
+  "id": "exercises-math4-1-2",
   "level": "2",
-  "url": "sec-math4.html#sec-math4-15",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-math4.html#exercises-math4-1-2",
+  "type": "Exercise",
+  "number": "2.4.1",
   "title": "",
-  "body": "Exercise 1: Significant figures "
+  "body": "  12 cows in a pasture      Exact     "
+},
+{
+  "id": "exercises-math4-1-3",
+  "level": "2",
+  "url": "sec-math4.html#exercises-math4-1-3",
+  "type": "Exercise",
+  "number": "2.4.2",
+  "title": "",
+  "body": "  A person is 4.73 feet tall      Measured     "
+},
+{
+  "id": "exercises-math4-1-4",
+  "level": "2",
+  "url": "sec-math4.html#exercises-math4-1-4",
+  "type": "Exercise",
+  "number": "2.4.3",
+  "title": "",
+  "body": "  The winner finished in 42 minutes 11.3 seconds      Measured     "
+},
+{
+  "id": "exercises-math4-1-5",
+  "level": "2",
+  "url": "sec-math4.html#exercises-math4-1-5",
+  "type": "Exercise",
+  "number": "2.4.4",
+  "title": "",
+  "body": "  I counted 3 dozen eggs      Exact     "
+},
+{
+  "id": "exercises-math4-1-6",
+  "level": "2",
+  "url": "sec-math4.html#exercises-math4-1-6",
+  "type": "Exercise",
+  "number": "2.4.5",
+  "title": "",
+  "body": "  There are 10 mm in a centimeter      Exact     "
+},
+{
+  "id": "exercises-math4-1-7",
+  "level": "2",
+  "url": "sec-math4.html#exercises-math4-1-7",
+  "type": "Exercise",
+  "number": "2.4.6",
+  "title": "",
+  "body": "  There are 12 inches in a foot      Exact     "
+},
+{
+  "id": "exercises-math4-1-8",
+  "level": "2",
+  "url": "sec-math4.html#exercises-math4-1-8",
+  "type": "Exercise",
+  "number": "2.4.7",
+  "title": "",
+  "body": "  There are 1.057 quarts in a liter      Measured     "
+},
+{
+  "id": "exercises-math4-2-2",
+  "level": "2",
+  "url": "sec-math4.html#exercises-math4-2-2",
+  "type": "Exercise",
+  "number": "2.4.8",
+  "title": "",
+  "body": "  4.33      3     "
+},
+{
+  "id": "exercises-math4-2-3",
+  "level": "2",
+  "url": "sec-math4.html#exercises-math4-2-3",
+  "type": "Exercise",
+  "number": "2.4.9",
+  "title": "",
+  "body": "  17.04      4     "
+},
+{
+  "id": "exercises-math4-2-4",
+  "level": "2",
+  "url": "sec-math4.html#exercises-math4-2-4",
+  "type": "Exercise",
+  "number": "2.4.10",
+  "title": "",
+  "body": "  0.0053020      5     "
+},
+{
+  "id": "exercises-math4-2-5",
+  "level": "2",
+  "url": "sec-math4.html#exercises-math4-2-5",
+  "type": "Exercise",
+  "number": "2.4.11",
+  "title": "",
+  "body": "  500      1     "
+},
+{
+  "id": "exercises-math4-2-6",
+  "level": "2",
+  "url": "sec-math4.html#exercises-math4-2-6",
+  "type": "Exercise",
+  "number": "2.4.12",
+  "title": "",
+  "body": "  1 000 000.      7     "
+},
+{
+  "id": "exercises-math4-2-7",
+  "level": "2",
+  "url": "sec-math4.html#exercises-math4-2-7",
+  "type": "Exercise",
+  "number": "2.4.13",
+  "title": "",
+  "body": "       4     "
+},
+{
+  "id": "exercises-math4-2-8",
+  "level": "2",
+  "url": "sec-math4.html#exercises-math4-2-8",
+  "type": "Exercise",
+  "number": "2.4.14",
+  "title": "",
+  "body": "       3     "
 },
 {
   "id": "sec-math5",
@@ -1186,7 +1348,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.6",
   "title": "Significant figures in calculations",
-  "body": " Significant figures in calculations    Significant figures in calculations    Multiplication\/division    Count the significant figures in each starting number    Round your answer to have the same number of significant figures as the starting number with the fewest      Addition\/subtraction    Determine the most precise digit place in the starting numbers    Round your answer to the digit place that is the least precise out of those you’ve chosen in the first step      Multiple operations    Mark the digit place that you should be rounding to after each step but do NOT round    Keep at least one extra digit beyond the rounding spot    Treat this number as having the number of significant digits that are indicated by your marked digit place, even though it has extra digits      After the final calculation determine where the number should be rounded to using the multiplication\/division or addition\/subtraction rules    Round the final answer appropriately           Exercise 3: Significant figures in calculations      Do the following calculations. Assume that each of the numbers is a measured number unless otherwise stated.       5.55-1    4.888+0.01    9.999\/4.33    22.1 x 44.44       Do the following calculations. Assume that each of the numbers is a measured number unless otherwise stated. Show each of your steps and circle the digit that should be rounded to after each step.     (97+32) x 1.8    (9.80 x 0.0010 \/ 4.533) + 0.045     (hint: you may want to write the scientific notation in standard notation to help you out)      "
+  "body": " Significant figures in calculations    Significant figures in calculations    Multiplication\/division    Count the significant figures in each starting number    Round your answer to have the same number of significant figures as the starting number with the fewest      Addition\/subtraction    Determine the most precise digit place in the starting numbers    Round your answer to the digit place that is the least precise out of those you’ve chosen in the first step      Multiple operations    Mark the digit place that you should be rounding to after each step but do NOT round    Keep at least one extra digit beyond the rounding spot    Treat this number as having the number of significant digits that are indicated by your marked digit place, even though it has extra digits      After the final calculation determine where the number should be rounded to using the multiplication\/division or addition\/subtraction rules    Round the final answer appropriately           Significant figures in calculations   What do we do if we have to do calculations that involve measured numbers? For instance, what if three different students measure the orange arrow above and we are asked to compute the average of those measurements? For instance, if the three students measured the line to be 0.92 cm, 0.94 cm, and 0.95 cm, then the average from your calculator would be 0.9366666666…cm. Do we know the average that precisely? In order to do figure out the number of significant figures in this case, we have to learn rules for significant figures in calculations as well as how to round.  We’ll start with rounding. If your calculator were to display the answer to a calculation as 9.874030234 and you have to round it to 3 significant figures, your first step is to identify the first 3 significant figures in the number, starting from the left (in this case 9.87). You then look at the next digit to the right (in this case a 4). If that digit is 0-4, you don’t round up the figures that you are keeping. If it is 5-9, then you round up the rightmost kept significant figure. In this case, since the digit is a 4, we would not round up the 7 in 9.87…so the final rounded number should be 9.87. In contrast, if we were trying to round 9.9987 to 4 significant figures, then we’d keep the 9.998, look at the next digit (which is a 7). This would cause us to round up the 8, which would result in an answer of 9.999.  The rules for calculations are divided into 3 parts: rules for addition\/subtraction, rules for multiplication, and rules for logarithms and exponents. In this chapter, we’ll cover the first two sets of rules only. The rule for logarithms and exponents will be covered in a later chapter.  The multiplication\/division rule is the most common that we use in this class. The rule states that the answer should have the same number of significant figures as the starting value that had the fewest. Thus, if we multiply the measured numbers of 4.5, 0.3, and 9.888, we get a calculator answer of 13.3488. This should be rounded to 1 significant figure because our starting values had 2, 1, and 4 significant figures respectively and the rule states that our answer should have the same number of significant figures as our starting value that had the least (in this case 1). So our final reported value should be 10.  When adding and subtracting, the number of significant figures does not matter. What matters is the digit place of the most precise significant figure in each number. What do I mean by the most precise significant figure…consider the measured number 4.432 ft. In this case the 2 is the most precise significant figure because it represents the smallest level of detail. When adding or subtracting the rule states that the final answer’s most precise significant figure should be in the same digit place as the starting value with the least most precise significant figure (that’s a mouthful…but it’s easy to demonstrate).  If you were adding the following measured numbers: 0.34, 0.0002, and 15.3 our calculator would display 15.6402. The question is then how should we round this number? The most precise significant figures in each of our starting numbers are 4, 2, and 3 respectively (each is highlighted in yellow). The 4 is in the hundredths place, the 2 in the ten thousandths, and the 3 in the tenths. Out of those options, the tenths place is the least significant place and so our final number will be rounded to the tenths place, giving us 15.6. This is easily demonstrated by lining the values up vertically and rounding the final answer to the most significant digit place that is furthest to the left.     What if a calculation requires both addition and multiplication? In that case, the best practice is to save the rounding for the very end. Do NOT round along the way or you may introduce errors. What you need to do is think about what the rounding would look like after each step in order and then round the final answer based on that. For instance, if you were averaging the measurements 9.87, 9.99, and 9.64 grams, you would need to add them and then divide by 3. If you add them you get 29.5 on most calculators, but you should be thinking about what place that should be rounded to…in this case the hundredths place. That number 29.5 (or 29.50) would then be divided by 3. In this case, 3 is an exact number with an infinite number of significant figures because you are averaging exactly 3 numbers. You calculator might display 9.83333333. The question is how many significant figures should we keep? The addition step should have given us 4 significant figures. The division step involved a number with 4 significant figures and another with an infinite number. Thus our final answer should have 4 significant figures (9.833 grams).  A helpful way for keeping track of this is to circle the digit place that should be rounded to after each step in the calculation (even though we won’t round until the end. This can help you keep track of how many significant figures each number has (or which digit place the most precise digit is in) for each number along the way. See the example below:   Compute the following and round to the correct number of significant figures. Assume each number shown in the original calculation is a measured number.          Rewrite (round if necessary) the following numbers to have the indicated number of significant figures.     9.9800 (4 significant figures)      9.980        9.9800 (3 significant figures)      9.98        9.9800 (7 significant figures)      9.980000        9.9800 (2 significant figures)      10.        (4 significant figures)             52000 (3 significant figures)              Do the following calculations. Assume that each of the numbers is a measured number unless otherwise stated.                                                                                         9.999\/4.33             220.1 x 440.      (must be written in scientific notation)        220.1 x 440 (assume that 440 is an exact number)      or         Do the following calculations. Assume that each of the numbers is a measured number unless otherwise stated. Show each of your steps and circle the digit that should be rounded to after each step.          230   A picture showing how to track significant digits in a calculation              0.047   A picture showing how to track significant digits in a calculation         (hint: you may want to write the scientific notation in standard notation to help you out)      53000   A picture showing how to track significant digits in a calculation         "
 },
 {
   "id": "sec-math6-3",
@@ -1195,7 +1357,178 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Exercise 3: Significant figures in calculations "
+  "body": "Significant figures in calculations "
+},
+{
+  "id": "exercises-math6-1-2",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-1-2",
+  "type": "Exercise",
+  "number": "2.6.1",
+  "title": "",
+  "body": "  9.9800 (4 significant figures)      9.980     "
+},
+{
+  "id": "exercises-math6-1-3",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-1-3",
+  "type": "Exercise",
+  "number": "2.6.2",
+  "title": "",
+  "body": "  9.9800 (3 significant figures)      9.98     "
+},
+{
+  "id": "exercises-math6-1-4",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-1-4",
+  "type": "Exercise",
+  "number": "2.6.3",
+  "title": "",
+  "body": "  9.9800 (7 significant figures)      9.980000     "
+},
+{
+  "id": "exercises-math6-1-5",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-1-5",
+  "type": "Exercise",
+  "number": "2.6.4",
+  "title": "",
+  "body": "  9.9800 (2 significant figures)      10.     "
+},
+{
+  "id": "exercises-math6-1-6",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-1-6",
+  "type": "Exercise",
+  "number": "2.6.5",
+  "title": "",
+  "body": "  (4 significant figures)          "
+},
+{
+  "id": "exercises-math6-1-7",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-1-7",
+  "type": "Exercise",
+  "number": "2.6.6",
+  "title": "",
+  "body": "  52000 (3 significant figures)          "
+},
+{
+  "id": "exercises-math6-2-2",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-2-2",
+  "type": "Exercise",
+  "number": "2.6.7",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math6-2-3",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-2-3",
+  "type": "Exercise",
+  "number": "2.6.8",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math6-2-4",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-2-4",
+  "type": "Exercise",
+  "number": "2.6.9",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math6-2-5",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-2-5",
+  "type": "Exercise",
+  "number": "2.6.10",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math6-2-6",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-2-6",
+  "type": "Exercise",
+  "number": "2.6.11",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math6-2-7",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-2-7",
+  "type": "Exercise",
+  "number": "2.6.12",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math6-2-8",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-2-8",
+  "type": "Exercise",
+  "number": "2.6.13",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "exercises-math6-2-9",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-2-9",
+  "type": "Exercise",
+  "number": "2.6.14",
+  "title": "",
+  "body": "  9.999\/4.33          "
+},
+{
+  "id": "exercises-math6-2-10",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-2-10",
+  "type": "Exercise",
+  "number": "2.6.15",
+  "title": "",
+  "body": "  220.1 x 440.      (must be written in scientific notation)     "
+},
+{
+  "id": "exercises-math6-2-11",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-2-11",
+  "type": "Exercise",
+  "number": "2.6.16",
+  "title": "",
+  "body": "  220.1 x 440 (assume that 440 is an exact number)      or     "
+},
+{
+  "id": "exercises-math6-3-2",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-3-2",
+  "type": "Exercise",
+  "number": "2.6.17",
+  "title": "",
+  "body": "       230   A picture showing how to track significant digits in a calculation      "
+},
+{
+  "id": "exercises-math6-3-3",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-3-3",
+  "type": "Exercise",
+  "number": "2.6.18",
+  "title": "",
+  "body": "       0.047   A picture showing how to track significant digits in a calculation      "
+},
+{
+  "id": "exercises-math6-3-4",
+  "level": "2",
+  "url": "sec-math6.html#exercises-math6-3-4",
+  "type": "Exercise",
+  "number": "2.6.19",
+  "title": "",
+  "body": "  (hint: you may want to write the scientific notation in standard notation to help you out)      53000   A picture showing how to track significant digits in a calculation      "
 },
 {
   "id": "sec-math7",
