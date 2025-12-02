@@ -332,7 +332,7 @@
         </definition>
       </p>
       <p>
-        <definition xml:id="def-significant">
+        <definition xml:id="def-significantfigures">
           <statement>
             <p>
               <term>Significant figures:</term> the digits in a number that both convey its quantity and that are known reliably.
