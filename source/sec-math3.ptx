@@ -45,7 +45,7 @@
 				</li>
 				<li>
 					<p>
-						Example: <m>32=\frac{x}{2}</m> to isolate x we must multiply both sides by 2 because multiplication is the opposite operation for division <m>\rightarrow 32\times 2=\frac{x}{2}\times 2 \rightarrow 64=x</m>
+						<p>Example: <m>32=\frac{x}{2}</m> </p><p>to isolate x we must multiply both sides by 2 because multiplication is the opposite operation for division</p><p><m>32=\frac{x}{2} \rightarrow 32\times 2=\frac{x}{2}\times 2 \rightarrow 64=x</m></p>
 					</p>
 				</li>
 			</ol>
