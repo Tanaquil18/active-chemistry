@@ -69,10 +69,25 @@
 		</li>
 		<li>
 			<p>
-				If the unknown is in the denominator of a fraction, you need to move it to the numerator.  You can do this by either multiplying both sides by the unknown or by taking the reciprocal (ie. flipping) of both sides of the equation.
+				If the unknown is in the denominator of a fraction, you need to move it to the numerator (NOTE: <em>Everything else should first be moved to the other side other than the fraction with your unknown</em>).  You can do this by either multiplying both sides by the unknown or by taking the reciprocal (ie. flipping) of both sides of the equation.
 			</p>
+			<ol>
+				<li>
+					<p>
+						<p>Example (Method 1): solve for x in the following equation <m>\frac{2}{x}=\frac{4}{a}</m></p><p>Multiply both sides of the equation by x to get it in the numerator. Then move the 4 and the "a" to the other side of the equation by dividing and multiplying, respectively. </p><p><m>\frac{2}{x}\times x=\frac{4}{a}\times x\rightarrow</m></p><p><m>2=\frac{4}{a}\times x\rightarrow</m></p><p><m>2\times a=\frac{4}{a}\times x\times a\rightarrow</m></p><p><m>2\times a=4\times x\rightarrow</m></p><p><m>2\times a\div 4=4\times x \div 4\rightarrow</m></p><p><m>\frac{a}{2}=x</m></p>
+					</p>
+				</li>
+				<li>
+					<p>
+						<p>Example (Method 2): solve for x in the following equation <m>\frac{2}{x}=\frac{4}{a}</m></p><p>Take the reciprocal of both sides of the equation (ie. flip the fractions on both sides). Then move the 2 to the other side of the equation by multiplying both sides by 2. </p><p><m>\frac{2}{x}=\frac{4}{a}\rightarrow</m></p><p><m>\frac{x}{2}=\frac{a}{4}\rightarrow</m></p><p><m>\frac{x}{2}\times 2=\frac{a}{4}\times 2\rightarrow</m></p><p><m>x=\frac{a}{2}</m></p>
+					</p>
+				</li>
+			</ol>
 		</li>
 	</ol>
 </p>
 
+<exercises xml:id="exercises-math3">
+	
+</exercises>
 </section>
