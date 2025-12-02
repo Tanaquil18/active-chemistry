@@ -40,12 +40,12 @@
 			<ol>
 				<li>
 					<p>
-						<p>Example: <m>32=x-3</m> </p><p>To isolate x we must add three to both sides because addition is the opposite operation for subtraction</p><p><m>32=x-3 \rightarrow 32+3=x-3+3 \rightarrow 35=x</m></p>
+						<p>Example: <m>32=x-3</m> </p><p>To isolate x we must add three to both sides because addition is the opposite operation for subtraction</p><p><m>32=x-3 \rightarrow \\32+3=x-3+3 \rightarrow \\35=x</m></p>
 					</p>
 				</li>
 				<li>
 					<p>
-						<p>Example: <m>32=\frac{x}{2}</m> </p><p>To isolate x we must multiply both sides by 2 because multiplication is the opposite operation for division</p><p><m>32=\frac{x}{2} \rightarrow 32\times 2=\frac{x}{2}\times 2 \rightarrow 64=x</m></p>
+						<p>Example: <m>32=\frac{x}{2}</m> </p><p>To isolate x we must multiply both sides by 2 because multiplication is the opposite operation for division</p><p><m>32=\frac{x}{2} \rightarrow \\32\times 2=\frac{x}{2}\times 2 \rightarrow \\64=x</m></p>
 					</p>
 				</li>
 			</ol>
@@ -57,12 +57,12 @@
 			<ol>
 				<li>
 					<p>
-						<p>Example: <m>3x+5=14</m></p><p>We have to use two reverse operations (subtraction and division) to isolate x, but which do we do first?  If we were computing the left side of the equation, we'd first multiply 3 times x and then add 5.  When isolating x, we must go in the reverse order of operations.  So in this case we need to undo the addition of 5 before undoing the multiplication by 3.  So the first thing we do is subtract 5 from both sides. Then we can divide by 3.</p><p><m>3x+5=14 \rightarrow 3x+5-5=14-5 \rightarrow 3x=9 \rightarrow 3x\div3=9\div3 \rightarrow x=3</m></p>
+						<p>Example: <m>3x+5=14</m></p><p>We have to use two reverse operations (subtraction and division) to isolate x, but which do we do first?  If we were computing the left side of the equation, we'd first multiply 3 times x and then add 5.  When isolating x, we must go in the reverse order of operations.  So in this case we need to undo the addition of 5 before undoing the multiplication by 3.  So the first thing we do is subtract 5 from both sides. Then we can divide by 3.</p><p><m>3x+5=14 \rightarrow \\3x+5-5=14-5 \rightarrow \\3x=9 \rightarrow \\3x\div3=9\div3 \rightarrow \\x=3</m></p>
 					</p>
 				</li>
 				<li>
 					<p>
-						<p>Example: <m>\frac{x+5}{2}=7</m></p><p>If we were computing the left side of the equation, we'd first add 5 to x and then divide the sum by 2.  The reverse order would have us first multiply both sides of the equation by two and then subtract 5 from both sides.</p><p><m>\frac{x+5}{2}=7 \rightarrow \frac{x+5}{2}\times2=7\times2 \rightarrow x+5=14 \rightarrow x+5-5=14-5 \rightarrow x=9</m></p>
+						<p>Example: <m>\frac{x+5}{2}=7</m></p><p>If we were computing the left side of the equation, we'd first add 5 to x and then divide the sum by 2.  The reverse order would have us first multiply both sides of the equation by two and then subtract 5 from both sides.</p><p><m>\frac{x+5}{2}=7 \rightarrow \\\frac{x+5}{2}\times2=7\times2 \rightarrow \\x+5=14 \rightarrow \\x+5-5=14-5 \rightarrow \\x=9</m></p>
 					</p>
 				</li>
 			</ol>
