@@ -163,11 +163,101 @@ var ptx_lunr_docs = [
   "body": "  Catholics are called to be separate from the world, yet we are material creatures. What are ways in which we can practically abandon materialism?      When we say we should abandon materialism, we mean that we should abandon unhealthy attachments. For instance, food is good, but gluttony is sinful. We can avoid gluttony by practicing occasional fasting.     "
 },
 {
+  "id": "sec-chem-faith1p5",
+  "level": "1",
+  "url": "sec-chem-faith1p5.html",
+  "type": "Section",
+  "number": "1.2",
+  "title": "Catholicism vs. superstition",
+  "body": " Catholicism vs. superstition   Summary:     Catholicism is not superstitious    Superstition seeks to use the supernatural to achieve control    Catholicism recognizes that God is always in control     Catholicism vs. superstition   A common argument against Catholicism and Christianity is that it is nothing but superstition . In doing so, they are trying to equate our faith with paganism and the myriad of other faiths that have existed throughout human history. By doing so, they strive to show that all religions are the same and therefore equally invalid. They'd argue that Christianity has no more merit than any other religion. Furthermore, many atheists would go further by pointing out that things that previously seemed to mankind to be miraculous (example: the sun rising and setting) are now fully explainable by science. Therefore, they say, we should turn to science instead of faith when seeking to control our fates. This way of thinking is extremely common in our world today, but is it right? I'd argue that it's wrong in every respect.  The God of Christianity is Actus purus and is thus incapable of being controlled or acted upon by outside forces. Often times, superstition seeks to exert control over supernatural forces. This can take on many forms, some of which are more obvious than others. Occult practices and divination are very obvious examples. An athlete believing in a good luck charm or practice is another. Christians should acknowledge that it is impossible for us to change or affect God in any way. Attempts to do so show a lack of respect for the dignity and sovereignty of God.  Futhermore, the Christian God is different than many other gods in that he loves humanity and desires a relationship with each one of us. Rather than seeking control over God, Christians should strive to seek friendship with Him. Through prayer, we can then ask God to use His power in ways that will benefit us. The choice to do so, however, still lies with God. We can rest assured, however, that our God has compassion for each one of us and will always meet our needs, even if his care may manifest itself in unexpected ways. Central to this are the words of Christ, who though God himself, does not seek to control the Father:   \"...not my will but yours be done\" Luke 22:42    Modern atheists often make the mistake of putting too much trust in scientific discoveries and technology, and Christians can easily fall into this trap as well. When we do so, we're engaging in a form of idolatry. Christians have been given dominion over the Earth:  \"God blessed them and God said to them: Be fertile and multiply; fill the earth and subdue it. Have dominion over the fish of the sea, the birds of the air, and all the living things that crawl on the earth.\" Genesis 1:28   It's therefore not wrong for us to seek control over nature. However, we must always do in a way that respects the sovereignty of God.     In your own words, explain how our attitude towards God differs from pagan attitudes towards their gods.    Answers may vary but should include discussion of the sovreignty (and thus uncontrollability) of the Christian God. It should also discuss that our God is a loving God who desires relationship with us and who has compassionate care for us.      Are there forms of superstition in your life? To what extent do you think that you're actually trying to control God vs. just doing something fun.    Answers may vary      If a person engages in a superstitious practice like not washing a shirt during a sports season, but doesn't actually believe that it's bringing them good luck, is there still harm being committed? Think about the possibility of scandal     This can still be a form of scandal. Others might be influenced to take up similar practices that they might actually believe in. It can also create an appearance that engaging in superstition is okay or even beneficial for Catholics.      All of creation is a gift from God. All that we do is ultimately only possible because God permits it. When we exert control over nature (whether through science\/technology or other means), it's important to do so with a spirit of humility and gratitude. Why?    Humility reminds us that God and His creation are bigger than our understanding. Even our best and most altruistic efforts to exert dominion over nature are likely to have unexpected consequences. By surrendering our efforts to God and uniting our goals to prayer, we invite God to purify our actions. We should also have a spirit of gratitude to remind ourselves that none of the good that we do is possible apart from God. Thus we help God to retain his supremacy in our hearts and minds.     "
+},
+{
+  "id": "sec-chem-faith1p5-2",
+  "level": "2",
+  "url": "sec-chem-faith1p5.html#sec-chem-faith1p5-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-chem-faith1p5-4",
+  "level": "2",
+  "url": "sec-chem-faith1p5.html#sec-chem-faith1p5-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Catholicism vs. superstition "
+},
+{
+  "id": "sec-chem-faith1p5-5",
+  "level": "2",
+  "url": "sec-chem-faith1p5.html#sec-chem-faith1p5-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "superstition "
+},
+{
+  "id": "sec-chem-faith1p5-8-1",
+  "level": "2",
+  "url": "sec-chem-faith1p5.html#sec-chem-faith1p5-8-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Luke 22:42 "
+},
+{
+  "id": "sec-chem-faith1p5-9",
+  "level": "2",
+  "url": "sec-chem-faith1p5.html#sec-chem-faith1p5-9",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Genesis 1:28 "
+},
+{
+  "id": "exercises-chemfaith1p5-1",
+  "level": "2",
+  "url": "sec-chem-faith1p5.html#exercises-chemfaith1p5-1",
+  "type": "Exercise",
+  "number": "1.2.1",
+  "title": "",
+  "body": "  In your own words, explain how our attitude towards God differs from pagan attitudes towards their gods.    Answers may vary but should include discussion of the sovreignty (and thus uncontrollability) of the Christian God. It should also discuss that our God is a loving God who desires relationship with us and who has compassionate care for us.   "
+},
+{
+  "id": "exercises-chemfaith1p5-2",
+  "level": "2",
+  "url": "sec-chem-faith1p5.html#exercises-chemfaith1p5-2",
+  "type": "Exercise",
+  "number": "1.2.2",
+  "title": "",
+  "body": "  Are there forms of superstition in your life? To what extent do you think that you're actually trying to control God vs. just doing something fun.    Answers may vary   "
+},
+{
+  "id": "exercises-chemfaith1p5-3",
+  "level": "2",
+  "url": "sec-chem-faith1p5.html#exercises-chemfaith1p5-3",
+  "type": "Exercise",
+  "number": "1.2.3",
+  "title": "",
+  "body": "  If a person engages in a superstitious practice like not washing a shirt during a sports season, but doesn't actually believe that it's bringing them good luck, is there still harm being committed? Think about the possibility of scandal     This can still be a form of scandal. Others might be influenced to take up similar practices that they might actually believe in. It can also create an appearance that engaging in superstition is okay or even beneficial for Catholics.   "
+},
+{
+  "id": "exercises-chemfaith1p5-4",
+  "level": "2",
+  "url": "sec-chem-faith1p5.html#exercises-chemfaith1p5-4",
+  "type": "Exercise",
+  "number": "1.2.4",
+  "title": "",
+  "body": "  All of creation is a gift from God. All that we do is ultimately only possible because God permits it. When we exert control over nature (whether through science\/technology or other means), it's important to do so with a spirit of humility and gratitude. Why?    Humility reminds us that God and His creation are bigger than our understanding. Even our best and most altruistic efforts to exert dominion over nature are likely to have unexpected consequences. By surrendering our efforts to God and uniting our goals to prayer, we invite God to purify our actions. We should also have a spirit of gratitude to remind ourselves that none of the good that we do is possible apart from God. Thus we help God to retain his supremacy in our hearts and minds.   "
+},
+{
   "id": "sec-chem-faith2",
   "level": "1",
   "url": "sec-chem-faith2.html",
   "type": "Section",
-  "number": "1.2",
+  "number": "1.3",
   "title": "The greatest commandment",
   "body": " The greatest commandment   Summary:     Love God and love your neighbor as yourself    In order to holistically love our neighbor, we must care for their natural and supernatural needs     The Greatest Commandment:   In scripture, Jesus gives us the Greatest Commandment:    “[Jesus] said to him, ‘You shall love the Lord, your God, with all your heart, with all your soul, and with all your mind.  This is the greatest and the first commandment.  The second is like it: You shall love your neighbor as yourself.’”  Matthew 22:37-39    Each of us lives and acts in the natural world. God gives us his commandments to help us live according to His will. The greatest commandment unites the supernatural and natural world into one rule for us. We should love God, and when we love one another, we are loving God by loving them. Humans are body (natural) and soul (supernatural). If we are to love our neighbor in a holistic way, we must show concern for their natural and supernatural needs. This is reflected in in the following passage from the Catechism of the Catholic Church:    “All men are called to the same end: God himself. There is a certain resemblance between the unity of the divine persons and the fraternity that men are to establish among themselves in truth and love.  Love of neighbor is inseparable from love for God.” Catechism of the Catholic Church 1878    How do we care for the material needs of others? In many cases this is obvious. All people need food, water, and shelter. Providing access to quality healthcare is another way in which we love our neighbor through natural means. As Catholics, we should strive to ensure that our care for neighbor is not solely a material benefit, but a spiritual one as well. By incorporating empathy, compassion, friendship, and brotherly\/sisterly love into our material service to one another, we ensure that we are holistically loving our neighbor and serving their needs in the best possible way. The Catholic Church clearly shows us ways that we can care for the body and soul of our neighbor through the lists of corporal (bodily) and spiritual works of mercy.        Corporal works of mercy  Spiritual works of mercy    Feed the hungry  Counsel the doubtful    Give drink to the thirsty  Instruct the ignorant    Clothe the naked  Admonish sinners    Shelter the homeless  Comfort the afflicted    Visit the sick  Forgive offenses    Visit the imprisoned  Bear wrongs patiently    Bury the dead  Pray for the living and the dead     There are other less obvious ways in which we are also called to love our neighbor. Human beings are part of creation and exist within the environment around them. We must therefore show love to neighbor by ALSO showing respect for Creation. This is emphasized in the following quotes from the Catechism of the Catholic Church as well as a couple of Papal encyclicals:    “The seventh commandment enjoins respect for the integrity of creation. Animals, like plants and inanimate beings, are by nature destined for the common good of past, present, and future humanity.  Use of the mineral, vegetable, and animal resources of the universe cannot be divorced from respect for moral imperatives. Man's dominion over inanimate and other living beings granted by the Creator is not absolute; it is limited by concern for the quality of life of his neighbor, including generations to come; it requires a religious respect for the integrity of creation.”  Catechism of the Catholic Church 2415      “The environment is God's gift to everyone, and in our use of it we have a responsibility towards the poor, towards future generations and towards humanity as a whole… In nature, the believer recognizes the wonderful result of God's creative activity, which we may use responsibly to satisfy our legitimate needs, material or otherwise, while respecting the intrinsic balance of creation.” Caritas in Veritate 48.      “The created things of this world are not free of ownership: ‘For they are yours, O Lord, who love the living’ (Wis 11:26). This is the basis of our conviction that, as part of the universe, called into being by one Father, all of us are linked by unseen bonds and together form a kind of universal family, a sublime communion which fills us with a sacred, affectionate and humble respect.” Laudato si 89.      “Moreover, when our hearts are authentically open to universal communion, this sense of fraternity excludes nothing and no one. It follows that our indifference or cruelty towards fellow creatures of this world sooner or later affects the treatment we mete out to other human beings. We have only one heart, and the same wretchedness which leads us to mistreat an animal will not be long in showing itself in our relationships with other people. Every act of cruelty towards any creature is ‘contrary to human dignity’. We can hardly consider ourselves to be fully loving if we disregard any aspect of reality: ‘Peace, justice and the preservation of creation are three absolutely interconnected themes, which cannot be separated and treated individually without once again falling into reductionism’” Laudato si 92       The Greatest Commandment sounds like two commandments. Explain why this is not the case.      When we love one another, we love Godâ€™s creation and our neighbors. We cannot fully love God, without loving everything that comes from Him, including creation and our neighbors.        Explain what I mean when I say that we are called to holistically love our neighbor.      We are each body and spirit. In order to love our neighbor, we must show compassionate care for both their body and spirit.        Imagine that you receive healthcare in a clinic that is exceptional in healing you but is simultaneously cold and impersonal. How would you feel? Come up with concrete ideas for how you could prevent a patient from feeling this way if you were a medical professional.      I probably wouldnâ€™t be very happy. I might feel disrespected or as-if I was just a source of income for the hospital\/doctor. If a doctor takes the time to have a real conversation with a patient rather than rushing through a visit, this can help to fulfill the spiritual needs to companionship that the patient has.        Explain a concrete way in which our respect for the environment can manifest itself as love of neighbor. Similarly, explain a concrete way in which abuse of the environment can manifest itself in harming our neighbor.      Picking up garbage along a hiking trail can help the next visitor more fully enjoy the beauty of Godâ€™s creation. Throwing away toxic chemicals can lead to them entering bodies of water that people swim in or get their drinking water from. This can lead to health problems for your neighbor.       "
 },
@@ -221,7 +311,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith2.html#sec-chem-faith2-10",
   "type": "Table",
-  "number": "1.2.1",
+  "number": "1.3.1",
   "title": "",
   "body": "      Corporal works of mercy  Spiritual works of mercy    Feed the hungry  Counsel the doubtful    Give drink to the thirsty  Instruct the ignorant    Clothe the naked  Admonish sinners    Shelter the homeless  Comfort the afflicted    Visit the sick  Forgive offenses    Visit the imprisoned  Bear wrongs patiently    Bury the dead  Pray for the living and the dead    "
 },
@@ -266,7 +356,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith2.html#exercises-chem-faith2-1",
   "type": "Exercise",
-  "number": "1.2.1",
+  "number": "1.3.1",
   "title": "",
   "body": "  The Greatest Commandment sounds like two commandments. Explain why this is not the case.      When we love one another, we love Godâ€™s creation and our neighbors. We cannot fully love God, without loving everything that comes from Him, including creation and our neighbors.     "
 },
@@ -275,7 +365,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith2.html#exercises-chem-faith2-2",
   "type": "Exercise",
-  "number": "1.2.2",
+  "number": "1.3.2",
   "title": "",
   "body": "  Explain what I mean when I say that we are called to holistically love our neighbor.      We are each body and spirit. In order to love our neighbor, we must show compassionate care for both their body and spirit.     "
 },
@@ -284,7 +374,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith2.html#exercises-chem-faith2-3",
   "type": "Exercise",
-  "number": "1.2.3",
+  "number": "1.3.3",
   "title": "",
   "body": "  Imagine that you receive healthcare in a clinic that is exceptional in healing you but is simultaneously cold and impersonal. How would you feel? Come up with concrete ideas for how you could prevent a patient from feeling this way if you were a medical professional.      I probably wouldnâ€™t be very happy. I might feel disrespected or as-if I was just a source of income for the hospital\/doctor. If a doctor takes the time to have a real conversation with a patient rather than rushing through a visit, this can help to fulfill the spiritual needs to companionship that the patient has.     "
 },
@@ -293,7 +383,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith2.html#exercises-chem-faith2-4",
   "type": "Exercise",
-  "number": "1.2.4",
+  "number": "1.3.4",
   "title": "",
   "body": "  Explain a concrete way in which our respect for the environment can manifest itself as love of neighbor. Similarly, explain a concrete way in which abuse of the environment can manifest itself in harming our neighbor.      Picking up garbage along a hiking trail can help the next visitor more fully enjoy the beauty of Godâ€™s creation. Throwing away toxic chemicals can lead to them entering bodies of water that people swim in or get their drinking water from. This can lead to health problems for your neighbor.     "
 },
@@ -302,7 +392,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-chem-faith3.html",
   "type": "Section",
-  "number": "1.3",
+  "number": "1.4",
   "title": "What is science?",
   "body": " What is science?   Summary:     Science is a methodology for investigating the natural world    Laws vs. hypotheses vs. theories    Scientific method    Observations lead to hypotheses which leads to experiments which leads to more observations      Science is something that everyone does, even if they don’t realize it     What is science?    Science is a methodology that allows us to learn about nature. People have been doing science since the beginning of mankind. The development of tools, hunting methods, agriculture, etc. were all dependent on knowledge gained through science. The methodology used for science wasn’t rigorously defined until 1620 when Francis Bacon published his work Novum Organum. Further refinements and definitions have led to what we now call the scientific method . This process begins with making observations about the natural world. These observations can lead to laws or hypotheses. Laws are statements about patterns invariably observed in nature (you can basically think of them as an observation with elite status). They are rules that seek to explain what will happen in a given circumstance based on what has been observed again and again, without exception. A common example of a law is the law of gravity. It can be described in different ways: “what goes up must come down”, “objects with mass attract one another”, or even with a mathematical equation ( ). Note that these descriptions predict what will happen and may even provide a quantitative prediction, but they do NOT explain why. Laws do NOT have to be formalized in textbooks, though. For instance, I’d like to point out that most of us are familiar with the “law of glowing red metal” that states that glowing red metal is quite hot and probably shouldn’t be touched.  The scientific method starts with an observation or law, but progresses further by seeking to explain why nature behaves in the way it does. A statement that seeks to explain the causes of natural phenomena that is based on observations or laws is called a hypothesis . A hypothesis is an explanation that has not been suitably tested. In order to lend support to a hypothesis, scientists often carry out experiments. A properly designed experiment tests the effect of a limited number of variables (ie. something that is changed, and therefore tested in an experiment) while striving to keep everything else as identical as possible. In a properly designed experiment, there are always a minimum of two possible groups: controls and experimental groups. The control group serves as a comparison, showing what the outcome is if the variable is ignored\/absent\/unchanged. The experimental group consists of groups where the variable is changed. By comparing the results between the controls and experimental groups, we can reach conclusions about whether the experiment supports or refutes our hypothesis. Importantly, experiments can NEVER prove a hypothesis to be correct, instead they allow us to reject alternative explanations.  When interpreting the results of experiments and trying to develop explanations for the causes of an observation, one of the principles that guides all of science is known as Ockham’s razor, which states that the simplest explanation that is consistent with known experimental results is the one that should be held. William of Ockham, the namesake of Ockham’s razor, was a Catholic Franciscan friar in the 14 th century, and made several contributions to philosophy and theology. This further highlights the relationship between science, philosophy, and theology; the very roots of scientific thought and logic are grounded in philosophical and theological principles.  Using Ockham’s razor, scientists can begin to piece together models that explain their observations. These models can lead to further hypotheses and experiments. If a hypothesis has withstood numerous experiments, it can be considered to be a theory . A theory is a hypothesis that has been repeatedly tested (a single experiment or test is rarely enough) and has NEVER been shown to be inconsistent with an experimental result. Experimental results that conflict with a hypothesis do NOT have to lead to outright rejection of the hypothesis and often instead lead to revision or addition of clarifications or exceptions. The distinction between a hypothesis and a theory is subjective and open to interpretation, but scientists all agree that enough experiments should have been carried out to allow obvious alternate explanations to be rejected.  An example of the scientific method in action:  A carpenter observes that wood is a strong building material that is capable of holding a large amount of weight and wants to understand why. The carpenter hypothesizes that thick wood is capable of holding more weight than thin wood. To test this, the carpenter sets up a control group consisting of wood with a standard thickness and experimental groups that have wood with other thicknesses (either thicker or thinner). He then tests each group by observing how many books each piece of wood can hold before breaking. His results show that thin boards hold less weight than thick boards. We’d say that board thickness correlates with board strength. While this result supports his hypothesis, there are still other possible explanations for the result. For instance, perhaps the process used for reducing the thickness of the boards damaged the wood by introducing cracks. Alternatively, the thin pieces of wood might have had more (or fewer) wood grains and that might instead have been the source of the observed outcomes. . Correlation does not equal causation!     Come up with 3 additional laws of nature that you have encountered in your own life that you wonâ€™t find listed in a science textbook.      The law of melting butter. When you heat butter, it turns into a liquid. The law of successful campfires. Camp fires burn best when they have adequate ventilation near the bottom. The law of autumn. Leaves turn from green to yellow, orange, or red in the fall.        Come up with 3 ways in which you used the scientific method in your own life without realizing what you were doing.      I try out different amounts of time when frying eggs to see whether the yolk is hard or runny. (experiment). I observe that when I hit the up volume button on the remote control, the TV gets louder (observation). I think that my lawn is turning brown because it needs more water (hypothesis)        Look around you right now. Observe something and write it down. Try to develop a hypothesis that explains that observation. Design an experiment to test your hypothesis. Why controls would you need? What results would you expect that would validate your hypothesis?      Light is coming through various sized slits in the blinds in my room. I think that light can always pass through any gap, no matter how small. I get two objects that can move to change the gap size between them. I place a light behind them and observe if the light can pass through at various gap sizes. A negative control would be if the objects were pressed together so no gap exists. A positive control would be the light itself without the objects to create the gap (to just make sure that I can see the light and that itâ€™s working.        Why is it important to develop alternative explanations to experimental observations?      These can remind us that scientific theories are never certain. Also, they can help us design new experiments to add greater certainty to theories (or possibly to prove them wrong).        It is seen that lead exposure levels correlate with crime rates. Does this mean that lead exposure causes crime? If not, what come up with some alternative explanations.      Not necessarily. Perhaps people who are exposed to higher levels of lead tend to be more impoverished. Perhaps that poverty is the root cause of the high crime rate.       "
 },
@@ -365,7 +455,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith3.html#exercises-chem-faith3-1",
   "type": "Exercise",
-  "number": "1.3.1",
+  "number": "1.4.1",
   "title": "",
   "body": "  Come up with 3 additional laws of nature that you have encountered in your own life that you wonâ€™t find listed in a science textbook.      The law of melting butter. When you heat butter, it turns into a liquid. The law of successful campfires. Camp fires burn best when they have adequate ventilation near the bottom. The law of autumn. Leaves turn from green to yellow, orange, or red in the fall.     "
 },
@@ -374,7 +464,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith3.html#exercises-chem-faith3-2",
   "type": "Exercise",
-  "number": "1.3.2",
+  "number": "1.4.2",
   "title": "",
   "body": "  Come up with 3 ways in which you used the scientific method in your own life without realizing what you were doing.      I try out different amounts of time when frying eggs to see whether the yolk is hard or runny. (experiment). I observe that when I hit the up volume button on the remote control, the TV gets louder (observation). I think that my lawn is turning brown because it needs more water (hypothesis)     "
 },
@@ -383,7 +473,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith3.html#exercises-chem-faith3-3",
   "type": "Exercise",
-  "number": "1.3.3",
+  "number": "1.4.3",
   "title": "",
   "body": "  Look around you right now. Observe something and write it down. Try to develop a hypothesis that explains that observation. Design an experiment to test your hypothesis. Why controls would you need? What results would you expect that would validate your hypothesis?      Light is coming through various sized slits in the blinds in my room. I think that light can always pass through any gap, no matter how small. I get two objects that can move to change the gap size between them. I place a light behind them and observe if the light can pass through at various gap sizes. A negative control would be if the objects were pressed together so no gap exists. A positive control would be the light itself without the objects to create the gap (to just make sure that I can see the light and that itâ€™s working.     "
 },
@@ -392,7 +482,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith3.html#exercises-chem-faith3-4",
   "type": "Exercise",
-  "number": "1.3.4",
+  "number": "1.4.4",
   "title": "",
   "body": "  Why is it important to develop alternative explanations to experimental observations?      These can remind us that scientific theories are never certain. Also, they can help us design new experiments to add greater certainty to theories (or possibly to prove them wrong).     "
 },
@@ -401,7 +491,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith3.html#exercises-chem-faith3-5",
   "type": "Exercise",
-  "number": "1.3.5",
+  "number": "1.4.5",
   "title": "",
   "body": "  It is seen that lead exposure levels correlate with crime rates. Does this mean that lead exposure causes crime? If not, what come up with some alternative explanations.      Not necessarily. Perhaps people who are exposed to higher levels of lead tend to be more impoverished. Perhaps that poverty is the root cause of the high crime rate.     "
 },
@@ -410,7 +500,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-chem-faith4.html",
   "type": "Section",
-  "number": "1.4",
+  "number": "1.5",
   "title": "Faith, Science, Engineering, and Politics",
   "body": " Faith, Science, Engineering, and Politics   Summary:     The relationship between faith, science, engineering, and politics    Science is an essential part of what makes us human    Science and faith are complementary and not at odds with one another    Faith should lead us to use science in good and just ways    What is meant by the deification of science    What are some ways in which science has built mistrust      Science, engineering, and politics are interdependent     The relationship between faith, science, engineering, and politics   The modern world is obsessed with science. It is easy to think of science as a modern marvel, and indeed some people have begun to deify it. The discoveries of scientists have in many cases dramatically improved life for people around the world and promise to work wonders such as the eradication of disease (even if some of these promises seem far off). Many of the observations of nature that in history appeared miraculous now have scientific explanations and theories. For instance, the variety of life of Earth is now widely believed (even amongst Catholic scientists) to have resulted from evolution rather than a single creation event (it’s worth noting, less you think of this as a source of conflict between faith and science that Catholic scientists still believe in a Creation event, but that the events that followed and their timing differ from a literal reading of Genesis). Because of this, many people have come to reject religion as superstitious nonsense, since science appears (to some) as if it might be able to explain all natural phenomena. Many modern atheists use statements like this to argue that if God is not necessary to explain anything in nature, then it doesn’t make sense to believe in the existence of God. They of course forget that science is a tool for investigating only what can be observed in nature , and therefore it’s incapable of investigating the existence God. Furthermore, as we learned about in the previous lesson, supernatural causes are a logical necessity for the existence of nature. Additionally, the scientific method depends on change for experiments to work (recall that changes are actualization of some potency). All changes must ultimately have their root in Actus Purus…something that modern atheists conveniently ignore.  On the other extreme, many people are prone to reject scientific progress for a variety of reasons. Indeed, scientific investigations and technological “advances” have created numerous problems for society, and it is understandable why people have developed a distrust of science as a result. In the 1920s, a scientist named Thomas Midgley Jr. discovered that the addition of a chemical compound containing lead into gasoline could help it burn in a more reliable way in car engines. Leaded gasoline was thus introduced and was used in the United States until 1996. Over that time, vast quantities of lead were released into the environment and resulted in a variety of toxic effect. In a different example, in the Tuskegee syphilis study, several hundred black men with syphilis in the United States had treatment unknowingly withheld from them so that scientists could study the long-term effects of the disease. Once the details of this horrendous study came to light, it understandably had a negative impact on the trust of black Americans for the American medical community   The Quarterly Journal of Economics , Volume 133, Issue 1, February 2018, Pages 407–455 .  Nowadays, there are many prominent examples of mistrust between the scientific community and various groups of people. Global warming and the safety and effectiveness of vaccines are two prominent areas. In this text, I’ll neither argue for or against those issues, but instead focus on the root cause of the distrust. Some of the distrust stems from the fact that different scientific studies can sometimes arrive at different conclusions. The reasons for this are complex and varied, but so are the subjects being studied.  For instance, one study might show that chemical X causes cancer while another study doesn’t. This disagreement might be due to differences in the amounts of chemical X used in the study, the amount of time of the exposure, the use of mice vs. rabbits, the type of test used, etc. Cancer is a very complex disease, and it shouldn’t come as a surprise that the studies and factors that influence its occurrence are complex as well.  Similarly, in the field of climatology (the study of climate) there are studies and data that show evidence of man’s role in global warming and other data that disputes this. Can science come to meaningful conclusions then? In cases where different studies have different outcomes and conclusions, the scientific community tries to carry out more and better designed studies in an effort to arrive at a consensus , but a consensus represents the belief that the majority of the best studies support a particular theory.  The bias of researchers can also play a role in science. An ethical scientist tries to avoid bias, but it can be difficult to eliminate entirely, especially since the importance of a scientific discovery is often linked to funding. In some cases, bias can and has led to incorrect interpretations of data, outright falsification of data, and entirely incorrect conclusions. However, bias is present in pretty much every part of life, with examples ranging from restaurant preferences to political decision making. Bias shouldn’t be a reason to distrust all scientists and scientific theories, but it is important to scrutinize scientific conclusions, especially when they begin to impact our lives, the lives of others, and\/or our environment.  Another reason for distrust of science has to deal with a misunderstanding of what science is. I would argue that much of the disagreement and distrust of science in our society is not at science at all, but rather at engineering and even more so politics . Engineering and science are closely related and interdependent fields. Where science seeks answers to the causes of things, engineering seeks to use that knowledge to create solutions to problems. Politics is related to both fields since our political leaders strive (or should strive) to find the best ways to use scientific knowledge and engineering creations to further the good of society.  As an example, let’s take the example of the Covid vaccines. A combination of scientific discoveries and engineering advancements lead to the development of the first Covid vaccines. Their purpose was to combat the Covid-19 virus, which was rapidly spreading across the globe. The disease was poorly understood and was able to cause death, hence the desire for rapid vaccine development (a political decision). The development of the vaccine was extremely rapid, thanks to many advances in biochemical engineering and science. Political pressure led to the implementation of the vaccine before thorough testing by scientists and engineers had been accomplished. Vaccine mandates followed, and whether justified or not, they were undoubtedly controversial. Again, though, vaccine mandates are not science, they are political actions. Many people have argued that the vaccines were untested, ineffective, and potentially harmful and that science failed in these regards. I would argue that scientists and engineers did not fail at all, but actually performed extraordinarily well. The scientific method takes considerable time and in the case of the Covid vaccine, due to political decisions, much of the discoveries of scientists lagged behind the roll out of the vaccines and their mandatory implementation. Indeed, scientists can’t test the effectiveness and safety of something that hasn’t been created yet. The decision to roll out the vaccines before the typical years worth of testing were complete wasn’t a decision of scientists but one of politicians. Many scientists definitely contributed to those political decisions, but it’s important to realize that they weren’t acting as scientists but as activists in those instances. Activists can act in ethical or unethical ways, and the same goes for scientists (and I’ll leave it to the reader to form their own opinions in this case). I’d even argue that activism is a necessity among scientists; if scientists can’t advocate for the importance of their research, then it won’t get the funding or support that is needed to carry it out (in many ways this is like a small business owner advertising a new product…but I digress…). Now, years after the vaccine rollout, biologists have largely reached a consensus about the effectiveness and safety of the Covid-19 vaccines. The majority of scientific research supports the conclusion that the initial vaccines weren’t very effective at preventing the spread of the disease, though they were effective in lessening its severity. Additionally, statistical analysis revealed that there are a variety of safety issues that correlated with the initial vaccines, though their rate of occurrence was quite low. The scientific method didn’t fail us, but it took time to carry out the studies and arrive at conclusions. Unfortunately, and perhaps unavoidably, the lines between science, engineering, and politics are often blurred and this can regrettably result in distrust in science and scientists for reasons that aren’t science at all.  When science and technology are deified, great error can result. On the other hand, lack of trust in scientists and their conclusions can lead to distrust and animosity and can potentially lead to the rejection of engineering advances that can help mankind. What then is the proper attitude to take towards science and its relationship to faith and human flouring? Read the following text from the Church’s Pastoral Constitution, Gaudium et Spes :  “Christians, on pilgrimage toward the heavenly city, should seek and think of these things which are above. This duty in no way decreases, rather it increases, the importance of their obligation to work with all men in the building of a more human world. Indeed, the mystery of the Christian faith furnishes them with an excellent stimulant and aid to fulfill this duty more courageously and especially to uncover the full meaning of this activity, one which gives to human culture its eminent place in the integral vocation of man.  When man develops the earth by the work of his hands or with the aid of technology, in order that it might bear fruit and become a dwelling worthy of the whole human family and when he consciously takes part in the life of social groups, he carries out the design of God manifested at the beginning of time, that he should subdue the earth, perfect creation and develop himself. At the same time he obeys the commandment of Christ that he place himself at the service of his brethren.  Furthermore, when man gives himself to the various disciplines of philosophy, history and of mathematical and natural science, and when he cultivates the arts, he can do very much to elevate the human family to a more sublime understanding of truth, goodness, and beauty, and to the formation of considered opinions which have universal value. Thus mankind may be more clearly enlightened by that marvelous Wisdom which was with God from all eternity, composing all things with him, rejoicing in the earth, delighting in the sons of men.  In this way, the human spirit, being less subjected to material things, can be more easily drawn to the worship and contemplation of the Creator. Moreover, by the impulse of grace, he is disposed to acknowledge the Word of God, Who before He became flesh in order to save all and to sum up all in Himself was already \"in the world\" as \"the true light which enlightens every man\" (John 1:9-10).  Indeed today's progress in science and technology can foster a certain exclusive emphasis on observable data, and an agnosticism about everything else. For the methods of investigation which these sciences use can be wrongly considered as the supreme rule of seeking the whole truth. By virtue of their methods these sciences cannot penetrate to the intimate notion of things. Indeed the danger is present that man, confiding too much in the discoveries of today, may think that he is sufficient unto himself and no longer seek the higher things.  Those unfortunate results, however, do not necessarily follow from the culture of today, nor should they lead us into the temptation of not acknowledging its positive values. Among these values are included: scientific study and fidelity toward truth in scientific inquiries, the necessity of working together with others in technical groups, a sense of international solidarity, a clearer awareness of the responsibility of experts to aid and even to protect men, the desire to make the conditions of life more favorable for all, especially for those who are poor in culture or who are deprived of the opportunity to exercise responsibility. All of these provide some preparation for the acceptance of the message of the Gospel a preparation which can be animated by divine charity through Him Who has come to save the world.”  Pure science is a tool that humanity can use to gain knowledge of God’s creation. Knowledge of creation sheds light on its Creator and is therefore a commendable exercise for a Christian to undertake. Unfortunately, human history is filled with examples of the knowledge of science being misused for sinful purposes. The use of knowledge is distinct from the knowledge itself, often involving other human enterprises such as medicine, business, politics, etc. Science itself is not free from sin either. When scientists place the pursuit of knowledge above the laws of God, unethical experimentation can result.     I'd argue that science is an essential part of what makes us human. Do you agree or disagree? Why?      Humans are created to know and wonder. Science is the way in which we can do this in the natural world        The text above describes two very different ways in which science is misunderstood in society. Explain these two ways in your own words.      Science can be misunderstood to be the â€œanswer to our prayersâ€. Science can also be distrusted because of how it is utilized for engineering and political purposes. Scientific investigations can also be carried out in unethical ways.        How are engineering, science, and politics related?      Politics tries to encourage human flourishing. It needs solutions to problems, which is the purpose of engineering. Engineering relies on knowledge from science in order to design good solutions to problems.        One of the footnotes above says that scientists can be activists in ethical ways or unethical ways. Do you agree? What requirements would you have for a scientist to behave as an ethical activist?      An ethical activist\/scientist should not state their theories as scientific fact. They should also present the best synopsis of the available knowledge (and alternative explanations).        How can science aid faith? How can faith aid science?      Science can remove superstition from faith and correct errors in our knowledge. Faith can allow science to pursue worthwhile knowledge in ethical ways.        Science can lead to knowledge about the natural world. How is that knowledge connected to our love of God? (Think back to the last lesson)      Knowledge of nature is knowledge of Godâ€™s Creation and thus provides insight into God Himself. It can also provide us the knowledge to better care for our neighbors. In the last lesson we learned that love of neighbor is inseparable from love of God.        What are some ethical science problems that you foresee yourself having to contend with in your profession? How might you deal with this?      Answers may vary        Academic pursuits (such as you are now undertaking) are full of ethical struggles as you strive to acquire knowledge and progress toward your vocation. In many ways this is similar to the ethical dilemmas encountered by scientists. Come up with 3 ways in which a student might be tempted to sin as they pursue knowledge and advancement.      Answers may vary        Christ has conquered sin and has redeemed the world. Use this fact to compose a short prayer that you can use is difficult ethical moments throughout your academic and professional career.      Answers may vary       "
 },
@@ -482,7 +572,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith4.html#exercises-chem-faith4-1",
   "type": "Exercise",
-  "number": "1.4.1",
+  "number": "1.5.1",
   "title": "",
   "body": "  I'd argue that science is an essential part of what makes us human. Do you agree or disagree? Why?      Humans are created to know and wonder. Science is the way in which we can do this in the natural world     "
 },
@@ -491,7 +581,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith4.html#exercises-chem-faith4-2",
   "type": "Exercise",
-  "number": "1.4.2",
+  "number": "1.5.2",
   "title": "",
   "body": "  The text above describes two very different ways in which science is misunderstood in society. Explain these two ways in your own words.      Science can be misunderstood to be the â€œanswer to our prayersâ€. Science can also be distrusted because of how it is utilized for engineering and political purposes. Scientific investigations can also be carried out in unethical ways.     "
 },
@@ -500,7 +590,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith4.html#exercises-chem-faith4-3",
   "type": "Exercise",
-  "number": "1.4.3",
+  "number": "1.5.3",
   "title": "",
   "body": "  How are engineering, science, and politics related?      Politics tries to encourage human flourishing. It needs solutions to problems, which is the purpose of engineering. Engineering relies on knowledge from science in order to design good solutions to problems.     "
 },
@@ -509,7 +599,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith4.html#exercises-chem-faith4-4",
   "type": "Exercise",
-  "number": "1.4.4",
+  "number": "1.5.4",
   "title": "",
   "body": "  One of the footnotes above says that scientists can be activists in ethical ways or unethical ways. Do you agree? What requirements would you have for a scientist to behave as an ethical activist?      An ethical activist\/scientist should not state their theories as scientific fact. They should also present the best synopsis of the available knowledge (and alternative explanations).     "
 },
@@ -518,7 +608,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith4.html#exercises-chem-faith4-5",
   "type": "Exercise",
-  "number": "1.4.5",
+  "number": "1.5.5",
   "title": "",
   "body": "  How can science aid faith? How can faith aid science?      Science can remove superstition from faith and correct errors in our knowledge. Faith can allow science to pursue worthwhile knowledge in ethical ways.     "
 },
@@ -527,7 +617,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith4.html#exercises-chem-faith4-6",
   "type": "Exercise",
-  "number": "1.4.6",
+  "number": "1.5.6",
   "title": "",
   "body": "  Science can lead to knowledge about the natural world. How is that knowledge connected to our love of God? (Think back to the last lesson)      Knowledge of nature is knowledge of Godâ€™s Creation and thus provides insight into God Himself. It can also provide us the knowledge to better care for our neighbors. In the last lesson we learned that love of neighbor is inseparable from love of God.     "
 },
@@ -536,7 +626,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith4.html#exercises-chem-faith4-7",
   "type": "Exercise",
-  "number": "1.4.7",
+  "number": "1.5.7",
   "title": "",
   "body": "  What are some ethical science problems that you foresee yourself having to contend with in your profession? How might you deal with this?      Answers may vary     "
 },
@@ -545,7 +635,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith4.html#exercises-chem-faith4-8",
   "type": "Exercise",
-  "number": "1.4.8",
+  "number": "1.5.8",
   "title": "",
   "body": "  Academic pursuits (such as you are now undertaking) are full of ethical struggles as you strive to acquire knowledge and progress toward your vocation. In many ways this is similar to the ethical dilemmas encountered by scientists. Come up with 3 ways in which a student might be tempted to sin as they pursue knowledge and advancement.      Answers may vary     "
 },
@@ -554,7 +644,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith4.html#exercises-chem-faith4-9",
   "type": "Exercise",
-  "number": "1.4.9",
+  "number": "1.5.9",
   "title": "",
   "body": "  Christ has conquered sin and has redeemed the world. Use this fact to compose a short prayer that you can use is difficult ethical moments throughout your academic and professional career.      Answers may vary     "
 },
@@ -563,7 +653,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-chem-faith5.html",
   "type": "Section",
-  "number": "1.5",
+  "number": "1.6",
   "title": "Chemistry",
   "body": " Chemistry   Summary:     What is the definition of chemistry, matter, and mass?    What is matter and what is energy?     Section 3: Chemistry   Modern science is separated into the disciplines of physics, chemistry, and biology. There is considerable overlap between these subjects since each discipline can influence the others. Chemistry is the study of the properties of matter . Matter can be defined as anything that occupies space and has mass . Basically, everything that you can see and touch is matter. Even particles that are too small to be seen, such as atoms and molecules, are still matter because they occupy space and have mass. Energy (defined in a later chapter), on the other hand, is NOT matter. It is a property that matter can have, but it is not a thing that occupies space. Light and heat are things that we can experience in the physical world, but they lack mass and thus are not matter. Sound is another example of energy. Sound is caused by the vibration of matter, but it refers to the vibration, not to the particles that are vibrating.  Chemistry is often referred to as the central science. This is because to fully understand the behavior and properties of matter, we first have to understand the laws of physics. Physics provides chemistry with information about the composition of matter and its most basic parts. It also provides chemists with an understanding of energy and how it interacts with matter. At the same time, all organisms are comprised of matter; thus, if we want to understand life, we need to understand the matter that comprises it. Chemistry aids biology by helping us understand how organisms function and can also help us learn how to manipulate biology, for instance by designing pharmaceuticals or pesticides.     Write down the definitions of chemistry, matter, and mass.      See the definitions in the text       For questions 2-5, answer the following question: Are the following things best described as matter or energy?      The heat from a fire      Energy        The smoke from a fire      Matter        The vibration of a string on a violin      Energy        A string on a violin      Matter        What are your career goals (discuss this with your group)? How might the knowledge of chemistry help you in your career?      Answers may vary        Even if you never directly use the knowledge from this course in your profession, does this course still have value to you? Is knowledge without purpose worthless?      Answers may vary for the question about the personal value of this course. Knowledge about creation contains knowledge of God. Knowing God is obviously good, so pursuing any knowledge of creation has inherent goodness.       "
 },
@@ -599,7 +689,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith5.html#exercises-chem-faith5-1",
   "type": "Exercise",
-  "number": "1.5.1",
+  "number": "1.6.1",
   "title": "",
   "body": "  Write down the definitions of chemistry, matter, and mass.      See the definitions in the text     "
 },
@@ -617,7 +707,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith5.html#exercises-chem-faith5-3",
   "type": "Exercise",
-  "number": "1.5.2",
+  "number": "1.6.2",
   "title": "",
   "body": "  The heat from a fire      Energy     "
 },
@@ -626,7 +716,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith5.html#exercises-chem-faith5-4",
   "type": "Exercise",
-  "number": "1.5.3",
+  "number": "1.6.3",
   "title": "",
   "body": "  The smoke from a fire      Matter     "
 },
@@ -635,7 +725,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith5.html#exercises-chem-faith5-5",
   "type": "Exercise",
-  "number": "1.5.4",
+  "number": "1.6.4",
   "title": "",
   "body": "  The vibration of a string on a violin      Energy     "
 },
@@ -644,7 +734,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith5.html#exercises-chem-faith5-6",
   "type": "Exercise",
-  "number": "1.5.5",
+  "number": "1.6.5",
   "title": "",
   "body": "  A string on a violin      Matter     "
 },
@@ -653,7 +743,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith5.html#exercises-chem-faith5-7",
   "type": "Exercise",
-  "number": "1.5.6",
+  "number": "1.6.6",
   "title": "",
   "body": "  What are your career goals (discuss this with your group)? How might the knowledge of chemistry help you in your career?      Answers may vary     "
 },
@@ -662,7 +752,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-chem-faith5.html#exercises-chem-faith5-8",
   "type": "Exercise",
-  "number": "1.5.7",
+  "number": "1.6.7",
   "title": "",
   "body": "  Even if you never directly use the knowledge from this course in your profession, does this course still have value to you? Is knowledge without purpose worthless?      Answers may vary for the question about the personal value of this course. Knowledge about creation contains knowledge of God. Knowing God is obviously good, so pursuing any knowledge of creation has inherent goodness.     "
 },
@@ -3544,7 +3634,7 @@ var ptx_lunr_docs = [
   "type": "Appendix",
   "number": "A",
   "title": "Definitions",
-  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.       Chapter 3    Chapter 4    Chapter 5    Chapter 6    Chapter 7    Chapter 8    Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
+  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.       Chapter 3    Chapter 4    Chapter 5    Chapter 6    Chapter 7    Chapter 8    Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
 },
 {
   "id": "backmatter-2-2",
@@ -3553,7 +3643,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 1 Natural world: Supernatural: Potency: Actuality: Actus Purus: Holistic: Science: Scientific method: Laws: Hypothesis: Variables: Control groups: Experimental groups: Theory: Correlation: Deify: Consensus: Bias: Engineering: Politics: Activists: Chemistry: Matter: Mass: "
+  "body": "Chapter 1 Natural world: Supernatural: Potency: Actuality: Actus Purus: Superstition: Scandal: Holistic: Science: Scientific method: Laws: Hypothesis: Variables: Control groups: Experimental groups: Theory: Correlation: Deify: Consensus: Bias: Engineering: Politics: Activists: Chemistry: Matter: Mass: "
 },
 {
   "id": "backmatter-2-3",
