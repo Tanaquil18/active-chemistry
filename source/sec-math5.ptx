@@ -72,9 +72,9 @@
 	</p>
 <figure xml:id="AH001">
 
-	<image source="AH001.png"/>
+	<image source="AH001.png">
 	<shortdescription>An arrow being measured with an analog scale.  The arrow falls between 0.9 and 1.0 units on the scale.</shortdescription>
-</image>
+	</image>
 		<caption>A graph with an arrow being measured with an analog scale</caption>
 </figure>
 
@@ -83,7 +83,7 @@
 	</p>
 
 <figure xml:id="AH004">
-	<image source="AH004.png"/>
+	<image source="AH004.png">
 	<shortdescription>An arrow is being measured with an analog scale.  Not all of the tenths are shown on the scale.  The arrow falls between the 0.5 and 1.0 markings.</shortdescription>
 </image>
 	<caption>Measuring an arrow with an analog scale with incomplete markings. </caption>
