@@ -1348,7 +1348,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.5",
   "title": "Analog vs. digital measurements",
-  "body": " Analog vs. digital measurements   Summary:     Digital vs. analog measurements    Digital    All digits shown on the display should be written down    Do NOT add any extra digits      Analog    Read all digits provided by the scale shown    Estimate one extra digit ONLY if all of the digits of the previous position are marked on the scale         Section 2: Digital vs. Analog Measurements   When we make measurements with analog  An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes. devices like a ruler or a graduated cylinder, the process for determining the number of significant figures in your measurement is more complicated than with a digital  A digital device is one that displays a measurement using digits only. device. With a digital device, you simply record all of the displayed numbers in your measured number and obey the rules that were learned previously for significant figures in order to determine which digits are significant . For example if a balance reads 0.320 grams, then your measurement is 0.320 grams with 3 significant figures (the left zero is NOT significant because of the rules you learned in the last section).  When we use an analog device, we frequently see that the line that we’re measuring occurs between values on the measuring scale. When reporting these measurements, we report all of the digits that are provided by the measuring scale PLUS we estimate the value of one extra digit by mentally subdividing the scale into 10 equal portions. See the example below:    A graph with a red arrow Description automatically generated   If we’re trying to measure the length of the orange arrow the scale provided depicts tenths of a unit (let’s say it’s centimeters). The orange arrow appears to be between 0.9 and 1 cm long. Since this is an analog scale, we should ALWAYS estimate one extra significant digit, even if that digit is a 0. In this case, my estimate would be 0.94 cm, but yours might differ slightly (though it should be 0.9 something).    A line with numbers and a line with a line AI-generated content may be incorrect.   In this case not all of the digits in the tenths place are shown, only 0.5. Because of this we don’t estimate an extra decimal place. Instead we estimate for the decimal place shown by the most precise markings, in this case the tenths place. My estimate would be 0.9 cm. Your estimate might be 0.8 cm or even 1.0 cm.   Exercise 2: Digital vs. analog measurements      Record the proper measurement with the following devices (don’t worry about the units). How many significant figures are in each measurement?                             "
+  "body": " Analog vs. digital measurements   Summary:     Digital vs. analog measurements    Digital    All digits shown on the display should be written down    Do NOT add any extra digits      Analog    Read all digits provided by the scale shown    Estimate one extra digit ONLY if all of the digits of the previous position are marked on the scale         Digital vs. Analog Measurements   When we make measurements with analog devices like a ruler or a graduated cylinder, the process for determining the number of significant figures in your measurement is more complicated than with a digital device. With a digital device, you simply record all of the displayed numbers in your measured number and obey the rules that were learned previously for significant figures in order to determine which digits are significant . For example if a balance reads 0.320 grams, then your measurement is 0.320 grams with 3 significant figures (the left zero is NOT significant because of the rules you learned in the last section).  When we use an analog device, we frequently see that the line that we’re measuring occurs between values on the measuring scale. When reporting these measurements, we report all of the digits that are provided by the measuring scale PLUS we estimate the value of one extra digit by mentally subdividing the scale into 10 equal portions. See the example below:    An arrow being measured with an analog scale. The arrow falls between 0.9 and 1.0 units on the scale.   A graph with an arrow being measured with an analog scale   If we’re trying to measure the length of the orange arrow as shown in the scale provided depicts tenths of a unit (let’s say it’s centimeters). The orange arrow appears to be between 0.9 and 1 cm long. Since this is an analog scale, we should ALWAYS estimate one extra significant digit, even if that digit is a 0. In this case, my estimate would be 0.94 cm, but yours might differ slightly (though it should be 0.9 something).    An arrow is being measured with an analog scale. Not all of the tenths are shown on the scale. The arrow falls between the 0.5 and 1.0 markings.   Measuring an arrow with an analog scale with incomplete markings.   In the case shown in not all of the digits in the tenths place are shown, only 0.5. Because of this we don’t estimate an extra decimal place. Instead we estimate for the decimal place shown by the most precise markings, in this case the tenths place. My estimate would be 0.9 cm. Your estimate might be 0.8 cm or even 1.0 cm.     Record the proper measurement with the following devices (don’t worry about the units). How many significant figures are in each measurement?     An arrow being measured with an analog scale. All of the ones digits are shown. The arrow just touches the 5 marking.    5.0 (or possibly 4.9 or 5.1--the measurement MUST have 2 significant figures)      An arrow being measured with an analog scale. The scale shows incomplete tenths markings. The arrow is between the 0.0 and 0.2 markings.    0.1 or 0.2 (The measurement should have 1 significant figure)      An arrow being measured with an analog scale. The scale shows incomplete tens markings. The arrow is between the 40 and 60 markings.    50 (40,50, or 60 could be acceptable)      "
 },
 {
   "id": "sec-math5-2",
@@ -1366,7 +1366,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Section 2: Digital vs. Analog Measurements "
+  "body": "Digital vs. Analog Measurements "
 },
 {
   "id": "sec-math5-5",
@@ -1378,58 +1378,49 @@ var ptx_lunr_docs = [
   "body": "analog digital "
 },
 {
-  "id": "sec-math5-7",
+  "id": "AH001",
   "level": "2",
-  "url": "sec-math5.html#sec-math5-7",
+  "url": "sec-math5.html#AH001",
   "type": "Figure",
   "number": "2.5.1",
   "title": "",
-  "body": "  A graph with a red arrow Description automatically generated  "
+  "body": "  An arrow being measured with an analog scale. The arrow falls between 0.9 and 1.0 units on the scale.   A graph with an arrow being measured with an analog scale  "
 },
 {
-  "id": "sec-math5-9",
+  "id": "AH004",
   "level": "2",
-  "url": "sec-math5.html#sec-math5-9",
+  "url": "sec-math5.html#AH004",
   "type": "Figure",
   "number": "2.5.2",
   "title": "",
-  "body": "  A line with numbers and a line with a line AI-generated content may be incorrect.  "
+  "body": "  An arrow is being measured with an analog scale. Not all of the tenths are shown on the scale. The arrow falls between the 0.5 and 1.0 markings.   Measuring an arrow with an analog scale with incomplete markings.  "
 },
 {
-  "id": "sec-math5-11",
+  "id": "exercises-math5-1-2",
   "level": "2",
-  "url": "sec-math5.html#sec-math5-11",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-math5.html#exercises-math5-1-2",
+  "type": "Exercise",
+  "number": "2.5.1",
   "title": "",
-  "body": "Exercise 2: Digital vs. analog measurements "
+  "body": "  An arrow being measured with an analog scale. All of the ones digits are shown. The arrow just touches the 5 marking.    5.0 (or possibly 4.9 or 5.1--the measurement MUST have 2 significant figures)   "
 },
 {
-  "id": "sec-math5-12-1-1-2-1-2-1",
+  "id": "exercises-math5-1-3",
   "level": "2",
-  "url": "sec-math5.html#sec-math5-12-1-1-2-1-2-1",
-  "type": "Figure",
+  "url": "sec-math5.html#exercises-math5-1-3",
+  "type": "Exercise",
+  "number": "2.5.2",
+  "title": "",
+  "body": "  An arrow being measured with an analog scale. The scale shows incomplete tenths markings. The arrow is between the 0.0 and 0.2 markings.    0.1 or 0.2 (The measurement should have 1 significant figure)   "
+},
+{
+  "id": "exercises-math5-1-4",
+  "level": "2",
+  "url": "sec-math5.html#exercises-math5-1-4",
+  "type": "Exercise",
   "number": "2.5.3",
   "title": "",
-  "body": "   "
-},
-{
-  "id": "sec-math5-12-1-1-2-1-3-1",
-  "level": "2",
-  "url": "sec-math5.html#sec-math5-12-1-1-2-1-3-1",
-  "type": "Figure",
-  "number": "2.5.4",
-  "title": "",
-  "body": "   "
-},
-{
-  "id": "sec-math5-12-1-1-2-1-5-1",
-  "level": "2",
-  "url": "sec-math5.html#sec-math5-12-1-1-2-1-5-1",
-  "type": "Figure",
-  "number": "2.5.5",
-  "title": "",
-  "body": "   "
+  "body": "  An arrow being measured with an analog scale. The scale shows incomplete tens markings. The arrow is between the 40 and 60 markings.    50 (40,50, or 60 could be acceptable)   "
 },
 {
   "id": "sec-math6",
@@ -1627,7 +1618,70 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.7",
   "title": "Mental math",
-  "body": " Mental math  "
+  "body": " Mental math    Mental math    Use simple examples to understand how dimensional analysis works      Conversion factors    Fractions that can be used to convert between units or to cancel out unwanted units    Can be flipped    Equivalencies can be written as conversion factors    Conversion factors can be provided in text format      Dimensional analysis    Step-by-step guide to cancel out units that you don’t want and to replace them with ones you do    Metric system and metric prefixes    How to convert between units    Special cases of squared and cubed units       Mental Math   Success in chemistry is often heavily dependent on math skills. This can be intimidating to many students. I want to assure you that the required level of math is actually quite doable, but you need to practice it! In fact, much of the math that we regularly do in chemistry is quite similar to non-chemistry problems that you easily do without much thought. The first exercise deals with some of these sorts of problems and builds up the complexity.     Solve the following questions without writing any math or using a calculator. Try to do these in your head. You don’t need to write anything down because you’ll be doing that in the next section. Also, don't worry about significant figures in this section.     How many inches are in 4.0 ft?    48 inches      A pizza restaurant puts 14 pepperonis on a pizza. How many pepperonis are needed for 10 pizzas?    140 pepperonis      A bicycle needs two wheels. Each wheel weighs 2.0 pounds. How many pounds of wheels are on a single bike?    4 pounds      A bicycle needs two wheels. Each wheel weighs 2.0 pounds. How many pounds of bike wheels are in a race with 50 bikes?    200 pounds      A 50. kg patient has eats 2.0 pounds of food. Each pound of food contains 1200 Calories. How many Calories did the patient consume?    2400 Calories      A section of forest was logged and 150 tons of lumber was obtained. If a tree can give 3.0 tons of lumber, how many trees were harvested?    50 trees      "
+},
+{
+  "id": "sec-math7-3",
+  "level": "2",
+  "url": "sec-math7.html#sec-math7-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Mental Math "
+},
+{
+  "id": "exercises-math7-1-2",
+  "level": "2",
+  "url": "sec-math7.html#exercises-math7-1-2",
+  "type": "Exercise",
+  "number": "2.7.1",
+  "title": "",
+  "body": "  How many inches are in 4.0 ft?    48 inches   "
+},
+{
+  "id": "exercises-math7-1-3",
+  "level": "2",
+  "url": "sec-math7.html#exercises-math7-1-3",
+  "type": "Exercise",
+  "number": "2.7.2",
+  "title": "",
+  "body": "  A pizza restaurant puts 14 pepperonis on a pizza. How many pepperonis are needed for 10 pizzas?    140 pepperonis   "
+},
+{
+  "id": "exercises-math7-1-4",
+  "level": "2",
+  "url": "sec-math7.html#exercises-math7-1-4",
+  "type": "Exercise",
+  "number": "2.7.3",
+  "title": "",
+  "body": "  A bicycle needs two wheels. Each wheel weighs 2.0 pounds. How many pounds of wheels are on a single bike?    4 pounds   "
+},
+{
+  "id": "exercises-math7-1-5",
+  "level": "2",
+  "url": "sec-math7.html#exercises-math7-1-5",
+  "type": "Exercise",
+  "number": "2.7.4",
+  "title": "",
+  "body": "  A bicycle needs two wheels. Each wheel weighs 2.0 pounds. How many pounds of bike wheels are in a race with 50 bikes?    200 pounds   "
+},
+{
+  "id": "exercises-math7-1-6",
+  "level": "2",
+  "url": "sec-math7.html#exercises-math7-1-6",
+  "type": "Exercise",
+  "number": "2.7.5",
+  "title": "",
+  "body": "  A 50. kg patient has eats 2.0 pounds of food. Each pound of food contains 1200 Calories. How many Calories did the patient consume?    2400 Calories   "
+},
+{
+  "id": "exercises-math7-1-7",
+  "level": "2",
+  "url": "sec-math7.html#exercises-math7-1-7",
+  "type": "Exercise",
+  "number": "2.7.6",
+  "title": "",
+  "body": "  A section of forest was logged and 150 tons of lumber was obtained. If a tree can give 3.0 tons of lumber, how many trees were harvested?    50 trees   "
 },
 {
   "id": "sec-math8",
@@ -3634,7 +3688,7 @@ var ptx_lunr_docs = [
   "type": "Appendix",
   "number": "A",
   "title": "Definitions",
-  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.       Chapter 3    Chapter 4    Chapter 5    Chapter 6    Chapter 7    Chapter 8    Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
+  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.         Analog: An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.        Digital: A digital device is one that displays a measurement using digits only.       Chapter 3    Chapter 4    Chapter 5    Chapter 6    Chapter 7    Chapter 8    Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
 },
 {
   "id": "backmatter-2-2",
@@ -3652,7 +3706,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 2 Numerator: Denominator: Dividend: Divisor: Coefficient: Base: Exact number: Measured number: Significant figures: "
+  "body": "Chapter 2 Numerator: Denominator: Dividend: Divisor: Coefficient: Base: Exact number: Measured number: Significant figures: Analog: Digital: "
 },
 {
   "id": "backmatter-2-4",
