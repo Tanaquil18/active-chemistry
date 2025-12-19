@@ -77,7 +77,7 @@
 </figure>
 
 	<p>
-		If we’re trying to measure the length of the orange arrow as shown in <xref ref="AH001" text="custom">Figure 2.5.1</xref> the scale provided depicts tenths of a unit (let’s say it’s centimeters). The orange arrow appears to be between 0.9 and 1 cm long. Since this is an analog scale, we should ALWAYS estimate one extra significant digit, even if that digit is a 0. In this case, my estimate would be 0.94 cm, but yours might differ slightly (though it should be 0.9 something).
+		If we’re trying to measure the length of the orange arrow as shown in <xref ref="AH001"></xref> the scale provided depicts tenths of a unit (let’s say it’s centimeters). The orange arrow appears to be between 0.9 and 1 cm long. Since this is an analog scale, we should ALWAYS estimate one extra significant digit, even if that digit is a 0. In this case, my estimate would be 0.94 cm, but yours might differ slightly (though it should be 0.9 something).
 	</p>
 
 	<figure>
