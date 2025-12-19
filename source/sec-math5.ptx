@@ -93,6 +93,44 @@
 		In the case shown in <xref ref="AH004"></xref> not all of the digits in the tenths place are shown, only 0.5. Because of this we don’t estimate an extra decimal place. Instead we estimate for the decimal place shown by the most precise markings, in this case the tenths place. My estimate would be 0.9 cm. Your estimate might be 0.8 cm or even 1.0 cm.
 	</p>
 <exercises xml:id="exercises-math5">
+	<exercisegroup>
 	
+		<introduction>
+			<p>
+				Record the proper measurement with the following devices (don’t worry about the units). How many significant figures are in each measurement?
+			</p>
+		</introduction>
+	
+		<exercise>
+			<image source="AH006.png">
+				<shortdescription>An arrow being measured with an analog scale.  All of the ones digits are shown.  The arrow just touches the 5 marking.</shortdescription>
+			</image>
+			<answer>
+				<p>
+					5.0 (or possibly 4.9 or 5.1--the measurement MUST have 2 significant figures)
+				</p>
+			</answer>
+		</exercise>
+		<exercise>
+			<image source="AH007.png">
+				<shortdescription>An arrow being measured with an analog scale.  The scale shows incomplete tenths markings.  The arrow is between the 0.0 and 0.2 markings.</shortdescription>
+			</image>
+			<answer>
+				<p>
+					0.1 or 0.2 (The measurement should have 1 significant figure)
+				</p>
+			</answer>
+		</exercise>
+		<exercise>
+			<image source="AH008.png">
+				<shortdescription>An arrow being measured with an analog scale.  The scale shows incomplete tens markings.  The arrow is between the 40 and 60 markings.</shortdescription>
+			</image>
+			<answer>
+				<p>
+					50 (40,50, or 60 could be acceptable)
+				</p>
+			</answer>
+		</exercise>
+	</exercisegroup>
 </exercises>
 </section>
