@@ -1,5 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section xml:id="sec-math7">
     <title>Mental math</title>
-    
+    <p><ol>
+		<li>
+			<p>
+				Mental math
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Use simple examples to understand how dimensional analysis works
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				Conversion factors
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Fractions that can be used to convert between units or to cancel out unwanted units
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Can be flipped
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Equivalencies can be written as conversion factors
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Conversion factors can be provided in text format
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				Dimensional analysis
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Step-by-step guide to cancel out units that you don’t want and to replace them with ones you do
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Metric system and metric prefixes
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						How to convert between units
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Special cases of squared and cubed units
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+	</ol></p>
+
+	<p>
+		<term>Mental Math</term>
+	</p>
+
+	<p>
+		Success in chemistry is often heavily dependent on math skills. This can be intimidating to many students. I want to assure you that the required level of math is actually quite doable, but you need to practice it! In fact, much of the math that we regularly do in chemistry is quite similar to non-chemistry problems that you easily do without much thought. The first exercise deals with some of these sorts of problems and builds up the complexity.
+	</p>
+
+    <exercises xml:id="exercises-math7">
+        <exercisegroup>
+        
+            <introduction>
+                <p>
+                    Solve the following questions without writing any math or using a calculator. Try to do these in your head. You don’t need to write anything down because you’ll be doing that in the next section.  Also, don't worry about significant figures in this section.
+                </p>
+            </introduction>
+        
+            <exercise>
+                <statement>
+                    <p>
+                        How many inches are in 4.0 ft?
+                    </p>
+                </statement>
+                <answer>
+                    <p>
+                        48 inches
+                    </p>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>
+                        A pizza restaurant puts 14 pepperonis on a pizza. How many pepperonis are needed for 10 pizzas?
+                    </p>
+                </statement>
+                <answer>
+                    <p>
+                        140 pepperonis
+                    </p>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>
+                        A bicycle needs two wheels. Each wheel weighs 2.0 pounds. How many pounds of wheels are on a single bike?
+                    </p>
+                </statement>
+                <answer>
+                    <p>
+                        4 pounds
+                    </p>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>
+                        A bicycle needs two wheels. Each wheel weighs 2.0 pounds. How many pounds of bike wheels are in a race with 50 bikes?
+                    </p>
+                </statement>
+                <answer>
+                    <p>
+                        200 pounds
+                    </p>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>
+                        A 50. kg patient has eats 2.0 pounds of food. Each pound of food contains 1200 Calories. How many Calories did the patient consume?
+                    </p>
+                </statement>
+                <answer>
+                    <p>
+                        2400 Calories
+                    </p>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>
+                        A section of forest was logged and 150 tons of lumber was obtained. If a tree can give 3.0 tons of lumber, how many trees were harvested?
+                    </p>
+                </statement>
+                <answer>
+                    <p>
+                        50 trees
+                    </p>
+                </answer>
+            </exercise>
+        </exercisegroup>
+    </exercises>
 </section>
