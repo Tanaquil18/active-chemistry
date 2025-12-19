@@ -72,7 +72,7 @@
 	</p>
 <figure xml:id="AH001">
 
-	<image source="AH001.png">
+	<image source="AH001.png" width="40%">
 	<shortdescription>An arrow being measured with an analog scale.  The arrow falls between 0.9 and 1.0 units on the scale.</shortdescription>
 	</image>
 		<caption>A graph with an arrow being measured with an analog scale</caption>
@@ -83,7 +83,7 @@
 	</p>
 
 <figure xml:id="AH004">
-	<image source="AH004.png">
+	<image source="AH004.png" width="40%">
 	<shortdescription>An arrow is being measured with an analog scale.  Not all of the tenths are shown on the scale.  The arrow falls between the 0.5 and 1.0 markings.</shortdescription>
 </image>
 	<caption>Measuring an arrow with an analog scale with incomplete markings. </caption>
@@ -102,7 +102,7 @@
 		</introduction>
 	
 		<exercise>
-			<image source="AH006.png">
+			<image source="AH006.png" width="40%">
 				<shortdescription>An arrow being measured with an analog scale.  All of the ones digits are shown.  The arrow just touches the 5 marking.</shortdescription>
 			</image>
 			<answer>
@@ -112,7 +112,7 @@
 			</answer>
 		</exercise>
 		<exercise>
-			<image source="AH007.png">
+			<image source="AH007.png" width="40%">
 				<shortdescription>An arrow being measured with an analog scale.  The scale shows incomplete tenths markings.  The arrow is between the 0.0 and 0.2 markings.</shortdescription>
 			</image>
 			<answer>
@@ -122,7 +122,7 @@
 			</answer>
 		</exercise>
 		<exercise>
-			<image source="AH008.png">
+			<image source="AH008.png" width="40%">
 				<shortdescription>An arrow being measured with an analog scale.  The scale shows incomplete tens markings.  The arrow is between the 40 and 60 markings.</shortdescription>
 			</image>
 			<answer>
