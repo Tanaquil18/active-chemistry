@@ -60,28 +60,24 @@
     </ol></p>
 
     <p>
-		<term>Section 2: Digital vs. Analog Measurements</term>
+		<term>Digital vs. Analog Measurements</term>
 	</p>
 
 	<p>
-		When we make measurements with <term>analog</term><fn>	<p>
-		An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.
-	</p></fn> devices like a ruler or a graduated cylinder, the process for determining the number of significant figures in your measurement is more complicated than with a <term>digital</term><fn>	<p>
-		A digital device is one that displays a measurement using digits only.
-	</p></fn> device. <em>With a digital device, you simply record all of the displayed numbers in your measured number and obey the rules that were learned previously for significant figures in order to determine which digits are significant</em>. For example if a balance reads 0.320 grams, then your measurement is 0.320 grams with 3 significant figures (the left zero is NOT significant because of the rules you learned in the last section).
+		When we make measurements with <term><xref ref="def-analog" text="custom">analog</xref></term> devices like a ruler or a graduated cylinder, the process for determining the number of significant figures in your measurement is more complicated than with a <term><xref ref="def-digital" text="custom">digital</xref></term> device. <em>With a digital device, you simply record all of the displayed numbers in your measured number and obey the rules that were learned previously for significant figures in order to determine which digits are significant</em>. For example if a balance reads 0.320 grams, then your measurement is 0.320 grams with 3 significant figures (the left zero is NOT significant because of the rules you learned in the last section).
 	</p>
 
 	<p>
 		When we use an analog device, we frequently see that the line that we’re measuring occurs between values on the measuring scale. When reporting these measurements, we report all of the digits that are provided by the measuring scale PLUS we estimate the value of one extra digit by mentally subdividing the scale into 10 equal portions. See the example below:
 	</p>
+<figure xml:id="AH001">
 
-	<figure>
-	<image source="media/image11.png"/>
-		<caption>A graph with a red arrow Description automatically generated</caption>
+	<image source="AH001.png"/>
+		<caption>A graph with a red arrow being measured with an analog scale</caption>
 </figure>
 
 	<p>
-		If we’re trying to measure the length of the orange arrow the scale provided depicts tenths of a unit (let’s say it’s centimeters). The orange arrow appears to be between 0.9 and 1 cm long. Since this is an analog scale, we should ALWAYS estimate one extra significant digit, even if that digit is a 0. In this case, my estimate would be 0.94 cm, but yours might differ slightly (though it should be 0.9 something).
+		If we’re trying to measure the length of the orange arrow as shown in <xref ref="AH001" text="custom">Figure 2.5.1</xref> the scale provided depicts tenths of a unit (let’s say it’s centimeters). The orange arrow appears to be between 0.9 and 1 cm long. Since this is an analog scale, we should ALWAYS estimate one extra significant digit, even if that digit is a 0. In this case, my estimate would be 0.94 cm, but yours might differ slightly (though it should be 0.9 something).
 	</p>
 
 	<figure>

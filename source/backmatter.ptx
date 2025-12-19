@@ -360,6 +360,23 @@
           </statement>
         </definition>
       </p>
+      <p>
+        <definition xml:id="def-analog">
+          <statement>
+            <p>
+              <term>Analog:</term> An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.
+            </p>
+          </statement>
+        </definition>
+      </p><p>
+        <definition xml:id="def-digital">
+          <statement>
+            <p>
+              <term>Digital:</term>A digital device is one that displays a measurement using digits only.
+            </p>
+          </statement>
+        </definition>
+      </p>
     </p>
     <p>
       <term>Chapter 3</term>
