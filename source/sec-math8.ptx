@@ -1,5 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section xml:id="sec-math8">
     <title>Conversion factors</title>
-    
+    </ol></p>
+		</li>
+
+		<li>
+			<p>
+				Conversion factors
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Fractions that can be used to convert between units or to cancel out unwanted units
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Can be flipped
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Equivalencies can be written as conversion factors
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Conversion factors can be provided in text format
+					</p>
+				</li>
+		
+			</ol></p>
+    <p>
+		<term>Section 2: Conversion factors</term>
+	</p>
+
+	<p>
+		Anytime we are converting from one type of unit to another, we use conversion factors, even if we don’t realize that’s what we’re doing. <term>Conversion factors</term> <fn>	<p>
+		Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.
+	</p></fn>are fractions that express the relationship between two different units as a fraction. For instance, the relationship between feet and inches can be expressed by an equation:
+	</p>
+
+	<p>
+		<me>12\ \text{inches} = 1\ \text{foot}</me>
+	</p>
+
+	<p>
+		This same relationship can be expressed as a conversion factor by taking one side of the equation and placing it over the other side as a fraction:
+	</p>
+
+	<p>
+		<me>\left( \frac{\text{12 inches}}{\text{1 foot}} \right)\ or\ \left( \frac{\text{1 foot}}{\text{12 inches}} \right)</me>
+	</p>
+
+	<p>
+		By multiplying these conversion factors with a given quantity, we can cancel out the units we don’t want, leaving us with the ones that we do.
+	</p>
+
+	<p>
+		Conversion factors are often provided in chemistry problems. For instance, the density of a substance may be provided as 220 grams per liter (or written out using abbreviations as 220 g/L). In either case, this quantity should be written as a fraction, allowing it to be used as a conversion factor:
+	</p>
+
+	<p>
+		<me>\frac{220\ grams}{1\ liter}\ or\ \frac{1\ liter}{220\ grams}</me>
+	</p>
+
 </section>
