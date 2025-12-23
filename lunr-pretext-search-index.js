@@ -1771,7 +1771,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.9",
   "title": "Dimensional analysis",
-  "body": " Dimensional analysis    Dimensional analysis    Step-by-step guide to cancel out units that you don’t want and to replace them with ones you do    Metric system and metric prefixes    How to convert between units    Special cases of squared and cubed units      Dimensional analysis  What you were just doing is called dimensional analysis. The goal of dimensional analysis is to take a starting quantity (or quantities) and to transform the units into the units that are desired. This is accomplished by multiplying fractions and recognizing that we can cancel out units if they occur in the numerator and denominator of the product. For example, if you are asked the following problem:   Example Problem:   Question: How many miles did you walk if you walked 7500 feet?   Starting information —7500 ft   Desired end units —miles   Relevant equation and conversion factors —  5280ft=1mile Conversion factors:    Pathway —we want to eliminate the units of feet and replace it with miles; in order to eliminate feet, that unit must appear in the numerator and denominator of the final product   Calculation —      Rounding to the correct number of significant figures —  1.4 miles   In a dimensional analysis problem, there are several steps that you need to carry out as demonstrated above:    Identify the starting point    Identify the end point    Identify necessary conversion factors to connect the starting units and final units    This may also require other quantities that are NOT provided in the problem      Identify your pathway that will cancel out the undesired units and leave the desired units    Carry out your calculation and check that the units cancel out as expected    Round your final answer to the correct number of significant figures      "
+  "body": " Dimensional analysis    Dimensional analysis    Step-by-step guide to cancel out units that you don’t want and to replace them with ones you do    Metric system and metric prefixes    How to convert between units    Special cases of squared and cubed units      Dimensional analysis  What you were just doing is called dimensional analysis. The goal of dimensional analysis is to take a starting quantity (or quantities) and to transform the units into the units that are desired. This is accomplished by multiplying fractions and recognizing that we can cancel out units if they occur in the numerator and denominator of the product. For example, if you are asked the following problem:   Example Problem 1   Question: How many miles did you walk if you walked 7500 feet?   Starting information —7500 ft   Desired end units —miles   Relevant equation and conversion factors —  5280ft=1mile Conversion factors:    Pathway —we want to eliminate the units of feet and replace it with miles; in order to eliminate feet, that unit must appear in the numerator and denominator of the final product   Calculation —         Rounding to the correct number of significant figures —  1.4 miles   In a dimensional analysis problem, there are several steps that you need to carry out as demonstrated above:   Steps to solving a dimensional analysis problem    Identify the starting point    Identify the end point    Identify necessary conversion factors to connect the starting units and final units    This may also require other quantities that are NOT provided in the problem      Identify your pathway that will cancel out the undesired units and leave the desired units    Carry out your calculation and check that the units cancel out as expected    Round your final answer to the correct number of significant figures       "
 },
 {
   "id": "assemblage-math9-1-2",
@@ -1828,9 +1828,9 @@ var ptx_lunr_docs = [
   "body": "Calculation "
 },
 {
-  "id": "assemblage-math9-1-10",
+  "id": "assemblage-math9-1-11",
   "level": "2",
-  "url": "sec-math9.html#assemblage-math9-1-10",
+  "url": "sec-math9.html#assemblage-math9-1-11",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
