@@ -37,13 +37,11 @@
         </li>
     </ol></p>    
     <p>
-		<term>Section 2: Conversion factors</term>
+		<term>Conversion factors</term>
 	</p>
 
 	<p>
-		Anytime we are converting from one type of unit to another, we use conversion factors, even if we don’t realize that’s what we’re doing. <term>Conversion factors</term> <fn>	<p>
-		Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.
-	</p></fn>are fractions that express the relationship between two different units as a fraction. For instance, the relationship between feet and inches can be expressed by an equation:
+		Anytime we are converting from one type of unit to another, we use conversion factors, even if we don’t realize that’s what we’re doing. <term><xref ref="def-conversionfactors" text="custom">Conversion factors</xref></term> are fractions that express the relationship between two different units as a fraction. For instance, the relationship between feet and inches can be expressed by an equation:
 	</p>
 
 	<p>
@@ -70,4 +68,106 @@
 		<me>\frac{220\ grams}{1\ liter}\ or\ \frac{1\ liter}{220\ grams}</me>
 	</p>
 
+	<exercises xml:id="exercises-math8">
+		<exercisegroup>
+		
+			<introduction>
+				<p>
+					Identify the conversion factors that you used in each problem from the previous section (shown below), then do the same problems from exercise 1, but this time write out the necessary math using those conversion factors.
+				</p>
+			</introduction>
+		
+<exercise>
+                <statement>
+                    <p>
+                        How many inches are in 4.0 ft?
+                    </p>
+                </statement>
+                <answer>
+                    <p>
+                        Conversion factors: <m>\frac{12 inches}{1 foot}</m>
+                    </p>
+					<p>
+						Math: <m>4.0ft\times\frac{12 inches}{1 foot}=48 inches</m>
+					</p>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>
+                        A pizza restaurant puts 14 pepperonis on a pizza. How many pepperonis are needed for 10 pizzas?
+                    </p>
+                </statement>
+                <answer>
+                    <p>
+                        Conversion factors:<m>\frac{14 pepperonis}{1 pizza}</m>
+                    </p>
+					<p>
+						Math: <m>10 pizzas \times \frac{14 pepperonis}{1 pizza}=140 pepperonis</m>
+					</p>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>
+                        A bicycle needs two wheels. Each wheel weighs 2.0 pounds. How many pounds of wheels are on a single bike?
+                    </p>
+                </statement>
+                <answer>
+                    <p>
+                        Conversion factors: <m>\frac{2 wheels}{1 bike}</m> and <m>\frac{2.0 pounds}{1 wheel}</m>
+                    </p>
+					<p>
+						Math: <m>1 bike \times \frac{2 wheels}{1 bike} \times \frac{2.0 pounds}{1 wheel}=4.0 pounds</m>
+					</p>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>
+                        A bicycle needs two wheels. Each wheel weighs 2.0 pounds. How many pounds of bike wheels are in a race with 50 bikes?
+                    </p>
+                </statement>
+                <answer>
+                    <p>
+                        Conversion factors: same as previous problem
+                    </p>
+					<p>
+						Math: <m>50 bikes \times \frac{2 wheels}{1 bike} \times \frac{2.0 pounds}{1 wheel}=200 pounds</m>
+					</p>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>
+                        A 50. kg patient has eats 2.0 pounds of food. Each pound of food contains 1200 Calories. How many Calories did the patient consume?
+                    </p>
+                </statement>
+                <answer>
+                    <p>
+                        Conversion factors: <m>\frac{1200 Calories}{1 pound food}</m>
+                    </p>
+					<p>
+						Math: <m>2 pounds food \times \frac{1200 Calories}{1 pound food}=2400 Calories</m>
+					</p>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>
+                        A section of forest was logged and 150 tons of lumber was obtained. If a tree can give 3.0 tons of lumber, how many trees were harvested?
+                    </p>
+                </statement>
+                <answer>
+                    <p>
+                        Conversion factor: <m>\frac{3.0 tons lumber}{1 tree}</m>
+                    </p>
+					<p>
+						Math: <m>150 tons lumber \times \frac{1 tree}{3.0 tons lumber}=50 trees</m>
+					</p>
+                </answer>
+            </exercise>
+		
+		</exercisegroup>
+	</exercises>
 </section>

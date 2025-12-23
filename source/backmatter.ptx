@@ -377,6 +377,15 @@
           </statement>
         </definition>
       </p>
+<p>
+        <definition xml:id="def-conversionfactors">
+          <statement>
+            <p>
+              <term>Conversion factors:</term> Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.
+            </p>
+          </statement>
+        </definition>
+      </p>
     </p>
     <p>
       <term>Chapter 3</term>
