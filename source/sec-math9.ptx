@@ -1,5 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section xml:id="sec-math9">
     <title>Dimensional analysis</title>
+      <p><ol>
+    		<li>
+			<p>
+				Dimensional analysis
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Step-by-step guide to cancel out units that you don’t want and to replace them with ones you do
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Metric system and metric prefixes
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						How to convert between units
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Special cases of squared and cubed units
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+	</ol></p>
+    <term>Dimensional analysis</term>
     
+    <p>
+        What you were just doing is called dimensional analysis.  The goal of dimensional analysis is to take a starting quantity (or quantities) and to transform the units into the units that are desired.  This is accomplished by multiplying fractions and recognizing that we can cancel out units if they occur in the numerator and denominator of the product.  For example, if you are asked the following problem:
+    </p>
+    <assemblage xml:id="assemblage-math9-1">
+        <title>Example Problem:</title>
+	<p>
+		<term>Question:</term> How many miles did you walk if you walked 7500 feet?
+	</p>
+
+	<p>
+		<term>Starting information</term>—7500 ft
+	</p>
+
+	<p>
+		<term>Desired end units</term>—miles
+	</p>
+
+	<p>
+		<term>Relevant equation and conversion factors</term>—
+	</p>
+
+	<p>
+		5280ft=1mile Conversion factors: <m>\left( \frac{5280ft}{1mile} \right)\ or\ \left( \frac{1mile}{5280ft} \right)</m>
+	</p>
+
+	<p>
+		<term>Pathway</term>—we want to eliminate the units of feet and replace it with miles; in order to eliminate feet, that unit must appear in the numerator and denominator of the final product
+	</p>
+
+	<p>
+		<term>Calculation</term>—
+	</p>
+
+	<p>
+		<me>7500\ ft\ \left( \frac{1mile}{5280ft} \right) = \frac{7500 \times 1\ \ \ ft \times miles}{5280ft} = \frac{7500miles}{5280} = 1.42045455\ miles</me>
+	</p>
+
+	<p>
+		<term>Rounding to the correct number of significant figures</term>—
+	</p>
+
+	<p>
+		1.4 miles
+	</p>
+    </assemblage>
+
+	<p>
+		In a dimensional analysis problem, there are several steps that you need to carry out as demonstrated above:
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				Identify the starting point
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Identify the end point
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Identify necessary conversion factors to connect the starting units and final units
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						This may also require other quantities that are NOT provided in the problem
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				Identify your pathway that will cancel out the undesired units and leave the desired units
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Carry out your calculation and check that the units cancel out as expected
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Round your final answer to the correct number of significant figures
+			</p>
+		</li>
+
+	</ol></p>
+
+
+    <exercises xml:id="exercises-math9">
+        
+    </exercises>
 </section>
