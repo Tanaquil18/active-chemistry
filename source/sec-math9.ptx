@@ -143,8 +143,86 @@
 	</ol></p>
 </assemblage>
 <p>
-Test
+Let's now look at an example that illustrates how to use the above procedure to solve a dimensional analysis problem.
 </p>
+<assemblage xml:id="assemblage-">
+	<title>Example dimensional analysis problem</title>
+	<p>
+		<p>
+		<term>Question:</term> A factory needs to purchase grease for its machines. Each machine needs 5.0 ounces of grease every day. The factory has 35 of these machines. If a package of grease contains 75.0 ounces of grease, how many packages would be needed for the factory for a week?
+	</p>
+
+	<p>
+		<term>Starting information</term>—We have choices here.
+	</p>
+
+	<p>
+		<em>Option 1:</em> Generally I recommend that students try to start with a provided quantity that is NOT a conversion factor (ie. not a fraction). In this case our starting information is:
+	</p>
+
+	<p>
+		<m>\frac{5.0\ ounces}{machine \bullet day}</m> 35 machines <m>\frac{75.0\ ounces}{1\ package}</m> 1 week
+	</p>
+
+	<p>
+		Given these choices I’d recommend starting with 35 machines. You could start with 1 week if you wanted to.
+	</p>
+
+	<p>
+		<em>Option 2</em>: If one of the pieces of starting information has your desired unit, you can start with that, but make sure that the desired unit is in the numerator. In this case you could flip the <m>\frac{75.0\ ounces}{1\ package}</m> to be <m>\frac{1\ package}{75.0\ ounces}</m>
+	</p>
+
+	<p>
+		<term>Desired end units</term>—packages
+	</p>
+
+	<p>
+		<term>Relevant equation and conversion factors</term>—
+	</p>
+
+	<p>
+		In this case the quantities and conversion factors listed above are almost sufficient. We have machines in the units of two quantities (35 machines and <m>\frac{5.0\ ounces}{machine \bullet day}</m>). The same is true for ounces. The unit “package” only appears in one place, but that’s okay because we don’t want to cancel it out. The units “day” and “week”, however, only appear once and need to cancel out. Therefore we need the additional conversion factor:
+	</p>
+
+	<p>
+		<me>\frac{7\ days}{1\ week}</me>
+	</p>
+
+	<p>
+		<term>Pathway</term>—we want to eliminate all of the units except “packages”. All of the other units must appear once in the numerator and denominator so that they cancel out.
+	</p>
+
+	<p>
+		<term>Calculation</term>—
+	</p>
+
+	<p>
+		Option 1:
+	</p>
+
+	<p>
+		<me>35\ machines\ \left( \frac{5.0\ ounces}{machine \bullet day} \right)\left( \frac{7\ days}{1\ week} \right)(1\ week)\left( \frac{1\ package}{75.0\ ounces} \right) = \frac{35 \times 5 \times 7\ \ packages}{75} = 16.3333333\ packages</me>
+	</p>
+
+	<p>
+		Option 2:
+	</p>
+
+	<p>
+		<me>\left( \frac{1\ package}{75.0\ ounces} \right)\ \left( \frac{5.0\ ounces}{machine \bullet day} \right)(35\ machines)\left( \frac{7\ days}{1\ week} \right)(1\ week) = \frac{35 \times 5 \times 7\ \ packages}{75} = 16.3333333\ packages</me>
+	</p>
+
+	<p>
+		<term>Rounding to the correct number of significant figures</term>—
+	</p>
+
+	<p>
+		16.3 packages
+	</p>
+
+
+	</p>
+</assemblage>
 
 
 
