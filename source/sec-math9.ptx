@@ -234,6 +234,8 @@ Let's now look at an example that illustrates how to use the above procedure to 
 
 	<p>
 		<me>\left( \frac{1\ package}{75.0\ ounces} \right)\ \left( \frac{5.0\ ounces}{machine \bullet day} \right)(35\ machines)\left( \frac{7\ days}{1\ week} \right)(1\ week) = 
+</p>
+
 <p>
 	\frac{35 \times 5 \times 7\ \ packages}{75} = 16.3333333\ packages</me>
 	</p>
