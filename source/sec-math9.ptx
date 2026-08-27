@@ -220,7 +220,7 @@ Let's now look at an example that illustrates how to use the above procedure to 
 	</p>
 
 	<p>
-		<me>35\ machines\ \left( \frac{5.0\ ounces}{machine \bullet day} \right)\left( \frac{7\ days}{1\ week} \right)(1\ week)\left( \frac{1\ package}{75.0\ ounces} \right) = \frac{35 \times 5 \times 7\ \ packages}{75} = 16.3333333\ packages</me>
+		<me>35\ machines\ \left( \frac{5.0\ ounces}{machine \bullet day} \right)\left( \frac{7\ days}{1\ week} \right)(1\ week)\left( \frac{1\ package}{75.0\ ounces} \right) =</me>
 	</p>
 <p>
 	<m>\frac{35 \times 5 \times 7\ \ packages}{75} = 16.3333333\</m>
