@@ -469,7 +469,7 @@
 	</p>
 
 	<p>
-		<m>1\ \nm=10^{-9}\ m and 1\ mm=10^{-3}\ m</m>
+		<m>1\ nm=10^{-9}\ m\ and\ 1\ mm=10^{-3}\ m</m>
 	</p>
 
 	<p>
@@ -488,7 +488,7 @@
 
 	<p>
 		<me>
-			122\ nm\ \left( \frac{10^{- 9}\ \m}{1\ nm} \right)\left( \frac{1\ mm}{10^{- 3}\ m} \right) = 1.22 \times 10^{- 4}\ mm
+			122\ nm\ \left( \frac{10^{- 9}\ m}{1\ nm} \right)\left( \frac{1\ mm}{10^{- 3}\ m} \right) = 1.22 \times 10^{- 4}\ mm
 		</me>
 	</p>
 
