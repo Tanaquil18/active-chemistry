@@ -1,263 +1,443 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
 <section xml:id="sec-math9">
-    <title>Dimensional analysis</title>
-      <p><ol>
-    		<li>
-			<p>
-				Dimensional analysis
-			</p>
-		
-			<p><ol>
-				<li>
-					<p>
-						Step-by-step guide to cancel out units that you don’t want and to replace them with ones you do
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						Metric system and metric prefixes
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						How to convert between units
-					</p>
-				</li>
-		
-				<li>
-					<p>
-						Special cases of squared and cubed units
-					</p>
-				</li>
-		
-			</ol></p>
-		</li>
+	<title>Dimensional analysis</title>
 
-	</ol></p>
-    <term>Dimensional analysis</term>
-    
-    <p>
-        What you were just doing is called dimensional analysis.  The goal of dimensional analysis is to take a starting quantity (or quantities) and to transform the units into the units that are desired.  This is accomplished by multiplying fractions and recognizing that we can cancel out units if they occur in the numerator and denominator of the product.  For example, if you are asked the following problem:
-    </p>
-    <assemblage xml:id="assemblage-math9-1">
-        <title>Example Problem 1</title>
 	<p>
-		<term>Question:</term> How many miles did you walk if you walked 7500 feet?
+		<ol>
+			<li>
+				<p>
+					Dimensional analysis
+				</p>
+
+				<p>
+					<ol>
+						<li>
+							<p>
+								Step-by-step guide to cancel out units that you don’t want and to
+								replace them with ones you do
+							</p>
+						</li>
+
+						<li>
+							<p>
+								Metric system and metric prefixes
+							</p>
+						</li>
+
+						<li>
+							<p>
+								How to convert between units
+							</p>
+						</li>
+
+						<li>
+							<p>
+								Special cases of squared and cubed units
+							</p>
+						</li>
+					</ol>
+				</p>
+			</li>
+		</ol>
+	</p>
+	<term>
+		Dimensional analysis
+	</term>
+
+	<p>
+		What you were just doing is called dimensional analysis.
+		The goal of dimensional analysis is to take a starting quantity (or
+		quantities) and to transform the units into the units that are desired.
+		This is accomplished by multiplying fractions and recognizing that we can
+		cancel out units if they occur in the numerator and denominator of the
+		product.
+		For example, if you are asked the following problem:
 	</p>
 
-	<p>
-		<term>Starting information</term>—7500 ft
-	</p>
+	<assemblage xml:id="assemblage-math9-1">
+		<title>Example Problem 1</title>
 
-	<p>
-		<term>Desired end units</term>—miles
-	</p>
-
-	<p>
-		<term>Relevant equation and conversion factors</term>—
-	</p>
-
-	<p>
-		5280ft=1mile Conversion factors: <m>\left( \frac{5280ft}{1mile} \right)\ or\ \left( \frac{1mile}{5280ft} \right)</m>
-	</p>
-
-	<p>
-		<term>Pathway</term>—we want to eliminate the units of feet and replace it with miles; in order to eliminate feet, that unit must appear in the numerator and denominator of the final product
-	</p>
-
-	<p>
-		<term>Calculation</term>—
-	</p>
-
-	<p>
-		<me>7500\ ft\ \left( \frac{1mile}{5280ft} \right) = \frac{7500 \times 1\ \ \ ft \times miles}{5280ft} = \frac{7500miles}{5280} =</me>
-    </p>
-    <p>
-        <me> 1.42045455\ miles</me>
-	</p>
-
-	<p>
-		<term>Rounding to the correct number of significant figures</term>—
-	</p>
-
-	<p>
-		1.4 miles
-	</p>
-    </assemblage>
-
-	<p>
-		In a dimensional analysis problem, there are several steps that you need to carry out as demonstrated above:
-	</p>
-<assemblage>
-    <title>Steps to solving a dimensional analysis problem</title>
-    
-    
-	<p><ol>
-		<li>
-			<p>
-				Identify the starting point
-			</p>
-		</li>
-
-		<li>
-			<p>
-				Identify the end point
-			</p>
-		</li>
-
-		<li>
-			<p>
-				Identify necessary conversion factors to connect the starting units and final units
-			</p>
-		
-			<p><ol>
-				<li>
-					<p>
-						This may also require other quantities that are NOT provided in the problem
-					</p>
-				</li>
-		
-			</ol></p>
-		</li>
-
-		<li>
-			<p>
-				Identify your pathway that will cancel out the undesired units and leave the desired units
-			</p>
-		</li>
-
-		<li>
-			<p>
-				Carry out your calculation and check that the units cancel out as expected
-			</p>
-		</li>
-
-		<li>
-			<p>
-				Round your final answer to the correct number of significant figures
-			</p>
-		</li>
-
-	</ol></p>
-</assemblage>
-<p>
-Let's now look at an example that illustrates how to use the above procedure to solve a dimensional analysis problem.
-</p>
-<assemblage xml:id="assemblage-">
-	<title>Example dimensional analysis problem</title>
-	<p>
 		<p>
-		<term>Question:</term> A factory needs to purchase grease for its machines. Each machine needs 5.0 ounces of grease every day. The factory has 35 of these machines. If a package of grease contains 75.0 ounces of grease, how many packages would be needed for the factory for a week?
-	</p>
-<p>
-	
-</p>
+			<term>Question:</term> How many miles did you walk if you walked 7500 feet?
+		</p>
+
+		<p>
+			<term>Starting information</term> —7500 ft
+		</p>
+
+		<p>
+			<term>Desired end units</term> —miles
+		</p>
+
+		<p>
+			<term>Relevant equation and conversion factors</term> —
+		</p>
+
+		<p>
+			5280ft=1mile Conversion factors:
+			<m>\left( \frac{5280ft}{1mile} \right)\ or\ \left( \frac{1mile}{5280ft} \right)</m>
+		</p>
+
+		<p>
+			<term>Pathway</term> —we want to eliminate the units of feet and replace it
+			with miles; in order to eliminate feet, that unit must appear in the
+			numerator and denominator of the final product
+		</p>
+
+		<p>
+			<term>Calculation</term> —
+		</p>
+
+		<p>
+			<me>
+				7500\ ft\ \left( \frac{1mile}{5280ft} \right) = \frac{7500 \times 1\ \ \ ft \times miles}{5280ft} = \frac{7500miles}{5280} =
+			</me>
+		</p>
+
+		<p>
+			<me>
+				1.42045455\ miles
+			</me>
+		</p>
+
+		<p>
+			<term>Rounding to the correct number of significant figures</term> —
+		</p>
+
+		<p>
+			1.4 miles
+		</p>
+	</assemblage>
+
 	<p>
-		<term>1. Identify the Starting Point</term>
-		</p>
-		<p>
-		We have choices here.
+		In a dimensional analysis problem, there are several steps that you need to
+		carry out as demonstrated above:
 	</p>
-<p>
+
+	<assemblage>
+		<title>Steps to solving a dimensional analysis problem</title>
+
 		<p>
-		<m>\frac{5.0\ ounces}{machine \bullet day}</m> 
-		</p>
-			<p>
-				35 machines
-				</p> 
-				<p><m>\frac{75.0\ ounces}{1\ package}</m>
-					</p> 
-					<p>1 week
+			<ol>
+				<li>
+					<p>
+						Identify the starting point
 					</p>
-	</p>
-</p>
-	<p>
-		<em>Option 1:</em> Generally I recommend that students try to start with a provided quantity that is NOT a conversion factor (ie. not a fraction).
-	</p>
+				</li>
 
+				<li>
+					<p>
+						Identify the end point
+					</p>
+				</li>
 
+				<li>
+					<p>
+						Identify necessary conversion factors to connect the starting units and
+						final units
+					</p>
 
-	<p>
-		Given the choices above I’d recommend starting with 35 machines. You could start with 1 week if you wanted to.
-	</p>
+					<p>
+						<ol>
+							<li>
+								<p>
+									This may also require other quantities that are NOT provided in the
+									problem
+								</p>
+							</li>
+						</ol>
+					</p>
+				</li>
 
-	<p>
-		<em>Option 2</em>: If one of the pieces of starting information has your desired unit, you can start with that, but make sure that the desired unit is in the numerator. In this case you could flip the <m>\frac{75.0\ ounces}{1\ package}</m> to be <m>\frac{1\ package}{75.0\ ounces}</m>
-	</p>
+				<li>
+					<p>
+						Identify your pathway that will cancel out the undesired units and leave
+						the desired units
+					</p>
+				</li>
 
-	<p>
-		<term>2. Identify the Endpoint</term>
-		<p> In this case we want our final unit to be "packages"
+				<li>
+					<p>
+						Carry out your calculation and check that the units cancel out as expected
+					</p>
+				</li>
+
+				<li>
+					<p>
+						Round your final answer to the correct number of significant figures
+					</p>
+				</li>
+			</ol>
 		</p>
+	</assemblage>
+
+	<p>
+		Let's now look at an example that illustrates how to use the above procedure
+		to solve a dimensional analysis problem.
+	</p>
+
+	<assemblage xml:id="assemblage-">
+		<title>Example dimensional analysis problem</title>
+
+		<p>
+			<p>
+				<term>Question:</term> A factory needs to purchase grease for its machines.
+				Each machine needs 5.0 ounces of grease every day.
+				The factory has 35 of these machines.
+				If a package of grease contains 75.0 ounces of grease, how many packages
+				would be needed for the factory for a week?
+			</p>
+
+			<p/>
+			<p>
+				<term>1. Identify the Starting Point</term>
+			</p>
+
+			<p>
+				We have choices here.
+			</p>
+
+			<p>
+				<p>
+					<m>\frac{5.0\ ounces}{machine \bullet day}</m>
+				</p>
+
+				<p>
+					35 machines
+				</p>
+
+				<p>
+					<m>\frac{75.0\ ounces}{1\ package}</m>
+				</p>
+
+				<p>
+					1 week
+				</p>
+			</p>
+		</p>
+
+		<p>
+			<em>Option 1:</em> Generally I recommend that students try to start with a
+			provided quantity that is NOT a conversion factor (ie.
+			not a fraction).
+		</p>
+
+		<p>
+			Given the choices above I’d recommend starting with 35 machines.
+			You could start with 1 week if you wanted to.
+		</p>
+
+		<p>
+			<em>Option 2</em>: If one of the pieces of starting information has your
+			desired unit, you can start with that, but make sure that the desired unit is
+			in the numerator.
+			In this case you could flip the <m>\frac{75.0\ ounces}{1\ package}</m> to be
+			<m>\frac{1\ package}{75.0\ ounces}</m>
+		</p>
+
+		<p>
+			<term>2. Identify the Endpoint</term>
+			<p>
+				In this case we want our final unit to be "packages"
+			</p>
+		</p>
+
+		<p>
+			<term>3. Identify the Necessary Conversion Factors to Connect the Starting Units and Final Units</term>
+		</p>
+
+		<p>
+			In this case the quantities and conversion factors listed above are almost
+			sufficient.
+			We have machines in the units of two quantities (35 machines and
+			<m>\frac{5.0\ ounces}{machine \bullet day}</m> ).
+			The same is true for ounces.
+			The unit “package” only appears in one place, but that’s okay because we
+			don’t want to cancel it out.
+			The units “day” and “week”, however, only appear once and need to cancel out.
+			Therefore we need the additional conversion factor:
+		</p>
+
+		<p>
+			<me>
+				\frac{7\ days}{1\ week}
+			</me>
+		</p>
+
+		<p>
+			<term>4. Identify the Pathway</term> —we want to eliminate all of the units
+			except “packages”.
+			All of the other units must appear once in the numerator and denominator so
+			that they cancel out.
+		</p>
+
+		<p>
+			<term>5. Calculation</term> —
+		</p>
+
+		<p>
+			Option 1:
+		</p>
+
+		<p>
+			<me>
+				35\ machines\ \left( \frac{5.0\ ounces}{machine \bullet day} \right)\left( \frac{7\ days}{1\ week} \right)(1\ week)\left( \frac{1\ package}{75.0\ ounces} \right) =
+			</me>
+		</p>
+
+		<p>
+			<me>
+				\frac{35 \times 5 \times 7\ \ packages}{75} = 16.3333333\ \packages\
+			</me>
+		</p>
+
+		<p/>
+		<p>
+			Option 2:
+		</p>
+
+		<p>
+			<me>
+				\left( \frac{1\ package}{75.0\ ounces} \right)\ \left( \frac{5.0\ ounces}{machine \bullet day} \right)(35\ machines)\left( \frac{7\ days}{1\ week} \right)(1\ week) =
+			</me>
+		</p>
+
+		<p>
+			<me>
+				\frac{35 \times 5 \times 7\ \ packages}{75} = 16.3333333\ packages
+			</me>
+		</p>
+
+		<p>
+			<term>6. Rounding to the correct number of significant figures</term> —
+		</p>
+
+		<p>
+			16.3 packages
+		</p>
+	</assemblage>
+	<p>
+		In chemistry, we very commonly use the system of SI units because of the ease of making the units bigger or smaller by simply adding prefixes to the base unit. The SI units that are commonly used in chemistry are shown below:
+	</p>
+		<table>
+		<title></title>
+<col width="50%" />
+<col width="50%" />
+		<tabular>
+		<row header="yes">
+			<cell halign="left"><term>SI unit and abbreviation</term></cell>
+			<cell halign="left"><term>Unit of…</term></cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">meter (m)</cell>
+			<cell halign="left">distance</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">liter (L)</cell>
+			<cell halign="left">volume</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">	<p>
+		gram (g)
 	</p>
 
 	<p>
-		<term>3. Identify the Necessary Conversion Factors to Connect the Starting Units and Final Units</term>
-	</p>
+		(technically the kilogram is the base unit; but gram is the form lacking a prefix)
+	</p></cell>
+			<cell halign="left"><term>mass</term><fn>	<p>
+		Mass is a measure of the amount of matter in something.
+	</p></fn></cell>
+		</row>
+		<row class="even">
+			<cell halign="left">Joule (J)</cell>
+			<cell halign="left">energy</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">second (sec)</cell>
+			<cell halign="left">time</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">Kelvin (K)</cell>
+			<cell halign="left">temperature</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">Pascal (Pa)</cell>
+			<cell halign="left">pressure</cell>
+		</row>
+		</tabular>
+	</table>
 
 	<p>
-		In this case the quantities and conversion factors listed above are almost sufficient. We have machines in the units of two quantities (35 machines and <m>\frac{5.0\ ounces}{machine \bullet day}</m>). The same is true for ounces. The unit “package” only appears in one place, but that’s okay because we don’t want to cancel it out. The units “day” and “week”, however, only appear once and need to cancel out. Therefore we need the additional conversion factor:
+		The prefixes that you are responsible for knowing are in the table shown below:
 	</p>
 
-	<p>
-		<me>\frac{7\ days}{1\ week}</me>
+	<table>
+		<title></title>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+		<tabular>
+		<row header="yes">
+			<cell halign="left"><term>Prefix</term></cell>
+			<cell halign="left"><term>Abbreviation</term></cell>
+			<cell halign="left"><term>Meaning</term></cell>
+			<cell halign="left"><term>Example with meters</term></cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">nano-</cell>
+			<cell halign="left">n-</cell>
+			<cell halign="left">10<sup>-9</sup></cell>
+			<cell halign="left">nm or nanometers</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">micro-</cell>
+			<cell halign="left">µ- or mc</cell>
+			<cell halign="left">10<sup>-6</sup></cell>
+			<cell halign="left">µm, mcm, or micrometers</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">milli-</cell>
+			<cell halign="left">m-</cell>
+			<cell halign="left">10<sup>-3</sup></cell>
+			<cell halign="left">mm, or millimeters</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">centi-</cell>
+			<cell halign="left">c-</cell>
+			<cell halign="left">10<sup>-2</sup></cell>
+			<cell halign="left">cm, or centimeters</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">deci-</cell>
+			<cell halign="left">d-</cell>
+			<cell halign="left">10<sup>-1</sup></cell>
+			<cell halign="left">dm, or decimeters</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">kilo-</cell>
+			<cell halign="left">k-</cell>
+			<cell halign="left">10<sup>3</sup></cell>
+			<cell halign="left">km, or kilometers</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">mega-</cell>
+			<cell halign="left">M-</cell>
+			<cell halign="left">10<sup>6</sup></cell>
+			<cell halign="left">Mm, or megameters</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">giga-</cell>
+			<cell halign="left">G-</cell>
+			<cell halign="left">10<sup>9</sup></cell>
+			<cell halign="left">Gm, or gigameters</cell>
+		</row>
+		</tabular>
+	</table>
+		<p>
+		We very often have to write conversion factors that will allow us to convert between SI units with different prefixes. How do we do this? Let’s say that we want to convert 122 nm into mm. We need a conversion factor that equates nm and mm. We can do this by writing the following equations that relate the starting and end units to the base unit of meters:
 	</p>
 
-	<p>
-		<term>4. Identify the Pathway</term>—we want to eliminate all of the units except “packages”. All of the other units must appear once in the numerator and denominator so that they cancel out.
-	</p>
-
-	<p>
-		<term>5. Calculation</term>—
-	</p>
-
-	<p>
-		Option 1:
-	</p>
-
-	<p>
-		<me>35\ machines\ \left( \frac{5.0\ ounces}{machine \bullet day} \right)\left( \frac{7\ days}{1\ week} \right)(1\ week)\left( \frac{1\ package}{75.0\ ounces} \right) =</me>
-	</p>
-
-<p>
-	<me>\frac{35 \times 5 \times 7\ \ packages}{75} = 16.3333333 packages\</me>
-</p>
-
-<p>
-	
-</p>
-	<p>
-		Option 2:
-	</p>
-
-	<p>
-		<me>\left( \frac{1\ package}{75.0\ ounces} \right)\ \left( \frac{5.0\ ounces}{machine \bullet day} \right)(35\ machines)\left( \frac{7\ days}{1\ week} \right)(1\ week) = </me>
-</p>
-
-<p>
-	<me>\frac{35 \times 5 \times 7\ \ packages}{75} = 16.3333333\ packages</me>
-	</p>
-
-	<p>
-		<term>6. Rounding to the correct number of significant figures</term>—
-	</p>
-
-	<p>
-		16.3 packages
-	</p>
-
-
-
-</assemblage>
-
-
-
-
-    <exercises xml:id="exercises-math9">
-        
-    </exercises>
+	<exercises xml:id="exercises-math9"/>
 </section>
