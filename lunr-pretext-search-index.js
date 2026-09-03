@@ -1915,7 +1915,70 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.10",
   "title": "Density and specific gravity",
-  "body": " Density and specific gravity  "
+  "body": " Density and specific gravity   Summary:     Density and specific gravity    Density= mass \/ volume    Can calculate it by taking mass and dividing by volume    Volume can be determined by water displacement    Density can be used as a conversion factor to determine mass or volume      Density of water is 1.0g\/mL    Specific gravity is the density of a substance divided by the density of water       Density and Specific Gravity    An important formula that should be memorized:       An important note that should be memorized:   1mL = 1cm 3   You are trying to identify a metal based on its density. You first measure its mass as 17.50g. You then obtain a graduated cylinder and fill it with 23.21 mL of water. You then put the piece of metal in the water and measure a volume of 24.75 mL. Calculate its density.     Identify your starting information and what you’re being asked for.     You have the mass and the volumes of water in the graduated cylinder before and after adding the metal       Recall the definition of density and its formula     D=m\/V (you have mass but not volume of the object itself)       Recognize that you need to calculate the volume     Volume of the object= 24.75mL-23.21mL= 1.54mL       Calculate and round appropriately          Recall that solids usually have density units of g\/cm3. Since 1mL=1cm 3 then density can be written as     This involved multiple steps, subtraction then division. The subtraction step would have had us round to the hundredths place resulting in 3 significant figures (1.54). If we do division next, we have one number with 3 significant figures (the volume) and one with 4 (the mass). Therefore we should round to 3 significant figures giving ; this corresponds to the density of lead.      What is the mass of ethanol that you measured out if you measure 12.1 L of ethanol? Ethanol has a density of 0.80 g\/mL.     Identify your starting information and what you’re being asked for     Volume of 12.1 L and density of 0.80 g\/mL    Being asked for mass       Identify the relevant conversion factors             Identify your pathway     You have units of mass in the density; you want to keep this    mL and L only appear once in what you have; you need an additional conversion factor to cancel them out;        Carryout calculations and round      (please note you could have started with 12.1L instead)    We should round to 2 significant figures    We are multiplying and dividing    0.80 g\/mL (2 significant figures); 12.1 L (3 significant figures); 1mL\/10 -3 L (infinite significant figures\/exact number)    Final answer: 9700 g         An important formula that should be memorized:      "
+},
+{
+  "id": "sec-math10-2",
+  "level": "2",
+  "url": "sec-math10.html#sec-math10-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-math10-4",
+  "level": "2",
+  "url": "sec-math10.html#sec-math10-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Density and Specific Gravity "
+},
+{
+  "id": "sec-math10-5",
+  "level": "2",
+  "url": "sec-math10.html#sec-math10-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "An important formula that should be memorized: "
+},
+{
+  "id": "sec-math10-7",
+  "level": "2",
+  "url": "sec-math10.html#sec-math10-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "An important note that should be memorized: "
+},
+{
+  "id": "sec-math10-10",
+  "level": "2",
+  "url": "sec-math10.html#sec-math10-10",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Identify your starting information and what you’re being asked for. Recall the definition of density and its formula Recognize that you need to calculate the volume Calculate and round appropriately "
+},
+{
+  "id": "sec-math10-12",
+  "level": "2",
+  "url": "sec-math10.html#sec-math10-12",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Identify your starting information and what you’re being asked for Identify the relevant conversion factors Identify your pathway Carryout calculations and round "
+},
+{
+  "id": "sec-math10-13",
+  "level": "2",
+  "url": "sec-math10.html#sec-math10-13",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "An important formula that should be memorized: "
 },
 {
   "id": "sec-math11",
@@ -1924,7 +1987,43 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.11",
   "title": "Dosage problems",
-  "body": " Dosage problems  "
+  "body": " Dosage problems   Dosage Problems   The medical field uses dimensional analysis a lot when calculating the amount of pharmaceuticals a patient should receive. Often patients are supposed to receive a certain dosage  The plan for how much drug should be given to a patient. This can include information about the patient’s weight and the frequency of the administration of the drug. ; doses that are under that amount may be ineffective and doses that exceed that amount may produce toxic effects. For many drugs, the dosage is expressed as a ratio of mass of drug to kilograms of the patient’s body weight (example units might be mg\/kg; this means mg of drug per kilogram of body weight). Remember that dosage amounts are regarded as being exact numbers for the purpose of calculations! Using the dosage and additional information about the patient (such as their weight), we can calculate the correct dose  The exact amount of a drug that should be given to a certain patient of the drug to administer to them. Additionally, many drugs are available as solutions  A solution is a mixture of substances where one is dissolved in another. Frequently a solid is dissolved into a liquid in a solution. An example is salt water. , where a certain amount of drug is dissolved in a specific amount of liquid. The amount of drug that is present in a given amount of liquid is called the concentration  The amount of drug that is contained in a specific volume of solution. (example units might be mg\/mL; this means mg of drug in a mL of solution). These dose amounts and concentrations are often used as conversion factors to determine the appropriate amount of drug to administer to a patient. See the example below:  If a patient is supposed to receive a dose of drug X of 15mg\/kg, how many mL of solution will you have to administer if the patient weighs 75 kg and the solution contains 30.0mg\/mL drug X?     Identify your starting information and what you’re being asked for              (note that you can add extra labels to your units if you find them helpful; this isn’t a requirement)      Being asked for mL of solution    Start with the last conversion factor flipped over since it has our desired units    You could start with 75kg if you wanted as well         Identify the relevant conversion factors      and        Identify your pathway     kg of body weight and mg of drug X both appear twice and can cancel out leaving us with “mL of solution”    No other conversion factors are needed       Carryout calculations and round          We should round to 2 significant figures    Final answer: 38 mL        "
+},
+{
+  "id": "sec-math11-2",
+  "level": "2",
+  "url": "sec-math11.html#sec-math11-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Dosage Problems "
+},
+{
+  "id": "sec-math11-3",
+  "level": "2",
+  "url": "sec-math11.html#sec-math11-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "dosage dose solutions concentration "
+},
+{
+  "id": "sec-math11-5",
+  "level": "2",
+  "url": "sec-math11.html#sec-math11-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Identify your starting information and what you’re being asked for "
+},
+{
+  "id": "sec-math11-8",
+  "level": "2",
+  "url": "sec-math11.html#sec-math11-8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Identify the relevant conversion factors Identify your pathway Carryout calculations and round "
 },
 {
   "id": "sec-math12",
@@ -1933,7 +2032,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.12",
   "title": "Advanced dimensional analysis",
-  "body": " Advanced dimensional analysis  "
+  "body": " Advanced dimensional analysis   Advanced dimensional analysis   In this section you will be practicing your dimensional analysis skills on a wide variety of problems. In some cases, the units that you are using may be nonsense units (or real units that you may not have seen before). In other cases, the problem may require you to seek out information that you may not know using the internet. Remember the step-by-step instructions that we learned in the last lesson to help solve dimensional analysis problems:    Identify the starting point    Identify the end point    Identify necessary conversion factors to connect the starting units and final units    This may also require other quantities that are NOT provided in the problem      Identify your pathway that will cancel out the undesired units and leave the desired units    Carry out your calculation and check that the units cancel out as expected    Round your final answer to the correct number of significant figures    "
+},
+{
+  "id": "sec-math12-2",
+  "level": "2",
+  "url": "sec-math12.html#sec-math12-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Advanced dimensional analysis "
 },
 {
   "id": "sec-matter1",
