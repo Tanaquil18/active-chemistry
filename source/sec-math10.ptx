@@ -1,5 +1,270 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section xml:id="sec-math10">
     <title>Density and specific gravity</title>
-    
+    <p>
+		<term>Summary:</term>
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				Density and specific gravity
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Density= mass / volume
+					</p>
+				
+					<p><ol>
+						<li>
+							<p>
+								Can calculate it by taking mass and dividing by volume
+							</p>
+						</li>
+				
+						<li>
+							<p>
+								Volume can be determined by water displacement
+							</p>
+						</li>
+				
+						<li>
+							<p>
+								Density can be used as a conversion factor to determine mass or volume
+							</p>
+						</li>
+				
+					</ol></p>
+				</li>
+		
+				<li>
+					<p>
+						Density of water is 1.0g/mL
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Specific gravity is the density of a substance divided by the density of water
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+</ol></p>
+<p>
+		<term>Density and Specific Gravity</term>
+	</p>
+
+	<p>
+		<term><em>An important formula that should be memorized:</em></term>
+	</p>
+
+	<p>
+		<me>Density = \ \frac{Mass}{Volume}</me>
+	</p>
+
+	<p>
+		<term><em>An important note that should be memorized:</em></term>
+	</p>
+
+	<p>
+		1mL = 1cm<sup>3</sup>
+	</p>
+
+	<p>
+		You are trying to identify a metal based on its density. You first measure its mass as 17.50g. You then obtain a graduated cylinder and fill it with 23.21 mL of water. You then put the piece of metal in the water and measure a volume of 24.75 mL. Calculate its density.
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				<term>Identify your starting information and what you’re being asked for.</term>
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						You have the mass and the volumes of water in the graduated cylinder before and after adding the metal
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				<term>Recall the definition of density and its formula</term>
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						D=m/V (you have mass but not volume of the object itself)
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				<term>Recognize that you need to calculate the volume</term>
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Volume of the object= 24.75mL-23.21mL= 1.54mL
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				<term>Calculate and round appropriately</term>
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						<m>D = \frac{m}{V} = \frac{17.50g}{1.54mL} = 11.363636\frac{g}{mL}</m>
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Recall that solids usually have density units of g/cm3. Since 1mL=1cm<sup>3</sup> then density can be written as <m>11.363636\frac{g}{cm^{3}}</m>
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						This involved multiple steps, subtraction then division. The subtraction step would have had us round to the hundredths place resulting in 3 significant figures (1.54). If we do division next, we have one number with 3 significant figures (the volume) and one with 4 (the mass). Therefore we should round to 3 significant figures giving <m>11.4\frac{g}{cm^{3}}</m>; this corresponds to the density of lead.
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+	</ol></p>
+
+	<p>
+		What is the mass of ethanol that you measured out if you measure 12.1 L of ethanol? Ethanol has a density of 0.80 g/mL.
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				<term>Identify your starting information and what you’re being asked for</term>
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Volume of 12.1 L and density of 0.80 g/mL
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Being asked for mass
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				<term>Identify the relevant conversion factors</term>
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						<m>\frac{0.80g}{mL}</m>
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				<term>Identify your pathway</term>
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						You have units of mass in the density; you want to keep this
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						mL and L only appear once in what you have; you need an additional conversion factor to cancel them out; <m>\frac{10^{- 3}L}{1mL}</m>
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				<term>Carryout calculations and round</term>
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						<m>\frac{0.80g}{mL}\left( \frac{1mL}{10^{- 3}L} \right)(12.1L) = 9680g\ </m> (please note you could have started with 12.1L instead)
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						We should round to 2 significant figures
+					</p>
+				
+					<p><ol>
+						<li>
+							<p>
+								We are multiplying and dividing
+							</p>
+						</li>
+				
+						<li>
+							<p>
+								0.80 g/mL (2 significant figures); 12.1 L (3 significant figures); 1mL/10<sup>-3</sup>L (infinite significant figures/exact number)
+							</p>
+						</li>
+				
+						<li>
+							<p>
+								Final answer: 9700 g
+							</p>
+						</li>
+				
+					</ol></p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+	</ol></p>
+
+	<p>
+		<term><em>An important formula that should be memorized:</em></term>
+	</p>
+
+	<p>
+		<me>Specific\ gravity = \ \frac{Density\ of\ substance\ \ \left( in\frac{g}{mL} \right)}{Density\ of\ water\ \left( 1.0\frac{g}{mL}\  \right)}</me>
+	</p>
+
 </section>
