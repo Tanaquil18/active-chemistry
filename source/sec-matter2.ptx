@@ -1,15 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-matter2" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Basics of Matter2</title>
-
+    <title>Relationship between elements and compounds</title>
 
 
 
 
 
 	<p>
-		<term>Summary:</term>
+		<term>Relationship between elements and compounds</term>
 	</p>
+
+	<p>
+		Pure substances can be subdivided into <term>elements</term><fn>	<p>
+		Elements are pure substances that cannot be broken down further by chemical processes
+	</p></fn> and <term>compounds</term><fn>	<p>
+		Compounds are pure substances that consist of two or more elements. They can only be separated into their component elements by chemical processes.
+	</p></fn><term>.</term> The distinction between elements and compounds depends on whether they can be broken down into simpler units by <term>chemical processes</term><fn>	<p>
+		A chemical process is a reaction that changes the identity of a substance
+	</p></fn>. A chemical process is a reaction that often (but not always) involves the addition of one or more additional reactants and always results in the chemical identity of the starting substance changing. Chemical processes may result in a significant change in the appearance of the starting substance or evolution of a gas, but in other cases there may be little obvious indication that a reaction has occurred (that’s a subject that is covered in other classes like organic chemistry in much more detail). If a pure substance can be broken down into simpler units by a chemical process, then we’re dealing with a compound. If it can’t, then we’re dealing with an element.
+	</p>
+
+	<p>
+		We now know of the existence of over 100 different elements. Each element can be found arranged in the <term>periodic table</term><fn>	<p>
+		An organized table that displays the elements and additional information about each one.
+	</p></fn> (more about the periodic table in a later chapter). If you can find a substance in the periodic table, then it’s an element. The cells in the periodic table contain information about each element. For right now, we’ll focus on the name each element as well as its <term>element symbol</term><fn>	<p>
+		An abbreviation for an element consisting of one or more letters
+	</p></fn>, a short abbreviation that is used to represent that element (example: H is the element symbol for hydrogen). Many of these element symbols make sense with the English name of the element. Other element symbols are derived from the Latin name of the element (example: sodium is called natrium in Latin and its symbol is Na).
+	</p>
+
+	<p>
+		What then is the relationship between an element and a compound. This relationship was one of the key discoveries in chemistry, and its discovery opened up our understanding of the foundational composition of all matter. One of these early insights came from the discovery of the <term>Law of constant composition</term><fn>	<p>
+		The law of constant composition states that the ratio of elements in a compound is always a constant
+	</p></fn>. This law states that compounds always have the same ratio of elements. For instance, water always has a ratio of 1 gram of hydrogen for every 8 grams of oxygen. Methane, another compound, always has a ratio of 1 gram of hydrogen for every 3 grams of carbon. This discovery showed scientists that compounds were comprised of elements in very specific ratios.
+	</p>
+
+	<p>
+		The next key discovery came from comparing the ratios of elements in one compound to the ratios found in other compounds where both compounds consisted of the same elements. For instance, methane has a 1:3 ratio between the mass of hydrogen and the mass of carbon as stated in the previous paragraph. Ethane is another compound made of carbon and hydrogen, but the ratio between hydrogen and carbon is 1:4. If we divide these two ratios <m>\left( \frac{1\ g\ hydrogen}{3\ g\ carbon} \div \frac{1\ g\ hydrogen}{4\ g\ carbon} = \frac{1\ g\ hydrogen}{3\ g\ carbon} \times \frac{4\ g\ carbon}{1\ g\ hydrogen} = \frac{4}{3} \right)\ </m>we get a ratio of 4:3, meaning that ethane contains 4/3 as much carbon as methane. This can be done for many other pairs of compounds that contain only carbon and hydrogen. If we do this, we get other ratios like 1:2, 1:3, or 3:2. In every case, we begin to see that when we divide the ratios of carbon and hydrogen between two compounds, we always get <em>ratios of integers</em>! This is known as the <term>Law of multiple proportions</term><fn>	<p>
+		The law of multiple proportions states that if you divide the ratios of elements for two different compounds that contain the same elements, you will always get a ratio of integers
+	</p></fn><term>.</term> The realization that there are integer relationships between the composition of different compounds means that the carbon and hydrogen in these compounds occurs in <em>discrete countable units</em>. These discrete countable units are called <term>atoms</term><fn>	<p>
+		The smallest unit of an element.
+	</p></fn>.
+	</p>
+
+	<p>
+		Thanks to the Law of constant composition and the law of multiple proportions, we now know that all compounds are comprised of atoms of various elements that are combined together a specific ratio. This ratio can be written as a <term>chemical formula</term><fn>	<p>
+		A way of showing how many atoms of a given element make up a single unit of a chemical compound
+	</p></fn><term>.</term> The formula for a compound is written by listing the element symbol followed by a subscript number indicating the number of atoms of that element that comprise the compound’s formula unit (please note, that if there is only one atom of a particular type that the number 1 is NOT written). So Na<sub>2</sub>SO<sub>4</sub> has 2 sodium atoms, one sulfur atom, and 4 oxygen atoms in every unit of that compound.
+	</p>
+
 
 </section>

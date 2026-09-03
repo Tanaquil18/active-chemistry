@@ -3,13 +3,37 @@
 <section xml:id="sec-matter6" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Basics of Matter6</title>
 
-
-
-
-
-
 	<p>
 		<term>Summary:</term>
 	</p>
+	<p>
+		<term>Section 3: Electromagnetic radiation</term>
+	</p>
+
+	<p>
+		When we are talking about energy in chemistry, one common way in which energy can be released or taken up by matter is in the form of <term>electromagnetic radiation</term><fn>	<p>
+		A form of energy that can travel through space as a wave of electrical and magnetic fields
+	</p></fn>. Electromagnetic radiation is a form of energy that can travel through space as both a wave and a particle called a <term>photon</term><fn>	<p>
+		A massless particle of electromagnetic radiation. They are the smallest unit of electromagnetic radiation.
+	</p></fn>. We all experience electromagnetic radiation. Visible light is one form of electromagnetic radiation. However, even blind people are able to experience non-visible forms of electromagnetic radiation such as infrared rays (think about how light from the sun makes things hot…a lot of this is due to infrared radiation). There are several different forms of electromagnetic radiation: gamma rays, x-rays, ultraviolet rays, visible light, infrared rays, microwaves, and radio waves.
+	</p>
+
+	<p>
+		Electromagnetic radiation exists as a wave. Waves can be depicted graphically as shown below. Note the definition of a <term>wavelength</term><fn>	<p>
+		The distance between two identical points of a wave.
+	</p></fn> depicted in the drawing below. A wavelength is the distance between two identical points on different parts of the same wave. The list of forms of electromagnetic radiation listed in the paragraph above (gamma rays, x-rays, UV rays, visible light, infrared rays, microwaves, and radio waves) are arranged in order of increasing wavelengths. Radio waves have the longest wavelengths (meters or even kilometers long) and gamma rays have the shortest wavelengths (&lt;0.01 nanometers).
+	</p>
+
+	<figure>
+	<image source="media/image1.wmf"/>
+		<caption></caption>
+</figure>
+
+	<p>
+		The wavelength of electromagnetic radiation is related to two other properties: energy and <term>frequency</term><fn>	<p>
+		The number of waves that pass a certain point in a specific amount of time (usually 1 second)
+	</p></fn>. The shorter the wavelength, the more energy that the electromagnetic radiation has. You can try to understand this by thinking about trying to vibrate a stretched out spring…you don’t have to use much energy to get the spring to vibrate slowly (long wavelengths), but you have to expend a lot of energy to get the spring to vibrate quickly (short wavelengths). An in-class demonstration can be helpful here. Frequency refers to the number of waves that pass a certain point every second. Electromagnetic radiation, regardless of the type, travels with the same speed (known as the speed of light). If the waves are spaced close together, then more waves will pass by every second compared to a case where the waves are further apart. As a result, light with a long wavelength will have low frequencies. The exercises below will help you to visualize this.
+	</p>
+
 
 </section>

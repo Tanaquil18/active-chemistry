@@ -1,15 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-matter3" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Basics of Matter3</title>
-
-
-
-
-
+    <title>States of matter</title>
 
 	<p>
-		<term>Summary:</term>
+		<term>States of matter</term>
 	</p>
+
+	<p>
+		The <term>states of matter</term><fn>	<p>
+		Three different forms that matter can adopt while preserving its identity. The states of matter are solid, liquid, and gas.
+	</p></fn> are solids, liquids, and gases. When a substance undergoes a change in its state, it still retains its same chemical identity, and thus state changes are reversible. Water still has its same chemical formula and identity regardless of whether it is ice, liquid water, or water vapor. Each of these states has different properties, but they are properties of that state, not of water itself.
+	</p>
+
+	<p>
+		The properties that define a <term>solid</term><fn>	<p>
+		A state of matter that has a fixed shape and a fixed volume
+	</p></fn> are that it has a fixed shape and volume. Solids do not flow. They can change shape but require some outside force to cause this to happen (like bending a nail with a hammer). On a microscopic scale, the reason for these properties is that the particles that make up the solid are held together by forces that are so strong that the particles can’t move past one another. As a result, the arrangement of the particles is fixed, and the shape of the substance as a whole remains fixed.
+	</p>
+
+	<p>
+		<term>Liquids</term><fn>	<p>
+		A state of matter that can flow and has a fixed volume but a variable shape. It will take on the shape of its container
+	</p></fn>, on the other hand, have a fixed volume, but not a fixed shape. They will take on the shape of their container. Liquids can flow and move in response to gravity. On a microscopic scale, the reason for these properties is that the attractive forces between the particles are strong enough to maintain contact between the particles but weak enough that the particles can move past one another. As a result, the entire liquid is capable of movement and flow. At the same time, the attraction between the particles ensures that they never fully separate, so the volume remains fixed regardless of the shape.
+	</p>
+
+	<p>
+		<term>Gases</term><fn>	<p>
+		A state of matter that has a variable shape and volume. A gas will take on the shape and volume of its container
+	</p></fn> have neither a fixed shape nor a fixed volume. A gas will always fill up the entirety of the container that it is placed in. Gases can flow like liquids, but their component particles have enough energy that they can flow in all directions, completely filling up their container. The microscopic reason for these properties is that the particles in a gas are moving so rapidly past one another that they don’t interact at all (in actuality, there are very small interactions between gas particles, but chemists often ignore this). As a result a gas will always spread out to occupy the entirety of its container, meaning that a gas will not have a fixed shape nor a fixed volume.
+	</p>
+
+	<p>
+		The reason for the differences between the states of matter is that the particles that make them up have different amounts of <term>kinetic energy</term><fn>	<p>
+		Energy of motion
+	</p></fn>. Kinetic energy is the energy of motion and is affected by both the mass of an object and its velocity (ex. a baseball thrown by a toddler will hurt a lot less than by one thrown by a professional pitcher due to the difference in velocity and hence the difference in kinetic energy). The particles in a gas are moving much faster than those in a liquid; the particles in a liquid are moving much faster than those in a solid. Because of this, we can conclude that the particles in a gas have more kinetic energy than those in a liquid and that those in a liquid have more have more kinetic energy than those in a solid. So in order to turn a solid into a liquid (<term>melting</term><fn>	<p>
+		The process of converting a substance from a solid to a liquid
+	</p></fn>), we have to add energy to the substance by heating it. The same is true for turning a liquid into a gas (<term>boiling</term><fn>	<p>
+		The process of converting a substance from a liquid to a gas.
+	</p></fn> or <term>vaporizing</term><fn>	<p>
+		Same as boiling
+	</p></fn>). If we want to turn a gas into a liquid (<term>condensing</term><fn>	<p>
+		The process of converting a gas into a liquid
+	</p></fn>) we have to remove kinetic energy from the substance by cooling it. The same is true for <term>freezing</term><fn>	<p>
+		The process of converting a liquid into a solid
+	</p></fn> a substance (the process of turning a liquid into a solid).
+	</p>
+
+
+
+
 
 </section>

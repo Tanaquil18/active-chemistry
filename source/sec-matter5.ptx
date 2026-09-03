@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-matter5" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Basics of Matter5</title>
+    <title>Food energy</title>
 
 
 
@@ -11,5 +11,63 @@
 	<p>
 		<term>Summary:</term>
 	</p>
+
+	<p>
+		<term>Section 2: Food energy</term>
+	</p>
+
+	<p>
+		When we buy food at the grocery store, it has the amount of energy that our bodies can obtain from digestion printed on the label in the form of Calories (note: that it is capitalized). This value is obtained by calculating the amount of carbohydrates, fats, and proteins in the food. Carbohydrates and proteins both contain 4 Calories of energy for every gram. Fats, on the other hand, have more energy, containing 9 Calories in every gram (consider the 4 and 9 to be exact numbers, even though they are technically measured). If we know how many grams of carbohydrates, proteins, and fat are in a serving of food, we can calculate how many Calories it contains. See the example below:
+	</p>
+
+	<p>
+		A serving of food contains 3.0 g of carbohydrates, 5.0 g of fat, and 17 g of protein. How many Calories are in a serving?
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				We want to determine how many Calories come from each class of biomolecule and then add those values together to get the total.
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						We need to use dimensional analysis:
+					</p>
+				
+					<p><ol>
+						<li>
+							<p>
+								Carbohydrates: <m>3.0\ g\ \left( \frac{4\ Calories}{g} \right) = 12\ Calories</m>
+							</p>
+						</li>
+				
+						<li>
+							<p>
+								Fat: <m>5.0\ g\ \left( \frac{9\ Calories}{g} \right) = 45\ Calories</m>
+							</p>
+						</li>
+				
+						<li>
+							<p>
+								Protein: <m>17\ g\left( \frac{4\ Calories}{g} \right) = 68\ Calories</m>
+							</p>
+						</li>
+				
+					</ol></p>
+				</li>
+		
+				<li>
+					<p>
+						Then add: <m>12\ Cal + 45\ Cal + 68\ Cal = 125\ Calories</m>
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+	</ol></p>
+
 
 </section>

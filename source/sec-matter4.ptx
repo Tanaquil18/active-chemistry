@@ -1,15 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-matter4" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Basics of Matter4</title>
+    <title>Energy, heat, and temperature</title>
 
-
-
-
-
-
-	<p>
+<p>
 		<term>Summary:</term>
 	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				Energy, heat, and temperature
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						What is meant by all 3 terms
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Converting between different units of energy
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Converting between different units of temperature
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+	</ol></p>
+<p>
+		<term>Energy, heat and temperature</term>
+	</p>
+
+	<p>
+		You just learned about kinetic energy, but was is energy itself? In order to understand energy, we must first define <term>work</term><fn>	<p>
+		Applying a force to an object over some distance
+	</p></fn>. Work is when a force is applied to an object over some distance. <term>Energy</term><fn>	<p>
+		The capacity of an object to do work or produce heat or light
+	</p></fn> is a property of an object or substance that describes its ability to do work, or to produce light or heat. Energy is a very important consideration in chemistry. It influences the properties of matter, including its state and temperature. Additionally, energy may be released or consumed by reactions. All reactions require energy input to occur, and some require so much energy that they won’t occur unless the reaction is heated or there is a spark (ex. a mixture of hydrogen gas and oxygen gas will not react with one another unless the reaction is provided with a flame or spark to get it going).
+	</p>
+
+	<p>
+		Energy can be subdivided into two classes: <term>kinetic energy</term><fn>	<p>
+		Energy of motion
+	</p></fn> and <term>potential energy</term><fn>	<p>
+		Stored energy
+	</p></fn>. Kinetic energy is energy of motion or vibration. Potential energy is stored energy that could potentially be converted into kinetic energy. A classic physics example is that a boulder sitting on a small hill has a small amount of potential energy compared to the same boulder sitting on top of a mountain. Due to the height difference, the boulder would speed up more if it were pushed off the mountain than a small hill. Once the boulder is pushed, the potential energy gets converted into kinetic energy. In chemistry, we’re not usually thinking about boulders rolling down hills. Instead, energy is stored in the form of <term>bonds</term><fn>	<p>
+		Forces that hold atoms or molecules together
+	</p></fn> that join atoms and molecules together. When this energy is released, the motion of the atoms or molecules increases.
+	</p>
+
+	<p>
+		The movement of atoms and molecules, including rotations and vibrations, is chemical kinetic energy. When we measure <term>temperature</term><fn>	<p>
+		Quantification of the amount of kinetic energy contained in the molecules of an object
+	</p></fn> what we are measuring is the amount of chemical kinetic energy in a substance. As energy is added to a substance, the temperature generally increases, and this is due to increased motion of the particles that make it up.
+	</p>
+
+	<p>
+		Both energy and temperature are quantifiable in chemistry. The SI units of energy are joules. In this course, due to its focus on health sciences, we will more commonly use the unit of calorie (1 calorie = 4.184 joules). The unit calories (abbreviate cal) can use the metric prefixes that you’ve previously learned with the most commonly version being a kilocalorie, or kcal. A calorie is defined as the amount of energy that will raise the temperature of 1g of water by 1 degree Celsius. When we’re dealing with the energy content of food, we often use units of Calories (note that it is now capitalized). 1 Calorie is equivalent to 1kcal or 1000 calories.
+	</p>
+
+	<p>
+		For temperature, we have 2 units that are commonly used by society (Fahrenheit and Celsius) and another that is used extensively in science (Kelvin). Fahrenheit is related to Celsius by the following formula:
+	</p>
+
+	<p>
+		<me>℉ = 1.8 \times ℃ + 32</me>
+	</p>
+
+	<p>
+		In this formula, the 1.8 and 32 are EXACT numbers. Kelvin is a temperature scale that has its zero point at absolute zero (ie. the coldest possible temperature where there is no motion). To convert from Celsius to Kelvin, we use the following formula:
+	</p>
+
+	<p>
+		<me>K = ℃ + 273.15</me>
+	</p>
+
+	<p>
+		Kelvin will always have a positive value, and for this reason, it often must be used as the unit of temperature in scientific formulas. Using these two formulae, we can easily convert between different temperature units by using some algebra skills:
+	</p>
+
+	<p>
+		Example: Express the temperature <m>53℉</m> in Celsius and Kelvin.
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				We have a formula to convert between Fahrenheit and Celsius and another formula to go from Celsius to Kelvin. Let’s determine Celsius first, then Kelvin.
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Let’s plug in the temperature in Fahrenheit and then rearrange the equation to solve for Celsius:
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p>
+		<me>℉ = 1.8 \times ℃ + 32</me>
+	</p>
+
+	<p>
+		<me>53 = 1.8 \times ℃ + 32</me>
+	</p>
+
+	<p>
+		<m>53 - 32 = 1.8 \times ℃ + 32 - 32</m> (Subtract 32 from both sides)
+	</p>
+
+	<p>
+		<me>21 = 1.8 \times ℃</me>
+	</p>
+
+	<p>
+		<m>\frac{21}{1.8} = \frac{1.8 \times ℃}{1.8}</m> (Divide both sides by 1.8)
+	</p>
+
+	<p>
+		<m>11.66666 = ℃</m> (Round to correct number of significant figures)
+	</p>
+
+	<p>
+		<me>12\ degrees\ Celsius = ℃</me>
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				Now take the temperature in Celsius and plug it into the formula to solve for Kelvin:
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p>
+		<me>K = ℃ + 273.15</me>
+	</p>
+
+	<p>
+		<me>K = 12 + 273.15</me>
+	</p>
+
+	<p>
+		<m>K = 285.15</m> (Round to the correct number of significant figures)
+	</p>
+
+	<p>
+		<me>K = 285\ Kelvin</me>
+	</p>
+
+	<p>
+		With 3 different temperature scales, it’s important to have an idea of how hot values are in each of them. You should know the following values in each unit of temperature:
+	</p>
+
+	<table>
+		<title></title>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+		<tabular>
+		<row header="yes">
+			<cell halign="left">Reference point</cell>
+			<cell halign="left">Fahrenheit</cell>
+			<cell halign="left">Celsius</cell>
+			<cell halign="left">Kelvin</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">Freezing point of water</cell>
+			<cell halign="left">32</cell>
+			<cell halign="left">0</cell>
+			<cell halign="left">273.15</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">Body temperature</cell>
+			<cell halign="left">~98.6</cell>
+			<cell halign="left">~37</cell>
+			<cell halign="left">~310</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">Boiling point of water</cell>
+			<cell halign="left">212</cell>
+			<cell halign="left">100</cell>
+			<cell halign="left">373.15</cell>
+		</row>
+		</tabular>
+	</table>
+
 
 </section>

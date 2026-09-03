@@ -1,15 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-matter1" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Basics of Matter</title>
+    <title>How matter is classified</title>
 
-
-
-
-
-
-	<p>
+<p>
 		<term>Summary:</term>
 	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				How matter is classified
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Mixtures vs. pure substances
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Homogenous vs. heterogeneous mixtures
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+	</ol></p>
+
+	<p>
+		<term>Classification of matter</term>
+	</p>
+
+	<p>
+		There are different ways to classify matter, but this diagram is one that that can help you compartmentalize your knowledge throughout the course. The diagram strives to classify matter according to its complexity and arrangement. This sort of classification has historical importance to chemistry because it what allowed scientists to begin to gain an understanding of what matter is made of. For instance, it is essential to know what an element is in order to understand that a compound is made up of elements.
+	</p>
+
+	<p>
+		The highest classes of matter on the chart are <term>mixtures</term><fn>	<p>
+		Matter that consists of multiple pure substances. The pure substances can be separated by physical processes.
+	</p></fn> and <term>pure substances</term><fn>	<p>
+		Matter that cannot be separated into different components by physical processes.
+	</p></fn>. The difference between these terms is that mixtures consist of multiple substances, while pure substances are only one. The difference between these can be obvious, but that isn’t always the case. For instance, you can clearly see that a glass of sand and water contains multiple substances because we can see the sand and the water and they clearly appear to be different. In the case of salt water, it would be difficult to determine whether it’s a mixture of substances (water and salt) by simply looking at it. Sugar, is a pure substance, but brass is not…so how do we know that something is a pure substance or a mixture?
+	</p>
+
+	<p>
+		This is not as straightforward as it might initially seem, but we can come up with rules to help us out. A mixture contains two different substances AND those substances can be separated by <term>physical processes</term><fn>	<p>
+		Physical processes are ones that don’t change the identity of a substance.
+	</p></fn>. A physical process is a one that doesn’t need other substances to be added. Also a physical process will preserve the identity and characteristics of each of the components. Easy examples are boiling and freezing a liquid. The identity of that liquid is the same if it’s a solid, liquid, or gas despite it having somewhat different characteristics. Other examples of physical processes include filtering, cutting, sorting, etc. Sand and water can be separated by filtration, a physical process, and therefore sandy water is classified as a mixture. In the example of salt water we know that it is a mixture because we can separate it into its components (salt and water) by boiling the water and taking advantage of the fact that salt and water have different <term>physical properties</term><fn>	<p>
+		Physical properties are properties of a material that can be discovered while preserving the identity of the substance
+	</p></fn><term>.</term> A physical property is a property (like boiling point, freezing point, size, color, etc.) that can be observed without altering the chemical identity of a substance.
+	</p>
+
+	<p>
+		Within the category of mixtures, we have <term>homogenous mixtures</term><fn>	<p>
+		Homogeneous mixtures consist of two or more pure substances that are mixed in a uniform manner.
+	</p></fn> and <term>heterogenous mixtures</term><fn>	<p>
+		Heterogeneous mixtures consist of two or more pure substances that are mixed in a non-uniform manner
+	</p></fn>. The difference between these terms deals with the arrangement of the components. If the components are evenly distributed throughout the mixture, then we have a homogeneous mixture. If the arrangement is not uniform, then it’s a heterogeneous mixture. Heterogeneous mixtures are sometimes obvious, like sand in water; if you let it sit for a little while the sand settles to the bottom. Sometimes heterogeneous mixtures are not immediately identifiable as such. Consider blood; it initially looks like a uniform red liquid. However, if you let it sit for a little while, the cells in the blood will soon settle to the bottom of the container, similar to sand in water.
+	</p>
+
+	<p>
+		In a homogeneous mixture, the various substances are evenly distributed, even at a microscopic level. Because of this, you will not see the various particles that make up a homogeneous mixture. <term>Solutions</term><fn>	<p>
+		A homogeneous mixture where one pure substance is dissolved into another
+	</p></fn> are homogeneous mixtures where one substance (the <term>solute</term><fn>	<p>
+		The lesser component of a solution is called the solute
+	</p></fn>) is dissolved in a larger amount of the second substance (the <term>solvent</term><fn>	<p>
+		The major component of a solution is called the solvent
+	</p></fn>). The solvent and the solute can be the same state of matter or different states. For instance, oxygen gas can be dissolved in water, forming a solution. Salt can also be dissolved in water. Gases can be dissolved in one another (for example, air is a solution where small amounts of oxygen gas, carbon dioxide, etc. are dissolved in the solvent of nitrogen gas). There are also solutions made of metals, and these are called <term>alloys</term><fn>	<p>
+		Homogeneous mixtures of metals are called alloys
+	</p></fn>. Bronze is a mixture of zinc and copper where the two substances have so fully dispersed that the mixture is now uniform. Homogenous mixtures can still be separated by physical processes, but they often require more effort (ex. many heterogeneous mixtures can be separated by filtration, whereas a homogenous mixture may require boiling, condensing, or melting).
+	</p>
+
+	<p>
+		Pure substances, on the other hand, cannot be separated by physical processes. If you boil pure liquid water, it will be entirely converted into water vapor. If you condense the water vapor it will entirely turn back into liquid water. In both cases, there isn’t any substance that is separated from the water or water vapor by carrying out these physical processes; the substance remains unchanged. Physical processes cannot change the composition of a pure substance. The discovery of pure substances and their further classification into elements and compounds was essential to our understanding of the composition of the world around us. This will be further explored in the next section.
+	</p>
+
+
+
 
 </section>
