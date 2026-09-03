@@ -9,285 +9,366 @@
   <title>Appendix</title>
 
   <!-- <solutions divisional="hint"> <title>Selected Hints</title> </solutions> -->
-
   <!-- <solutions divisional="solution"> <title>Selected Solutions</title> </solutions> -->
+  <appendix>
+    <title>Definitions</title>
 
-  <appendix> <title>Definitions</title> 
     <p>
       <term>Chapter 1</term>
-        <p>
+      <p>
         <definition xml:id="def-naturalworld">
-        <statement>
-          <p>
-            <term>Natural world:</term> Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Natural world:</term> Everything that comprises our
+              universe.
+              The natural world are those things that we can see and touch.
+              The natural world can be explored through science.
+            </p>
+          </statement>
+        </definition>
       </p>
 
-        <p>
+      <p>
         <definition xml:id="def-supernatural">
-        <statement>
-          <p>
-            <term>Supernatural:</term> Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Supernatural:</term> Those things that are outside of nature
+              or the laws of physics.
+              We can learn about supernatural things by logical reasoning,
+              philosophy, and theology.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-potency">
-        <statement>
-          <p>
-            <term>Potency:</term> Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Potency:</term> Potency is the potential to change in some
+              specific way.
+              Natural things have the potency of motion.
+              They aren’t necessarily moving initially, but after the potential
+              of motion is actualized by something else, the thing is now
+              moving.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-actuality">
-        <statement>
-          <p>
-            <term>Actuality:</term> Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Actuality:</term> Actuality is the ability to bring forth
+              potency.
+              For instance, a spark has the ability to cause a paper to start on
+              fire.
+              The spark possesses the property of being able to actualize the
+              fire.
+              The paper possesses the potency of burning.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-actuspurus">
-        <statement>
-          <p>
-            <term>Actus Purus:</term> Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Actus Purus:</term> Actus Purus means pure actuality.
+              It is something that possesses the property of actuality without
+              any potency.
+              Actus Purus can cause change in other things but cannot be changed
+              itself.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-superstition">
-        <statement>
-          <p>
-            <term>Superstition:</term> Superstitition is a sin of excess excess religion.  Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Superstition:</term> Superstitition is a sin of excess
+              excess religion.
+              Often superstition involves a person seeking to control the
+              supernatural by means of magic, sorcery, the occult, etc.
+            </p>
+          </statement>
+        </definition>
       </p>
 
-        <p>
+      <p>
         <definition xml:id="def-scandal">
-        <statement>
-          <p>
-            <term>Scandal:</term> an attitude or behavior that leads another to do evil.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Scandal:</term> an attitude or behavior that leads another
+              to do evil.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-holistic">
-        <statement>
-          <p>
-            <term>Holistic:</term> emphasizing the whole and showing concern about each of the component parts of a thing.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Holistic:</term> emphasizing the whole and showing concern
+              about each of the component parts of a thing.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-science">
-        <statement>
-          <p>
-            <term>Science:</term> a method for systematically studying the observable world.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Science:</term> a method for systematically studying the
+              observable world.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-scientificmethod">
-        <statement>
-          <p>
-            <term>Scientific method:</term> A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Scientific method:</term> A process that allows us to
+              develop explanations for the observations about the natural world.
+              The core steps are observe, hypothesize, and experiment.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-laws">
-        <statement>
-          <p>
-            <term>Laws:</term> statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Laws:</term> statements that express a repeated pattern of
+              behavior in nature.
+              Laws do NOT seek to explain the cause of the behavior.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-hypothesis">
-        <statement>
-          <p>
-            <term>Hypothesis:</term> A statement that seeks to explain observations of nature.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Hypothesis:</term> A statement that seeks to explain
+              observations of nature.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-variables">
-        <statement>
-          <p>
-            <term>Variables:</term> The parameter or condition that is changed within an experiment.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Variables:</term> The parameter or condition that is changed
+              within an experiment.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-controlgroup">
-        <statement>
-          <p>
-            <term>Control groups:</term> The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Control groups:</term> The groups within an experiment where
+              the variable is unchanged.
+              Positive controls attempt to cause the behavior to ensure that it
+              can be observed.
+              Negative controls often withhold the variable to allow for
+              observation of what the behavior is in the absence of the
+              variable.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-experimentalgroup">
-        <statement>
-          <p>
-            <term>Experimental groups:</term> Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Experimental groups:</term> Experimental groups include the
+              variable and often involve changing it in some way (ex.
+              amount of the variable, exposure time to the variable, etc.).
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-theory">
-        <statement>
-          <p>
-            <term>Theory:</term> A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Theory:</term> A hypothesis that has substantial
+              experimental support.
+              Theories can never be proven.
+              They can be supported to greater and greater degrees, but they can
+              never reach absolute certainty.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-correlates">
-        <statement>
-          <p>
-            <term>Correlation:</term> Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Correlation:</term> Correlation is when we observe a pattern
+              or relationship between changing a variable and the observed
+              response.
+              For instance, if increasing the amount of an antibiotic leads to
+              greater observation of bacterial cell death, we’d say that the
+              antibiotic amount correlates with bacterial cell death.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-deify">
-        <statement>
-          <p>
-            <term>Deify:</term> Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Deify:</term> Deify means to treat something like a God.
+              In this case, I mean that science has begun to replace God in the
+              minds of many people in today’s society.
+              People look to science for solutions to all of their problems.
+              People also look to science to find explanations about humanity’s
+              purpose and dignity (or lack thereof) within the context of
+              nature.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-consensus">
-        <statement>
-          <p>
-            <term>Consensus:</term> A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Consensus:</term> A consensus is a general belief amongst
+              scientists that a particular theory is true.
+              This is arrived at by comparing the quality of experiments and
+              their conclusions throughout the scientific community as well as
+              the number of studies that support a particular conclusion.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-bias">
-        <statement>
-          <p>
-            <term>Bias:</term> A preference that prevents fair judgment.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Bias:</term> A preference that prevents fair judgment.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-engineering">
-        <statement>
-          <p>
-            <term>Engineering:</term> Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Engineering:</term> Engineering seeks to solve problems by
+              creating solutions.
+              It relies of science to explain how things work so that
+              engineering can figure out how to use them to solve a problem.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-politics">
-        <statement>
-          <p>
-            <term>Politics:</term> Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Politics:</term> Politics is not a major focus of this
+              course.
+              However, politics is related to science an engineering because
+              politics should seek the welfare of the people in society.
+              Politics can encourage the use of engineering to solve problems
+              and can encourage scientific discovery, both of which can be used
+              for political goals.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-activists">
-        <statement>
-          <p>
-            <term>Activists:</term> One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Activists:</term> One who tries to influence public opinion.
+              Scientists can potentially do this in ethical ways or unethical
+              ways.
+            </p>
+          </statement>
+        </definition>
       </p>
 
-<p>
+      <p>
         <definition xml:id="def-chemistry">
-        <statement>
-          <p>
-            <term>Chemistry:</term> Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Chemistry:</term> Chemistry studies the properties of
+              matter.
+              This includes how matter interacts with energy, how matter is
+              structures, how matter behaves in a variety of conditions, etc.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-matter">
-        <statement>
-          <p>
-            <term>Matter:</term> Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Matter:</term> Matter is difficult to define exactly.
+              Our definition is that matter must have mass and occupy space.
+              It is essentially the “stuff” that is in the universe.
+            </p>
+          </statement>
+        </definition>
       </p>
 
-       <p>
+      <p>
         <definition xml:id="def-mass">
-        <statement>
-          <p>
-            <term>Mass:</term> Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Mass:</term> Mass is difficult to define in physics.
+              If something has inertia (the ability to resist changes in
+              movement) or exerts gravitational attraction to other objects,
+              then that object has mass.
+              Mass can be quantified to determine the extent to which an object
+              has inertia or can exhibit gravitational attraction.
+            </p>
+          </statement>
+        </definition>
       </p>
-
-       
     </p>
+
     <p>
       <term>Chapter 2</term>
       <p>
         <definition xml:id="def-numerator">
-        <statement>
-          <p>
-            <term>Numerator:</term> the top of a fraction.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Numerator:</term> the top of a fraction.
+            </p>
+          </statement>
+        </definition>
       </p>
+
       <p>
         <definition xml:id="def-denominator">
           <statement>
@@ -297,6 +378,7 @@
           </statement>
         </definition>
       </p>
+
       <p>
         <definition xml:id="def-dividend">
           <statement>
@@ -306,160 +388,206 @@
           </statement>
         </definition>
       </p>
+
       <p>
         <definition xml:id="def-divisor">
           <statement>
             <p>
-              <term>Divisor:</term> the number of parts that the dividend is being divided into.
+              <term>Divisor:</term> the number of parts that the dividend is
+              being divided into.
             </p>
           </statement>
         </definition>
       </p>
+
       <p>
         <definition xml:id="def-coefficient">
           <statement>
             <p>
-              <term>Coefficient:</term> the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.
+              <term>Coefficient:</term> the leading part of scientific notation.
+              It should always be a number between 1 and 10 and should be
+              written as a decimal.
             </p>
           </statement>
         </definition>
       </p>
+
       <p>
         <definition xml:id="def-basesci">
           <statement>
             <p>
-              <term>Base:</term> follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.
+              <term>Base:</term> follows the coefficient in scientific notation.
+              The coefficient is multiplied by the base.
+              The base is always 10 raised to some integer power.
             </p>
           </statement>
         </definition>
       </p>
+
       <p>
         <definition xml:id="def-exact">
           <statement>
             <p>
-              <term>Exact number:</term> a value that is countable, a definition, or a desired quantity. Exact numbers have an <em>infinite</em> number of significant figures.
+              <term>Exact number:</term> a value that is countable, a
+              definition, or a desired quantity.
+              Exact numbers have an <em>infinite</em> number of significant
+              figures.
             </p>
           </statement>
         </definition>
       </p>
+
       <p>
         <definition xml:id="def-measured">
           <statement>
             <p>
-              <term>Measured number:</term> a value that was measured and thus isn't known exactly.  Every measured number has a non-zero amount of uncertainty.
+              <term>Measured number:</term> a value that was measured and thus
+              isn't known exactly.
+              Every measured number has a non-zero amount of uncertainty.
             </p>
           </statement>
         </definition>
       </p>
+
       <p>
         <definition xml:id="def-significantfigures">
           <statement>
             <p>
-              <term>Significant figures:</term> the digits in a number that both convey its quantity and that are known reliably.
+              <term>Significant figures:</term> the digits in a number that both
+              convey its quantity and that are known reliably.
             </p>
           </statement>
         </definition>
       </p>
+
       <p>
         <definition xml:id="def-analog">
           <statement>
             <p>
-              <term>Analog:</term> An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.
+              <term>Analog:</term> An analog device is one that uses markings to
+              measure a value.
+              An example would be a clock with hand and markings for the hours
+              and minutes.
             </p>
           </statement>
         </definition>
-      </p><p>
+      </p>
+
+      <p>
         <definition xml:id="def-digital">
           <statement>
             <p>
-              <term>Digital:</term>A digital device is one that displays a measurement using digits only.
+              <term>Digital:</term> A digital device is one that displays a
+              measurement using digits only.
             </p>
           </statement>
         </definition>
       </p>
-<p>
+
+      <p>
         <definition xml:id="def-conversionfactors">
           <statement>
             <p>
-              <term>Conversion factors:</term> Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.
+              <term>Conversion factors:</term> Conversion factors are ratios
+              between two different quantities.
+              They are expressed as a fraction and are used as factors in
+              dimensional analysis problems.
+            </p>
+          </statement>
+        </definition>
+      </p>
+      <p>
+        <definition xml:id="def-mass">
+          <statement>
+            <p>
+              <term>Mass:</term> The amount of matter in something.  It is often measured by the amount of gravitational attraction between it and other objects that have mass.
             </p>
           </statement>
         </definition>
       </p>
     </p>
+
     <p>
       <term>Chapter 3</term>
     </p>
+
     <p>
       <term>Chapter 4</term>
     </p>
+
     <p>
       <term>Chapter 5</term>
     </p>
+
     <p>
       <term>Chapter 6</term>
     </p>
+
     <p>
       <term>Chapter 7</term>
     </p>
+
     <p>
       <term>Chapter 8</term>
     </p>
+
     <p>
       <term>Chapter 9</term>
     </p>
+
     <p>
       <term>Chapter 10</term>
-      
       <p>
         <definition xml:id="def-hydroniumion">
-        <statement>
-          <p>
-            <term>Hydronium ion:</term> A cation that forms when acids react with water.  It has the formula <m>H_3O^+</m>
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Hydronium ion:</term> A cation that forms when acids react
+              with water.
+              It has the formula <m>H_3O^+</m>
+            </p>
+          </statement>
+        </definition>
       </p>
-
 
       <p>
         <definition xml:id="def-buffer">
-        <statement>
-          <p>
-            <term>Buffer:</term> Substances that can be added to water that help the solution resist changes in pH.  Buffers are mixtures of weak acids and their conjugate base.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Buffer:</term> Substances that can be added to water that
+              help the solution resist changes in pH.
+              Buffers are mixtures of weak acids and their conjugate base.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-bufferingcapacity">
-        <statement>
-          <p>
-            <term>Buffering capacity:</term> The amount of strong acid or strong base that a buffer can neutralize.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Buffering capacity:</term> The amount of strong acid or
+              strong base that a buffer can neutralize.
+            </p>
+          </statement>
+        </definition>
       </p>
 
       <p>
         <definition xml:id="def-titration">
-        <statement>
-          <p>
-            <term>Titration:</term> The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.
-          </p>
-        </statement>
-      </definition>
+          <statement>
+            <p>
+              <term>Titration:</term> The process of using a chemical reaction
+              to figure out the concentration or amount of an unknown sample.
+            </p>
+          </statement>
+        </definition>
       </p>
     </p>
-  
-    
   </appendix>
-
   <!-- <index> <title>Index</title> <index-list/> </index> -->
-
   <colophon>
-    <p> This book was authored in <pretext />. </p>
+    <p>
+      This book was authored in <pretext/>.
+    </p>
   </colophon>
 </backmatter>
-
