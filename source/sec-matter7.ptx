@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-matter7" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Basics of Matter7</title>
+    <title>Heating and cooling</title>
 
 
 
@@ -10,6 +10,88 @@
 
 	<p>
 		<term>Summary:</term>
+	</p>
+<p><ol>
+		<li>
+			<p>
+				Heating and cooling
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						How to do calculations involving heating or cooling a substance when it does NOT change state
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Uses specific heat
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+	</ol></p>
+		<p>
+		<term>Heating and cooling</term>
+	</p>
+
+	<p>
+		We all know that if you heat up ice it will melt. If you heat water, it will warm up and eventually will start to boil. As chemists, we can predict how much energy is needed for each of these processes. We can also predict what the effect of adding a certain amount of energy to a substance will have on its state and temperature.
+	</p>
+
+	<p>
+		When we add or remove energy from an object, this is called <term>heat</term><fn>	<p>
+		The transfer of energy between two different objects
+	</p></fn><term>.</term> Addition of heat to an object causes the temperature to rise whereas the movement of heat from an object to its surroundings causes its temperature to fall. Our convention for specifying whether or not heat is moving into or from an object is to change the sign on the heat value. A negative heat value implies that the object is losing energy to its surroundings whereas a positive value indicates that heat is being transferred into the object. I like to think of the object of interest as being selfish and lazy. If heat is added, then the object is happy (plus sign) because it’s gaining. Conversely, if the object is losing heat, then that’s a negative experience as far as the object is concerned.
+	</p>
+
+	<p>
+		We can predict the relationship between the amount of heat added or removed and a corresponding temperature change by using a quantity known as <term>specific heat</term><fn>	<p>
+		The amount of heat needed to raise 1 g of a substance by 1 degree Kelvin (or Celsius)
+	</p></fn>. The specific heat of a substance is a constant that describes how much heat is required to cause a temperature change of 1 degree Kelvin to 1 g of that substance. You’ve already encountered the specific heat of water when we learned about calories (remember that 1.00 calories is the amount of heat required to raise the temperature of 1 g of water by 1 degree Celsius or Kelvin). Specific heat values differ between materials and also between different states of matter (ice, water, and water vapor each have different specific heat values).
+	</p>
+
+	<p>
+		Specific heat has units of <m>\frac{cal}{g \bullet K}</m> . We can use specific heat as a conversion factor in calculations. We can use specific heat to calculate the amount of heat added or removed from an object if we are given the mass and temperature change. Alternatively, we can predict a temperature change if we are given the mass and amount of heat added or removed. We can also calculate the specific heat of a substance if we are given the heat, mass, and temperature change. See the examples below:
+	</p>
+
+	<p>
+		Substance E has a specific heat of 4.03 cal/(g K). If 25 g of substance E begins at a temperature of 42.0 degrees C and 403 calories of heat is added, what will its new temperature be?
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				What are we being asked for: We’re asked to find the final temperature. The specific heat can be used to determine the temperature change.
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Find the path: The specific heat has units of temperature in it, but also mass (grams) and heat (cal) that need to be eliminated. We’re provided the mass in grams and the heat in cal and should be able to use those values to cancel out all of the unwanted units.
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Calculate:
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p>
+		Temperature change: <m>\frac{g \bullet K}{4.03\ cal} \times 403\ cal\  \div 25\ g = 4.0\ K</m>
+	</p>
+
+	<p>
+		Remember that Kelvin and Celsius degrees have the same magnitude (ie. an increase of 1 degree Celsius is the same as an increase of 1 degree Kelvin) so the increase is also 4.0 degrees Celsius
+	</p>
+
+	<p>
+		New temperature: 42.0 degrees C + 4.0 degrees C = 46.0 degrees C
 	</p>
 
 </section>

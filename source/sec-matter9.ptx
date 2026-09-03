@@ -1,15 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-matter9" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Basics of Matter9</title>
-
-
-
-
+    <title>Multistep problems</title>
 
 
 	<p>
 		<term>Summary:</term>
 	</p>
+
+	<p>
+		<term>Multistep problems</term>
+	</p>
+
+	<p>
+		Using the knowledge and skills that you practiced above we can now set about solving multistep problems that involve state changes and temperature changes. The key things to remember is that we are simply going to use the methods we’ve already learned. In order to do this, we need to treat each section of a multistep problem as its own calculation. For instance, if heat is being added to ice that is at -20 degrees C, resulting in the ice melting and becoming water at 50 degrees C, then we have to consider the following steps:
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				The warming of the ice to 0 degrees C
+			</p>
+		</li>
+
+		<li>
+			<p>
+				The melting of the ice at 0 degrees C
+			</p>
+		</li>
+
+		<li>
+			<p>
+				The warming of the water to 50 degrees C
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p>
+		42 g of ice at -20. degrees C is warmed up until it completely boils away at 100. degrees C. How much energy was added to the water throughout this process.
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				What are we being asked for: Find the heat for the entire process.
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Find the path: We need the sum of the heats from each of the individual steps. The steps are:
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Heating the ice from -20 degrees to 0 degrees C
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Melting the ice at 0 degrees C
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Warming the water from 0 to 100 degrees C
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Boiling the water at 100 degrees C
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+	</ol></p>
+
+	<p>
+		Steps a and c are temperature increases and will use the specific heat of ice and water respectively. Steps b and d are melting and boiling and will use the heat of fusion and heat of vaporization of water respectively. We need all of those values:
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				Specific heat of ice: 0.490 cal/(g K)
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Specific heat of water: 1.00 cal/(g K)
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Heat of fusion of water: 80. cal/g
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Heat of vaporization of water: 539 cal/g
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p><ol>
+		<li>
+			<p>
+				Calculate:
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p>
+		<m>\frac{0.490cal}{g \bullet K} \times (42\ g) \times (20.\ K)</m>=411.6 cal (should be rounded to tens place; but we won’t yet)
+	</p>
+
+	<p>
+		<m>\frac{1.00cal}{g \bullet K} \times (42\ g) \times (100.\ K)</m>=4200 cal (should be rounded to hundreds place; but we won’t yet)
+	</p>
+
+	<p>
+		<m>\frac{80.\ cal}{g} \times (42\ g) =</m>3360 cal (should be rounded to hundreds place; but we won’t yet)
+	</p>
+
+	<p>
+		<m>\frac{539\ cal}{g} \times (42\ g)</m>=22638 cal (should be rounded to thousands place; but we won’t yet)
+	</p>
+
+	<p>
+		<me>411.6 + 4200 + 3360 + 22638 = 30609.6\ cal</me>
+	</p>
+
+	<p>
+		We use the addition rule for significant figures; we should be rounding to the thousands place.
+	</p>
+
+	<p>
+		Final answer 31000 cal (should be positive because heat was added)
+	</p>
+
 
 </section>

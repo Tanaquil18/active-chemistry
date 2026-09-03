@@ -1,9 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-matter8" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<title>Basics of Matter8</title>
+	<title>State changes</title>
 
 	<p>
 		<term>Summary:</term>
 	</p>
+		<p>
+		<term>State changes</term>
+	</p>
+
+	<p>
+		When a substance is undergoing a change in state (ex. liquid to gas) heat input or removal is often required. However, during the process of the state change, the <em>temperature of the substance doesn’t change</em>. For example, when ice is melting, it remains at a temperature of 0 degrees Celsius until the solid has been fully converted into liquid. Once this happens, further heating will result in a temperature increase. Since there is no change in temperature involved in a state change, we need a different constant to predict how much heat will be required for these processes. For melting and for freezing, we use a constant called the <term>heat of fusion</term><fn>	<p>
+		The amount of energy that is needed to melt 1 g of a solid into a liquid
+	</p></fn>. It tells us how much energy input (or release) is required to melt (or freeze) 1 g of a substance. For changes from liquid to gas (or vice-versa) a similar constant is used that is called the <term>heat of vaporization</term><fn>	<p>
+		The amount of energy that is needed to boil 1 g of a liquid into a gas
+	</p></fn>. For changes from a solid directly to a gas (or vice-versa) a constant called the <term>heat of sublimation</term><fn>	<p>
+		The amount of energy that is needed to sublimate 1g of a solid into a gas
+	</p></fn> can be used.
+	</p>
+
+	<p>
+		<me>Heat\ of\ fusion\ of\ water = 80.\frac{cal}{g}</me>
+	</p>
+
+	<p>
+		<me>Heat\ of\ vaporization\ of\ water = 539\frac{cal}{g}</me>
+	</p>
+
+	<p>
+		The heat of fusion of water is 80. cal/g. A hamburger contains 600. Calories. How many grams of ice could be melted at 0 degrees Celsius using the energy contained in the hamburger?
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				What we’re being asked for: We want the number of grams of ice that could be melted. There is a g unit in the heat of fusion; we just need to get rid of cal.
+			</p>
+		</li>
+
+		<li>
+			<p>
+				See the path: We need to get rid of cal in the heat of fusion, but we only have the 600 Calories (capitalized). If we turn the Calories into calories, then they can cancel out the units in the heat of fusion, leaving us grams.
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Calculate:
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p>
+		<me>\frac{g}{80.\ cal}\left( \frac{1000cal}{Cal} \right)600.\ Cal = 7500\ g</me>
+	</p>
+
 </section>
