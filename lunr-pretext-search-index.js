@@ -1909,72 +1909,72 @@ var ptx_lunr_docs = [
   "body": "        Prefix  Abbreviation  Meaning  Example with meters    nano-  n-   nm or nanometers    micro-  µ- or mc   µm, mcm, or micrometers    milli-  m-   mm, or millimeters    centi-  c-   cm, or centimeters    deci-  d-   dm, or decimeters    kilo-  k-   km, or kilometers    mega-  M-   Mm, or megameters    giga-  G-   Gm, or gigameters    "
 },
 {
-  "id": "sec-math10",
+  "id": "sec-math1a0",
   "level": "1",
-  "url": "sec-math10.html",
+  "url": "sec-math1a0.html",
   "type": "Section",
   "number": "2.10",
   "title": "Density and specific gravity",
   "body": " Density and specific gravity   Summary:      Density and specific gravity     Density= mass \/ volume     Can calculate it by taking mass and dividing by volume    Volume can be determined by water displacement    Density can be used as a conversion factor to determine mass or volume       Density of water is 1.0g\/mL    Specific gravity is the density of a substance divided by the density of water         Density and Specific Gravity    An important formula that should be memorized:       An important note that should be memorized:   1mL = 1cm 3   You are trying to identify a metal based on its density. You first measure its mass as 17.50g. You then obtain a graduated cylinder and fill it with 23.21 mL of water. You then put the piece of metal in the water and measure a volume of 24.75 mL. Calculate its density.      Identify your starting information and what you’re being asked for.      You have the mass and the volumes of water in the graduated cylinder before and after adding the metal        Recall the definition of density and its formula      D=m\/V (you have mass but not volume of the object itself)        Recognize that you need to calculate the volume      Volume of the object= 24.75mL-23.21mL= 1.54mL        Calculate and round appropriately           Recall that solids usually have density units of g\/cm3. Since 1mL=1cm 3 then density can be written as     This involved multiple steps, subtraction then division. The subtraction step would have had us round to the hundredths place resulting in 3 significant figures (1.54). If we do division next, we have one number with 3 significant figures (the volume) and one with 4 (the mass). Therefore we should round to 3 significant figures giving ; this corresponds to the density of lead.        What is the mass of ethanol that you measured out if you measure 12.1 L of ethanol? Ethanol has a density of 0.80 g\/mL.      Identify your starting information and what you’re being asked for      Volume of 12.1 L and density of 0.80 g\/mL    Being asked for mass        Identify the relevant conversion factors               Identify your pathway      You have units of mass in the density; you want to keep this    mL and L only appear once in what you have; you need an additional conversion factor to cancel them out;         Carryout calculations and round       (please note you could have started with 12.1L instead)    We should round to 2 significant figures     We are multiplying and dividing    0.80 g\/mL (2 significant figures); 12.1 L (3 significant figures); 1mL\/10 -3 L (infinite significant figures\/exact number)    Final answer: 9700 g            An important formula that should be memorized:      "
 },
 {
-  "id": "sec-math10-2",
+  "id": "sec-math1a0-2",
   "level": "2",
-  "url": "sec-math10.html#sec-math10-2",
+  "url": "sec-math1a0.html#sec-math1a0-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Summary: "
 },
 {
-  "id": "sec-math10-4",
+  "id": "sec-math1a0-4",
   "level": "2",
-  "url": "sec-math10.html#sec-math10-4",
+  "url": "sec-math1a0.html#sec-math1a0-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Density and Specific Gravity "
 },
 {
-  "id": "sec-math10-5",
+  "id": "sec-math1a0-5",
   "level": "2",
-  "url": "sec-math10.html#sec-math10-5",
+  "url": "sec-math1a0.html#sec-math1a0-5",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "An important formula that should be memorized: "
 },
 {
-  "id": "sec-math10-7",
+  "id": "sec-math1a0-7",
   "level": "2",
-  "url": "sec-math10.html#sec-math10-7",
+  "url": "sec-math1a0.html#sec-math1a0-7",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "An important note that should be memorized: "
 },
 {
-  "id": "sec-math10-10",
+  "id": "sec-math1a0-10",
   "level": "2",
-  "url": "sec-math10.html#sec-math10-10",
+  "url": "sec-math1a0.html#sec-math1a0-10",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Identify your starting information and what you’re being asked for. Recall the definition of density and its formula Recognize that you need to calculate the volume Calculate and round appropriately "
 },
 {
-  "id": "sec-math10-12",
+  "id": "sec-math1a0-12",
   "level": "2",
-  "url": "sec-math10.html#sec-math10-12",
+  "url": "sec-math1a0.html#sec-math1a0-12",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Identify your starting information and what you’re being asked for Identify the relevant conversion factors Identify your pathway Carryout calculations and round "
 },
 {
-  "id": "sec-math10-13",
+  "id": "sec-math1a0-13",
   "level": "2",
-  "url": "sec-math10.html#sec-math10-13",
+  "url": "sec-math1a0.html#sec-math1a0-13",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
