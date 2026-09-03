@@ -387,31 +387,31 @@
 		<row class="odd">
 			<cell halign="left">nano-</cell>
 			<cell halign="left">n-</cell>
-			<cell halign="left"><m>10^(-9)</m></cell>
+			<cell halign="left"><m>10^{-9}</m></cell>
 			<cell halign="left">nm or nanometers</cell>
 		</row>
 		<row class="even">
 			<cell halign="left">micro-</cell>
 			<cell halign="left">µ- or mc</cell>
-			<cell halign="left"><m>10^(-6)</m></cell>
+			<cell halign="left"><m>10^{-6}</m></cell>
 			<cell halign="left">µm, mcm, or micrometers</cell>
 		</row>
 		<row class="odd">
 			<cell halign="left">milli-</cell>
 			<cell halign="left">m-</cell>
-			<cell halign="left"><m>10^(-3)</m></cell>
+			<cell halign="left"><m>10^{-3}</m></cell>
 			<cell halign="left">mm, or millimeters</cell>
 		</row>
 		<row class="even">
 			<cell halign="left">centi-</cell>
 			<cell halign="left">c-</cell>
-			<cell halign="left"><m>10^(-2)</m></cell>
+			<cell halign="left"><m>10^{-2}</m></cell>
 			<cell halign="left">cm, or centimeters</cell>
 		</row>
 		<row class="odd">
 			<cell halign="left">deci-</cell>
 			<cell halign="left">d-</cell>
-			<cell halign="left"><m>10^(-1)</m></cell>
+			<cell halign="left"><m>10^{-1}</m></cell>
 			<cell halign="left">dm, or decimeters</cell>
 		</row>
 		<row class="even">
