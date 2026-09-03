@@ -1,5 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section xml:id="sec-math11">
     <title>Dosage problems</title>
+
+
+    <p>
+		<term>Dosage Problems</term>
+	</p>
+
+	<p>
+		The medical field uses dimensional analysis a lot when calculating the amount of pharmaceuticals a patient should receive. Often patients are supposed to receive a certain <term>dosage</term><fn>	<p>
+		The plan for how much drug should be given to a patient. This can include information about the patient’s weight and the frequency of the administration of the drug.
+	</p></fn>; doses that are under that amount may be ineffective and doses that exceed that amount may produce toxic effects. For many drugs, the dosage is expressed as a ratio of mass of drug to kilograms of the patient’s body weight (example units might be mg/kg; this means mg of drug per kilogram of body weight). <em>Remember that dosage amounts are regarded as being exact numbers for the purpose of calculations!</em> Using the dosage and additional information about the patient (such as their weight), we can calculate the correct <term>dose</term><fn>	<p>
+		The exact amount of a drug that should be given to a certain patient
+	</p></fn> of the drug to administer to them. Additionally, many drugs are available as <term>solutions</term><fn>	<p>
+		A solution is a mixture of substances where one is dissolved in another. Frequently a solid is dissolved into a liquid in a solution. An example is salt water.
+	</p></fn>, where a certain amount of drug is dissolved in a specific amount of liquid. The amount of drug that is present in a given amount of liquid is called the <term>concentration</term><fn>	<p>
+		The amount of drug that is contained in a specific volume of solution.
+	</p></fn> (example units might be mg/mL; this means mg of drug in a mL of solution). These dose amounts and concentrations are often used as conversion factors to determine the appropriate amount of drug to administer to a patient. See the example below:
+	</p>
+
+	<p>
+		If a patient is supposed to receive a dose of drug X of 15mg/kg, how many mL of solution will you have to administer if the patient weighs 75 kg and the solution contains 30.0mg/mL drug X?
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				<term>Identify your starting information and what you’re being asked for</term>
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						<m>\frac{15mg\ drug\ X}{kg\ body\ weight}\ \ \ \ \ 75kg\ body\ weight\ \ \ \frac{30.0mg\ drug\ X}{mL\ solution}</m>
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+	</ol></p>
+
+	<blockquote>
+			<p>
+		<em>(note that you can add extra labels to your units if you find them helpful; this isn’t a requirement)</em>
+	</p>
+	</blockquote>
+
+	<p><ol>
+		<li>
+			<p>
+				Being asked for mL of solution
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Start with the last conversion factor flipped over <m>\left( \frac{mL\ solution}{30.0\ mg\ drug\ X} \right)</m> since it has our desired units
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						You could start with 75kg if you wanted as well
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+	</ol></p>
+
+	<p><ol>
+		<li>
+			<p>
+				<term>Identify the relevant conversion factors</term>
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						<m>\frac{15mg\ drug\ X}{kg\ body\ weight}</m> and <m>\frac{30.0mg\ drug\ X}{mL\ solution}</m>
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				<term>Identify your pathway</term>
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						kg of body weight and mg of drug X both appear twice and can cancel out leaving us with “mL of solution”
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						No other conversion factors are needed
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				<term>Carryout calculations and round</term>
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						<m>\frac{mL\ solution}{30.0\ mg\ drug\ X}\left( \frac{15\ mg\ drug\ X}{kg\ body\ weight} \right)(75\ kg\ body\ weight) = 37.5\ mL\ </m>
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						We should round to 2 significant figures
+					</p>
+				
+					<p><ol>
+						<li>
+							<p>
+								Final answer: 38 mL
+							</p>
+						</li>
+				
+					</ol></p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+	</ol></p>
+
     
 </section>

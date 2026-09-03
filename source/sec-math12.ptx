@@ -2,4 +2,60 @@
 <section xml:id="sec-math12">
     <title>Advanced dimensional analysis</title>
     
+    	<p>
+		<term>Advanced dimensional analysis</term>
+	</p>
+
+	<p>
+		In this section you will be practicing your dimensional analysis skills on a wide variety of problems. In some cases, the units that you are using may be nonsense units (or real units that you may not have seen before). In other cases, the problem may require you to seek out information that you may not know using the internet. Remember the step-by-step instructions that we learned in the last lesson to help solve dimensional analysis problems:
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				Identify the starting point
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Identify the end point
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Identify necessary conversion factors to connect the starting units and final units
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						This may also require other quantities that are NOT provided in the problem
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				Identify your pathway that will cancel out the undesired units and leave the desired units
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Carry out your calculation and check that the units cancel out as expected
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Round your final answer to the correct number of significant figures
+			</p>
+		</li>
+
+	</ol></p>
+
 </section>
