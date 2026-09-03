@@ -2049,8 +2049,8 @@ var ptx_lunr_docs = [
   "url": "sec-matter1.html",
   "type": "Section",
   "number": "3.1",
-  "title": "Basics of Matter",
-  "body": " Basics of Matter   Summary:   "
+  "title": "How matter is classified",
+  "body": " How matter is classified   Summary:     How matter is classified    Mixtures vs. pure substances    Homogenous vs. heterogeneous mixtures       Classification of matter   There are different ways to classify matter, but this diagram is one that that can help you compartmentalize your knowledge throughout the course. The diagram strives to classify matter according to its complexity and arrangement. This sort of classification has historical importance to chemistry because it what allowed scientists to begin to gain an understanding of what matter is made of. For instance, it is essential to know what an element is in order to understand that a compound is made up of elements.  The highest classes of matter on the chart are mixtures  Matter that consists of multiple pure substances. The pure substances can be separated by physical processes. and pure substances  Matter that cannot be separated into different components by physical processes. . The difference between these terms is that mixtures consist of multiple substances, while pure substances are only one. The difference between these can be obvious, but that isn’t always the case. For instance, you can clearly see that a glass of sand and water contains multiple substances because we can see the sand and the water and they clearly appear to be different. In the case of salt water, it would be difficult to determine whether it’s a mixture of substances (water and salt) by simply looking at it. Sugar, is a pure substance, but brass is not…so how do we know that something is a pure substance or a mixture?  This is not as straightforward as it might initially seem, but we can come up with rules to help us out. A mixture contains two different substances AND those substances can be separated by physical processes  Physical processes are ones that don’t change the identity of a substance. . A physical process is a one that doesn’t need other substances to be added. Also a physical process will preserve the identity and characteristics of each of the components. Easy examples are boiling and freezing a liquid. The identity of that liquid is the same if it’s a solid, liquid, or gas despite it having somewhat different characteristics. Other examples of physical processes include filtering, cutting, sorting, etc. Sand and water can be separated by filtration, a physical process, and therefore sandy water is classified as a mixture. In the example of salt water we know that it is a mixture because we can separate it into its components (salt and water) by boiling the water and taking advantage of the fact that salt and water have different physical properties  Physical properties are properties of a material that can be discovered while preserving the identity of the substance . A physical property is a property (like boiling point, freezing point, size, color, etc.) that can be observed without altering the chemical identity of a substance.  Within the category of mixtures, we have homogenous mixtures  Homogeneous mixtures consist of two or more pure substances that are mixed in a uniform manner. and heterogenous mixtures  Heterogeneous mixtures consist of two or more pure substances that are mixed in a non-uniform manner . The difference between these terms deals with the arrangement of the components. If the components are evenly distributed throughout the mixture, then we have a homogeneous mixture. If the arrangement is not uniform, then it’s a heterogeneous mixture. Heterogeneous mixtures are sometimes obvious, like sand in water; if you let it sit for a little while the sand settles to the bottom. Sometimes heterogeneous mixtures are not immediately identifiable as such. Consider blood; it initially looks like a uniform red liquid. However, if you let it sit for a little while, the cells in the blood will soon settle to the bottom of the container, similar to sand in water.  In a homogeneous mixture, the various substances are evenly distributed, even at a microscopic level. Because of this, you will not see the various particles that make up a homogeneous mixture. Solutions  A homogeneous mixture where one pure substance is dissolved into another are homogeneous mixtures where one substance (the solute  The lesser component of a solution is called the solute ) is dissolved in a larger amount of the second substance (the solvent  The major component of a solution is called the solvent ). The solvent and the solute can be the same state of matter or different states. For instance, oxygen gas can be dissolved in water, forming a solution. Salt can also be dissolved in water. Gases can be dissolved in one another (for example, air is a solution where small amounts of oxygen gas, carbon dioxide, etc. are dissolved in the solvent of nitrogen gas). There are also solutions made of metals, and these are called alloys  Homogeneous mixtures of metals are called alloys . Bronze is a mixture of zinc and copper where the two substances have so fully dispersed that the mixture is now uniform. Homogenous mixtures can still be separated by physical processes, but they often require more effort (ex. many heterogeneous mixtures can be separated by filtration, whereas a homogenous mixture may require boiling, condensing, or melting).  Pure substances, on the other hand, cannot be separated by physical processes. If you boil pure liquid water, it will be entirely converted into water vapor. If you condense the water vapor it will entirely turn back into liquid water. In both cases, there isn’t any substance that is separated from the water or water vapor by carrying out these physical processes; the substance remains unchanged. Physical processes cannot change the composition of a pure substance. The discovery of pure substances and their further classification into elements and compounds was essential to our understanding of the composition of the world around us. This will be further explored in the next section.  "
 },
 {
   "id": "sec-matter1-2",
@@ -2062,13 +2062,58 @@ var ptx_lunr_docs = [
   "body": "Summary: "
 },
 {
+  "id": "sec-matter1-4",
+  "level": "2",
+  "url": "sec-matter1.html#sec-matter1-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Classification of matter "
+},
+{
+  "id": "sec-matter1-6",
+  "level": "2",
+  "url": "sec-matter1.html#sec-matter1-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "mixtures pure substances "
+},
+{
+  "id": "sec-matter1-7",
+  "level": "2",
+  "url": "sec-matter1.html#sec-matter1-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "physical processes physical properties . "
+},
+{
+  "id": "sec-matter1-8",
+  "level": "2",
+  "url": "sec-matter1.html#sec-matter1-8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "homogenous mixtures heterogenous mixtures "
+},
+{
+  "id": "sec-matter1-9",
+  "level": "2",
+  "url": "sec-matter1.html#sec-matter1-9",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Solutions solute solvent alloys "
+},
+{
   "id": "sec-matter2",
   "level": "1",
   "url": "sec-matter2.html",
   "type": "Section",
   "number": "3.2",
-  "title": "Basics of Matter2",
-  "body": " Basics of Matter2   Summary:   "
+  "title": "Relationship between elements and compounds",
+  "body": " Relationship between elements and compounds   Relationship between elements and compounds   Pure substances can be subdivided into elements  Elements are pure substances that cannot be broken down further by chemical processes and compounds  Compounds are pure substances that consist of two or more elements. They can only be separated into their component elements by chemical processes. . The distinction between elements and compounds depends on whether they can be broken down into simpler units by chemical processes  A chemical process is a reaction that changes the identity of a substance . A chemical process is a reaction that often (but not always) involves the addition of one or more additional reactants and always results in the chemical identity of the starting substance changing. Chemical processes may result in a significant change in the appearance of the starting substance or evolution of a gas, but in other cases there may be little obvious indication that a reaction has occurred (that’s a subject that is covered in other classes like organic chemistry in much more detail). If a pure substance can be broken down into simpler units by a chemical process, then we’re dealing with a compound. If it can’t, then we’re dealing with an element.  We now know of the existence of over 100 different elements. Each element can be found arranged in the periodic table  An organized table that displays the elements and additional information about each one. (more about the periodic table in a later chapter). If you can find a substance in the periodic table, then it’s an element. The cells in the periodic table contain information about each element. For right now, we’ll focus on the name each element as well as its element symbol  An abbreviation for an element consisting of one or more letters , a short abbreviation that is used to represent that element (example: H is the element symbol for hydrogen). Many of these element symbols make sense with the English name of the element. Other element symbols are derived from the Latin name of the element (example: sodium is called natrium in Latin and its symbol is Na).  What then is the relationship between an element and a compound. This relationship was one of the key discoveries in chemistry, and its discovery opened up our understanding of the foundational composition of all matter. One of these early insights came from the discovery of the Law of constant composition  The law of constant composition states that the ratio of elements in a compound is always a constant . This law states that compounds always have the same ratio of elements. For instance, water always has a ratio of 1 gram of hydrogen for every 8 grams of oxygen. Methane, another compound, always has a ratio of 1 gram of hydrogen for every 3 grams of carbon. This discovery showed scientists that compounds were comprised of elements in very specific ratios.  The next key discovery came from comparing the ratios of elements in one compound to the ratios found in other compounds where both compounds consisted of the same elements. For instance, methane has a 1:3 ratio between the mass of hydrogen and the mass of carbon as stated in the previous paragraph. Ethane is another compound made of carbon and hydrogen, but the ratio between hydrogen and carbon is 1:4. If we divide these two ratios we get a ratio of 4:3, meaning that ethane contains 4\/3 as much carbon as methane. This can be done for many other pairs of compounds that contain only carbon and hydrogen. If we do this, we get other ratios like 1:2, 1:3, or 3:2. In every case, we begin to see that when we divide the ratios of carbon and hydrogen between two compounds, we always get ratios of integers ! This is known as the Law of multiple proportions  The law of multiple proportions states that if you divide the ratios of elements for two different compounds that contain the same elements, you will always get a ratio of integers . The realization that there are integer relationships between the composition of different compounds means that the carbon and hydrogen in these compounds occurs in discrete countable units . These discrete countable units are called atoms  The smallest unit of an element. .  Thanks to the Law of constant composition and the law of multiple proportions, we now know that all compounds are comprised of atoms of various elements that are combined together a specific ratio. This ratio can be written as a chemical formula  A way of showing how many atoms of a given element make up a single unit of a chemical compound . The formula for a compound is written by listing the element symbol followed by a subscript number indicating the number of atoms of that element that comprise the compound’s formula unit (please note, that if there is only one atom of a particular type that the number 1 is NOT written). So Na 2 SO 4 has 2 sodium atoms, one sulfur atom, and 4 oxygen atoms in every unit of that compound.  "
 },
 {
   "id": "sec-matter2-2",
@@ -2077,7 +2122,52 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Summary: "
+  "body": "Relationship between elements and compounds "
+},
+{
+  "id": "sec-matter2-3",
+  "level": "2",
+  "url": "sec-matter2.html#sec-matter2-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "elements compounds . chemical processes "
+},
+{
+  "id": "sec-matter2-4",
+  "level": "2",
+  "url": "sec-matter2.html#sec-matter2-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "periodic table element symbol "
+},
+{
+  "id": "sec-matter2-5",
+  "level": "2",
+  "url": "sec-matter2.html#sec-matter2-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Law of constant composition "
+},
+{
+  "id": "sec-matter2-6",
+  "level": "2",
+  "url": "sec-matter2.html#sec-matter2-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Law of multiple proportions . atoms "
+},
+{
+  "id": "sec-matter2-7",
+  "level": "2",
+  "url": "sec-matter2.html#sec-matter2-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "chemical formula . "
 },
 {
   "id": "sec-matter3",
@@ -2085,8 +2175,8 @@ var ptx_lunr_docs = [
   "url": "sec-matter3.html",
   "type": "Section",
   "number": "3.3",
-  "title": "Basics of Matter3",
-  "body": " Basics of Matter3   Summary:   "
+  "title": "States of matter",
+  "body": " States of matter   States of matter   The states of matter  Three different forms that matter can adopt while preserving its identity. The states of matter are solid, liquid, and gas. are solids, liquids, and gases. When a substance undergoes a change in its state, it still retains its same chemical identity, and thus state changes are reversible. Water still has its same chemical formula and identity regardless of whether it is ice, liquid water, or water vapor. Each of these states has different properties, but they are properties of that state, not of water itself.  The properties that define a solid  A state of matter that has a fixed shape and a fixed volume are that it has a fixed shape and volume. Solids do not flow. They can change shape but require some outside force to cause this to happen (like bending a nail with a hammer). On a microscopic scale, the reason for these properties is that the particles that make up the solid are held together by forces that are so strong that the particles can’t move past one another. As a result, the arrangement of the particles is fixed, and the shape of the substance as a whole remains fixed.   Liquids  A state of matter that can flow and has a fixed volume but a variable shape. It will take on the shape of its container , on the other hand, have a fixed volume, but not a fixed shape. They will take on the shape of their container. Liquids can flow and move in response to gravity. On a microscopic scale, the reason for these properties is that the attractive forces between the particles are strong enough to maintain contact between the particles but weak enough that the particles can move past one another. As a result, the entire liquid is capable of movement and flow. At the same time, the attraction between the particles ensures that they never fully separate, so the volume remains fixed regardless of the shape.   Gases  A state of matter that has a variable shape and volume. A gas will take on the shape and volume of its container have neither a fixed shape nor a fixed volume. A gas will always fill up the entirety of the container that it is placed in. Gases can flow like liquids, but their component particles have enough energy that they can flow in all directions, completely filling up their container. The microscopic reason for these properties is that the particles in a gas are moving so rapidly past one another that they don’t interact at all (in actuality, there are very small interactions between gas particles, but chemists often ignore this). As a result a gas will always spread out to occupy the entirety of its container, meaning that a gas will not have a fixed shape nor a fixed volume.  The reason for the differences between the states of matter is that the particles that make them up have different amounts of kinetic energy  Energy of motion . Kinetic energy is the energy of motion and is affected by both the mass of an object and its velocity (ex. a baseball thrown by a toddler will hurt a lot less than by one thrown by a professional pitcher due to the difference in velocity and hence the difference in kinetic energy). The particles in a gas are moving much faster than those in a liquid; the particles in a liquid are moving much faster than those in a solid. Because of this, we can conclude that the particles in a gas have more kinetic energy than those in a liquid and that those in a liquid have more have more kinetic energy than those in a solid. So in order to turn a solid into a liquid ( melting  The process of converting a substance from a solid to a liquid ), we have to add energy to the substance by heating it. The same is true for turning a liquid into a gas ( boiling  The process of converting a substance from a liquid to a gas. or vaporizing  Same as boiling ). If we want to turn a gas into a liquid ( condensing  The process of converting a gas into a liquid ) we have to remove kinetic energy from the substance by cooling it. The same is true for freezing  The process of converting a liquid into a solid a substance (the process of turning a liquid into a solid).  "
 },
 {
   "id": "sec-matter3-2",
@@ -2095,7 +2185,52 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Summary: "
+  "body": "States of matter "
+},
+{
+  "id": "sec-matter3-3",
+  "level": "2",
+  "url": "sec-matter3.html#sec-matter3-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "states of matter "
+},
+{
+  "id": "sec-matter3-4",
+  "level": "2",
+  "url": "sec-matter3.html#sec-matter3-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "solid "
+},
+{
+  "id": "sec-matter3-5",
+  "level": "2",
+  "url": "sec-matter3.html#sec-matter3-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Liquids "
+},
+{
+  "id": "sec-matter3-6",
+  "level": "2",
+  "url": "sec-matter3.html#sec-matter3-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Gases "
+},
+{
+  "id": "sec-matter3-7",
+  "level": "2",
+  "url": "sec-matter3.html#sec-matter3-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "kinetic energy melting boiling vaporizing condensing freezing "
 },
 {
   "id": "sec-matter4",
@@ -2103,8 +2238,8 @@ var ptx_lunr_docs = [
   "url": "sec-matter4.html",
   "type": "Section",
   "number": "3.4",
-  "title": "Basics of Matter4",
-  "body": " Basics of Matter4   Summary:   "
+  "title": "Energy, heat, and temperature",
+  "body": " Energy, heat, and temperature   Summary:     Energy, heat, and temperature    What is meant by all 3 terms    Converting between different units of energy    Converting between different units of temperature       Energy, heat and temperature   You just learned about kinetic energy, but was is energy itself? In order to understand energy, we must first define work  Applying a force to an object over some distance . Work is when a force is applied to an object over some distance. Energy  The capacity of an object to do work or produce heat or light is a property of an object or substance that describes its ability to do work, or to produce light or heat. Energy is a very important consideration in chemistry. It influences the properties of matter, including its state and temperature. Additionally, energy may be released or consumed by reactions. All reactions require energy input to occur, and some require so much energy that they won’t occur unless the reaction is heated or there is a spark (ex. a mixture of hydrogen gas and oxygen gas will not react with one another unless the reaction is provided with a flame or spark to get it going).  Energy can be subdivided into two classes: kinetic energy  Energy of motion and potential energy  Stored energy . Kinetic energy is energy of motion or vibration. Potential energy is stored energy that could potentially be converted into kinetic energy. A classic physics example is that a boulder sitting on a small hill has a small amount of potential energy compared to the same boulder sitting on top of a mountain. Due to the height difference, the boulder would speed up more if it were pushed off the mountain than a small hill. Once the boulder is pushed, the potential energy gets converted into kinetic energy. In chemistry, we’re not usually thinking about boulders rolling down hills. Instead, energy is stored in the form of bonds  Forces that hold atoms or molecules together that join atoms and molecules together. When this energy is released, the motion of the atoms or molecules increases.  The movement of atoms and molecules, including rotations and vibrations, is chemical kinetic energy. When we measure temperature  Quantification of the amount of kinetic energy contained in the molecules of an object what we are measuring is the amount of chemical kinetic energy in a substance. As energy is added to a substance, the temperature generally increases, and this is due to increased motion of the particles that make it up.  Both energy and temperature are quantifiable in chemistry. The SI units of energy are joules. In this course, due to its focus on health sciences, we will more commonly use the unit of calorie (1 calorie = 4.184 joules). The unit calories (abbreviate cal) can use the metric prefixes that you’ve previously learned with the most commonly version being a kilocalorie, or kcal. A calorie is defined as the amount of energy that will raise the temperature of 1g of water by 1 degree Celsius. When we’re dealing with the energy content of food, we often use units of Calories (note that it is now capitalized). 1 Calorie is equivalent to 1kcal or 1000 calories.  For temperature, we have 2 units that are commonly used by society (Fahrenheit and Celsius) and another that is used extensively in science (Kelvin). Fahrenheit is related to Celsius by the following formula:     In this formula, the 1.8 and 32 are EXACT numbers. Kelvin is a temperature scale that has its zero point at absolute zero (ie. the coldest possible temperature where there is no motion). To convert from Celsius to Kelvin, we use the following formula:     Kelvin will always have a positive value, and for this reason, it often must be used as the unit of temperature in scientific formulas. Using these two formulae, we can easily convert between different temperature units by using some algebra skills:  Example: Express the temperature in Celsius and Kelvin.    We have a formula to convert between Fahrenheit and Celsius and another formula to go from Celsius to Kelvin. Let’s determine Celsius first, then Kelvin.    Let’s plug in the temperature in Fahrenheit and then rearrange the equation to solve for Celsius:           (Subtract 32 from both sides)      (Divide both sides by 1.8)   (Round to correct number of significant figures)       Now take the temperature in Celsius and plug it into the formula to solve for Kelvin:           (Round to the correct number of significant figures)     With 3 different temperature scales, it’s important to have an idea of how hot values are in each of them. You should know the following values in each unit of temperature:          Reference point  Fahrenheit  Celsius  Kelvin    Freezing point of water  32  0  273.15    Body temperature  ~98.6  ~37  ~310    Boiling point of water  212  100  373.15     "
 },
 {
   "id": "sec-matter4-2",
@@ -2116,13 +2251,58 @@ var ptx_lunr_docs = [
   "body": "Summary: "
 },
 {
+  "id": "sec-matter4-4",
+  "level": "2",
+  "url": "sec-matter4.html#sec-matter4-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Energy, heat and temperature "
+},
+{
+  "id": "sec-matter4-5",
+  "level": "2",
+  "url": "sec-matter4.html#sec-matter4-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "work Energy "
+},
+{
+  "id": "sec-matter4-6",
+  "level": "2",
+  "url": "sec-matter4.html#sec-matter4-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "kinetic energy potential energy bonds "
+},
+{
+  "id": "sec-matter4-7",
+  "level": "2",
+  "url": "sec-matter4.html#sec-matter4-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "temperature "
+},
+{
+  "id": "sec-matter4-29",
+  "level": "2",
+  "url": "sec-matter4.html#sec-matter4-29",
+  "type": "Table",
+  "number": "3.4.1",
+  "title": "",
+  "body": "        Reference point  Fahrenheit  Celsius  Kelvin    Freezing point of water  32  0  273.15    Body temperature  ~98.6  ~37  ~310    Boiling point of water  212  100  373.15    "
+},
+{
   "id": "sec-matter5",
   "level": "1",
   "url": "sec-matter5.html",
   "type": "Section",
   "number": "3.5",
-  "title": "Basics of Matter5",
-  "body": " Basics of Matter5   Summary:   "
+  "title": "Food energy",
+  "body": " Food energy   Summary:    Section 2: Food energy   When we buy food at the grocery store, it has the amount of energy that our bodies can obtain from digestion printed on the label in the form of Calories (note: that it is capitalized). This value is obtained by calculating the amount of carbohydrates, fats, and proteins in the food. Carbohydrates and proteins both contain 4 Calories of energy for every gram. Fats, on the other hand, have more energy, containing 9 Calories in every gram (consider the 4 and 9 to be exact numbers, even though they are technically measured). If we know how many grams of carbohydrates, proteins, and fat are in a serving of food, we can calculate how many Calories it contains. See the example below:  A serving of food contains 3.0 g of carbohydrates, 5.0 g of fat, and 17 g of protein. How many Calories are in a serving?    We want to determine how many Calories come from each class of biomolecule and then add those values together to get the total.    We need to use dimensional analysis:    Carbohydrates:     Fat:     Protein:       Then add:       "
 },
 {
   "id": "sec-matter5-2",
@@ -2134,13 +2314,22 @@ var ptx_lunr_docs = [
   "body": "Summary: "
 },
 {
+  "id": "sec-matter5-3",
+  "level": "2",
+  "url": "sec-matter5.html#sec-matter5-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Section 2: Food energy "
+},
+{
   "id": "sec-matter6",
   "level": "1",
   "url": "sec-matter6.html",
   "type": "Section",
   "number": "3.6",
   "title": "Basics of Matter6",
-  "body": " Basics of Matter6   Summary:   "
+  "body": " Basics of Matter6   Summary:    Section 3: Electromagnetic radiation   When we are talking about energy in chemistry, one common way in which energy can be released or taken up by matter is in the form of electromagnetic radiation  A form of energy that can travel through space as a wave of electrical and magnetic fields . Electromagnetic radiation is a form of energy that can travel through space as both a wave and a particle called a photon  A massless particle of electromagnetic radiation. They are the smallest unit of electromagnetic radiation. . We all experience electromagnetic radiation. Visible light is one form of electromagnetic radiation. However, even blind people are able to experience non-visible forms of electromagnetic radiation such as infrared rays (think about how light from the sun makes things hot…a lot of this is due to infrared radiation). There are several different forms of electromagnetic radiation: gamma rays, x-rays, ultraviolet rays, visible light, infrared rays, microwaves, and radio waves.  Electromagnetic radiation exists as a wave. Waves can be depicted graphically as shown below. Note the definition of a wavelength  The distance between two identical points of a wave. depicted in the drawing below. A wavelength is the distance between two identical points on different parts of the same wave. The list of forms of electromagnetic radiation listed in the paragraph above (gamma rays, x-rays, UV rays, visible light, infrared rays, microwaves, and radio waves) are arranged in order of increasing wavelengths. Radio waves have the longest wavelengths (meters or even kilometers long) and gamma rays have the shortest wavelengths (<0.01 nanometers).      The wavelength of electromagnetic radiation is related to two other properties: energy and frequency  The number of waves that pass a certain point in a specific amount of time (usually 1 second) . The shorter the wavelength, the more energy that the electromagnetic radiation has. You can try to understand this by thinking about trying to vibrate a stretched out spring…you don’t have to use much energy to get the spring to vibrate slowly (long wavelengths), but you have to expend a lot of energy to get the spring to vibrate quickly (short wavelengths). An in-class demonstration can be helpful here. Frequency refers to the number of waves that pass a certain point every second. Electromagnetic radiation, regardless of the type, travels with the same speed (known as the speed of light). If the waves are spaced close together, then more waves will pass by every second compared to a case where the waves are further apart. As a result, light with a long wavelength will have low frequencies. The exercises below will help you to visualize this.  "
 },
 {
   "id": "sec-matter6-2",
@@ -2150,6 +2339,51 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "Summary: "
+},
+{
+  "id": "sec-matter6-3",
+  "level": "2",
+  "url": "sec-matter6.html#sec-matter6-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Section 3: Electromagnetic radiation "
+},
+{
+  "id": "sec-matter6-4",
+  "level": "2",
+  "url": "sec-matter6.html#sec-matter6-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "electromagnetic radiation photon "
+},
+{
+  "id": "sec-matter6-5",
+  "level": "2",
+  "url": "sec-matter6.html#sec-matter6-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "wavelength "
+},
+{
+  "id": "sec-matter6-6",
+  "level": "2",
+  "url": "sec-matter6.html#sec-matter6-6",
+  "type": "Figure",
+  "number": "3.6.1",
+  "title": "",
+  "body": "   "
+},
+{
+  "id": "sec-matter6-7",
+  "level": "2",
+  "url": "sec-matter6.html#sec-matter6-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "frequency "
 },
 {
   "id": "sec-matter7",
