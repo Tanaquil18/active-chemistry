@@ -2391,8 +2391,8 @@ var ptx_lunr_docs = [
   "url": "sec-matter7.html",
   "type": "Section",
   "number": "3.7",
-  "title": "Basics of Matter7",
-  "body": " Basics of Matter7   Summary:   "
+  "title": "Heating and cooling",
+  "body": " Heating and cooling   Summary:     Heating and cooling    How to do calculations involving heating or cooling a substance when it does NOT change state    Uses specific heat       Heating and cooling   We all know that if you heat up ice it will melt. If you heat water, it will warm up and eventually will start to boil. As chemists, we can predict how much energy is needed for each of these processes. We can also predict what the effect of adding a certain amount of energy to a substance will have on its state and temperature.  When we add or remove energy from an object, this is called heat  The transfer of energy between two different objects . Addition of heat to an object causes the temperature to rise whereas the movement of heat from an object to its surroundings causes its temperature to fall. Our convention for specifying whether or not heat is moving into or from an object is to change the sign on the heat value. A negative heat value implies that the object is losing energy to its surroundings whereas a positive value indicates that heat is being transferred into the object. I like to think of the object of interest as being selfish and lazy. If heat is added, then the object is happy (plus sign) because it’s gaining. Conversely, if the object is losing heat, then that’s a negative experience as far as the object is concerned.  We can predict the relationship between the amount of heat added or removed and a corresponding temperature change by using a quantity known as specific heat  The amount of heat needed to raise 1 g of a substance by 1 degree Kelvin (or Celsius) . The specific heat of a substance is a constant that describes how much heat is required to cause a temperature change of 1 degree Kelvin to 1 g of that substance. You’ve already encountered the specific heat of water when we learned about calories (remember that 1.00 calories is the amount of heat required to raise the temperature of 1 g of water by 1 degree Celsius or Kelvin). Specific heat values differ between materials and also between different states of matter (ice, water, and water vapor each have different specific heat values).  Specific heat has units of . We can use specific heat as a conversion factor in calculations. We can use specific heat to calculate the amount of heat added or removed from an object if we are given the mass and temperature change. Alternatively, we can predict a temperature change if we are given the mass and amount of heat added or removed. We can also calculate the specific heat of a substance if we are given the heat, mass, and temperature change. See the examples below:  Substance E has a specific heat of 4.03 cal\/(g K). If 25 g of substance E begins at a temperature of 42.0 degrees C and 403 calories of heat is added, what will its new temperature be?    What are we being asked for: We’re asked to find the final temperature. The specific heat can be used to determine the temperature change.    Find the path: The specific heat has units of temperature in it, but also mass (grams) and heat (cal) that need to be eliminated. We’re provided the mass in grams and the heat in cal and should be able to use those values to cancel out all of the unwanted units.    Calculate:    Temperature change:   Remember that Kelvin and Celsius degrees have the same magnitude (ie. an increase of 1 degree Celsius is the same as an increase of 1 degree Kelvin) so the increase is also 4.0 degrees Celsius  New temperature: 42.0 degrees C + 4.0 degrees C = 46.0 degrees C  "
 },
 {
   "id": "sec-matter7-2",
@@ -2404,13 +2404,40 @@ var ptx_lunr_docs = [
   "body": "Summary: "
 },
 {
+  "id": "sec-matter7-4",
+  "level": "2",
+  "url": "sec-matter7.html#sec-matter7-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Heating and cooling "
+},
+{
+  "id": "sec-matter7-6",
+  "level": "2",
+  "url": "sec-matter7.html#sec-matter7-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "heat . "
+},
+{
+  "id": "sec-matter7-7",
+  "level": "2",
+  "url": "sec-matter7.html#sec-matter7-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "specific heat "
+},
+{
   "id": "sec-matter8",
   "level": "1",
   "url": "sec-matter8.html",
   "type": "Section",
   "number": "3.8",
-  "title": "Basics of Matter8",
-  "body": " Basics of Matter8   Summary:   "
+  "title": "State changes",
+  "body": " State changes   Summary:    State changes   When a substance is undergoing a change in state (ex. liquid to gas) heat input or removal is often required. However, during the process of the state change, the temperature of the substance doesn’t change . For example, when ice is melting, it remains at a temperature of 0 degrees Celsius until the solid has been fully converted into liquid. Once this happens, further heating will result in a temperature increase. Since there is no change in temperature involved in a state change, we need a different constant to predict how much heat will be required for these processes. For melting and for freezing, we use a constant called the heat of fusion  The amount of energy that is needed to melt 1 g of a solid into a liquid . It tells us how much energy input (or release) is required to melt (or freeze) 1 g of a substance. For changes from liquid to gas (or vice-versa) a similar constant is used that is called the heat of vaporization  The amount of energy that is needed to boil 1 g of a liquid into a gas . For changes from a solid directly to a gas (or vice-versa) a constant called the heat of sublimation  The amount of energy that is needed to sublimate 1g of a solid into a gas can be used.        The heat of fusion of water is 80. cal\/g. A hamburger contains 600. Calories. How many grams of ice could be melted at 0 degrees Celsius using the energy contained in the hamburger?    What we’re being asked for: We want the number of grams of ice that could be melted. There is a g unit in the heat of fusion; we just need to get rid of cal.    See the path: We need to get rid of cal in the heat of fusion, but we only have the 600 Calories (capitalized). If we turn the Calories into calories, then they can cancel out the units in the heat of fusion, leaving us grams.    Calculate:       "
 },
 {
   "id": "sec-matter8-2",
@@ -2422,13 +2449,31 @@ var ptx_lunr_docs = [
   "body": "Summary: "
 },
 {
+  "id": "sec-matter8-3",
+  "level": "2",
+  "url": "sec-matter8.html#sec-matter8-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "State changes "
+},
+{
+  "id": "sec-matter8-4",
+  "level": "2",
+  "url": "sec-matter8.html#sec-matter8-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "heat of fusion heat of vaporization heat of sublimation "
+},
+{
   "id": "sec-matter9",
   "level": "1",
   "url": "sec-matter9.html",
   "type": "Section",
   "number": "3.9",
-  "title": "Basics of Matter9",
-  "body": " Basics of Matter9   Summary:   "
+  "title": "Multistep problems",
+  "body": " Multistep problems   Summary:    Multistep problems   Using the knowledge and skills that you practiced above we can now set about solving multistep problems that involve state changes and temperature changes. The key things to remember is that we are simply going to use the methods we’ve already learned. In order to do this, we need to treat each section of a multistep problem as its own calculation. For instance, if heat is being added to ice that is at -20 degrees C, resulting in the ice melting and becoming water at 50 degrees C, then we have to consider the following steps:    The warming of the ice to 0 degrees C    The melting of the ice at 0 degrees C    The warming of the water to 50 degrees C    42 g of ice at -20. degrees C is warmed up until it completely boils away at 100. degrees C. How much energy was added to the water throughout this process.    What are we being asked for: Find the heat for the entire process.    Find the path: We need the sum of the heats from each of the individual steps. The steps are:    Heating the ice from -20 degrees to 0 degrees C    Melting the ice at 0 degrees C    Warming the water from 0 to 100 degrees C    Boiling the water at 100 degrees C      Steps a and c are temperature increases and will use the specific heat of ice and water respectively. Steps b and d are melting and boiling and will use the heat of fusion and heat of vaporization of water respectively. We need all of those values:    Specific heat of ice: 0.490 cal\/(g K)    Specific heat of water: 1.00 cal\/(g K)    Heat of fusion of water: 80. cal\/g    Heat of vaporization of water: 539 cal\/g      Calculate:     =411.6 cal (should be rounded to tens place; but we won’t yet)   =4200 cal (should be rounded to hundreds place; but we won’t yet)   3360 cal (should be rounded to hundreds place; but we won’t yet)   =22638 cal (should be rounded to thousands place; but we won’t yet)     We use the addition rule for significant figures; we should be rounding to the thousands place.  Final answer 31000 cal (should be positive because heat was added)  "
 },
 {
   "id": "sec-matter9-2",
@@ -2438,6 +2483,15 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "Summary: "
+},
+{
+  "id": "sec-matter9-3",
+  "level": "2",
+  "url": "sec-matter9.html#sec-matter9-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Multistep problems "
 },
 {
   "id": "sec-atoms1",
