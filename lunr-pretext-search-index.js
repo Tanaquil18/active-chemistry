@@ -1771,7 +1771,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.9",
   "title": "Dimensional analysis",
-  "body": " Dimensional analysis    Dimensional analysis    Step-by-step guide to cancel out units that you don’t want and to replace them with ones you do    Metric system and metric prefixes    How to convert between units    Special cases of squared and cubed units      Dimensional analysis  What you were just doing is called dimensional analysis. The goal of dimensional analysis is to take a starting quantity (or quantities) and to transform the units into the units that are desired. This is accomplished by multiplying fractions and recognizing that we can cancel out units if they occur in the numerator and denominator of the product. For example, if you are asked the following problem:   Example Problem 1   Question: How many miles did you walk if you walked 7500 feet?   Starting information —7500 ft   Desired end units —miles   Relevant equation and conversion factors —  5280ft=1mile Conversion factors:    Pathway —we want to eliminate the units of feet and replace it with miles; in order to eliminate feet, that unit must appear in the numerator and denominator of the final product   Calculation —         Rounding to the correct number of significant figures —  1.4 miles   In a dimensional analysis problem, there are several steps that you need to carry out as demonstrated above:   Steps to solving a dimensional analysis problem    Identify the starting point    Identify the end point    Identify necessary conversion factors to connect the starting units and final units    This may also require other quantities that are NOT provided in the problem      Identify your pathway that will cancel out the undesired units and leave the desired units    Carry out your calculation and check that the units cancel out as expected    Round your final answer to the correct number of significant figures       "
+  "body": " Dimensional analysis    Dimensional analysis    Step-by-step guide to cancel out units that you don’t want and to replace them with ones you do    Metric system and metric prefixes    How to convert between units    Special cases of squared and cubed units      Dimensional analysis  What you were just doing is called dimensional analysis. The goal of dimensional analysis is to take a starting quantity (or quantities) and to transform the units into the units that are desired. This is accomplished by multiplying fractions and recognizing that we can cancel out units if they occur in the numerator and denominator of the product. For example, if you are asked the following problem:   Example Problem 1   Question: How many miles did you walk if you walked 7500 feet?   Starting information —7500 ft   Desired end units —miles   Relevant equation and conversion factors —  5280ft=1mile Conversion factors:    Pathway —we want to eliminate the units of feet and replace it with miles; in order to eliminate feet, that unit must appear in the numerator and denominator of the final product   Calculation —         Rounding to the correct number of significant figures —  1.4 miles   In a dimensional analysis problem, there are several steps that you need to carry out as demonstrated above:   Steps to solving a dimensional analysis problem    Identify the starting point    Identify the end point    Identify necessary conversion factors to connect the starting units and final units    This may also require other quantities that are NOT provided in the problem      Identify your pathway that will cancel out the undesired units and leave the desired units    Carry out your calculation and check that the units cancel out as expected    Round your final answer to the correct number of significant figures     Let's now look at an example that illustrates how to use the above procedure to solve a dimensional analysis problem.   Example dimensional analysis problem    Question: A factory needs to purchase grease for its machines. Each machine needs 5.0 ounces of grease every day. The factory has 35 of these machines. If a package of grease contains 75.0 ounces of grease, how many packages would be needed for the factory for a week?     1. Identify the Starting Point   We have choices here.      35 machines    1 week     Option 1: Generally I recommend that students try to start with a provided quantity that is NOT a conversion factor (ie. not a fraction).  Given the choices above I’d recommend starting with 35 machines. You could start with 1 week if you wanted to.   Option 2 : If one of the pieces of starting information has your desired unit, you can start with that, but make sure that the desired unit is in the numerator. In this case you could flip the to be    2. Identify the Endpoint  In this case we want our final unit to be \"packages\"    3. Identify the Necessary Conversion Factors to Connect the Starting Units and Final Units   In this case the quantities and conversion factors listed above are almost sufficient. We have machines in the units of two quantities (35 machines and ). The same is true for ounces. The unit “package” only appears in one place, but that’s okay because we don’t want to cancel it out. The units “day” and “week”, however, only appear once and need to cancel out. Therefore we need the additional conversion factor:      4. Identify the Pathway —we want to eliminate all of the units except “packages”. All of the other units must appear once in the numerator and denominator so that they cancel out.   5. Calculation —  Option 1:          Option 2:         6. Rounding to the correct number of significant figures —  16.3 packages     "
 },
 {
   "id": "assemblage-math9-1-2",
@@ -1835,6 +1835,60 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "Rounding to the correct number of significant figures "
+},
+{
+  "id": "assemblage--2",
+  "level": "2",
+  "url": "sec-math9.html#assemblage--2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Question: 1. Identify the Starting Point "
+},
+{
+  "id": "assemblage--6",
+  "level": "2",
+  "url": "sec-math9.html#assemblage--6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "2. Identify the Endpoint "
+},
+{
+  "id": "assemblage--7",
+  "level": "2",
+  "url": "sec-math9.html#assemblage--7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "3. Identify the Necessary Conversion Factors to Connect the Starting Units and Final Units "
+},
+{
+  "id": "assemblage--10",
+  "level": "2",
+  "url": "sec-math9.html#assemblage--10",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "4. Identify the Pathway "
+},
+{
+  "id": "assemblage--11",
+  "level": "2",
+  "url": "sec-math9.html#assemblage--11",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "5. Calculation "
+},
+{
+  "id": "assemblage--19",
+  "level": "2",
+  "url": "sec-math9.html#assemblage--19",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "6. Rounding to the correct number of significant figures "
 },
 {
   "id": "sec-math10",
