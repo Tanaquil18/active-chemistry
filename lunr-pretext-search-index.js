@@ -1771,7 +1771,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.9",
   "title": "Dimensional analysis",
-  "body": " Dimensional analysis     Dimensional analysis     Step-by-step guide to cancel out units that you don’t want and to replace them with ones you do    Metric system and metric prefixes    How to convert between units    Special cases of squared and cubed units        Dimensional analysis  What you were just doing is called dimensional analysis. The goal of dimensional analysis is to take a starting quantity (or quantities) and to transform the units into the units that are desired. This is accomplished by multiplying fractions and recognizing that we can cancel out units if they occur in the numerator and denominator of the product. For example, if you are asked the following problem:   Example Problem 1   Question: How many miles did you walk if you walked 7500 feet?   Starting information —7500 ft   Desired end units —miles   Relevant equation and conversion factors —  5280ft=1mile Conversion factors:    Pathway —we want to eliminate the units of feet and replace it with miles; in order to eliminate feet, that unit must appear in the numerator and denominator of the final product   Calculation —         Rounding to the correct number of significant figures —  1.4 miles   In a dimensional analysis problem, there are several steps that you need to carry out as demonstrated above:   Steps to solving a dimensional analysis problem     Identify the starting point    Identify the end point    Identify necessary conversion factors to connect the starting units and final units     This may also require other quantities that are NOT provided in the problem       Identify your pathway that will cancel out the undesired units and leave the desired units    Carry out your calculation and check that the units cancel out as expected    Round your final answer to the correct number of significant figures      Let's now look at an example that illustrates how to use the above procedure to solve a dimensional analysis problem.   Example dimensional analysis problem    Question: A factory needs to purchase grease for its machines. Each machine needs 5.0 ounces of grease every day. The factory has 35 of these machines. If a package of grease contains 75.0 ounces of grease, how many packages would be needed for the factory for a week?    1. Identify the Starting Point   We have choices here.      35 machines     1 week     Option 1: Generally I recommend that students try to start with a provided quantity that is NOT a conversion factor (ie. not a fraction).  Given the choices above I’d recommend starting with 35 machines. You could start with 1 week if you wanted to.   Option 2 : If one of the pieces of starting information has your desired unit, you can start with that, but make sure that the desired unit is in the numerator. In this case you could flip the to be    2. Identify the Endpoint  In this case we want our final unit to be \"packages\"    3. Identify the Necessary Conversion Factors to Connect the Starting Units and Final Units   In this case the quantities and conversion factors listed above are almost sufficient. We have machines in the units of two quantities (35 machines and ). The same is true for ounces. The unit “package” only appears in one place, but that’s okay because we don’t want to cancel it out. The units “day” and “week”, however, only appear once and need to cancel out. Therefore we need the additional conversion factor:      4. Identify the Pathway —we want to eliminate all of the units except “packages”. All of the other units must appear once in the numerator and denominator so that they cancel out.   5. Calculation —  Option 1:         Option 2:         6. Rounding to the correct number of significant figures —  16.3 packages   In chemistry, we very commonly use the system of SI units because of the ease of making the units bigger or smaller by simply adding prefixes to the base unit. The SI units that are commonly used in chemistry are shown below:        SI unit and abbreviation  Unit of…    meter (m)  distance    liter (L)  volume     gram (g) Technically the kilogram is the base unit; but gram is the form lacking a prefix     mass     Joule (J)  energy    second (sec)  time    Kelvin (K)  temperature    Pascal (Pa)  pressure     The prefixes that you are responsible for knowing are in the table shown below:          Prefix  Abbreviation  Meaning  Example with meters    nano-  n-   nm or nanometers    micro-  µ- or mc   µm, mcm, or micrometers    milli-  m-   mm, or millimeters    centi-  c-   cm, or centimeters    deci-  d-   dm, or decimeters    kilo-  k-   km, or kilometers    mega-  M-   Mm, or megameters    giga-  G-   Gm, or gigameters     We very often have to write conversion factors that will allow us to convert between SI units with different prefixes. How do we do this? Let’s say that we want to convert 122 nm into mm. We need a conversion factor that equates nm and mm. We can do this by writing the following equations that relate the starting and end units to the base unit of meters:   and   We can then write conversion factors for both equations:   and   With our starting value of 122nm, we can see that all of the units (nm and m) except for mm occur twice and we can thus cancel them out if we flip and arrange the conversion factors appropriately:     There is one additional complication that can come up with unit conversions, namely when dealing with units of area or volume. The problem that arises is that scientists often use units of distance that are squared (ex. ) or cubed (ex. ). To convert between squared units we must remember that the unit is actually there twice (and likewise for units of volume, where the distance is cubed, that the distance unit is there three times). See below:     Thus if we are converting between different units, we must do the conversion two or even three times to cancel out each of the starting units. So, if you were asked to convert 2.3 to you would do the following:      "
+  "body": " Dimensional analysis     Dimensional analysis     Step-by-step guide to cancel out units that you don’t want and to replace them with ones you do    Metric system and metric prefixes    How to convert between units    Special cases of squared and cubed units        Dimensional analysis  What you were just doing is called dimensional analysis. The goal of dimensional analysis is to take a starting quantity (or quantities) and to transform the units into the units that are desired. This is accomplished by multiplying fractions and recognizing that we can cancel out units if they occur in the numerator and denominator of the product. For example, if you are asked the following problem:   Example Problem 1   Question: How many miles did you walk if you walked 7500 feet?   Starting information —7500 ft   Desired end units —miles   Relevant equation and conversion factors —  5280ft=1mile Conversion factors:    Pathway —we want to eliminate the units of feet and replace it with miles; in order to eliminate feet, that unit must appear in the numerator and denominator of the final product   Calculation —         Rounding to the correct number of significant figures —  1.4 miles   In a dimensional analysis problem, there are several steps that you need to carry out as demonstrated above:   Steps to solving a dimensional analysis problem     Identify the starting point    Identify the end point    Identify necessary conversion factors to connect the starting units and final units     This may also require other quantities that are NOT provided in the problem       Identify your pathway that will cancel out the undesired units and leave the desired units    Carry out your calculation and check that the units cancel out as expected    Round your final answer to the correct number of significant figures      Let's now look at an example that illustrates how to use the above procedure to solve a dimensional analysis problem.   Example dimensional analysis problem    Question: A factory needs to purchase grease for its machines. Each machine needs 5.0 ounces of grease every day. The factory has 35 of these machines. If a package of grease contains 75.0 ounces of grease, how many packages would be needed for the factory for a week?    1. Identify the Starting Point   We have choices here.      35 machines     1 week     Option 1: Generally I recommend that students try to start with a provided quantity that is NOT a conversion factor (ie. not a fraction).  Given the choices above I’d recommend starting with 35 machines. You could start with 1 week if you wanted to.   Option 2 : If one of the pieces of starting information has your desired unit, you can start with that, but make sure that the desired unit is in the numerator. In this case you could flip the to be    2. Identify the Endpoint  In this case we want our final unit to be \"packages\"    3. Identify the Necessary Conversion Factors to Connect the Starting Units and Final Units   In this case the quantities and conversion factors listed above are almost sufficient. We have machines in the units of two quantities (35 machines and ). The same is true for ounces. The unit “package” only appears in one place, but that’s okay because we don’t want to cancel it out. The units “day” and “week”, however, only appear once and need to cancel out. Therefore we need the additional conversion factor:      4. Identify the Pathway —we want to eliminate all of the units except “packages”. All of the other units must appear once in the numerator and denominator so that they cancel out.   5. Calculation —  Option 1:         Option 2:         6. Rounding to the correct number of significant figures —  16.3 packages   In chemistry, we very commonly use the system of SI units because of the ease of making the units bigger or smaller by simply adding prefixes to the base unit. The SI units that are commonly used in chemistry are shown below:        SI unit and abbreviation  Unit of…    meter (m)  distance    liter (L)  volume     gram (g) Technically the kilogram is the base unit; but gram is the form lacking a prefix     mass     Joule (J)  energy    second (sec)  time    Kelvin (K)  temperature    Pascal (Pa)  pressure     The prefixes that you are responsible for knowing are in the table shown below:          Prefix  Abbreviation  Meaning  Example with meters    nano-  n-   nm or nanometers    micro-  µ- or mc   µm, mcm, or micrometers    milli-  m-   mm, or millimeters    centi-  c-   cm, or centimeters    deci-  d-   dm, or decimeters    kilo-  k-   km, or kilometers    mega-  M-   Mm, or megameters    giga-  G-   Gm, or gigameters     We very often have to write conversion factors that will allow us to convert between SI units with different prefixes. How do we do this? Let’s say that we want to convert 122 nm into mm. We need a conversion factor that equates nm and mm. We can do this by writing the following equations that relate the starting and end units to the base unit of meters:   and   We can then write conversion factors for both equations:   and   With our starting value of 122nm, we can see that all of the units (nm and m) except for mm occur twice and we can thus cancel them out if we flip and arrange the conversion factors appropriately:     There is one additional complication that can come up with unit conversions, namely when dealing with units of area or volume. The problem that arises is that scientists often use units of distance that are squared (ex. ) or cubed (ex. ). To convert between squared units we must remember that the unit is actually there twice (and likewise for units of volume, where the distance is cubed, that the distance unit is there three times). See below:     Thus if we are converting between different units, we must do the conversion two or even three times to cancel out each of the starting units. So, if you were asked to convert 2.3 to you would do the following:      Exercises:    Dimensional analysis. Do the following metric conversion problems.                                     This answer is written in scientific notation to show the correct number of significant figures.                                                      "
 },
 {
   "id": "assemblage-math9-1-2",
@@ -1909,13 +1909,76 @@ var ptx_lunr_docs = [
   "body": "        Prefix  Abbreviation  Meaning  Example with meters    nano-  n-   nm or nanometers    micro-  µ- or mc   µm, mcm, or micrometers    milli-  m-   mm, or millimeters    centi-  c-   cm, or centimeters    deci-  d-   dm, or decimeters    kilo-  k-   km, or kilometers    mega-  M-   Mm, or megameters    giga-  G-   Gm, or gigameters    "
 },
 {
+  "id": "sec-math9-24-2-2",
+  "level": "2",
+  "url": "sec-math9.html#sec-math9-24-2-2",
+  "type": "Exercise",
+  "number": "2.9.1",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "sec-math9-24-2-3",
+  "level": "2",
+  "url": "sec-math9.html#sec-math9-24-2-3",
+  "type": "Exercise",
+  "number": "2.9.2",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "sec-math9-24-2-4",
+  "level": "2",
+  "url": "sec-math9.html#sec-math9-24-2-4",
+  "type": "Exercise",
+  "number": "2.9.3",
+  "title": "",
+  "body": "          This answer is written in scientific notation to show the correct number of significant figures.   "
+},
+{
+  "id": "sec-math9-24-2-5",
+  "level": "2",
+  "url": "sec-math9.html#sec-math9-24-2-5",
+  "type": "Exercise",
+  "number": "2.9.4",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "sec-math9-24-2-6",
+  "level": "2",
+  "url": "sec-math9.html#sec-math9-24-2-6",
+  "type": "Exercise",
+  "number": "2.9.5",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "sec-math9-24-2-7",
+  "level": "2",
+  "url": "sec-math9.html#sec-math9-24-2-7",
+  "type": "Exercise",
+  "number": "2.9.6",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "sec-math9-24-2-8",
+  "level": "2",
+  "url": "sec-math9.html#sec-math9-24-2-8",
+  "type": "Exercise",
+  "number": "2.9.7",
+  "title": "",
+  "body": "           "
+},
+{
   "id": "sec-math1a0",
   "level": "1",
   "url": "sec-math1a0.html",
   "type": "Section",
   "number": "2.10",
   "title": "Density and specific gravity",
-  "body": " Density and specific gravity   Summary:      Density and specific gravity     Density= mass \/ volume     Can calculate it by taking mass and dividing by volume    Volume can be determined by water displacement    Density can be used as a conversion factor to determine mass or volume       Density of water is 1.0g\/mL    Specific gravity is the density of a substance divided by the density of water         Density and Specific Gravity    An important formula that should be memorized:       An important note that should be memorized:   1mL = 1cm 3   You are trying to identify a metal based on its density. You first measure its mass as 17.50g. You then obtain a graduated cylinder and fill it with 23.21 mL of water. You then put the piece of metal in the water and measure a volume of 24.75 mL. Calculate its density.      Identify your starting information and what you’re being asked for.      You have the mass and the volumes of water in the graduated cylinder before and after adding the metal        Recall the definition of density and its formula      D=m\/V (you have mass but not volume of the object itself)        Recognize that you need to calculate the volume      Volume of the object= 24.75mL-23.21mL= 1.54mL        Calculate and round appropriately           Recall that solids usually have density units of g\/cm3. Since 1mL=1cm 3 then density can be written as     This involved multiple steps, subtraction then division. The subtraction step would have had us round to the hundredths place resulting in 3 significant figures (1.54). If we do division next, we have one number with 3 significant figures (the volume) and one with 4 (the mass). Therefore we should round to 3 significant figures giving ; this corresponds to the density of lead.        What is the mass of ethanol that you measured out if you measure 12.1 L of ethanol? Ethanol has a density of 0.80 g\/mL.      Identify your starting information and what you’re being asked for      Volume of 12.1 L and density of 0.80 g\/mL    Being asked for mass        Identify the relevant conversion factors               Identify your pathway      You have units of mass in the density; you want to keep this    mL and L only appear once in what you have; you need an additional conversion factor to cancel them out;         Carryout calculations and round       (please note you could have started with 12.1L instead)    We should round to 2 significant figures     We are multiplying and dividing    0.80 g\/mL (2 significant figures); 12.1 L (3 significant figures); 1mL\/10 -3 L (infinite significant figures\/exact number)    Final answer: 9700 g            An important formula that should be memorized:      "
+  "body": " Density and specific gravity   Summary:      Density and specific gravity     Density= mass \/ volume     Can calculate it by taking mass and dividing by volume    Volume can be determined by water displacement    Density can be used as a conversion factor to determine mass or volume       Density of water is 1.0g\/mL    Specific gravity is the density of a substance divided by the density of water         Density and Specific Gravity    An important formula that should be memorized:       An important note that should be memorized:   1mL = 1cm 3   You are trying to identify a metal based on its density. You first measure its mass as 17.50g. You then obtain a graduated cylinder and fill it with 23.21 mL of water. You then put the piece of metal in the water and measure a volume of 24.75 mL. Calculate its density.      Identify your starting information and what you’re being asked for.      You have the mass and the volumes of water in the graduated cylinder before and after adding the metal        Recall the definition of density and its formula      D=m\/V (you have mass but not volume of the object itself)        Recognize that you need to calculate the volume      Volume of the object= 24.75mL-23.21mL= 1.54mL        Calculate and round appropriately           Recall that solids usually have density units of g\/cm3. Since 1mL=1cm 3 then density can be written as     This involved multiple steps, subtraction then division. The subtraction step would have had us round to the hundredths place resulting in 3 significant figures (1.54). If we do division next, we have one number with 3 significant figures (the volume) and one with 4 (the mass). Therefore we should round to 3 significant figures giving ; this corresponds to the density of lead.        What is the mass of ethanol that you measured out if you measure 12.1 L of ethanol? Ethanol has a density of 0.80 g\/mL.      Identify your starting information and what you’re being asked for      Volume of 12.1 L and density of 0.80 g\/mL    Being asked for mass        Identify the relevant conversion factors               Identify your pathway      You have units of mass in the density; you want to keep this    mL and L only appear once in what you have; you need an additional conversion factor to cancel them out;         Carryout calculations and round       (please note you could have started with 12.1L instead)    We should round to 2 significant figures     We are multiplying and dividing    0.80 g\/mL (2 significant figures); 12.1 L (3 significant figures); 1mL\/10 -3 L (infinite significant figures\/exact number)    Final answer: 9700 g            An important formula that should be memorized:       Exercises:    Density and specific gravity. Solve the following problems using dimensional analysis and appropriate significant figures.     A liquid has a mass of 53.5 g and a volume of 28.9 mL. What is its density in units of g\/mL? What is its specific gravity?    Density: . Specific gravity: .      If a solid cube has sides that are each 3.0 cm long and the cube has a mass of 42.1 g, what is its density in g\/cm 3 ?           A toy car has a mass of 2.85 g. A graduated cylinder containing 42.00 mL of water has the car submerged in it. The new volume is 42.85 mL. What is the density of the car?           If you are trying to measure the density of an object and are using water displacement to find the volume and you fail to completely submerge the object under water, what would the effect be on your measured density? How would the measured density compare to the actual density of the object?    The measured density would be higher than the actual density.      You require 4.5 g of a solution. The solution has a density of 1.05 g\/mL. How many mL of solution do you need to measure out?           If you measure out 17.1 dL of a solution with a density of 0.95 g\/mL, how many kilograms of solution do you have?           "
 },
 {
   "id": "sec-math1a0-2",
@@ -1981,13 +2044,67 @@ var ptx_lunr_docs = [
   "body": "An important formula that should be memorized: "
 },
 {
+  "id": "sec-math1a0-15-2-2",
+  "level": "2",
+  "url": "sec-math1a0.html#sec-math1a0-15-2-2",
+  "type": "Exercise",
+  "number": "2.10.1",
+  "title": "",
+  "body": "  A liquid has a mass of 53.5 g and a volume of 28.9 mL. What is its density in units of g\/mL? What is its specific gravity?    Density: . Specific gravity: .   "
+},
+{
+  "id": "sec-math1a0-15-2-3",
+  "level": "2",
+  "url": "sec-math1a0.html#sec-math1a0-15-2-3",
+  "type": "Exercise",
+  "number": "2.10.2",
+  "title": "",
+  "body": "  If a solid cube has sides that are each 3.0 cm long and the cube has a mass of 42.1 g, what is its density in g\/cm 3 ?        "
+},
+{
+  "id": "sec-math1a0-15-2-4",
+  "level": "2",
+  "url": "sec-math1a0.html#sec-math1a0-15-2-4",
+  "type": "Exercise",
+  "number": "2.10.3",
+  "title": "",
+  "body": "  A toy car has a mass of 2.85 g. A graduated cylinder containing 42.00 mL of water has the car submerged in it. The new volume is 42.85 mL. What is the density of the car?        "
+},
+{
+  "id": "sec-math1a0-15-2-5",
+  "level": "2",
+  "url": "sec-math1a0.html#sec-math1a0-15-2-5",
+  "type": "Exercise",
+  "number": "2.10.4",
+  "title": "",
+  "body": "  If you are trying to measure the density of an object and are using water displacement to find the volume and you fail to completely submerge the object under water, what would the effect be on your measured density? How would the measured density compare to the actual density of the object?    The measured density would be higher than the actual density.   "
+},
+{
+  "id": "sec-math1a0-15-2-6",
+  "level": "2",
+  "url": "sec-math1a0.html#sec-math1a0-15-2-6",
+  "type": "Exercise",
+  "number": "2.10.5",
+  "title": "",
+  "body": "  You require 4.5 g of a solution. The solution has a density of 1.05 g\/mL. How many mL of solution do you need to measure out?        "
+},
+{
+  "id": "sec-math1a0-15-2-7",
+  "level": "2",
+  "url": "sec-math1a0.html#sec-math1a0-15-2-7",
+  "type": "Exercise",
+  "number": "2.10.6",
+  "title": "",
+  "body": "  If you measure out 17.1 dL of a solution with a density of 0.95 g\/mL, how many kilograms of solution do you have?        "
+},
+{
   "id": "sec-math11",
   "level": "1",
   "url": "sec-math11.html",
   "type": "Section",
   "number": "2.11",
   "title": "Dosage problems",
-  "body": " Dosage problems   Dosage Problems   The medical field uses dimensional analysis a lot when calculating the amount of pharmaceuticals a patient should receive. Often patients are supposed to receive a certain dosage  The plan for how much drug should be given to a patient. This can include information about the patient’s weight and the frequency of the administration of the drug. ; doses that are under that amount may be ineffective and doses that exceed that amount may produce toxic effects. For many drugs, the dosage is expressed as a ratio of mass of drug to kilograms of the patient’s body weight (example units might be mg\/kg; this means mg of drug per kilogram of body weight). Remember that dosage amounts are regarded as being exact numbers for the purpose of calculations! Using the dosage and additional information about the patient (such as their weight), we can calculate the correct dose  The exact amount of a drug that should be given to a certain patient of the drug to administer to them. Additionally, many drugs are available as solutions  A solution is a mixture of substances where one is dissolved in another. Frequently a solid is dissolved into a liquid in a solution. An example is salt water. , where a certain amount of drug is dissolved in a specific amount of liquid. The amount of drug that is present in a given amount of liquid is called the concentration  The amount of drug that is contained in a specific volume of solution. (example units might be mg\/mL; this means mg of drug in a mL of solution). These dose amounts and concentrations are often used as conversion factors to determine the appropriate amount of drug to administer to a patient. See the example below:  If a patient is supposed to receive a dose of drug X of 15mg\/kg, how many mL of solution will you have to administer if the patient weighs 75 kg and the solution contains 30.0mg\/mL drug X?     Identify your starting information and what you’re being asked for              (note that you can add extra labels to your units if you find them helpful; this isn’t a requirement)      Being asked for mL of solution    Start with the last conversion factor flipped over since it has our desired units    You could start with 75kg if you wanted as well         Identify the relevant conversion factors      and        Identify your pathway     kg of body weight and mg of drug X both appear twice and can cancel out leaving us with “mL of solution”    No other conversion factors are needed       Carryout calculations and round          We should round to 2 significant figures    Final answer: 38 mL        "
+  "body": " Dosage problems   Dosage Problems   The medical field uses dimensional analysis a lot when calculating the amount of pharmaceuticals a patient should receive. Often patients are supposed to receive a certain dosage   The plan for how much drug should be given to a patient. This can include information about the patient’s weight and the frequency of the administration of the drug. ; doses that are under that amount may be ineffective and doses that exceed that amount may produce toxic effects. For many drugs, the dosage is expressed as a ratio of mass of drug to kilograms of the patient’s body weight (example units might be mg\/kg; this means mg of drug per kilogram of body weight). Remember that dosage amounts are regarded as being exact numbers for the purpose of calculations! Using the dosage and additional information about the patient (such as their weight), we can calculate the correct dose   The exact amount of a drug that should be given to a certain patient of the drug to administer to them. Additionally, many drugs are available as solutions   A solution is a mixture of substances where one is dissolved in another. Frequently a solid is dissolved into a liquid in a solution. An example is salt water. , where a certain amount of drug is dissolved in a specific amount of liquid. The amount of drug that is present in a given amount of liquid is called the concentration   The amount of drug that is contained in a specific volume of solution. (example units might be mg\/mL; this means mg of drug in a mL of solution). These dose amounts and concentrations are often used as conversion factors to determine the appropriate amount of drug to administer to a patient. See the example below:  If a patient is supposed to receive a dose of drug X of 15mg\/kg, how many mL of solution will you have to administer if the patient weighs 75 kg and the solution contains 30.0mg\/mL drug X?      Identify your starting information and what you’re being asked for                 (note that you can add extra labels to your units if you find them helpful; this isn’t a requirement)       Being asked for mL of solution    Start with the last conversion factor flipped over since it has our desired units     You could start with 75kg if you wanted as well            Identify the relevant conversion factors       and         Identify your pathway      kg of body weight and mg of drug X both appear twice and can cancel out leaving us with “mL of solution”    No other conversion factors are needed        Carryout calculations and round           We should round to 2 significant figures     Final answer: 38 mL            Exercises:    Dosage problems. Use dimensional analysis to determine the appropriate amount of drug or drug solution.     A 75.0 kg patient requires a dosage of 15 mcg\/kg of a drug in each dose. How many mcg should be administered in each dose? If the patient needs 2 doses every day for 5 days, how many mcg of the drug would be required? How many mg?     per dose; total; total.      If a patient weighs 203 pounds and needs a dosage of 20 mg\/kg of drug X, how many mg should you give them? Assume that there are 2.20 pounds per kg.           If a patient who weighs 100.0 kg needs 25 mg\/kg of a drug and the drug comes in a 0.500 g tablet, how many tablets should you give the patient?    5 tablets      If a patient who weighs 23 kg needs 10 mg\/kg of drug to be administered four times a day for a week and the drug comes in a 50.0 mg\/mL solution, how much of the drug solution will they need for the entire treatment duration?           "
 },
 {
   "id": "sec-math11-2",
@@ -2026,13 +2143,49 @@ var ptx_lunr_docs = [
   "body": "Identify the relevant conversion factors Identify your pathway Carryout calculations and round "
 },
 {
+  "id": "sec-math11-9-2-2",
+  "level": "2",
+  "url": "sec-math11.html#sec-math11-9-2-2",
+  "type": "Exercise",
+  "number": "2.11.1",
+  "title": "",
+  "body": "  A 75.0 kg patient requires a dosage of 15 mcg\/kg of a drug in each dose. How many mcg should be administered in each dose? If the patient needs 2 doses every day for 5 days, how many mcg of the drug would be required? How many mg?     per dose; total; total.   "
+},
+{
+  "id": "sec-math11-9-2-3",
+  "level": "2",
+  "url": "sec-math11.html#sec-math11-9-2-3",
+  "type": "Exercise",
+  "number": "2.11.2",
+  "title": "",
+  "body": "  If a patient weighs 203 pounds and needs a dosage of 20 mg\/kg of drug X, how many mg should you give them? Assume that there are 2.20 pounds per kg.        "
+},
+{
+  "id": "sec-math11-9-2-4",
+  "level": "2",
+  "url": "sec-math11.html#sec-math11-9-2-4",
+  "type": "Exercise",
+  "number": "2.11.3",
+  "title": "",
+  "body": "  If a patient who weighs 100.0 kg needs 25 mg\/kg of a drug and the drug comes in a 0.500 g tablet, how many tablets should you give the patient?    5 tablets   "
+},
+{
+  "id": "sec-math11-9-2-5",
+  "level": "2",
+  "url": "sec-math11.html#sec-math11-9-2-5",
+  "type": "Exercise",
+  "number": "2.11.4",
+  "title": "",
+  "body": "  If a patient who weighs 23 kg needs 10 mg\/kg of drug to be administered four times a day for a week and the drug comes in a 50.0 mg\/mL solution, how much of the drug solution will they need for the entire treatment duration?        "
+},
+{
   "id": "sec-math12",
   "level": "1",
   "url": "sec-math12.html",
   "type": "Section",
   "number": "2.12",
   "title": "Advanced dimensional analysis",
-  "body": " Advanced dimensional analysis   Advanced dimensional analysis   In this section you will be practicing your dimensional analysis skills on a wide variety of problems. In some cases, the units that you are using may be nonsense units (or real units that you may not have seen before). In other cases, the problem may require you to seek out information that you may not know using the internet. Remember the step-by-step instructions that we learned in the last lesson to help solve dimensional analysis problems:    Identify the starting point    Identify the end point    Identify necessary conversion factors to connect the starting units and final units    This may also require other quantities that are NOT provided in the problem      Identify your pathway that will cancel out the undesired units and leave the desired units    Carry out your calculation and check that the units cancel out as expected    Round your final answer to the correct number of significant figures    "
+  "body": " Advanced dimensional analysis   Advanced dimensional analysis   In this section you will be practicing your dimensional analysis skills on a wide variety of problems. In some cases, the units that you are using may be nonsense units (or real units that you may not have seen before). In other cases, the problem may require you to seek out information that you may not know using the internet. Remember the step-by-step instructions that we learned in the last lesson to help solve dimensional analysis problems:    Identify the starting point    Identify the end point    Identify necessary conversion factors to connect the starting units and final units    This may also require other quantities that are NOT provided in the problem      Identify your pathway that will cancel out the undesired units and leave the desired units    Carry out your calculation and check that the units cancel out as expected    Round your final answer to the correct number of significant figures     Exercises:    Advanced dimensional analysis. Identify the starting and ending units, determine the necessary conversion factors, and carry out the calculation.     If gold has a density of 0.698 pounds per cubic inch, then how many pounds of gold would be in a liter? If a kilogram of gold has gold atoms, then how many atoms of gold are in one liter of gold?  What information do you need to solve the problem? Go ahead and look this up.     pounds of gold; gold atoms.  You need a conversion from cubic inches to liters and information about how many atoms of gold are in a pound of gold. The answer key gives cubic inch liters and kilogram pounds.      In an alien civilization, a yenk costs 33 yorks and 217 plubs occur every hilk. The ship consumes yenks per dink. A spaceship is traveling at 33 dinks per plub. If the ship travels for 73 hilks, how many yorks will be required?     yorks.      What fraction of the atmosphere enters your lungs if you live a typical human lifetime? Assume that the atmosphere has a mass of kg and that a person breathes about 7.0 L of air per minute.  There’s a lot of information that’s required for this problem that isn’t included. Think about the path that you’d need to solve this problem. What pieces of information will you need? What pieces of information can you find online?    Approximately .  The answer key uses a density of air of and an average lifespan of 72 years.      "
 },
 {
   "id": "sec-math12-2",
@@ -2042,6 +2195,33 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "Advanced dimensional analysis "
+},
+{
+  "id": "sec-math12-5-2-2",
+  "level": "2",
+  "url": "sec-math12.html#sec-math12-5-2-2",
+  "type": "Exercise",
+  "number": "2.12.1",
+  "title": "",
+  "body": "  If gold has a density of 0.698 pounds per cubic inch, then how many pounds of gold would be in a liter? If a kilogram of gold has gold atoms, then how many atoms of gold are in one liter of gold?  What information do you need to solve the problem? Go ahead and look this up.     pounds of gold; gold atoms.  You need a conversion from cubic inches to liters and information about how many atoms of gold are in a pound of gold. The answer key gives cubic inch liters and kilogram pounds.   "
+},
+{
+  "id": "sec-math12-5-2-3",
+  "level": "2",
+  "url": "sec-math12.html#sec-math12-5-2-3",
+  "type": "Exercise",
+  "number": "2.12.2",
+  "title": "",
+  "body": "  In an alien civilization, a yenk costs 33 yorks and 217 plubs occur every hilk. The ship consumes yenks per dink. A spaceship is traveling at 33 dinks per plub. If the ship travels for 73 hilks, how many yorks will be required?     yorks.   "
+},
+{
+  "id": "sec-math12-5-2-4",
+  "level": "2",
+  "url": "sec-math12.html#sec-math12-5-2-4",
+  "type": "Exercise",
+  "number": "2.12.3",
+  "title": "",
+  "body": "  What fraction of the atmosphere enters your lungs if you live a typical human lifetime? Assume that the atmosphere has a mass of kg and that a person breathes about 7.0 L of air per minute.  There’s a lot of information that’s required for this problem that isn’t included. Think about the path that you’d need to solve this problem. What pieces of information will you need? What pieces of information can you find online?    Approximately .  The answer key uses a density of air of and an average lifespan of 72 years.   "
 },
 {
   "id": "sec-matter1",
