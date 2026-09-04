@@ -523,5 +523,119 @@
 			2.3\ dm^{3} = 2.3\ dm \bullet dm \bullet dm\left( \frac{10^{- 1}m}{dm} \right)\left( \frac{10^{- 1}m}{dm} \right)\left( \frac{10^{- 1}m}{dm} \right) = 0.0023m^{3}
 		</me>
 	</p>
-	<exercises xml:id="exercises-math9"/>
+	<exercises>
+		<title>Exercises:</title>
+
+		<exercisegroup>
+			<introduction>
+				<p>
+					Dimensional analysis.
+					Do the following metric conversion problems.
+				</p>
+			</introduction>
+
+			<exercise>
+				<statement>
+					<p>
+						<m>42.1\text{ dm} =\ ?\text{ m}</m>
+					</p>
+				</statement>
+
+				<answer>
+					<p>
+						<m>4.21\text{ m}</m>
+					</p>
+				</answer>
+			</exercise>
+
+			<exercise>
+				<statement>
+					<p>
+						<m>53\text{ L} =\ ?\text{ kL}</m>
+					</p>
+				</statement>
+
+				<answer>
+					<p>
+						<m>0.053\text{ kL}</m>
+					</p>
+				</answer>
+			</exercise>
+
+			<exercise>
+				<statement>
+					<p>
+						<m>250.0\text{ cm} =\ ?\text{ mcm}</m>
+					</p>
+				</statement>
+
+				<answer>
+					<p>
+						<m>2.500\times10^{6}\text{ mcm}</m>
+					</p>
+
+					<p>
+						This answer is written in scientific notation to show the correct number
+						of significant figures.
+					</p>
+				</answer>
+			</exercise>
+
+			<exercise>
+				<statement>
+					<p>
+						<m>43.1\text{ Msec} =\ ?\text{ nsec}</m>
+					</p>
+				</statement>
+
+				<answer>
+					<p>
+						<m>4.31\times10^{16}\text{ nsec}</m>
+					</p>
+				</answer>
+			</exercise>
+
+			<exercise>
+				<statement>
+					<p>
+						<m>4.3\times10^{6}\text{ \mu L} =\ ?\text{ GL}</m>
+					</p>
+				</statement>
+
+				<answer>
+					<p>
+						<m>4.3\times10^{-9}\text{ GL}</m>
+					</p>
+				</answer>
+			</exercise>
+
+			<exercise>
+				<statement>
+					<p>
+						<m>7.7\text{ km}^{2} =\ ?\text{ m}^{2}</m>
+					</p>
+				</statement>
+
+				<answer>
+					<p>
+						<m>7.7\times10^{6}\text{ m}^{2}</m>
+					</p>
+				</answer>
+			</exercise>
+
+			<exercise>
+				<statement>
+					<p>
+						<m>5.43\text{ cm}^{3} =\ ?\text{ dm}^{3}</m>
+					</p>
+				</statement>
+
+				<answer>
+					<p>
+						<m>0.00543\text{ dm}^{3}</m>
+					</p>
+				</answer>
+			</exercise>
+		</exercisegroup>
+	</exercises>
 </section>
