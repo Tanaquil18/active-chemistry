@@ -398,7 +398,7 @@
 	</introduction>
 <exercise>
   <statement>
-    <p><m>97+32\times1.8</m></p>
+    <p><m>(97+32)\times1.8</m></p>
   </statement>
   <!--<hint>--> 
   <!--</hint>--> 
@@ -414,7 +414,7 @@
 
 <exercise>
   <statement>
-    <p><m>\frac{9.80\times0.0010}{4.533}+0.04</m></p>
+    <p><m>\frac{9.80\times0.0010}{4.533}+0.045</m></p>
   </statement>
   <!--<hint>--> 
   <!--</hint>--> 
