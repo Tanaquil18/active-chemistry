@@ -323,4 +323,120 @@
             Specific\ gravity = \ \frac{Density\ of\ substance\ \ \left( in\frac{g}{mL} \right)}{Density\ of\ water\ \left( 1.0\frac{g}{mL}\  \right)}
         </me>
     </p>
+    <exercises>
+        <title>Exercises:</title>
+
+        <exercisegroup>
+            <introduction>
+                <p>
+                    Density and specific gravity.
+                    Solve the following problems using dimensional analysis and
+                    appropriate significant figures.
+                </p>
+            </introduction>
+
+            <exercise>
+                <statement>
+                    <p>
+                        A liquid has a mass of 53.5 g and a volume of 28.9 mL.
+                        What is its density in units of g/mL?
+                        What is its specific gravity?
+                    </p>
+                </statement>
+
+                <answer>
+                    <p>
+                        Density: <m>1.85\text{ g/mL}</m>.
+                        Specific gravity: <m>1.85</m>.
+                    </p>
+                </answer>
+            </exercise>
+
+            <exercise>
+                <statement>
+                    <p>
+                        If a solid cube has sides that are each 3.0 cm long and
+                        the cube has a mass of 42.1 g, what is its density in
+                        g/cm <sup>3</sup>?
+                    </p>
+                </statement>
+
+                <answer>
+                    <p>
+                        <m>1.6\text{ g/cm}^3</m>
+                    </p>
+                </answer>
+            </exercise>
+
+            <exercise>
+                <statement>
+                    <p>
+                        A toy car has a mass of 2.85 g.
+                        A graduated cylinder containing 42.00 mL of water has
+                        the car submerged in it.
+                        The new volume is 42.85 mL.
+                        What is the density of the car?
+                    </p>
+                </statement>
+
+                <answer>
+                    <p>
+                        <m>3.4\text{ g/mL}</m>
+                    </p>
+                </answer>
+            </exercise>
+
+            <exercise>
+                <statement>
+                    <p>
+                        If you are trying to measure the density of an object
+                        and are using water displacement to find the volume and
+                        you fail to completely submerge the object under water,
+                        what would the effect be on your measured density?
+                        How would the measured density compare to the actual
+                        density of the object?
+                    </p>
+                </statement>
+
+                <answer>
+                    <p>
+                        The measured density would be higher than the actual
+                        density.
+                    </p>
+                </answer>
+            </exercise>
+
+            <exercise>
+                <statement>
+                    <p>
+                        You require 4.5 g of a solution.
+                        The solution has a density of 1.05 g/mL.
+                        How many mL of solution do you need to measure out?
+                    </p>
+                </statement>
+
+                <answer>
+                    <p>
+                        <m>4.3\text{ mL}</m>
+                    </p>
+                </answer>
+            </exercise>
+
+            <exercise>
+                <statement>
+                    <p>
+                        If you measure out 17.1 dL of a solution with a density
+                        of 0.95 g/mL, how many kilograms of solution do you
+                        have?
+                    </p>
+                </statement>
+
+                <answer>
+                    <p>
+                        <m>1.6\text{ kg}</m>
+                    </p>
+                </answer>
+            </exercise>
+        </exercisegroup>
+    </exercises>
 </section>

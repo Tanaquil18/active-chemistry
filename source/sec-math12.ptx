@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+
 <section xml:id="sec-math12">
     <title>Advanced dimensional analysis</title>
     
@@ -57,5 +59,70 @@
 		</li>
 
 	</ol></p>
+
+<exercises>
+	<title>Exercises:</title>
+<exercisegroup>
+
+		<introduction>
+			<p>
+				Advanced dimensional analysis. Identify the starting and ending units, determine the necessary conversion factors, and carry out the calculation.
+			</p>
+		</introduction>
+
+		<exercise>
+			<statement>
+				<p>
+					If gold has a density of 0.698 pounds per cubic inch, then how many pounds of gold would be in a liter? If a kilogram of gold has 3.06 &times; 10<sup>24</sup> gold atoms, then how many atoms of gold are in one liter of gold?
+				</p>
+				<p>
+					What information do you need to solve the problem? Go ahead and look this up.
+				</p>
+			</statement>
+			<answer>
+				<p>
+					<m>42.6</m> pounds of gold; <m>5.92 &times; 10^{25}</m> gold atoms.
+				</p>
+				<p>
+					You need a conversion from cubic inches to liters and information about how many atoms of gold are in a pound of gold. The answer key gives <m>1</m> cubic inch <m>= 0.01638706</m> liters and <m>1</m> kilogram <m>= 2.2</m> pounds.
+				</p>
+			</answer>
+		</exercise>
+
+		<exercise>
+			<statement>
+				<p>
+					In an alien civilization, a yenk costs 33 yorks and 217 plubs occur every hilk. The ship consumes 4.1 &times; 10<sup>8</sup> yenks per dink. A spaceship is traveling at 33 dinks per plub. If the ship travels for 73 hilks, how many yorks will be required?
+				</p>
+			</statement>
+			<answer>
+				<p>
+					<m>7.1 &times; 10^{15}</m> yorks.
+				</p>
+			</answer>
+		</exercise>
+
+		<exercise>
+			<statement>
+				<p>
+					What fraction of the atmosphere enters your lungs if you live a typical human lifetime? Assume that the atmosphere has a mass of 5.15 &times; 10<sup>18</sup> kg and that a person breathes about 7.0 L of air per minute.
+				</p>
+				<p>
+					There’s a lot of information that’s required for this problem that isn’t included. Think about the path that you’d need to solve this problem. What pieces of information will you need? What pieces of information can you find online?
+				</p>
+			</statement>
+			<answer>
+				<p>
+					Approximately <m>6.3 &times; 10^{-14}</m>.
+				</p>
+				<p>
+					The answer key uses a density of air of <m>1.225\text{ kg/m}^3</m> and an average lifespan of 72 years.
+				</p>
+			</answer>
+		</exercise>
+
+	</exercisegroup>
+
+</exercises>
 
 </section>
