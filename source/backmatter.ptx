@@ -507,6 +507,138 @@
     </p>
 
     <p>
+      <definition xml:id="def-atom">
+        <statement>
+          <p>
+            <term>Atom:</term> The smallest unit of an element.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-subatomic-particles">
+        <statement>
+          <p>
+            <term>Subatomic particles:</term> Particles that make up an atom.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-electron">
+        <statement>
+          <p>
+            <term>Electron:</term> A negatively charged particle found in the
+            electron cloud of an atom.
+            They have mass, but their mass is often rounded to 0 amu.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-atomic-mass-units">
+        <statement>
+          <p>
+            <term>Atomic mass units:</term> Atomic mass units are units of mass
+            that are used for very small masses like the mass of an atom.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-protons">
+        <statement>
+          <p>
+            <term>Protons:</term> Positively charged particles found in the
+            nucleus of an atom.
+            They have a mass of approximately 1 amu.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-nucleus">
+        <statement>
+          <p>
+            <term>Nucleus:</term> The small dense collection of protons and
+            neutrons that is found at the center of an atom.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-neutron">
+        <statement>
+          <p>
+            <term>Neutron:</term> An uncharged particle found in the nucleus of
+            an atom.
+            They have a mass of approximately 1 amu.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-atomic-number">
+        <statement>
+          <p>
+            <term>Atomic number:</term> The number of protons in an atom.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-mass-number">
+        <statement>
+          <p>
+            <term>Mass number:</term> The sum of the number of protons and
+            neutrons in an atom.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-isotopes">
+        <statement>
+          <p>
+            <term>Isotopes:</term> Atoms of an element that have different mass
+            numbers.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-periods">
+        <statement>
+          <p>
+            <term>Periods:</term> Rows in the periodic table.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-groups">
+        <statement>
+          <p>
+            <term>Groups:</term> Columns in the periodic table.
+            Elements in the same group usually have similar chemical and
+            physical properties.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
       <term>Chapter 5</term>
     </p>
 
