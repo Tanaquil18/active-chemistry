@@ -2680,7 +2680,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.1",
   "title": "Atoms and Subatomic Particles",
-  "body": " Atoms and Subatomic Particles  All chemicals are made up of elements that are combined together. The smallest unit of an element that possesses the properties of that element is called an  atom  . Atoms are incredibly small with sizes of approximately . Numerous discoveries in physics and chemistry in the late 1800s and early 1900s revealed to scientists that there are smaller components that make up atoms which are called  subatomic particles  . The first particle to be discovered was the  electron  . Scientists showed that electrons could be moved by electric fields, and this property was called charge. The charge of an electron was assigned a value of , with the understanding that like charges repel and opposite charges attract. Electrons were also found to have mass, but only a tiny percentage of the mass of an atom. Because of this, the mass of an electron is often rounded to   atomic mass units (amu)  . Other important observations about electrons were that electrons could be deflected by atoms, implying that the outer part of atoms has a negative charge. This, coupled with the observation that electrons could be removed from atoms relatively easily, lead to our current understanding that electrons exist on the outside of atoms.  The next particle to be discovered were  protons  . Scientists learned that protons had considerably more mass than electrons and were assigned a mass of approximately atomic mass unit (atomic mass units are a relative scale of masses that are used primarily to describe the mass of subatomic particles). Additionally, protons were shown to have a charge of . Protons thus attract electrons and help to hold electrons in atoms. Additionally, it was revealed that when atoms are bombarded with positively charged particles similar to protons, that they often just passed through the atom and were only occasionally deflected. This was very different behavior than was observed for electrons. This lead to the understanding that protons occur in a small part of the atom near its center, called the  nucleus  . Later experiments showed that the nucleus of an atom has protons and another subatomic particle called a  neutron  . Neutrons have similar masses as protons (approximately amu) but do not have any charge.   Exercise 1: Atoms and Subatomic Particles     Is most of the mass of the atom found in the nucleus or the electron cloud that surrounds it?    Nucleus—protons and neutrons are there; they have significant amounts of mass compared to electrons.      If an atom had 17 protons, 17 electrons, and 10 neutrons:    What would the mass of the atom be?    How many positively charged particles are in the atom?    How many negatively charged particles are in the atom?    What is the sum of the positive and negative charges in the atom (i.e. what is the net charge of the atom)?    Answer a-d for an atom with 35 protons, 34 electrons and 36 neutrons.                        ( )    Mass = , 35 positive charges, 34 negative charges, charge.        If the number of electrons in an atom is greater than the number of protons, then the atom will have a net ____________ (positive\/negative) charge.    Negative.      If an atom has a mass of 17 and contains 8 protons, how many electrons would be present if the net charge on the atom is ?    10 electrons.      "
+  "body": " Atoms and Subatomic Particles  All chemicals are made up of elements that are combined together. The smallest unit of an element that possesses the properties of that element is called an  atom  . Atoms are incredibly small with sizes of approximately . Numerous discoveries in physics and chemistry in the late 1800s and early 1900s revealed to scientists that there are smaller components that make up atoms which are called  subatomic particles  . The first particle to be discovered was the  electron  . Scientists showed that electrons could be moved by electric fields, and this property was called charge. The charge of an electron was assigned a value of , with the understanding that like charges repel and opposite charges attract. Electrons were also found to have mass, but only a tiny percentage of the mass of an atom. Because of this, the mass of an electron is often rounded to   atomic mass units (amu)  . Other important observations about electrons were that electrons could be deflected by atoms, implying that the outer part of atoms has a negative charge. This, coupled with the observation that electrons could be removed from atoms relatively easily, lead to our current understanding that electrons exist on the outside of atoms.  The next particle to be discovered were  protons  . Scientists learned that protons had considerably more mass than electrons and were assigned a mass of approximately atomic mass unit (atomic mass units are a relative scale of masses that are used primarily to describe the mass of subatomic particles). Additionally, protons were shown to have a charge of . Protons thus attract electrons and help to hold electrons in atoms. Additionally, it was revealed that when atoms are bombarded with positively charged particles similar to protons, that they often just passed through the atom and were only occasionally deflected. This was very different behavior than was observed for electrons. This lead to the understanding that protons occur in a small part of the atom near its center, called the  nucleus  . Later experiments showed that the nucleus of an atom has protons and another subatomic particle called a  neutron  . Neutrons have similar masses as protons (approximately amu) but do not have any charge.   Exercise 1: Atoms and Subatomic Particles     Is most of the mass of the atom found in the nucleus or the electron cloud that surrounds it?    Nucleus—protons and neutrons are there; they have significant amounts of mass compared to electrons.      If an atom had 17 protons, 17 electrons, and 10 neutrons:     What would the mass of the atom be?           How many positively charged particles are in the atom?           How many negatively charged particles are in the atom?           What is the sum of the positive and negative charges in the atom (i.e. what is the net charge of the atom)?     ( )      Answer a-d for an atom with 35 protons, 34 electrons and 36 neutrons.    Mass = , 35 positive charges, 34 negative charges, charge.       If the number of electrons in an atom is greater than the number of protons, then the atom will have a net ____________ (positive\/negative) charge.    Negative.      If an atom has a mass of 17 and contains 8 protons, how many electrons would be present if the net charge on the atom is ?    10 electrons.      "
 },
 {
   "id": "sec-atoms1-2",
@@ -2710,20 +2710,56 @@ var ptx_lunr_docs = [
   "body": "  Is most of the mass of the atom found in the nucleus or the electron cloud that surrounds it?    Nucleus—protons and neutrons are there; they have significant amounts of mass compared to electrons.   "
 },
 {
-  "id": "sec-atoms1-4-2-2",
+  "id": "sec-atoms1-4-2-2-2",
   "level": "2",
-  "url": "sec-atoms1.html#sec-atoms1-4-2-2",
+  "url": "sec-atoms1.html#sec-atoms1-4-2-2-2",
   "type": "Exercise",
   "number": "4.1.2",
   "title": "",
-  "body": "  If an atom had 17 protons, 17 electrons, and 10 neutrons:    What would the mass of the atom be?    How many positively charged particles are in the atom?    How many negatively charged particles are in the atom?    What is the sum of the positive and negative charges in the atom (i.e. what is the net charge of the atom)?    Answer a-d for an atom with 35 protons, 34 electrons and 36 neutrons.                        ( )    Mass = , 35 positive charges, 34 negative charges, charge.     "
+  "body": "  What would the mass of the atom be?        "
+},
+{
+  "id": "sec-atoms1-4-2-2-3",
+  "level": "2",
+  "url": "sec-atoms1.html#sec-atoms1-4-2-2-3",
+  "type": "Exercise",
+  "number": "4.1.3",
+  "title": "",
+  "body": "  How many positively charged particles are in the atom?        "
+},
+{
+  "id": "sec-atoms1-4-2-2-4",
+  "level": "2",
+  "url": "sec-atoms1.html#sec-atoms1-4-2-2-4",
+  "type": "Exercise",
+  "number": "4.1.4",
+  "title": "",
+  "body": "  How many negatively charged particles are in the atom?        "
+},
+{
+  "id": "sec-atoms1-4-2-2-5",
+  "level": "2",
+  "url": "sec-atoms1.html#sec-atoms1-4-2-2-5",
+  "type": "Exercise",
+  "number": "4.1.5",
+  "title": "",
+  "body": "  What is the sum of the positive and negative charges in the atom (i.e. what is the net charge of the atom)?     ( )   "
+},
+{
+  "id": "sec-atoms1-4-2-2-6",
+  "level": "2",
+  "url": "sec-atoms1.html#sec-atoms1-4-2-2-6",
+  "type": "Exercise",
+  "number": "4.1.6",
+  "title": "",
+  "body": "  Answer a-d for an atom with 35 protons, 34 electrons and 36 neutrons.    Mass = , 35 positive charges, 34 negative charges, charge.   "
 },
 {
   "id": "sec-atoms1-4-2-3",
   "level": "2",
   "url": "sec-atoms1.html#sec-atoms1-4-2-3",
   "type": "Exercise",
-  "number": "4.1.3",
+  "number": "4.1.7",
   "title": "",
   "body": "  If the number of electrons in an atom is greater than the number of protons, then the atom will have a net ____________ (positive\/negative) charge.    Negative.   "
 },
@@ -2732,7 +2768,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-atoms1.html#sec-atoms1-4-2-4",
   "type": "Exercise",
-  "number": "4.1.4",
+  "number": "4.1.8",
   "title": "",
   "body": "  If an atom has a mass of 17 and contains 8 protons, how many electrons would be present if the net charge on the atom is ?    10 electrons.   "
 },
@@ -2742,8 +2778,17 @@ var ptx_lunr_docs = [
   "url": "sec-atoms2.html",
   "type": "Section",
   "number": "4.2",
-  "title": "Atoms and the Periodic TableAtomic Number and Mass Number",
-  "body": " Atoms and the Periodic Table  Atomic Number and Mass Number  To describe the number of subatomic particles in an atom, chemists use two different numbers, atomic number and mass number.  Atomic number  is ALWAYS equal to the number of protons in an atom. If the atom has a net charge of zero, then the atomic number will also be equal to the number of electrons. Every atom of a given element will ALWAYS have the same atomic number. The atomic number is also unique for each atom; no two elements have the same atomic number. Thus different elements can be distinguished by their number of protons.  The  mass number  of an atom is the sum of the number of protons and neutrons in an atom. Since protons and neutrons both have masses of approximately amu, and electrons have masses of approximately amu, only the protons and neutrons are counted for the mass number. For a given element, every atom will have the same number of protons, as stated in the paragraph above. However, atoms of the same element may have different numbers of neutrons. Atoms of the same element that have different masses (and thus different numbers of neutrons) are called  isotopes  . Isotopes are important in chemistry and physics not just because they have different masses, but because they may have different properties. For instance, some isotopes of an element may be stable while others may undergo radioactive decay (Chapter 5). Isotopes are often specified in one of three ways:    By writing the element name followed by a hyphen and then the mass number (ex. carbon-14).    By writing the mass number as a superscript prior to the element symbol (ex. ).    By writing the mass number as a superscript prior to the element symbol along with the atomic number as a subscript prior to the element symbol (ex. ).     Exercise 2: Atomic Number and Mass Number     Come up with a formula to calculate the mass number (abbreviated ) from the number of protons and the number of neutrons.    Modify your formula to calculate the mass number ( ) from the atomic number (abbreviated ) and the number of neutrons.    Rearrange your equation from part a above to solve for the number of neutrons if you are given the mass number and atomic number.                         Why aren’t electrons counted when calculating the mass number of an isotope?    They have masses of approximately .      If an atom has an atomic number of 17 and a mass number of 35, how many neutrons are in the atom?    If the atom is neutral, how many electrons are in the atom?    If the atom has a charge of , how many electrons are in the atom?      18 neutrons.    17 electrons.    14 electrons.        If an atom has 32 protons, 33 electrons, and 42 neutrons, what is its mass number and charge?    Mass number = ; charge = .      What is the atomic number of an atom that contains 47 protons and 45 electrons?     .      An isotope with 42 neutrons and a charge of has a mass number of 102. How many electrons and protons are in the atom?    60 protons and 57 electrons.      "
+  "title": "Atomic Number and Mass Number",
+  "body": " Atomic Number and Mass Number  To describe the number of subatomic particles in an atom, chemists use two different numbers, atomic number and mass number.  Atomic number  is ALWAYS equal to the number of protons in an atom. If the atom has a net charge of zero, then the atomic number will also be equal to the number of electrons. Every atom of a given element will ALWAYS have the same atomic number. The atomic number is also unique for each atom; no two elements have the same atomic number. Thus different elements can be distinguished by their number of protons.  The  mass number  of an atom is the sum of the number of protons and neutrons in an atom. Since protons and neutrons both have masses of approximately amu, and electrons have masses of approximately amu, only the protons and neutrons are counted for the mass number. For a given element, every atom will have the same number of protons, as stated in the paragraph above. However, atoms of the same element may have different numbers of neutrons. Atoms of the same element that have different masses (and thus different numbers of neutrons) are called  isotopes  . Isotopes are important in chemistry and physics not just because they have different masses, but because they may have different properties. For instance, some isotopes of an element may be stable while others may undergo radioactive decay (Chapter 5). Isotopes are often specified in one of three ways:    By writing the element name followed by a hyphen and then the mass number (ex. carbon-14).    By writing the mass number as a superscript prior to the element symbol (ex. ).    By writing the mass number as a superscript prior to the element symbol along with the atomic number as a subscript prior to the element symbol (ex. ).     Exercise 2: Atomic Number and Mass Number     Come up with a formula to calculate the mass number (abbreviated ) from the number of protons and the number of neutrons.     Modify your formula to calculate the mass number ( ) from the atomic number (abbreviated ) and the number of neutrons.           Rearrange your equation from part a above to solve for the number of neutrons if you are given the mass number and atomic number.            Why aren’t electrons counted when calculating the mass number of an isotope?    They have masses of approximately .      If an atom has an atomic number of 17 and a mass number of 35, how many neutrons are in the atom?     If the atom is neutral, how many electrons are in the atom?    17 electrons.      If the atom has a charge of , how many electrons are in the atom?    14 electrons.       If an atom has 32 protons, 33 electrons, and 42 neutrons, what is its mass number and charge?    Mass number = ; charge = .      What is the atomic number of an atom that contains 47 protons and 45 electrons?     .      An isotope with 42 neutrons and a charge of has a mass number of 102. How many electrons and protons are in the atom?    60 protons and 57 electrons.      "
+},
+{
+  "id": "sec-atoms2-2",
+  "level": "2",
+  "url": "sec-atoms2.html#sec-atoms2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": " Atomic number  "
 },
 {
   "id": "sec-atoms2-3",
@@ -2752,68 +2797,77 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": " Atomic number  "
-},
-{
-  "id": "sec-atoms2-4",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
   "body": " mass number   isotopes  "
 },
 {
-  "id": "sec-atoms2-6-2-1",
+  "id": "sec-atoms2-5-2-1-2",
   "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-6-2-1",
+  "url": "sec-atoms2.html#sec-atoms2-5-2-1-2",
   "type": "Exercise",
   "number": "4.2.1",
   "title": "",
-  "body": "  Come up with a formula to calculate the mass number (abbreviated ) from the number of protons and the number of neutrons.    Modify your formula to calculate the mass number ( ) from the atomic number (abbreviated ) and the number of neutrons.    Rearrange your equation from part a above to solve for the number of neutrons if you are given the mass number and atomic number.                      "
+  "body": "  Modify your formula to calculate the mass number ( ) from the atomic number (abbreviated ) and the number of neutrons.        "
 },
 {
-  "id": "sec-atoms2-6-2-2",
+  "id": "sec-atoms2-5-2-1-3",
   "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-6-2-2",
+  "url": "sec-atoms2.html#sec-atoms2-5-2-1-3",
   "type": "Exercise",
   "number": "4.2.2",
+  "title": "",
+  "body": "  Rearrange your equation from part a above to solve for the number of neutrons if you are given the mass number and atomic number.        "
+},
+{
+  "id": "sec-atoms2-5-2-2",
+  "level": "2",
+  "url": "sec-atoms2.html#sec-atoms2-5-2-2",
+  "type": "Exercise",
+  "number": "4.2.3",
   "title": "",
   "body": "  Why aren’t electrons counted when calculating the mass number of an isotope?    They have masses of approximately .   "
 },
 {
-  "id": "sec-atoms2-6-2-3",
+  "id": "sec-atoms2-5-2-3-2",
   "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-6-2-3",
-  "type": "Exercise",
-  "number": "4.2.3",
-  "title": "",
-  "body": "  If an atom has an atomic number of 17 and a mass number of 35, how many neutrons are in the atom?    If the atom is neutral, how many electrons are in the atom?    If the atom has a charge of , how many electrons are in the atom?      18 neutrons.    17 electrons.    14 electrons.     "
-},
-{
-  "id": "sec-atoms2-6-2-4",
-  "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-6-2-4",
+  "url": "sec-atoms2.html#sec-atoms2-5-2-3-2",
   "type": "Exercise",
   "number": "4.2.4",
+  "title": "",
+  "body": "  If the atom is neutral, how many electrons are in the atom?    17 electrons.   "
+},
+{
+  "id": "sec-atoms2-5-2-3-3",
+  "level": "2",
+  "url": "sec-atoms2.html#sec-atoms2-5-2-3-3",
+  "type": "Exercise",
+  "number": "4.2.5",
+  "title": "",
+  "body": "  If the atom has a charge of , how many electrons are in the atom?    14 electrons.   "
+},
+{
+  "id": "sec-atoms2-5-2-4",
+  "level": "2",
+  "url": "sec-atoms2.html#sec-atoms2-5-2-4",
+  "type": "Exercise",
+  "number": "4.2.6",
   "title": "",
   "body": "  If an atom has 32 protons, 33 electrons, and 42 neutrons, what is its mass number and charge?    Mass number = ; charge = .   "
 },
 {
-  "id": "sec-atoms2-6-2-5",
+  "id": "sec-atoms2-5-2-5",
   "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-6-2-5",
+  "url": "sec-atoms2.html#sec-atoms2-5-2-5",
   "type": "Exercise",
-  "number": "4.2.5",
+  "number": "4.2.7",
   "title": "",
   "body": "  What is the atomic number of an atom that contains 47 protons and 45 electrons?     .   "
 },
 {
-  "id": "sec-atoms2-6-2-6",
+  "id": "sec-atoms2-5-2-6",
   "level": "2",
-  "url": "sec-atoms2.html#sec-atoms2-6-2-6",
+  "url": "sec-atoms2.html#sec-atoms2-5-2-6",
   "type": "Exercise",
-  "number": "4.2.6",
+  "number": "4.2.8",
   "title": "",
   "body": "  An isotope with 42 neutrons and a charge of has a mass number of 102. How many electrons and protons are in the atom?    60 protons and 57 electrons.   "
 },
@@ -2824,7 +2878,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.3",
   "title": "Periodic Table of Elements",
-  "body": " Periodic Table of Elements  Since each atom has its own atomic number, we can arrange the elements in order of increasing atomic number. If this is done AND atoms with similar reactivity properties are placed in the same column, then the result is the modern periodic table. The periodic table was first introduced by Dmitri Mendeleev in the mid 1800s. He arranged elements by increasing mass (rather than by atomic number) and also strove to group elements with similar reactivities (similar to our current periodic table). One of the most impressive findings of his initial periodic table was that is predicted the existence of elements that were not yet known to chemists, but that are known now. Additionally, the position of elements within the periodic table allows scientists to predict how atoms will behave in certain reactions. Finally, the periodic table was useful in showing that there are patterns that predict when certain reactivity properties will occur. This pattern would later prove valuable in helping chemists understand the subatomic structural details of atoms and how it relates to reactivity (more on this in later chapters).  The periodic table contains information about every known element in squares throughout the table. The number at the top of the square is the atomic number of the element. The element name and element symbol are often given below the atomic number. In many cases, the element symbol is similar to the element name in English. In other cases, the element symbol reflects the Latin name of the element (ex. Iron’s symbol is Fe, reflecting the name ferrum in Latin). Below the element symbol is another number called the atomic mass, which will be covered in the next section. It is important to be able to distinguish between the atomic mass of an element and the mass number of an isotope.  The elements within the periodic table are organized into rows and columns. The rows are called  periods  and the columns are called  groups  . The periods and numbers are assigned numbers. The groups in the periodic table are numbered 1-18 left to right but are sometimes numbered in a different way in which the 8 tall column are numbered followed by the letter A, thus skipping over the shorter columns. So group 1 is also called 1A, group 2 is called 2A, and group 13 (the next tall column) is also known as group 3A. The tall “A” columns in the periodic table are referred to as the main group elements. The short columns that separate groups 2A and 3A are referred to as the transition metals. Below the periodic table are two additional rows of elements called the lanthanides and actinides, respectively. These rows would occur between groups 2 and 3 in the periodic table, but are often dropped to the bottom to save space and make sure that the periodic table isn’t too long. Since the elements in the lanthanides and actinides are relatively rare, we will not be discussing them much in this class.   Exercise 3: Periodic Table of Elements     What element is in:    group 2, period 3    group 4A, period 4    group 15, period 5    group 8A, period 2        Mg    Ge    Sb    Ne        What are the symbols for the following elements? (you don’t need to have these memorized, but you should become familiar with the element symbols on this list because of how frequently they come up)    Carbon    Nitrogen    Oxygen    Hydrogen    Sodium    Potassium    Phosphorous    Copper    Chlorine    Iodine    Magnesium    Manganese (note the similar names of K and L)        C    N    O    H    Na    K    P    Cu    Cl    I    Mg    Mn        Name 3 elements that you’d expect to have similar properties to:    Fluorine    Neon    Sodium        Cl, Br, I, At    He, Xe, Ar, Kr, Rn    Li, K, Cs, Rb, Fr (H is okay…but hydrogen is “weird”)        What is the atomic number of sodium?    How many protons does sodium have?       .     .        How many protons, neutrons and electrons are in:    Chlorine-35          (the written as a superscript after the element symbol indicates the charge of )          (this atom is called an alpha particle; it’s a form of radiation that you’ll learn about in Chapter 5)        17 p, 18 n, 17 e    53 p, 68 n, 53 e    26 p, 31 n, 23 e    8 p, 8 n, 10 e    2 p, 2 n, 0 e        The elements sodium, calcium, copper, zinc, lead, gold, mercury, tin, aluminum, cobalt, tungsten are all metals. The elements carbon, oxygen, sulfur, chlorine, neon, radon, and iodine are all non-metals. Where do metals usually occur in the periodic table? How about non-metals?    Metals are to the left and down; non-metals to the upper right.      Metals are shiny, silver in color (usually), good conductors of heat and electricity, and they’re ductile and malleable. Define ductile and malleable.    You can find this…I believe in you.      "
+  "body": " Periodic Table of Elements  Since each atom has its own atomic number, we can arrange the elements in order of increasing atomic number. If this is done AND atoms with similar reactivity properties are placed in the same column, then the result is the modern periodic table. The periodic table was first introduced by Dmitri Mendeleev in the mid 1800s. He arranged elements by increasing mass (rather than by atomic number) and also strove to group elements with similar reactivities (similar to our current periodic table). One of the most impressive findings of his initial periodic table was that is predicted the existence of elements that were not yet known to chemists, but that are known now. Additionally, the position of elements within the periodic table allows scientists to predict how atoms will behave in certain reactions. Finally, the periodic table was useful in showing that there are patterns that predict when certain reactivity properties will occur. This pattern would later prove valuable in helping chemists understand the subatomic structural details of atoms and how it relates to reactivity (more on this in later chapters).  The periodic table contains information about every known element in squares throughout the table. The number at the top of the square is the atomic number of the element. The element name and element symbol are often given below the atomic number. In many cases, the element symbol is similar to the element name in English. In other cases, the element symbol reflects the Latin name of the element (ex. Iron’s symbol is Fe, reflecting the name ferrum in Latin). Below the element symbol is another number called the atomic mass, which will be covered in the next section. It is important to be able to distinguish between the atomic mass of an element and the mass number of an isotope.  The elements within the periodic table are organized into rows and columns. The rows are called  periods  and the columns are called  groups  . The periods and numbers are assigned numbers. The groups in the periodic table are numbered 1-18 left to right but are sometimes numbered in a different way in which the 8 tall column are numbered followed by the letter A, thus skipping over the shorter columns. So group 1 is also called 1A, group 2 is called 2A, and group 13 (the next tall column) is also known as group 3A. The tall “A” columns in the periodic table are referred to as the main group elements. The short columns that separate groups 2A and 3A are referred to as the transition metals. Below the periodic table are two additional rows of elements called the lanthanides and actinides, respectively. These rows would occur between groups 2 and 3 in the periodic table, but are often dropped to the bottom to save space and make sure that the periodic table isn’t too long. Since the elements in the lanthanides and actinides are relatively rare, we will not be discussing them much in this class.   Exercise 3: Periodic Table of Elements     What element is in:     group 2, period 3    Mg      group 4A, period 4    Ge      group 15, period 5    Sb      group 8A, period 2    Ne       What are the symbols for the following elements? (you don’t need to have these memorized, but you should become familiar with the element symbols on this list because of how frequently they come up)     Carbon    C      Nitrogen    N      Oxygen    O      Hydrogen    H      Sodium    Na      Potassium    K      Phosphorous    P      Copper    Cu      Chlorine    Cl      Iodine    I      Magnesium    Mg      Manganese (note the similar names of K and L)    Mn       Name 3 elements that you’d expect to have similar properties to:     Fluorine    Cl, Br, I, At      Neon    He, Xe, Ar, Kr, Rn      Sodium    Li, K, Cs, Rb, Fr (H is okay…but hydrogen is “weird”)       What is the atomic number of sodium?     How many protons does sodium have?     .       How many protons, neutrons and electrons are in:     Chlorine-35    17 p, 18 n, 17 e           53 p, 68 n, 53 e       (the written as a superscript after the element symbol indicates the charge of )    26 p, 31 n, 23 e           8 p, 8 n, 10 e       (this atom is called an alpha particle; it’s a form of radiation that you’ll learn about in Chapter 5)    2 p, 2 n, 0 e       The elements sodium, calcium, copper, zinc, lead, gold, mercury, tin, aluminum, cobalt, tungsten are all metals. The elements carbon, oxygen, sulfur, chlorine, neon, radon, and iodine are all non-metals. Where do metals usually occur in the periodic table? How about non-metals?    Metals are to the left and down; non-metals to the upper right.      Metals are shiny, silver in color (usually), good conductors of heat and electricity, and they’re ductile and malleable. Define ductile and malleable.    You can find this…I believe in you.      "
 },
 {
   "id": "sec-atoms3-4",
@@ -2836,56 +2890,236 @@ var ptx_lunr_docs = [
   "body": " periods   groups  "
 },
 {
-  "id": "sec-atoms3-5-2-1",
+  "id": "sec-atoms3-5-2-1-2",
   "level": "2",
-  "url": "sec-atoms3.html#sec-atoms3-5-2-1",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-1-2",
   "type": "Exercise",
   "number": "4.3.1",
   "title": "",
-  "body": "  What element is in:    group 2, period 3    group 4A, period 4    group 15, period 5    group 8A, period 2        Mg    Ge    Sb    Ne     "
+  "body": "  group 2, period 3    Mg   "
 },
 {
-  "id": "sec-atoms3-5-2-2",
+  "id": "sec-atoms3-5-2-1-3",
   "level": "2",
-  "url": "sec-atoms3.html#sec-atoms3-5-2-2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-1-3",
   "type": "Exercise",
   "number": "4.3.2",
   "title": "",
-  "body": "  What are the symbols for the following elements? (you don’t need to have these memorized, but you should become familiar with the element symbols on this list because of how frequently they come up)    Carbon    Nitrogen    Oxygen    Hydrogen    Sodium    Potassium    Phosphorous    Copper    Chlorine    Iodine    Magnesium    Manganese (note the similar names of K and L)        C    N    O    H    Na    K    P    Cu    Cl    I    Mg    Mn     "
+  "body": "  group 4A, period 4    Ge   "
 },
 {
-  "id": "sec-atoms3-5-2-3",
+  "id": "sec-atoms3-5-2-1-4",
   "level": "2",
-  "url": "sec-atoms3.html#sec-atoms3-5-2-3",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-1-4",
   "type": "Exercise",
   "number": "4.3.3",
   "title": "",
-  "body": "  Name 3 elements that you’d expect to have similar properties to:    Fluorine    Neon    Sodium        Cl, Br, I, At    He, Xe, Ar, Kr, Rn    Li, K, Cs, Rb, Fr (H is okay…but hydrogen is “weird”)     "
+  "body": "  group 15, period 5    Sb   "
 },
 {
-  "id": "sec-atoms3-5-2-4",
+  "id": "sec-atoms3-5-2-1-5",
   "level": "2",
-  "url": "sec-atoms3.html#sec-atoms3-5-2-4",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-1-5",
   "type": "Exercise",
   "number": "4.3.4",
   "title": "",
-  "body": "  What is the atomic number of sodium?    How many protons does sodium have?       .     .     "
+  "body": "  group 8A, period 2    Ne   "
 },
 {
-  "id": "sec-atoms3-5-2-5",
+  "id": "sec-atoms3-5-2-2-2",
   "level": "2",
-  "url": "sec-atoms3.html#sec-atoms3-5-2-5",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-2-2",
   "type": "Exercise",
   "number": "4.3.5",
   "title": "",
-  "body": "  How many protons, neutrons and electrons are in:    Chlorine-35          (the written as a superscript after the element symbol indicates the charge of )          (this atom is called an alpha particle; it’s a form of radiation that you’ll learn about in Chapter 5)        17 p, 18 n, 17 e    53 p, 68 n, 53 e    26 p, 31 n, 23 e    8 p, 8 n, 10 e    2 p, 2 n, 0 e     "
+  "body": "  Carbon    C   "
+},
+{
+  "id": "sec-atoms3-5-2-2-3",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-2-3",
+  "type": "Exercise",
+  "number": "4.3.6",
+  "title": "",
+  "body": "  Nitrogen    N   "
+},
+{
+  "id": "sec-atoms3-5-2-2-4",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-2-4",
+  "type": "Exercise",
+  "number": "4.3.7",
+  "title": "",
+  "body": "  Oxygen    O   "
+},
+{
+  "id": "sec-atoms3-5-2-2-5",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-2-5",
+  "type": "Exercise",
+  "number": "4.3.8",
+  "title": "",
+  "body": "  Hydrogen    H   "
+},
+{
+  "id": "sec-atoms3-5-2-2-6",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-2-6",
+  "type": "Exercise",
+  "number": "4.3.9",
+  "title": "",
+  "body": "  Sodium    Na   "
+},
+{
+  "id": "sec-atoms3-5-2-2-7",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-2-7",
+  "type": "Exercise",
+  "number": "4.3.10",
+  "title": "",
+  "body": "  Potassium    K   "
+},
+{
+  "id": "sec-atoms3-5-2-2-8",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-2-8",
+  "type": "Exercise",
+  "number": "4.3.11",
+  "title": "",
+  "body": "  Phosphorous    P   "
+},
+{
+  "id": "sec-atoms3-5-2-2-9",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-2-9",
+  "type": "Exercise",
+  "number": "4.3.12",
+  "title": "",
+  "body": "  Copper    Cu   "
+},
+{
+  "id": "sec-atoms3-5-2-2-10",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-2-10",
+  "type": "Exercise",
+  "number": "4.3.13",
+  "title": "",
+  "body": "  Chlorine    Cl   "
+},
+{
+  "id": "sec-atoms3-5-2-2-11",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-2-11",
+  "type": "Exercise",
+  "number": "4.3.14",
+  "title": "",
+  "body": "  Iodine    I   "
+},
+{
+  "id": "sec-atoms3-5-2-2-12",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-2-12",
+  "type": "Exercise",
+  "number": "4.3.15",
+  "title": "",
+  "body": "  Magnesium    Mg   "
+},
+{
+  "id": "sec-atoms3-5-2-2-13",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-2-13",
+  "type": "Exercise",
+  "number": "4.3.16",
+  "title": "",
+  "body": "  Manganese (note the similar names of K and L)    Mn   "
+},
+{
+  "id": "sec-atoms3-5-2-3-2",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-3-2",
+  "type": "Exercise",
+  "number": "4.3.17",
+  "title": "",
+  "body": "  Fluorine    Cl, Br, I, At   "
+},
+{
+  "id": "sec-atoms3-5-2-3-3",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-3-3",
+  "type": "Exercise",
+  "number": "4.3.18",
+  "title": "",
+  "body": "  Neon    He, Xe, Ar, Kr, Rn   "
+},
+{
+  "id": "sec-atoms3-5-2-3-4",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-3-4",
+  "type": "Exercise",
+  "number": "4.3.19",
+  "title": "",
+  "body": "  Sodium    Li, K, Cs, Rb, Fr (H is okay…but hydrogen is “weird”)   "
+},
+{
+  "id": "sec-atoms3-5-2-4-2",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-4-2",
+  "type": "Exercise",
+  "number": "4.3.20",
+  "title": "",
+  "body": "  How many protons does sodium have?     .   "
+},
+{
+  "id": "sec-atoms3-5-2-5-2",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-5-2",
+  "type": "Exercise",
+  "number": "4.3.21",
+  "title": "",
+  "body": "  Chlorine-35    17 p, 18 n, 17 e   "
+},
+{
+  "id": "sec-atoms3-5-2-5-3",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-5-3",
+  "type": "Exercise",
+  "number": "4.3.22",
+  "title": "",
+  "body": "       53 p, 68 n, 53 e   "
+},
+{
+  "id": "sec-atoms3-5-2-5-4",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-5-4",
+  "type": "Exercise",
+  "number": "4.3.23",
+  "title": "",
+  "body": "   (the written as a superscript after the element symbol indicates the charge of )    26 p, 31 n, 23 e   "
+},
+{
+  "id": "sec-atoms3-5-2-5-5",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-5-5",
+  "type": "Exercise",
+  "number": "4.3.24",
+  "title": "",
+  "body": "       8 p, 8 n, 10 e   "
+},
+{
+  "id": "sec-atoms3-5-2-5-6",
+  "level": "2",
+  "url": "sec-atoms3.html#sec-atoms3-5-2-5-6",
+  "type": "Exercise",
+  "number": "4.3.25",
+  "title": "",
+  "body": "   (this atom is called an alpha particle; it’s a form of radiation that you’ll learn about in Chapter 5)    2 p, 2 n, 0 e   "
 },
 {
   "id": "sec-atoms3-5-2-6",
   "level": "2",
   "url": "sec-atoms3.html#sec-atoms3-5-2-6",
   "type": "Exercise",
-  "number": "4.3.6",
+  "number": "4.3.26",
   "title": "",
   "body": "  The elements sodium, calcium, copper, zinc, lead, gold, mercury, tin, aluminum, cobalt, tungsten are all metals. The elements carbon, oxygen, sulfur, chlorine, neon, radon, and iodine are all non-metals. Where do metals usually occur in the periodic table? How about non-metals?    Metals are to the left and down; non-metals to the upper right.   "
 },
@@ -2894,7 +3128,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-atoms3.html#sec-atoms3-5-2-7",
   "type": "Exercise",
-  "number": "4.3.7",
+  "number": "4.3.27",
   "title": "",
   "body": "  Metals are shiny, silver in color (usually), good conductors of heat and electricity, and they’re ductile and malleable. Define ductile and malleable.    You can find this…I believe in you.   "
 },
@@ -3094,7 +3328,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.7",
   "title": "Electron Configurations and Valence Electrons",
-  "body": " Electron Configurations and Valence Electrons  Now that we know where we can put electrons in an atom, we can start to fill these orbitals with the number of electrons that an atom has. In general the order that we fill will proceed from the lowest shell number to the highest because lower shell numbers have lower energy than higher shell numbers. Nature prefers lower energy states to higher states.  In general, lower numbered shells tend to have lower energies and thus get filled before higher numbered shells. Within each shell the orbitals get filled in the following order due to increasing energy: , , , and finally . Once we get to the third shell and higher, this trend starts to fall apart somewhat. The orbitals within shells start to have energy levels that overlap with the energies of orbitals in other shells, so the order that they get filled gets more complex. For example, within the third shell the order is and within the fourth shell ; however, the is actually lower in energy than the , so the combined order is . Thankfully there are two easy ways for us to remember the filling order of orbitals.   Orbital Filling Order Using Diagonal Lines   A boxed three-step diagram listing orbitals by shell and drawing diagonal arrows through them to show the filling order. The sequence shown begins 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s.    Before using the other way to find the orbital filling order, it is helpful to start filling these orbitals with electrons. Each orbital holds 2 electrons, and -orbitals come in groups of 1, -orbitals in groups of 3, -orbitals in groups of 5, and -orbitals in groups of 7. This means that -orbitals hold up to 2 electrons, -orbitals up to 6, -orbitals up to 10, and -orbitals up to 14.  We will start with hydrogen. A neutral hydrogen atom has one electron, given by its atomic number of 1. That electron is placed in the lowest-energy orbital, the . We denote the number of electrons in a set of orbitals with a superscript after the orbital. Hydrogen therefore has the electron configuration . Helium has two electrons, so its configuration is . Lithium has three electrons, so the additional electron goes into the next lowest orbital and its configuration is . Similarly, beryllium is .  Boron, carbon, nitrogen, oxygen, fluorine, and neon have electron configurations of , , , , , and , respectively. With larger elements, the electron configurations get longer and longer to write out. The periodic table provides another way to determine orbital filling order and to abbreviate these longer configurations.   Periodic Table Orbital Blocks and Shell Numbers   A simplified periodic table divided into s, p, d, and f blocks. Labels indicate that s and p orbitals being filled have the same shell number as the row number, d orbitals have a shell number one less than the row number, and f orbitals have a shell number two less than the row number.    The position of an element in the periodic table can tell us the orbital and shell numbers that are being filled. In the first row, we cross the -block, so those electrons go into the orbital. The first two elements in the second row have additional electrons in their orbital, then the next six have their additional electrons placed in the orbitals. Next come and with the elements in the third row. In the fourth row, we cross the -block ( ), then the -block ( ; the shell number is always one less than the row number), and then .  To abbreviate long electron configurations, the noble-gas shorthand is used. We proceed backwards to the nearest noble gas and write its symbol in brackets to indicate that the element has the same electron configuration as that noble gas, plus the additional orbitals and electrons from the row containing the element. For potassium, the nearest preceding noble gas is argon. The additional electron is in the fourth row and there is one additional electron in the -block, so the configuration is . For cadmium, the nearest preceding noble gas is krypton. The 12 additional electrons are in the fifth row and cross the and blocks, so the electron configuration is .   Exercises:    Electron configurations.     Recreate the drawing above that illustrates the orbital filling order. Then do it a second time on a clean sheet of paper, trying to create it from memory.    Try to add more arrows than the arrows shown in the diagram provided. What orbital gets filled after the orbital?             What orbital gets filled after each of the following?                                                              Write the electron configuration for the following atoms in both long form and using the noble-gas shorthand.    P    Se    Ni    Al    Mg         or      or      or      or      or         "
+  "body": " Electron Configurations and Valence Electrons  Now that we know where we can put electrons in an atom, we can start to fill these orbitals with the number of electrons that an atom has. In general the order that we fill will proceed from the lowest shell number to the highest because lower shell numbers have lower energy than higher shell numbers. Nature prefers lower energy states to higher states.  In general, lower numbered shells tend to have lower energies and thus get filled before higher numbered shells. Within each shell the orbitals get filled in the following order due to increasing energy: , , , and finally . Once we get to the third shell and higher, this trend starts to fall apart somewhat. The orbitals within shells start to have energy levels that overlap with the energies of orbitals in other shells, so the order that they get filled gets more complex. For example, within the third shell the order is and within the fourth shell ; however, the is actually lower in energy than the , so the combined order is . Thankfully there are two easy ways for us to remember the filling order of orbitals.   Orbital Filling Order Using Diagonal Lines   A boxed three-step diagram listing orbitals by shell and drawing diagonal arrows through them to show the filling order. The sequence shown begins 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s.    Before using the other way to find the orbital filling order, it is helpful to start filling these orbitals with electrons. Each orbital holds 2 electrons, and -orbitals come in groups of 1, -orbitals in groups of 3, -orbitals in groups of 5, and -orbitals in groups of 7. This means that -orbitals hold up to 2 electrons, -orbitals up to 6, -orbitals up to 10, and -orbitals up to 14.  We will start with hydrogen. A neutral hydrogen atom has one electron, given by its atomic number of 1. That electron is placed in the lowest-energy orbital, the . We denote the number of electrons in a set of orbitals with a superscript after the orbital. Hydrogen therefore has the electron configuration . Helium has two electrons, so its configuration is . Lithium has three electrons, so the additional electron goes into the next lowest orbital and its configuration is . Similarly, beryllium is .  Boron, carbon, nitrogen, oxygen, fluorine, and neon have electron configurations of , , , , , and , respectively. With larger elements, the electron configurations get longer and longer to write out. The periodic table provides another way to determine orbital filling order and to abbreviate these longer configurations.   Periodic Table Orbital Blocks and Shell Numbers   A simplified periodic table divided into s, p, d, and f blocks. Labels indicate that s and p orbitals being filled have the same shell number as the row number, d orbitals have a shell number one less than the row number, and f orbitals have a shell number two less than the row number.    The position of an element in the periodic table can tell us the orbital and shell numbers that are being filled. In the first row, we cross the -block, so those electrons go into the orbital. The first two elements in the second row have additional electrons in their orbital, then the next six have their additional electrons placed in the orbitals. Next come and with the elements in the third row. In the fourth row, we cross the -block ( ), then the -block ( ; the shell number is always one less than the row number), and then .  To abbreviate long electron configurations, the noble-gas shorthand is used. We proceed backwards to the nearest noble gas and write its symbol in brackets to indicate that the element has the same electron configuration as that noble gas, plus the additional orbitals and electrons from the row containing the element. For potassium, the nearest preceding noble gas is argon. The additional electron is in the fourth row and there is one additional electron in the -block, so the configuration is . For cadmium, the nearest preceding noble gas is krypton. The 12 additional electrons are in the fifth row and cross the and blocks, so the electron configuration is .   Exercises:    Electron configurations.     Recreate the drawing above that illustrates the orbital filling order. Then do it a second time on a clean sheet of paper, trying to create it from memory.     Try to add more arrows than the arrows shown in the diagram provided. What orbital gets filled after the orbital?       What orbital gets filled after each of the following?                                                                  Write the electron configuration for the following atoms in both long form and using the noble-gas shorthand.     P     or       Se     or       Ni     or       Al     or       Mg     or        "
 },
 {
   "id": "fig-orbital-filling-order",
@@ -3115,31 +3349,103 @@ var ptx_lunr_docs = [
   "body": " Periodic Table Orbital Blocks and Shell Numbers   A simplified periodic table divided into s, p, d, and f blocks. Labels indicate that s and p orbitals being filled have the same shell number as the row number, d orbitals have a shell number one less than the row number, and f orbitals have a shell number two less than the row number.   "
 },
 {
-  "id": "ch4l3-ex1-1",
+  "id": "sec-ato-ms7-11-2-2-2",
   "level": "2",
-  "url": "sec-ato-ms7.html#ch4l3-ex1-1",
+  "url": "sec-ato-ms7.html#sec-ato-ms7-11-2-2-2",
   "type": "Exercise",
   "number": "4.7.1",
   "title": "",
-  "body": "  Recreate the drawing above that illustrates the orbital filling order. Then do it a second time on a clean sheet of paper, trying to create it from memory.    Try to add more arrows than the arrows shown in the diagram provided. What orbital gets filled after the orbital?          "
+  "body": "  Try to add more arrows than the arrows shown in the diagram provided. What orbital gets filled after the orbital?   "
 },
 {
-  "id": "ch4l3-ex1-2",
+  "id": "sec-ato-ms7-11-2-3-2",
   "level": "2",
-  "url": "sec-ato-ms7.html#ch4l3-ex1-2",
+  "url": "sec-ato-ms7.html#sec-ato-ms7-11-2-3-2",
   "type": "Exercise",
   "number": "4.7.2",
   "title": "",
-  "body": "  What orbital gets filled after each of the following?                                                           "
+  "body": "           "
 },
 {
-  "id": "ch4l3-ex1-3",
+  "id": "sec-ato-ms7-11-2-3-3",
   "level": "2",
-  "url": "sec-ato-ms7.html#ch4l3-ex1-3",
+  "url": "sec-ato-ms7.html#sec-ato-ms7-11-2-3-3",
   "type": "Exercise",
   "number": "4.7.3",
   "title": "",
-  "body": "  Write the electron configuration for the following atoms in both long form and using the noble-gas shorthand.    P    Se    Ni    Al    Mg         or      or      or      or      or      "
+  "body": "           "
+},
+{
+  "id": "sec-ato-ms7-11-2-3-4",
+  "level": "2",
+  "url": "sec-ato-ms7.html#sec-ato-ms7-11-2-3-4",
+  "type": "Exercise",
+  "number": "4.7.4",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "sec-ato-ms7-11-2-3-5",
+  "level": "2",
+  "url": "sec-ato-ms7.html#sec-ato-ms7-11-2-3-5",
+  "type": "Exercise",
+  "number": "4.7.5",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "sec-ato-ms7-11-2-3-6",
+  "level": "2",
+  "url": "sec-ato-ms7.html#sec-ato-ms7-11-2-3-6",
+  "type": "Exercise",
+  "number": "4.7.6",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "sec-ato-ms7-11-2-4-2",
+  "level": "2",
+  "url": "sec-ato-ms7.html#sec-ato-ms7-11-2-4-2",
+  "type": "Exercise",
+  "number": "4.7.7",
+  "title": "",
+  "body": "  P     or    "
+},
+{
+  "id": "sec-ato-ms7-11-2-4-3",
+  "level": "2",
+  "url": "sec-ato-ms7.html#sec-ato-ms7-11-2-4-3",
+  "type": "Exercise",
+  "number": "4.7.8",
+  "title": "",
+  "body": "  Se     or    "
+},
+{
+  "id": "sec-ato-ms7-11-2-4-4",
+  "level": "2",
+  "url": "sec-ato-ms7.html#sec-ato-ms7-11-2-4-4",
+  "type": "Exercise",
+  "number": "4.7.9",
+  "title": "",
+  "body": "  Ni     or    "
+},
+{
+  "id": "sec-ato-ms7-11-2-4-5",
+  "level": "2",
+  "url": "sec-ato-ms7.html#sec-ato-ms7-11-2-4-5",
+  "type": "Exercise",
+  "number": "4.7.10",
+  "title": "",
+  "body": "  Al     or    "
+},
+{
+  "id": "sec-ato-ms7-11-2-4-6",
+  "level": "2",
+  "url": "sec-ato-ms7.html#sec-ato-ms7-11-2-4-6",
+  "type": "Exercise",
+  "number": "4.7.11",
+  "title": "",
+  "body": "  Mg     or    "
 },
 {
   "id": "sec-ato-ms8",
@@ -3148,7 +3454,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.8",
   "title": "Valence Electrons",
-  "body": " Valence Electrons  The noble-gas shorthand emphasizes the electrons that are in the outermost shell, or highest-numbered shell, of the atom. These electrons are called  valence electrons  . They are very important because if two atoms come together to react, the outermost electrons control how they interact.  We can find the number of valence electrons from the electron configuration. Carbon has the electron configuration , or . There are 4 electrons in the second shell, the highest-numbered shell for carbon, so carbon has 4 valence electrons. Silicon, which is in the same group and has similar reactivity properties, has the electron configuration and also has 4 valence electrons.  For the main-group elements, the number of valence electrons can be determined even more easily by looking at the main-group number. Carbon is in group 4A and therefore has 4 valence electrons. Fluorine is in group 7A and therefore has 7 valence electrons.  Every element in a particular main group has the same number of valence electrons. Recall that elements in the same group in the periodic table have similar chemical and physical properties. The shared number of valence electrons helps explain this similarity and also highlights particularly stable and unstable arrangements of electrons.   Exercises:    Valence electrons and stable electron configurations.     How many valence electrons do the following elements have?    Mg    H    S    Br    Xe        2    1    6    7    8        The noble gases are in group 8A. The noble gases are known for being very stable; it is extremely difficult to make them react with anything else.    How many valence electrons do the noble gases have, with the exception of helium?    This number of valence electrons is therefore particularly __________ (stable\/unstable).        8    Stable        The alkali metals are in group 1. They react violently when placed into water.    How many valence electrons do they have?    Is this number of electrons stable or unstable?    If sodium loses one electron:    What would its electron configuration be?    How many valence electrons would it now have?    Would you expect it to be more stable or less stable?    What would the charge be on the new sodium ion?          1    Unstable       or     8    More stable               The halogens are in group 7A. They react violently with many compounds, especially metals.    How many valence electrons do they have?    Is this number of electrons stable or unstable?    If chlorine gains one electron:    What would its electron configuration be?    How many valence electrons would it now have?    Would you expect it to be more stable or less stable?    What would the charge be on the new chlorine ion?          7    Unstable       or     8    More stable               "
+  "body": " Valence Electrons  The noble-gas shorthand emphasizes the electrons that are in the outermost shell, or highest-numbered shell, of the atom. These electrons are called  valence electrons  . They are very important because if two atoms come together to react, the outermost electrons control how they interact.  We can find the number of valence electrons from the electron configuration. Carbon has the electron configuration , or . There are 4 electrons in the second shell, the highest-numbered shell for carbon, so carbon has 4 valence electrons. Silicon, which is in the same group and has similar reactivity properties, has the electron configuration and also has 4 valence electrons.  For the main-group elements, the number of valence electrons can be determined even more easily by looking at the main-group number. Carbon is in group 4A and therefore has 4 valence electrons. Fluorine is in group 7A and therefore has 7 valence electrons.  Every element in a particular main group has the same number of valence electrons. Recall that elements in the same group in the periodic table have similar chemical and physical properties. The shared number of valence electrons helps explain this similarity and also highlights particularly stable and unstable arrangements of electrons.   Exercises:    Valence electrons and stable electron configurations.     How many valence electrons do the following elements have?     Mg    2      H    1      S    6      Br    7      Xe    8       The noble gases are in group 8A. The noble gases are known for being very stable; it is extremely difficult to make them react with anything else.     How many valence electrons do the noble gases have, with the exception of helium?    8      This number of valence electrons is therefore particularly __________ (stable\/unstable).    Stable       The alkali metals are in group 1. They react violently when placed into water.     How many valence electrons do they have?    1      Is this number of electrons stable or unstable?    Unstable      If sodium loses one electron:     What would its electron configuration be?     or       How many valence electrons would it now have?    8      Would you expect it to be more stable or less stable?    More stable      What would the charge be on the new sodium ion?             The halogens are in group 7A. They react violently with many compounds, especially metals.     How many valence electrons do they have?    7      Is this number of electrons stable or unstable?    Unstable      If chlorine gains one electron:     What would its electron configuration be?     or       How many valence electrons would it now have?    8      Would you expect it to be more stable or less stable?    More stable      What would the charge be on the new chlorine ion?             "
 },
 {
   "id": "sec-ato-ms8-2",
@@ -3160,40 +3466,175 @@ var ptx_lunr_docs = [
   "body": " valence electrons  "
 },
 {
-  "id": "ch4l3-ex2-1",
+  "id": "sec-ato-ms8-6-2-2-2",
   "level": "2",
-  "url": "sec-ato-ms8.html#ch4l3-ex2-1",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-2-2",
   "type": "Exercise",
   "number": "4.8.1",
   "title": "",
-  "body": "  How many valence electrons do the following elements have?    Mg    H    S    Br    Xe        2    1    6    7    8     "
+  "body": "  Mg    2   "
 },
 {
-  "id": "ch4l3-ex2-2",
+  "id": "sec-ato-ms8-6-2-2-3",
   "level": "2",
-  "url": "sec-ato-ms8.html#ch4l3-ex2-2",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-2-3",
   "type": "Exercise",
   "number": "4.8.2",
   "title": "",
-  "body": "  The noble gases are in group 8A. The noble gases are known for being very stable; it is extremely difficult to make them react with anything else.    How many valence electrons do the noble gases have, with the exception of helium?    This number of valence electrons is therefore particularly __________ (stable\/unstable).        8    Stable     "
+  "body": "  H    1   "
 },
 {
-  "id": "ch4l3-ex2-3",
+  "id": "sec-ato-ms8-6-2-2-4",
   "level": "2",
-  "url": "sec-ato-ms8.html#ch4l3-ex2-3",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-2-4",
   "type": "Exercise",
   "number": "4.8.3",
   "title": "",
-  "body": "  The alkali metals are in group 1. They react violently when placed into water.    How many valence electrons do they have?    Is this number of electrons stable or unstable?    If sodium loses one electron:    What would its electron configuration be?    How many valence electrons would it now have?    Would you expect it to be more stable or less stable?    What would the charge be on the new sodium ion?          1    Unstable       or     8    More stable            "
+  "body": "  S    6   "
 },
 {
-  "id": "ch4l3-ex2-4",
+  "id": "sec-ato-ms8-6-2-2-5",
   "level": "2",
-  "url": "sec-ato-ms8.html#ch4l3-ex2-4",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-2-5",
   "type": "Exercise",
   "number": "4.8.4",
   "title": "",
-  "body": "  The halogens are in group 7A. They react violently with many compounds, especially metals.    How many valence electrons do they have?    Is this number of electrons stable or unstable?    If chlorine gains one electron:    What would its electron configuration be?    How many valence electrons would it now have?    Would you expect it to be more stable or less stable?    What would the charge be on the new chlorine ion?          7    Unstable       or     8    More stable            "
+  "body": "  Br    7   "
+},
+{
+  "id": "sec-ato-ms8-6-2-2-6",
+  "level": "2",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-2-6",
+  "type": "Exercise",
+  "number": "4.8.5",
+  "title": "",
+  "body": "  Xe    8   "
+},
+{
+  "id": "sec-ato-ms8-6-2-3-2",
+  "level": "2",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-3-2",
+  "type": "Exercise",
+  "number": "4.8.6",
+  "title": "",
+  "body": "  How many valence electrons do the noble gases have, with the exception of helium?    8   "
+},
+{
+  "id": "sec-ato-ms8-6-2-3-3",
+  "level": "2",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-3-3",
+  "type": "Exercise",
+  "number": "4.8.7",
+  "title": "",
+  "body": "  This number of valence electrons is therefore particularly __________ (stable\/unstable).    Stable   "
+},
+{
+  "id": "sec-ato-ms8-6-2-4-2",
+  "level": "2",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-4-2",
+  "type": "Exercise",
+  "number": "4.8.8",
+  "title": "",
+  "body": "  How many valence electrons do they have?    1   "
+},
+{
+  "id": "sec-ato-ms8-6-2-4-3",
+  "level": "2",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-4-3",
+  "type": "Exercise",
+  "number": "4.8.9",
+  "title": "",
+  "body": "  Is this number of electrons stable or unstable?    Unstable   "
+},
+{
+  "id": "sec-ato-ms8-6-2-4-4-2",
+  "level": "2",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-4-4-2",
+  "type": "Exercise",
+  "number": "4.8.10",
+  "title": "",
+  "body": "  What would its electron configuration be?     or    "
+},
+{
+  "id": "sec-ato-ms8-6-2-4-4-3",
+  "level": "2",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-4-4-3",
+  "type": "Exercise",
+  "number": "4.8.11",
+  "title": "",
+  "body": "  How many valence electrons would it now have?    8   "
+},
+{
+  "id": "sec-ato-ms8-6-2-4-4-4",
+  "level": "2",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-4-4-4",
+  "type": "Exercise",
+  "number": "4.8.12",
+  "title": "",
+  "body": "  Would you expect it to be more stable or less stable?    More stable   "
+},
+{
+  "id": "sec-ato-ms8-6-2-4-4-5",
+  "level": "2",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-4-4-5",
+  "type": "Exercise",
+  "number": "4.8.13",
+  "title": "",
+  "body": "  What would the charge be on the new sodium ion?        "
+},
+{
+  "id": "sec-ato-ms8-6-2-5-2",
+  "level": "2",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-5-2",
+  "type": "Exercise",
+  "number": "4.8.14",
+  "title": "",
+  "body": "  How many valence electrons do they have?    7   "
+},
+{
+  "id": "sec-ato-ms8-6-2-5-3",
+  "level": "2",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-5-3",
+  "type": "Exercise",
+  "number": "4.8.15",
+  "title": "",
+  "body": "  Is this number of electrons stable or unstable?    Unstable   "
+},
+{
+  "id": "sec-ato-ms8-6-2-5-4-2",
+  "level": "2",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-5-4-2",
+  "type": "Exercise",
+  "number": "4.8.16",
+  "title": "",
+  "body": "  What would its electron configuration be?     or    "
+},
+{
+  "id": "sec-ato-ms8-6-2-5-4-3",
+  "level": "2",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-5-4-3",
+  "type": "Exercise",
+  "number": "4.8.17",
+  "title": "",
+  "body": "  How many valence electrons would it now have?    8   "
+},
+{
+  "id": "sec-ato-ms8-6-2-5-4-4",
+  "level": "2",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-5-4-4",
+  "type": "Exercise",
+  "number": "4.8.18",
+  "title": "",
+  "body": "  Would you expect it to be more stable or less stable?    More stable   "
+},
+{
+  "id": "sec-ato-ms8-6-2-5-4-5",
+  "level": "2",
+  "url": "sec-ato-ms8.html#sec-ato-ms8-6-2-5-4-5",
+  "type": "Exercise",
+  "number": "4.8.19",
+  "title": "",
+  "body": "  What would the charge be on the new chlorine ion?        "
 },
 {
   "id": "sec-nuclear1",
@@ -3201,8 +3642,8 @@ var ptx_lunr_docs = [
   "url": "sec-nuclear1.html",
   "type": "Section",
   "number": "5.1",
-  "title": "Radioactivity and its uses",
-  "body": " Radioactivity and its uses   Introduction   "
+  "title": "Types of Radioactivity",
+  "body": " Types of Radioactivity  In this chapter, we’ll be exploring radiation and radioactivity . Radiation is the emission of energy from an object in the form of electromagnetic radiation or in the form of parts of atoms. Importantly, radiation does not imply a specific cause for the energy emission. Radioactivity produces radiation, but from a very specific source. In radioactivity, an atom has an unstable nucleus, and that nucleus becomes stable, releasing radiation in the process. There are other sources of radiation besides radioactivity. Radioactivity will always produce radiation.  In the last chapter, we learned about isotopes. To review, isotopes are atoms of an element that have different numbers of neutrons and thus different mass numbers. Some isotopes are stable, whereas other isotopes have unstable nuclei. These nuclei can stabilize themselves by emitting energy or particles. This is called radioactive decay. Radioactive decay causes that isotope to emit radiation. The forms that we’ll be learning about because of their relevance to medicine are gamma radiation , beta particles, alpha particles, neutrons, protons, and positrons.  Gamma rays are a form of electromagnetic radiation, or light energy. Out of the different forms of electromagnetic radiation, gamma rays have the highest energies. Some radioactive isotopes emit gamma radiation in the form of a photon with the energy of a gamma ray. Gamma-ray emission is caused by an unstable nucleus relaxing to a lower-energy state and emitting the lost energy as light. Unlike the other types of radioactive emission, gamma rays are massless and lack charge.  Other radioactive isotopes decay and emit particles. These particles include alpha particles, beta particles, positrons, protons, and neutrons. Alpha particles have the greatest mass and are essentially helium nuclei consisting of 2 protons and 2 neutrons. Beta particles are essentially electrons ejected from the nucleus as part of radioactive emission rather than from the electron cloud. Positrons are antimatter particles. They have the same mass as an electron but are positively charged. When positrons collide with electrons, they annihilate one another and their mass is turned into energy in the form of gamma rays. Protons and neutrons have the same masses and charges discussed previously, even when they are ejected from an atom as part of radioactive decay.   Exercises:    Do the following particles have mass? If they do, round their mass to the nearest amu.     Gamma ray    No      Beta-particle    Yes, 0 amu      Proton    Yes, 1 amu      Alpha particle    Yes, 4 amu      Neutron    Yes, 1 amu      Positron    Yes, 0 amu       What is the charge of the following particles?     Gamma ray           Beta-particle           Proton           Alpha particle           Neutron           Positron            How many protons and neutrons are in the following nuclei?     Cobalt-57    27 protons, 30 neutrons      Uranium-238    92 protons, 146 neutrons      Fluorine-18    9 protons, 9 neutrons      "
 },
 {
   "id": "sec-nuclear1-2",
@@ -3211,7 +3652,160 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Introduction "
+  "body": "radiation radioactivity "
+},
+{
+  "id": "sec-nuclear1-3",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "gamma radiation "
+},
+{
+  "id": "sec-nuclear1-5",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "antimatter annihilate "
+},
+{
+  "id": "sec-nuclear1-6-2-2",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-6-2-2",
+  "type": "Exercise",
+  "number": "5.1.1",
+  "title": "",
+  "body": "  Gamma ray    No   "
+},
+{
+  "id": "sec-nuclear1-6-2-3",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-6-2-3",
+  "type": "Exercise",
+  "number": "5.1.2",
+  "title": "",
+  "body": "  Beta-particle    Yes, 0 amu   "
+},
+{
+  "id": "sec-nuclear1-6-2-4",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-6-2-4",
+  "type": "Exercise",
+  "number": "5.1.3",
+  "title": "",
+  "body": "  Proton    Yes, 1 amu   "
+},
+{
+  "id": "sec-nuclear1-6-2-5",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-6-2-5",
+  "type": "Exercise",
+  "number": "5.1.4",
+  "title": "",
+  "body": "  Alpha particle    Yes, 4 amu   "
+},
+{
+  "id": "sec-nuclear1-6-2-6",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-6-2-6",
+  "type": "Exercise",
+  "number": "5.1.5",
+  "title": "",
+  "body": "  Neutron    Yes, 1 amu   "
+},
+{
+  "id": "sec-nuclear1-6-2-7",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-6-2-7",
+  "type": "Exercise",
+  "number": "5.1.6",
+  "title": "",
+  "body": "  Positron    Yes, 0 amu   "
+},
+{
+  "id": "sec-nuclear1-6-3-2",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-6-3-2",
+  "type": "Exercise",
+  "number": "5.1.7",
+  "title": "",
+  "body": "  Gamma ray        "
+},
+{
+  "id": "sec-nuclear1-6-3-3",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-6-3-3",
+  "type": "Exercise",
+  "number": "5.1.8",
+  "title": "",
+  "body": "  Beta-particle        "
+},
+{
+  "id": "sec-nuclear1-6-3-4",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-6-3-4",
+  "type": "Exercise",
+  "number": "5.1.9",
+  "title": "",
+  "body": "  Proton        "
+},
+{
+  "id": "sec-nuclear1-6-3-5",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-6-3-5",
+  "type": "Exercise",
+  "number": "5.1.10",
+  "title": "",
+  "body": "  Alpha particle        "
+},
+{
+  "id": "sec-nuclear1-6-3-6",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-6-3-6",
+  "type": "Exercise",
+  "number": "5.1.11",
+  "title": "",
+  "body": "  Neutron        "
+},
+{
+  "id": "sec-nuclear1-6-3-7",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-6-3-7",
+  "type": "Exercise",
+  "number": "5.1.12",
+  "title": "",
+  "body": "  Positron        "
+},
+{
+  "id": "sec-nuclear1-6-4-2",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-6-4-2",
+  "type": "Exercise",
+  "number": "5.1.13",
+  "title": "",
+  "body": "  Cobalt-57    27 protons, 30 neutrons   "
+},
+{
+  "id": "sec-nuclear1-6-4-3",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-6-4-3",
+  "type": "Exercise",
+  "number": "5.1.14",
+  "title": "",
+  "body": "  Uranium-238    92 protons, 146 neutrons   "
+},
+{
+  "id": "sec-nuclear1-6-4-4",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-6-4-4",
+  "type": "Exercise",
+  "number": "5.1.15",
+  "title": "",
+  "body": "  Fluorine-18    9 protons, 9 neutrons   "
 },
 {
   "id": "sec-nuclear2",
@@ -3219,17 +3813,179 @@ var ptx_lunr_docs = [
   "url": "sec-nuclear2.html",
   "type": "Section",
   "number": "5.2",
-  "title": "Radioactivity and its uses",
-  "body": " Radioactivity and its uses   Introduction   "
+  "title": "Balancing Decay Reactions",
+  "body": " Balancing Decay Reactions  When radioactive decay occurs, changes happen to the radioactive atom. In most cases, the emission of radiation results in a change in the nucleus and can even change one element into another. To describe the changes that take place after radioactive decay, we can write a radioactive decay equation. The guiding principle when writing a radioactive decay equation is that the total mass and total charge cannot change after the decay has occurred.  The first type of decay equation that we’ll explore is gamma decay. Unlike other forms of radioactivity, there is no change in the composition of the nucleus. Instead, the nucleus changes from a high-energy state, called a metastable state, to a lower-energy state. This makes gamma-emission equations especially simple to balance:     The superscript indicates that the iodine-125 nucleus is metastable. The Greek letter gamma represents the emitted gamma ray.  Beta particles and positrons are both particles emitted from the nucleus. Both have mass, although it is very small and often rounded to 0 amu. Beta particles are negatively charged, while positrons are positively charged. When a nucleus emits a charged particle, the remaining charge in the nucleus must change. This results in the nucleus having the same mass but a different number of protons, so the identity of the element can change.        The first equation represents beta-particle emission. A beta particle may be written as , , or . The second equation represents positron emission. A positron may be written as , , or . In both cases, charge and mass must balance on both sides of the equation.  For beta emission, a neutron changes into a beta particle plus a proton. The mass remains the same, the number of protons increases by one, and the number of neutrons decreases by one. For positron emission, a proton is converted into a neutron and a positron. The atomic number decreases by one while the mass is preserved.  Alpha particles have a mass of 4 amu and a charge of ; they are the same as a helium nucleus. An alpha-emission equation must balance both mass and charge:     Radioactive decay can also eject protons or neutrons from the nucleus. A proton can be represented as , and a neutron as . The same balancing rules apply: total nuclear charge and total mass must be the same on both sides of the equation.   Exercises:    Write a balanced nuclear decay equation for the following:     The beta decay of carbon-14           The alpha decay of radon-220           The gamma decay of cobalt-60           The positron emission of magnesium-23           The neutron emission of krypton-87           The proton emission of cobalt-47            What type of radiation is emitted in the following processes?     The conversion of metastable Tc-99 to stable Tc-99    Gamma      The conversion of carbon-11 to boron-11    Positron      Polonium-210 changing to lead-206    Alpha           Beta           Proton           Neutron       What type(s) of radioactive emission:     involves particles with non-negligible masses?    Alpha, proton, neutron      produces a positively charged particle?    Positron, proton, and alpha      causes the nucleus to increase in atomic number by 1?    Beta      causes the nucleus to decrease in atomic number by 1?    Positron, proton      increases the number of neutrons in the nucleus?    Positron      decreases the number of neutrons in the nucleus?    Beta, neutron, and alpha      causes no change in the identity of the element?    Gamma and neutron      "
 },
 {
-  "id": "sec-nuclear2-2",
+  "id": "sec-nuclear2-14-2-2",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-2-2",
+  "type": "Exercise",
+  "number": "5.2.1",
   "title": "",
-  "body": "Introduction "
+  "body": "  The beta decay of carbon-14        "
+},
+{
+  "id": "sec-nuclear2-14-2-3",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-2-3",
+  "type": "Exercise",
+  "number": "5.2.2",
+  "title": "",
+  "body": "  The alpha decay of radon-220        "
+},
+{
+  "id": "sec-nuclear2-14-2-4",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-2-4",
+  "type": "Exercise",
+  "number": "5.2.3",
+  "title": "",
+  "body": "  The gamma decay of cobalt-60        "
+},
+{
+  "id": "sec-nuclear2-14-2-5",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-2-5",
+  "type": "Exercise",
+  "number": "5.2.4",
+  "title": "",
+  "body": "  The positron emission of magnesium-23        "
+},
+{
+  "id": "sec-nuclear2-14-2-6",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-2-6",
+  "type": "Exercise",
+  "number": "5.2.5",
+  "title": "",
+  "body": "  The neutron emission of krypton-87        "
+},
+{
+  "id": "sec-nuclear2-14-2-7",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-2-7",
+  "type": "Exercise",
+  "number": "5.2.6",
+  "title": "",
+  "body": "  The proton emission of cobalt-47        "
+},
+{
+  "id": "sec-nuclear2-14-3-2",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-3-2",
+  "type": "Exercise",
+  "number": "5.2.7",
+  "title": "",
+  "body": "  The conversion of metastable Tc-99 to stable Tc-99    Gamma   "
+},
+{
+  "id": "sec-nuclear2-14-3-3",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-3-3",
+  "type": "Exercise",
+  "number": "5.2.8",
+  "title": "",
+  "body": "  The conversion of carbon-11 to boron-11    Positron   "
+},
+{
+  "id": "sec-nuclear2-14-3-4",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-3-4",
+  "type": "Exercise",
+  "number": "5.2.9",
+  "title": "",
+  "body": "  Polonium-210 changing to lead-206    Alpha   "
+},
+{
+  "id": "sec-nuclear2-14-3-5",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-3-5",
+  "type": "Exercise",
+  "number": "5.2.10",
+  "title": "",
+  "body": "       Beta   "
+},
+{
+  "id": "sec-nuclear2-14-3-6",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-3-6",
+  "type": "Exercise",
+  "number": "5.2.11",
+  "title": "",
+  "body": "       Proton   "
+},
+{
+  "id": "sec-nuclear2-14-3-7",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-3-7",
+  "type": "Exercise",
+  "number": "5.2.12",
+  "title": "",
+  "body": "       Neutron   "
+},
+{
+  "id": "sec-nuclear2-14-4-2",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-4-2",
+  "type": "Exercise",
+  "number": "5.2.13",
+  "title": "",
+  "body": "  involves particles with non-negligible masses?    Alpha, proton, neutron   "
+},
+{
+  "id": "sec-nuclear2-14-4-3",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-4-3",
+  "type": "Exercise",
+  "number": "5.2.14",
+  "title": "",
+  "body": "  produces a positively charged particle?    Positron, proton, and alpha   "
+},
+{
+  "id": "sec-nuclear2-14-4-4",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-4-4",
+  "type": "Exercise",
+  "number": "5.2.15",
+  "title": "",
+  "body": "  causes the nucleus to increase in atomic number by 1?    Beta   "
+},
+{
+  "id": "sec-nuclear2-14-4-5",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-4-5",
+  "type": "Exercise",
+  "number": "5.2.16",
+  "title": "",
+  "body": "  causes the nucleus to decrease in atomic number by 1?    Positron, proton   "
+},
+{
+  "id": "sec-nuclear2-14-4-6",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-4-6",
+  "type": "Exercise",
+  "number": "5.2.17",
+  "title": "",
+  "body": "  increases the number of neutrons in the nucleus?    Positron   "
+},
+{
+  "id": "sec-nuclear2-14-4-7",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-4-7",
+  "type": "Exercise",
+  "number": "5.2.18",
+  "title": "",
+  "body": "  decreases the number of neutrons in the nucleus?    Beta, neutron, and alpha   "
+},
+{
+  "id": "sec-nuclear2-14-4-8",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-14-4-8",
+  "type": "Exercise",
+  "number": "5.2.19",
+  "title": "",
+  "body": "  causes no change in the identity of the element?    Gamma and neutron   "
 },
 {
   "id": "sec-nuclear3",
@@ -3237,17 +3993,62 @@ var ptx_lunr_docs = [
   "url": "sec-nuclear3.html",
   "type": "Section",
   "number": "5.3",
-  "title": "Radioactivity and its uses",
-  "body": " Radioactivity and its uses   Introduction   "
+  "title": "Uses of Radioactive Materials",
+  "body": " Uses of Radioactive Materials  Radioactive materials have numerous uses in energy production, science, and medicine.  Nuclear power plants rely on isotopes that undergo neutron decay to initiate a process called nuclear fission . Nuclear fission is a different type of nuclear decay in which a nucleus splits. This splitting is caused by the impact of a high-energy neutron on a nucleus. The impact produces an unstable nucleus that undergoes fission. When a nucleus splits, smaller nuclei are produced along with other neutrons. These neutrons can impact other nuclei, producing a chain reaction . Every time a nucleus undergoes fission, some of its mass is turned into energy. This energy can be used to boil water, and the resulting steam can turn a turbine to produce electricity.  Nuclear power can produce vast amounts of power without producing greenhouse gases. However, nuclear power also generates radioactive waste. The nuclei produced after fission are often radioactive themselves, creating a challenge for safe waste storage. In addition, the radioactive materials used to sustain chain reactions, especially uranium-235, are limited resources that require substantial effort to mine and purify.  Radioactive isotopes are also used in medicine as tracers or therapeutics. In a PET scan, a patient is treated with isotopes that emit positrons. The positrons are quickly annihilated by electrons in surrounding tissues, producing gamma rays that can be detected by specialized cameras. This allows doctors to locate the positron-emitting isotopes in the body. For example, radioactive sugar can accumulate in tumors because cancer cells take up sugar more quickly than most surrounding tissues. Detecting the resulting gamma rays helps identify the location of a tumor.  Another medical use of radioactive materials is radiation therapy. Radioactive materials are placed in or near a tumor. The radiation can damage molecules in the tumor cells and ultimately kill those cells. The damage can be difficult to confine to the tumor, however, so surrounding tissues may also be affected.   Exercises:    Uses of radioactive materials     Explain how a chain reaction is used to produce nuclear power.    A neutron impacts the nucleus of one atom, leading to nuclear fission and energy release. The fission releases more neutrons, which can impact other nuclei and cause additional fission reactions and energy release.      Why are gamma-ray cameras used to detect positrons in a PET scan?    Positrons annihilate when they encounter electrons in surrounding atoms. This annihilation releases energy in the form of gamma rays.      How do doctors get cancer cells to accumulate radioactive materials prior to a PET scan?    Radioactive sugar is given to the patient. Cancer cells take up and use sugar more quickly than many other tissues because they are actively growing.      Which type of radiation do you think would be more damaging to tissues, an alpha particle or a beta-particle? Why?    Alpha particles have a greater impact because of their larger charge.      "
 },
 {
-  "id": "sec-nuclear3-2",
+  "id": "sec-nuclear3-3",
   "level": "2",
-  "url": "sec-nuclear3.html#sec-nuclear3-2",
+  "url": "sec-nuclear3.html#sec-nuclear3-3",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Introduction "
+  "body": "nuclear fission chain reaction "
+},
+{
+  "id": "sec-nuclear3-5",
+  "level": "2",
+  "url": "sec-nuclear3.html#sec-nuclear3-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "tracers "
+},
+{
+  "id": "sec-nuclear3-7-2-2",
+  "level": "2",
+  "url": "sec-nuclear3.html#sec-nuclear3-7-2-2",
+  "type": "Exercise",
+  "number": "5.3.1",
+  "title": "",
+  "body": "  Explain how a chain reaction is used to produce nuclear power.    A neutron impacts the nucleus of one atom, leading to nuclear fission and energy release. The fission releases more neutrons, which can impact other nuclei and cause additional fission reactions and energy release.   "
+},
+{
+  "id": "sec-nuclear3-7-2-3",
+  "level": "2",
+  "url": "sec-nuclear3.html#sec-nuclear3-7-2-3",
+  "type": "Exercise",
+  "number": "5.3.2",
+  "title": "",
+  "body": "  Why are gamma-ray cameras used to detect positrons in a PET scan?    Positrons annihilate when they encounter electrons in surrounding atoms. This annihilation releases energy in the form of gamma rays.   "
+},
+{
+  "id": "sec-nuclear3-7-2-4",
+  "level": "2",
+  "url": "sec-nuclear3.html#sec-nuclear3-7-2-4",
+  "type": "Exercise",
+  "number": "5.3.3",
+  "title": "",
+  "body": "  How do doctors get cancer cells to accumulate radioactive materials prior to a PET scan?    Radioactive sugar is given to the patient. Cancer cells take up and use sugar more quickly than many other tissues because they are actively growing.   "
+},
+{
+  "id": "sec-nuclear3-7-2-5",
+  "level": "2",
+  "url": "sec-nuclear3.html#sec-nuclear3-7-2-5",
+  "type": "Exercise",
+  "number": "5.3.4",
+  "title": "",
+  "body": "  Which type of radiation do you think would be more damaging to tissues, an alpha particle or a beta-particle? Why?    Alpha particles have a greater impact because of their larger charge.   "
 },
 {
   "id": "sec-nuclear4",
@@ -3255,17 +4056,134 @@ var ptx_lunr_docs = [
   "url": "sec-nuclear4.html",
   "type": "Section",
   "number": "5.4",
-  "title": "Radioactivity and its uses",
-  "body": " Radioactivity and its uses   Introduction   "
+  "title": "Measuring Radioactivity",
+  "body": " Measuring Radioactivity  When considering radioactivity and safety, it is important to minimize the exposure of medical personnel and patients. Radioactivity can cause chemical changes to cells that can lead to cell death, mutations, and cancer. One of the easiest ways to minimize risk is to use the lowest amount of radioactive isotope possible.  Radioactivity can be measured by a variety of devices depending on the type of emission. The SI unit used to measure radioactivity is a becquerel , abbreviated Bq. One Bq is one radioactive decay, or disintegration, per second. A sample containing more radioactive nuclei, or a sample more enriched in radioactive nuclei, produces more radiation per second and therefore has a higher Bq value.  Another historically important unit is the Curie , abbreviated Ci. One Curie represents decays per second, or the same number of becquerels. Because a Curie often represents a large amount of radiation, smaller metric prefixes such as mCi and Ci are commonly used.  Curies and becquerels describe how much radiation an object emits. Because radiation travels in all directions, much of the emitted radiation may never enter a patient or medical professional. To describe the amount of radiation that actually enters the body, scientists use the unit rad . This unit has been replaced in SI by the gray , abbreviated Gy. One Gy is the same as 100 rad.  To quantify the damaging effects of absorbed radiation, scientists use the unit rem , meaning radiation equivalent in man. Rem is calculated from rad by multiplying by a damage factor specific to the type of radiation being absorbed. Gamma rays, beta particles, and positrons have a factor of 1; protons and neutrons have a factor of 10; and alpha particles have a factor of 20.  Another unit used to measure the biological effect of absorbed radiation is the Sievert , abbreviated Sv. One Sv is equivalent to 100 rem. The source notes that an average person receives about 3 mSv per year, an x-ray or CT scan can expose a person to approximately 0.1-10 mSv, a statistically detectable increase in cancer risk occurs around 50 mSv, radiation sickness can begin around 0.5 Sv, and a dose of 3-4 Sv is generally fatal to about half of exposed people.   Exercises:    Convert 18 Ci to Bq.     Bq      Convert Bq to mCi.    14 mCi      Which sample is more radioactive, one with 4.3 Ci or one with Bq?    The Bq sample is more radioactive. The key converts 4.3 Ci to about 160,000 Bq.      Describe the difference between rad, Bq, and rem in terms of what they are measuring.    Bq measures the amount of radiation released from a source. Rad measures how much of that radiation enters the body. Rem measures the biological impact of absorbed radiation.      If a patient receives a dose of 54.3 rad of alpha particles:     How many Gy did they receive?    0.543 Gy      What is the biological impact in units of rem?    1090 rem      What is the biological impact in units of Sv?    10.9 Sv      Would you expect the person who received the dose in part c to survive or be sick?    The patient is likely dead or dying.      Recalculate parts b and c if the radiation was beta-particles instead.    54.3 rem; 0.543 Sv      "
 },
 {
-  "id": "sec-nuclear4-2",
+  "id": "sec-nuclear4-3",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-2",
+  "url": "sec-nuclear4.html#sec-nuclear4-3",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Introduction "
+  "body": "becquerel "
+},
+{
+  "id": "sec-nuclear4-4",
+  "level": "2",
+  "url": "sec-nuclear4.html#sec-nuclear4-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Curie "
+},
+{
+  "id": "sec-nuclear4-5",
+  "level": "2",
+  "url": "sec-nuclear4.html#sec-nuclear4-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "rad gray "
+},
+{
+  "id": "sec-nuclear4-6",
+  "level": "2",
+  "url": "sec-nuclear4.html#sec-nuclear4-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "rem "
+},
+{
+  "id": "sec-nuclear4-7",
+  "level": "2",
+  "url": "sec-nuclear4.html#sec-nuclear4-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Sievert "
+},
+{
+  "id": "sec-nuclear4-8-2",
+  "level": "2",
+  "url": "sec-nuclear4.html#sec-nuclear4-8-2",
+  "type": "Exercise",
+  "number": "5.4.1",
+  "title": "",
+  "body": "  Convert 18 Ci to Bq.     Bq   "
+},
+{
+  "id": "sec-nuclear4-8-3",
+  "level": "2",
+  "url": "sec-nuclear4.html#sec-nuclear4-8-3",
+  "type": "Exercise",
+  "number": "5.4.2",
+  "title": "",
+  "body": "  Convert Bq to mCi.    14 mCi   "
+},
+{
+  "id": "sec-nuclear4-8-4",
+  "level": "2",
+  "url": "sec-nuclear4.html#sec-nuclear4-8-4",
+  "type": "Exercise",
+  "number": "5.4.3",
+  "title": "",
+  "body": "  Which sample is more radioactive, one with 4.3 Ci or one with Bq?    The Bq sample is more radioactive. The key converts 4.3 Ci to about 160,000 Bq.   "
+},
+{
+  "id": "sec-nuclear4-8-5",
+  "level": "2",
+  "url": "sec-nuclear4.html#sec-nuclear4-8-5",
+  "type": "Exercise",
+  "number": "5.4.4",
+  "title": "",
+  "body": "  Describe the difference between rad, Bq, and rem in terms of what they are measuring.    Bq measures the amount of radiation released from a source. Rad measures how much of that radiation enters the body. Rem measures the biological impact of absorbed radiation.   "
+},
+{
+  "id": "sec-nuclear4-8-6-2",
+  "level": "2",
+  "url": "sec-nuclear4.html#sec-nuclear4-8-6-2",
+  "type": "Exercise",
+  "number": "5.4.5",
+  "title": "",
+  "body": "  How many Gy did they receive?    0.543 Gy   "
+},
+{
+  "id": "sec-nuclear4-8-6-3",
+  "level": "2",
+  "url": "sec-nuclear4.html#sec-nuclear4-8-6-3",
+  "type": "Exercise",
+  "number": "5.4.6",
+  "title": "",
+  "body": "  What is the biological impact in units of rem?    1090 rem   "
+},
+{
+  "id": "sec-nuclear4-8-6-4",
+  "level": "2",
+  "url": "sec-nuclear4.html#sec-nuclear4-8-6-4",
+  "type": "Exercise",
+  "number": "5.4.7",
+  "title": "",
+  "body": "  What is the biological impact in units of Sv?    10.9 Sv   "
+},
+{
+  "id": "sec-nuclear4-8-6-5",
+  "level": "2",
+  "url": "sec-nuclear4.html#sec-nuclear4-8-6-5",
+  "type": "Exercise",
+  "number": "5.4.8",
+  "title": "",
+  "body": "  Would you expect the person who received the dose in part c to survive or be sick?    The patient is likely dead or dying.   "
+},
+{
+  "id": "sec-nuclear4-8-6-6",
+  "level": "2",
+  "url": "sec-nuclear4.html#sec-nuclear4-8-6-6",
+  "type": "Exercise",
+  "number": "5.4.9",
+  "title": "",
+  "body": "  Recalculate parts b and c if the radiation was beta-particles instead.    54.3 rem; 0.543 Sv   "
 },
 {
   "id": "sec-nuclear5",
@@ -3273,17 +4191,80 @@ var ptx_lunr_docs = [
   "url": "sec-nuclear5.html",
   "type": "Section",
   "number": "5.5",
-  "title": "Radioactivity and its uses",
-  "body": " Radioactivity and its uses   Introduction   "
+  "title": "Radiation Safety",
+  "body": " Radiation Safety  Radiation can pose safety risks to humans, but careful use can minimize health impacts. The source identifies four considerations for limiting exposure:    Amount of radiation used    Time    Distance    Shielding    Whenever radioactive materials or other radiation sources are used, the least amount possible should be used. Lower amounts of radioactive material reduce total exposure and the amount of possible damage. Biological damage can also be reduced by spending the minimum amount of time near a radiation source.  Distance is another important consideration. Radiation intensity decreases with the square of the increase in distance from the source. A person standing 2 m from a source would receive one-fourth the exposure received at 1 m because the same radiation is spread over a larger area. This relationship is described by the inverse square law:     Here, and are the radiation intensities at distances and , respectively.  Different forms of radiation require different shielding. In general, larger and more highly charged particles require less shielding. Alpha particles can be blocked by a sheet of paper or by the outer layer of skin. Beta particles can be shielded by about a centimeter of aluminum, plastic, or plexiglass. Neutrons and gamma rays are much more difficult to shield and often require lead or concrete.   Exercises:    List the four ways that we can help lessen our exposure to radiation when working with radioactive materials.    Use as little as needed, minimize the time of exposure, use appropriate shielding, and work at the maximum distance possible.      What type of radiation is the easiest to block with shielding? Which types are the hardest to block?    Easiest: alpha. Hardest: neutrons and gamma rays.      How do the mass and charge of radiation relate to how easy it is to block that type of radiation?    The more mass and charge the radiation has, the easier it is to block. Radiation with low mass and no charge is difficult to block.      A person would be exposed to 4.0 mGy of radiation at 10.0 m from a radiation source. How much radiation would they be exposed to at:     20.0 m    1.0 mGy      100. m    0.040 mGy      2.5 m    64 mGy       Rearrange to solve for .           A worker needs to keep radiation exposure below 5.0 mGy. If the worker would be exposed to 15 mGy at a distance of 2.5 m, what is the closest distance the worker can be to the radiation source without exceeding the maximum dose?    4.3 m     "
 },
 {
-  "id": "sec-nuclear5-2",
+  "id": "sec-nuclear5-9-2",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-nuclear5.html#sec-nuclear5-9-2",
+  "type": "Exercise",
+  "number": "5.5.1",
   "title": "",
-  "body": "Introduction "
+  "body": "  List the four ways that we can help lessen our exposure to radiation when working with radioactive materials.    Use as little as needed, minimize the time of exposure, use appropriate shielding, and work at the maximum distance possible.   "
+},
+{
+  "id": "sec-nuclear5-9-3",
+  "level": "2",
+  "url": "sec-nuclear5.html#sec-nuclear5-9-3",
+  "type": "Exercise",
+  "number": "5.5.2",
+  "title": "",
+  "body": "  What type of radiation is the easiest to block with shielding? Which types are the hardest to block?    Easiest: alpha. Hardest: neutrons and gamma rays.   "
+},
+{
+  "id": "sec-nuclear5-9-4",
+  "level": "2",
+  "url": "sec-nuclear5.html#sec-nuclear5-9-4",
+  "type": "Exercise",
+  "number": "5.5.3",
+  "title": "",
+  "body": "  How do the mass and charge of radiation relate to how easy it is to block that type of radiation?    The more mass and charge the radiation has, the easier it is to block. Radiation with low mass and no charge is difficult to block.   "
+},
+{
+  "id": "sec-nuclear5-9-5-2",
+  "level": "2",
+  "url": "sec-nuclear5.html#sec-nuclear5-9-5-2",
+  "type": "Exercise",
+  "number": "5.5.4",
+  "title": "",
+  "body": "  20.0 m    1.0 mGy   "
+},
+{
+  "id": "sec-nuclear5-9-5-3",
+  "level": "2",
+  "url": "sec-nuclear5.html#sec-nuclear5-9-5-3",
+  "type": "Exercise",
+  "number": "5.5.5",
+  "title": "",
+  "body": "  100. m    0.040 mGy   "
+},
+{
+  "id": "sec-nuclear5-9-5-4",
+  "level": "2",
+  "url": "sec-nuclear5.html#sec-nuclear5-9-5-4",
+  "type": "Exercise",
+  "number": "5.5.6",
+  "title": "",
+  "body": "  2.5 m    64 mGy   "
+},
+{
+  "id": "sec-nuclear5-9-6",
+  "level": "2",
+  "url": "sec-nuclear5.html#sec-nuclear5-9-6",
+  "type": "Exercise",
+  "number": "5.5.7",
+  "title": "",
+  "body": "  Rearrange to solve for .        "
+},
+{
+  "id": "sec-nuclear5-9-7",
+  "level": "2",
+  "url": "sec-nuclear5.html#sec-nuclear5-9-7",
+  "type": "Exercise",
+  "number": "5.5.8",
+  "title": "",
+  "body": "  A worker needs to keep radiation exposure below 5.0 mGy. If the worker would be exposed to 15 mGy at a distance of 2.5 m, what is the closest distance the worker can be to the radiation source without exceeding the maximum dose?    4.3 m   "
 },
 {
   "id": "sec-nuclear6",
@@ -3291,8 +4272,8 @@ var ptx_lunr_docs = [
   "url": "sec-nuclear6.html",
   "type": "Section",
   "number": "5.6",
-  "title": "Radioactivity and its uses",
-  "body": " Radioactivity and its uses   Introduction   "
+  "title": "Half-life of Radioisotopes",
+  "body": " Half-life of Radioisotopes  Radioactive isotopes decay in a random fashion. As they decay, atoms in the sample change and the sample gradually loses its radioactive properties because less of the original radioactive isotope remains. We measure the decay rate of radioactive isotopes using half-lives . One half-life is the amount of time required for the decay rate of a substance to decrease by a factor of one-half.  After one half-life, one-half of the original isotope remains. After a second half-life, one-half of one-half remains, or one-fourth. After each subsequent half-life, the amount of original radioactive isotope decreases by one-half again. The amount of radioactive isotope or its decay rate after a given time can be calculated with:     In this formula, is the decay rate or amount of isotope at time , is the original rate or amount, is the elapsed time, and is the half-life of the isotope.  For example, if we begin with 17 mCi of radioactive material with a half-life of 8 days and 30 days pass, the calculation is mCi. Half-lives can range from seconds or minutes to thousands of years. Isotopes used clinically generally have short half-lives, on the order of days or weeks, because they decay quickly and can produce a useful radiation dose with less material.   Exercises:    After 5 half-lives, what fraction of the original radioactive material will remain?     How about after 7 half-lives?            After 4 half-lives, what percentage of the original radioactive material will remain? Round to 3 significant figures.           If 28.5 mg of radioactive material with a half-life of 17 days is allowed to decay for 8 days, how much will remain? Round to 3 significant figures.    20.6 mg       Bq of radioactive material is purchased. It has a half-life of 23 hours. After exactly 7 days, how much radioactive material will remain? Round to 2 significant figures.     Bq      A lab orders 16 mCi of radioactive material. After 8 days, 2.0 mCi remains. What is the half-life of the material? Round to the nearest tenth of a day.    2.7 days     "
 },
 {
   "id": "sec-nuclear6-2",
@@ -3301,7 +4282,52 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Introduction "
+  "body": "half-lives "
+},
+{
+  "id": "sec-nuclear6-7-2-2",
+  "level": "2",
+  "url": "sec-nuclear6.html#sec-nuclear6-7-2-2",
+  "type": "Exercise",
+  "number": "5.6.1",
+  "title": "",
+  "body": "  How about after 7 half-lives?        "
+},
+{
+  "id": "sec-nuclear6-7-3",
+  "level": "2",
+  "url": "sec-nuclear6.html#sec-nuclear6-7-3",
+  "type": "Exercise",
+  "number": "5.6.2",
+  "title": "",
+  "body": "  After 4 half-lives, what percentage of the original radioactive material will remain? Round to 3 significant figures.        "
+},
+{
+  "id": "sec-nuclear6-7-4",
+  "level": "2",
+  "url": "sec-nuclear6.html#sec-nuclear6-7-4",
+  "type": "Exercise",
+  "number": "5.6.3",
+  "title": "",
+  "body": "  If 28.5 mg of radioactive material with a half-life of 17 days is allowed to decay for 8 days, how much will remain? Round to 3 significant figures.    20.6 mg   "
+},
+{
+  "id": "sec-nuclear6-7-5",
+  "level": "2",
+  "url": "sec-nuclear6.html#sec-nuclear6-7-5",
+  "type": "Exercise",
+  "number": "5.6.4",
+  "title": "",
+  "body": "   Bq of radioactive material is purchased. It has a half-life of 23 hours. After exactly 7 days, how much radioactive material will remain? Round to 2 significant figures.     Bq   "
+},
+{
+  "id": "sec-nuclear6-7-6",
+  "level": "2",
+  "url": "sec-nuclear6.html#sec-nuclear6-7-6",
+  "type": "Exercise",
+  "number": "5.6.5",
+  "title": "",
+  "body": "  A lab orders 16 mCi of radioactive material. After 8 days, 2.0 mCi remains. What is the half-life of the material? Round to the nearest tenth of a day.    2.7 days   "
 },
 {
   "id": "sec-ioncompounds1",
@@ -4849,7 +5875,7 @@ var ptx_lunr_docs = [
   "type": "Appendix",
   "number": "A",
   "title": "Definitions",
-  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.         Analog: An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.         Digital: A digital device is one that displays a measurement using digits only.         Conversion factors: Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.       Chapter 3    Chapter 4       Atom: The smallest unit of an element.         Subatomic particles: Particles that make up an atom.         Electron: A negatively charged particle found in the electron cloud of an atom. They have mass, but their mass is often rounded to 0 amu.         Atomic mass units: Atomic mass units are units of mass that are used for very small masses like the mass of an atom.         Protons: Positively charged particles found in the nucleus of an atom. They have a mass of approximately 1 amu.         Nucleus: The small dense collection of protons and neutrons that is found at the center of an atom.         Neutron: An uncharged particle found in the nucleus of an atom. They have a mass of approximately 1 amu.         Atomic number: The number of protons in an atom.         Mass number: The sum of the number of protons and neutrons in an atom.         Isotopes: Atoms of an element that have different mass numbers.         Periods: Rows in the periodic table.         Groups: Columns in the periodic table. Elements in the same group usually have similar chemical and physical properties.         Atomic mass: The weighted average of the masses of the isotopes found in nature. The weighting is based on the natural abundance of each isotope.         Weighted average: A way of averaging that takes into account how frequently a value occurs in the sampling.         Electron shells: Energy levels that can be occupied by electrons within an atom.         Orbitals: Regions of an atom where there is a high probability of finding an electron.      Chapter 5    Chapter 6    Chapter 7    Chapter 8    Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
+  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.         Analog: An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.         Digital: A digital device is one that displays a measurement using digits only.         Conversion factors: Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.       Chapter 3    Chapter 4       Atom: The smallest unit of an element.         Subatomic particles: Particles that make up an atom.         Electron: A negatively charged particle found in the electron cloud of an atom. They have mass, but their mass is often rounded to 0 amu.         Atomic mass units: Atomic mass units are units of mass that are used for very small masses like the mass of an atom.         Protons: Positively charged particles found in the nucleus of an atom. They have a mass of approximately 1 amu.         Nucleus: The small dense collection of protons and neutrons that is found at the center of an atom.         Neutron: An uncharged particle found in the nucleus of an atom. They have a mass of approximately 1 amu.         Atomic number: The number of protons in an atom.         Mass number: The sum of the number of protons and neutrons in an atom.         Isotopes: Atoms of an element that have different mass numbers.         Periods: Rows in the periodic table.         Groups: Columns in the periodic table. Elements in the same group usually have similar chemical and physical properties.         Atomic mass: The weighted average of the masses of the isotopes found in nature. The weighting is based on the natural abundance of each isotope.         Weighted average: A way of averaging that takes into account how frequently a value occurs in the sampling.         Electron shells: Energy levels that can be occupied by electrons within an atom.         Orbitals: Regions of an atom where there is a high probability of finding an electron.         Valence electrons: Electrons that are in the outermost (or highest energy) electron shell of an atom.      Chapter 5    Chapter 6    Chapter 7    Chapter 8    Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
 },
 {
   "id": "backmatter-2-2",
@@ -5038,7 +6064,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 5 "
+  "body": "Valence electrons: "
 },
 {
   "id": "backmatter-2-23",
@@ -5047,7 +6073,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 6 "
+  "body": "Chapter 5 "
 },
 {
   "id": "backmatter-2-24",
@@ -5056,7 +6082,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 7 "
+  "body": "Chapter 6 "
 },
 {
   "id": "backmatter-2-25",
@@ -5065,7 +6091,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 8 "
+  "body": "Chapter 7 "
 },
 {
   "id": "backmatter-2-26",
@@ -5074,12 +6100,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 9 "
+  "body": "Chapter 8 "
 },
 {
   "id": "backmatter-2-27",
   "level": "2",
   "url": "backmatter-2.html#backmatter-2-27",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 9 "
+},
+{
+  "id": "backmatter-2-28",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-28",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
