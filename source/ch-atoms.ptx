@@ -9,8 +9,8 @@
     <xi:include href="sec-atoms4.ptx" />
     <xi:include href="sec-atoms5.ptx" />
     <xi:include href="sec-atoms6.ptx" />
-     <xi:include href="sec-atoms7.ptx" />
-    <xi:include href="sec-atoms8.ptx" />
+     <xi:include href="sec-ato-ms7.ptx" />
+    <xi:include href="sec-ato-ms8.ptx" />
 
 
 </chapter>
