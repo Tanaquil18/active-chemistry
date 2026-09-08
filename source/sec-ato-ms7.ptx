@@ -5,9 +5,9 @@
 
     <title>Electron Configurations and Valence Electrons</title>
 
-<p>Now that we know where we can put electrons in an atom, we can start to fill these orbitals with the number of electrons that an atom has. In general the order that we fill will proceed from the lowest shell number to the highest because lower shell numbers have lower energy than higher shell numbers. Nature prefers lower energy states to higher states.</p>
-<p>
-In general, lower numbered shells tend to have lower energies and thus get filled before higher numbered shells. Within each shell the orbitals get filled in the following order due to increasing energy:
+    <p>Now that we know where we can put electrons in an atom, we can start to fill these orbitals with the number of electrons that an atom has. In general the order that we fill will proceed from the lowest shell number to the highest because lower shell numbers have lower energy than higher shell numbers. Nature prefers lower energy states to higher states.</p>
+    <p>
+    In general, lower numbered shells tend to have lower energies and thus get filled before higher numbered shells. Within each shell the orbitals get filled in the following order due to increasing energy:
 <m>s</m>
 ,
 <m>p</m>
@@ -16,15 +16,15 @@ In general, lower numbered shells tend to have lower energies and thus get fille
 , and finally
 <m>f</m>
 . Once we get to the third shell and higher, this trend starts to fall apart somewhat. The orbitals within shells start to have energy levels that overlap with the energies of orbitals in other shells, so the order that they get filled gets more complex. For example, within the third shell the order is
-<m>3s<3p<3d</m>
+<m>3s \lt 3p \lt 3d</m>
 and within the fourth shell
-<m>4s<4p<4d<4f</m>
+<m>4s \lt 4p \lt 4d \lt 4f</m>
 ; however, the
 <m>4s</m>
 is actually lower in energy than the
 <m>3d</m>
 , so the combined order is
-<m>3s<3p<4s<3d<4p</m>
+<m>3s \lt 3p \lt 4s \lt 3d \lt 4p</m>
 . Thankfully there are two easy ways for us to remember the filling order of orbitals.
 </p>
 <figure xml:id="fig-orbital-filling-order">
