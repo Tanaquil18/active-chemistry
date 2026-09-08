@@ -33,7 +33,7 @@
 
     <figure xml:id="fig-orbital-filling-order">
         <caption>Orbital Filling Order Using Diagonal Lines</caption>
-        <image source="images/orbital-filling-order-diagram.svg">
+        <image source="assets/orbital-filling-order-diagram.svg">
             <shortdescription>
                 A boxed three-step diagram listing orbitals by shell and drawing
                 diagonal arrows through them to show the filling order.
@@ -81,7 +81,7 @@
 
     <figure xml:id="fig-periodic-table-orbital-blocks">
         <caption>Periodic Table Orbital Blocks and Shell Numbers</caption>
-        <image source="images/periodic-table-orbital-blocks.svg">
+        <image source="assets/periodic-table-orbital-blocks.svg">
             <shortdescription>
                 A simplified periodic table divided into s, p, d, and f blocks.
                 Labels indicate that s and p orbitals being filled have the same

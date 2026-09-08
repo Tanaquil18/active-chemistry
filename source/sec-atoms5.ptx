@@ -48,7 +48,7 @@
 
 	<figure xml:id="fig-electron-shell-ionization-energy">
 		<caption>Electron Removal Energies and Electron Shells</caption>
-		<image source="images/electron-shell-ionization-energy-diagram.svg">
+		<image source="assets/electron-shell-ionization-energy-diagram.svg">
 			<shortdescription>
 				A graph of energy required to remove an electron versus electrons removed.
 				The plotted electrons form distinct groups at different energy levels,
