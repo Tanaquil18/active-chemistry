@@ -639,6 +639,51 @@
     </p>
 
     <p>
+      <definition xml:id="def-atomic-mass">
+        <statement>
+          <p>
+            <term>Atomic mass:</term> The weighted average of the masses of the
+            isotopes found in nature.
+            The weighting is based on the natural abundance of each isotope.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-weighted-average">
+        <statement>
+          <p>
+            <term>Weighted average:</term> A way of averaging that takes into
+            account how frequently a value occurs in the sampling.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-electron-shells">
+        <statement>
+          <p>
+            <term>Electron shells:</term> Energy levels that can be occupied by
+            electrons within an atom.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-orbitals">
+        <statement>
+          <p>
+            <term>Orbitals:</term> Regions of an atom where there is a high
+            probability of finding an electron.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
       <term>Chapter 5</term>
     </p>
 
