@@ -50,320 +50,320 @@
 					Valence electrons and stable electron configurations.
 				</p>
 			</introduction>
-
-			<exercise xml:id="ch4l3-ex2-1">
-				<statement>
+			<exercisegroup>
+				<introduction>
 					<p>
 						How many valence electrons do the following elements have?
 					</p>
+				</introduction>
 
-					<ol label="a.">
-						<li>
-							<p>
-								Mg
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Mg
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								H
-							</p>
-						</li>
+					<answer>
+						<p>
+							2
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								S
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							H
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								Br
-							</p>
-						</li>
+					<answer>
+						<p>
+							1
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								Xe
-							</p>
-						</li>
-					</ol>
-				</statement>
+				<exercise>
+					<statement>
+						<p>
+							S
+						</p>
+					</statement>
 
-				<answer>
-					<ol label="a.">
-						<li>
-							<p>
-								2
-							</p>
-						</li>
+					<answer>
+						<p>
+							6
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								1
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Br
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								6
-							</p>
-						</li>
+					<answer>
+						<p>
+							7
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								7
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Xe
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								8
-							</p>
-						</li>
-					</ol>
-				</answer>
-			</exercise>
-
-			<exercise xml:id="ch4l3-ex2-2">
-				<statement>
+					<answer>
+						<p>
+							8
+						</p>
+					</answer>
+				</exercise>
+			</exercisegroup>
+			<exercisegroup>
+				<introduction>
 					<p>
 						The noble gases are in group 8A.
 						The noble gases are known for being very stable; it is extremely difficult
 						to make them react with anything else.
 					</p>
+				</introduction>
 
-					<ol label="a.">
-						<li>
-							<p>
-								How many valence electrons do the noble gases have, with the exception
-								of helium?
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							How many valence electrons do the noble gases have, with the exception of
+							helium?
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								This number of valence electrons is therefore particularly __________
-								(stable/unstable).
-							</p>
-						</li>
-					</ol>
-				</statement>
+					<answer>
+						<p>
+							8
+						</p>
+					</answer>
+				</exercise>
 
-				<answer>
-					<ol label="a.">
-						<li>
-							<p>
-								8
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							This number of valence electrons is therefore particularly __________
+							(stable/unstable).
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								Stable
-							</p>
-						</li>
-					</ol>
-				</answer>
-			</exercise>
-
-			<exercise xml:id="ch4l3-ex2-3">
-				<statement>
+					<answer>
+						<p>
+							Stable
+						</p>
+					</answer>
+				</exercise>
+			</exercisegroup>
+			<exercisegroup>
+				<introduction>
 					<p>
 						The alkali metals are in group 1.
 						They react violently when placed into water.
 					</p>
+				</introduction>
 
-					<ol label="a.">
-						<li>
+				<exercise>
+					<statement>
+						<p>
+							How many valence electrons do they have?
+						</p>
+					</statement>
+
+					<answer>
+						<p>
+							1
+						</p>
+					</answer>
+				</exercise>
+
+				<exercise>
+					<statement>
+						<p>
+							Is this number of electrons stable or unstable?
+						</p>
+					</statement>
+
+					<answer>
+						<p>
+							Unstable
+						</p>
+					</answer>
+				</exercise>
+				<exercisegroup>
+					<introduction>
+						<p>
+							If sodium loses one electron:
+						</p>
+					</introduction>
+
+					<exercise>
+						<statement>
 							<p>
-								How many valence electrons do they have?
+								What would its electron configuration be?
 							</p>
-						</li>
+						</statement>
 
-						<li>
+						<answer>
 							<p>
-								Is this number of electrons stable or unstable?
+								<m>[Ne]</m> or <m>1s^2 2s^2 2p^6</m>
 							</p>
-						</li>
+						</answer>
+					</exercise>
 
-						<li>
+					<exercise>
+						<statement>
 							<p>
-								If sodium loses one electron:
+								How many valence electrons would it now have?
 							</p>
+						</statement>
 
-							<ol label="i.">
-								<li>
-									<p>
-										What would its electron configuration be?
-									</p>
-								</li>
-
-								<li>
-									<p>
-										How many valence electrons would it now have?
-									</p>
-								</li>
-
-								<li>
-									<p>
-										Would you expect it to be more stable or less stable?
-									</p>
-								</li>
-
-								<li>
-									<p>
-										What would the charge be on the new sodium ion?
-									</p>
-								</li>
-							</ol>
-						</li>
-					</ol>
-				</statement>
-
-				<answer>
-					<ol label="a.">
-						<li>
+						<answer>
 							<p>
-								1
+								8
 							</p>
-						</li>
+						</answer>
+					</exercise>
 
-						<li>
+					<exercise>
+						<statement>
 							<p>
-								Unstable
+								Would you expect it to be more stable or less stable?
 							</p>
-						</li>
+						</statement>
 
-						<li>
-							<ol label="i.">
-								<li>
-									<p>
-										<m>[Ne]</m> or <m>1s^2 2s^2 2p^6</m>
-									</p>
-								</li>
+						<answer>
+							<p>
+								More stable
+							</p>
+						</answer>
+					</exercise>
 
-								<li>
-									<p>
-										8
-									</p>
-								</li>
+					<exercise>
+						<statement>
+							<p>
+								What would the charge be on the new sodium ion?
+							</p>
+						</statement>
 
-								<li>
-									<p>
-										More stable
-									</p>
-								</li>
-
-								<li>
-									<p>
-										<m>+1</m>
-									</p>
-								</li>
-							</ol>
-						</li>
-					</ol>
-				</answer>
-			</exercise>
-
-			<exercise xml:id="ch4l3-ex2-4">
-				<statement>
+						<answer>
+							<p>
+								<m>+1</m>
+							</p>
+						</answer>
+					</exercise>
+				</exercisegroup>
+			</exercisegroup>
+			<exercisegroup>
+				<introduction>
 					<p>
 						The halogens are in group 7A.
 						They react violently with many compounds, especially metals.
 					</p>
+				</introduction>
 
-					<ol label="a.">
-						<li>
+				<exercise>
+					<statement>
+						<p>
+							How many valence electrons do they have?
+						</p>
+					</statement>
+
+					<answer>
+						<p>
+							7
+						</p>
+					</answer>
+				</exercise>
+
+				<exercise>
+					<statement>
+						<p>
+							Is this number of electrons stable or unstable?
+						</p>
+					</statement>
+
+					<answer>
+						<p>
+							Unstable
+						</p>
+					</answer>
+				</exercise>
+				<exercisegroup>
+					<introduction>
+						<p>
+							If chlorine gains one electron:
+						</p>
+					</introduction>
+
+					<exercise>
+						<statement>
 							<p>
-								How many valence electrons do they have?
+								What would its electron configuration be?
 							</p>
-						</li>
+						</statement>
 
-						<li>
+						<answer>
 							<p>
-								Is this number of electrons stable or unstable?
+								<m>[Ar]</m> or <m>[Ne]3s^2 3p^6</m>
 							</p>
-						</li>
+						</answer>
+					</exercise>
 
-						<li>
+					<exercise>
+						<statement>
 							<p>
-								If chlorine gains one electron:
+								How many valence electrons would it now have?
 							</p>
+						</statement>
 
-							<ol label="i.">
-								<li>
-									<p>
-										What would its electron configuration be?
-									</p>
-								</li>
-
-								<li>
-									<p>
-										How many valence electrons would it now have?
-									</p>
-								</li>
-
-								<li>
-									<p>
-										Would you expect it to be more stable or less stable?
-									</p>
-								</li>
-
-								<li>
-									<p>
-										What would the charge be on the new chlorine ion?
-									</p>
-								</li>
-							</ol>
-						</li>
-					</ol>
-				</statement>
-
-				<answer>
-					<ol label="a.">
-						<li>
+						<answer>
 							<p>
-								7
+								8
 							</p>
-						</li>
+						</answer>
+					</exercise>
 
-						<li>
+					<exercise>
+						<statement>
 							<p>
-								Unstable
+								Would you expect it to be more stable or less stable?
 							</p>
-						</li>
+						</statement>
 
-						<li>
-							<ol label="i.">
-								<li>
-									<p>
-										<m>[Ar]</m> or <m>[Ne]3s^2 3p^6</m>
-									</p>
-								</li>
+						<answer>
+							<p>
+								More stable
+							</p>
+						</answer>
+					</exercise>
 
-								<li>
-									<p>
-										8
-									</p>
-								</li>
+					<exercise>
+						<statement>
+							<p>
+								What would the charge be on the new chlorine ion?
+							</p>
+						</statement>
 
-								<li>
-									<p>
-										More stable
-									</p>
-								</li>
-
-								<li>
-									<p>
-										<m>-1</m>
-									</p>
-								</li>
-							</ol>
-						</li>
-					</ol>
-				</answer>
-			</exercise>
+						<answer>
+							<p>
+								<m>-1</m>
+							</p>
+						</answer>
+					</exercise>
+				</exercisegroup>
+			</exercisegroup>
 		</exercisegroup>
 	</exercises>
 </section>

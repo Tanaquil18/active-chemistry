@@ -86,82 +86,85 @@
 					</p>
 				</answer>
 			</exercise>
-
-			<exercise>
-				<statement>
+			<exercisegroup>
+				<introduction>
 					<p>
 						If an atom had 17 protons, 17 electrons, and 10 neutrons:
 					</p>
+				</introduction>
 
-					<ol marker="a.">
-						<li>
-							<p>
-								What would the mass of the atom be?
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							What would the mass of the atom be?
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								How many positively charged particles are in the atom?
-							</p>
-						</li>
+					<answer>
+						<p>
+							<m>27</m>
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								How many negatively charged particles are in the atom?
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							How many positively charged particles are in the atom?
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								What is the sum of the positive and negative charges in the atom (i.e.
-								what is the net charge of the atom)?
-							</p>
-						</li>
+					<answer>
+						<p>
+							<m>17</m>
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								Answer a-d for an atom with 35 protons, 34 electrons and 36 neutrons.
-							</p>
-						</li>
-					</ol>
-				</statement>
+				<exercise>
+					<statement>
+						<p>
+							How many negatively charged particles are in the atom?
+						</p>
+					</statement>
 
-				<answer>
-					<ol marker="a.">
-						<li>
-							<p>
-								<m>27</m>
-							</p>
-						</li>
+					<answer>
+						<p>
+							<m>17</m>
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								<m>17</m>
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							What is the sum of the positive and negative charges in the atom (i.e.
+							what is the net charge of the atom)?
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								<m>17</m>
-							</p>
-						</li>
+					<answer>
+						<p>
+							<m>0</m> ( <m>17+(-17)</m> )
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								<m>0</m> ( <m>17+(-17)</m> )
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Answer a-d for an atom with 35 protons, 34 electrons and 36 neutrons.
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								Mass = <m>71</m>, 35 positive charges, 34 negative charges, <m>+1</m>
-								charge.
-							</p>
-						</li>
-					</ol>
-				</answer>
-			</exercise>
+					<answer>
+						<p>
+							Mass = <m>71</m>, 35 positive charges, 34 negative charges, <m>+1</m>
+							charge.
+						</p>
+					</answer>
+				</exercise>
+			</exercisegroup>
 
 			<exercise>
 				<statement>

@@ -71,384 +71,396 @@
 		<title>Exercise 3: Periodic Table of Elements</title>
 
 		<exercisegroup>
-			<exercise>
-				<statement>
+			<exercisegroup>
+				<introduction>
 					<p>
 						What element is in:
 					</p>
+				</introduction>
 
-					<ol marker="a.">
-						<li>
-							<p>
-								group 2, period 3
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							group 2, period 3
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								group 4A, period 4
-							</p>
-						</li>
+					<answer>
+						<p>
+							Mg
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								group 15, period 5
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							group 4A, period 4
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								group 8A, period 2
-							</p>
-						</li>
-					</ol>
-				</statement>
+					<answer>
+						<p>
+							Ge
+						</p>
+					</answer>
+				</exercise>
 
-				<answer>
-					<ol marker="a.">
-						<li>
-							<p>
-								Mg
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							group 15, period 5
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								Ge
-							</p>
-						</li>
+					<answer>
+						<p>
+							Sb
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								Sb
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							group 8A, period 2
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								Ne
-							</p>
-						</li>
-					</ol>
-				</answer>
-			</exercise>
-
-			<exercise>
-				<statement>
+					<answer>
+						<p>
+							Ne
+						</p>
+					</answer>
+				</exercise>
+			</exercisegroup>
+			<exercisegroup>
+				<introduction>
 					<p>
 						What are the symbols for the following elements?
 						(you don’t need to have these memorized, but you should become familiar
 						with the element symbols on this list because of how frequently they come
 						up)
 					</p>
+				</introduction>
 
-					<ol marker="a.">
-						<li>
-							<p>
-								Carbon
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Carbon
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								Nitrogen
-							</p>
-						</li>
+					<answer>
+						<p>
+							C
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								Oxygen
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Nitrogen
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								Hydrogen
-							</p>
-						</li>
+					<answer>
+						<p>
+							N
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								Sodium
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Oxygen
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								Potassium
-							</p>
-						</li>
+					<answer>
+						<p>
+							O
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								Phosphorous
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Hydrogen
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								Copper
-							</p>
-						</li>
+					<answer>
+						<p>
+							H
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								Chlorine
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Sodium
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								Iodine
-							</p>
-						</li>
+					<answer>
+						<p>
+							Na
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								Magnesium
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Potassium
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								Manganese (note the similar names of K and L)
-							</p>
-						</li>
-					</ol>
-				</statement>
+					<answer>
+						<p>
+							K
+						</p>
+					</answer>
+				</exercise>
 
-				<answer>
-					<ol marker="a.">
-						<li>
-							<p>
-								C
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Phosphorous
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								N
-							</p>
-						</li>
+					<answer>
+						<p>
+							P
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								O
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Copper
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								H
-							</p>
-						</li>
+					<answer>
+						<p>
+							Cu
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								Na
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Chlorine
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								K
-							</p>
-						</li>
+					<answer>
+						<p>
+							Cl
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								P
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Iodine
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								Cu
-							</p>
-						</li>
+					<answer>
+						<p>
+							I
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								Cl
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Magnesium
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								I
-							</p>
-						</li>
+					<answer>
+						<p>
+							Mg
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								Mg
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Manganese (note the similar names of K and L)
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								Mn
-							</p>
-						</li>
-					</ol>
-				</answer>
-			</exercise>
-
-			<exercise>
-				<statement>
+					<answer>
+						<p>
+							Mn
+						</p>
+					</answer>
+				</exercise>
+			</exercisegroup>
+			<exercisegroup>
+				<introduction>
 					<p>
 						Name 3 elements that you’d expect to have similar properties to:
 					</p>
+				</introduction>
 
-					<ol marker="a.">
-						<li>
-							<p>
-								Fluorine
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Fluorine
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								Neon
-							</p>
-						</li>
+					<answer>
+						<p>
+							Cl, Br, I, At
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								Sodium
-							</p>
-						</li>
-					</ol>
-				</statement>
+				<exercise>
+					<statement>
+						<p>
+							Neon
+						</p>
+					</statement>
 
-				<answer>
-					<ol marker="a.">
-						<li>
-							<p>
-								Cl, Br, I, At
-							</p>
-						</li>
+					<answer>
+						<p>
+							He, Xe, Ar, Kr, Rn
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								He, Xe, Ar, Kr, Rn
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Sodium
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								Li, K, Cs, Rb, Fr (H is okay…but hydrogen is “weird”)
-							</p>
-						</li>
-					</ol>
-				</answer>
-			</exercise>
-
-			<exercise>
-				<statement>
+					<answer>
+						<p>
+							Li, K, Cs, Rb, Fr (H is okay…but hydrogen is “weird”)
+						</p>
+					</answer>
+				</exercise>
+			</exercisegroup>
+			<exercisegroup>
+				<introduction>
 					<p>
 						What is the atomic number of sodium?
 					</p>
+				</introduction>
 
-					<ol marker="a.">
-						<li>
-							<p>
-								How many protons does sodium have?
-							</p>
-						</li>
-					</ol>
-				</statement>
+				<exercise>
+					<statement>
+						<p>
+							How many protons does sodium have?
+						</p>
+					</statement>
 
-				<answer>
-					<p>
-						<m>11</m>.
-					</p>
-
-					<ol marker="a.">
-						<li>
-							<p>
-								<m>11</m>.
-							</p>
-						</li>
-					</ol>
-				</answer>
-			</exercise>
-
-			<exercise>
-				<statement>
+					<answer>
+						<p>
+							<m>11</m>.
+						</p>
+					</answer>
+				</exercise>
+			</exercisegroup>
+			<exercisegroup>
+				<introduction>
 					<p>
 						How many protons, neutrons and electrons are in:
 					</p>
+				</introduction>
 
-					<ol marker="a.">
-						<li>
-							<p>
-								Chlorine-35
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							Chlorine-35
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								<m>^{121}\mathrm{I}</m>
-							</p>
-						</li>
+					<answer>
+						<p>
+							17 p, 18 n, 17 e
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								<m>^{57}\mathrm{Fe}^{3+}</m> (the <m>3+</m> written as a superscript
-								after the element symbol indicates the charge of <m>+3</m> )
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							<m>^{121}\mathrm{I}</m>
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								<m>^{16}\mathrm{O}^{2-}</m>
-							</p>
-						</li>
+					<answer>
+						<p>
+							53 p, 68 n, 53 e
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								<m>{}_{2}^{4}\mathrm{He}^{2+}</m> (this atom is called an alpha
-								particle; it’s a form of radiation that you’ll learn about in Chapter 5)
-							</p>
-						</li>
-					</ol>
-				</statement>
+				<exercise>
+					<statement>
+						<p>
+							<m>^{57}\mathrm{Fe}^{3+}</m> (the <m>3+</m> written as a superscript
+							after the element symbol indicates the charge of <m>+3</m> )
+						</p>
+					</statement>
 
-				<answer>
-					<ol marker="a.">
-						<li>
-							<p>
-								17 p, 18 n, 17 e
-							</p>
-						</li>
+					<answer>
+						<p>
+							26 p, 31 n, 23 e
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								53 p, 68 n, 53 e
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							<m>^{16}\mathrm{O}^{2-}</m>
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								26 p, 31 n, 23 e
-							</p>
-						</li>
+					<answer>
+						<p>
+							8 p, 8 n, 10 e
+						</p>
+					</answer>
+				</exercise>
 
-						<li>
-							<p>
-								8 p, 8 n, 10 e
-							</p>
-						</li>
+				<exercise>
+					<statement>
+						<p>
+							<m>{}_{2}^{4}\mathrm{He}^{2+}</m> (this atom is called an alpha particle;
+							it’s a form of radiation that you’ll learn about in Chapter 5)
+						</p>
+					</statement>
 
-						<li>
-							<p>
-								2 p, 2 n, 0 e
-							</p>
-						</li>
-					</ol>
-				</answer>
-			</exercise>
+					<answer>
+						<p>
+							2 p, 2 n, 0 e
+						</p>
+					</answer>
+				</exercise>
+			</exercisegroup>
 
 			<exercise>
 				<statement>
